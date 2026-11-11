@@ -1,0 +1,902 @@
+[
+  {
+    "program_id": "PRG-000001",
+    "name": "B.S. in Computer Science (Spec #1)",
+    "level": "Undergraduate",
+    "department": "Computer Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000002",
+    "name": "B.S. in Data Science (Spec #2)",
+    "level": "Undergraduate",
+    "department": "Data Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000003",
+    "name": "M.S. in Electrical Engineering (Spec #3)",
+    "level": "Graduate",
+    "department": "Electrical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000004",
+    "name": "B.S. in Mathematics (Spec #4)",
+    "level": "Undergraduate",
+    "department": "Mathematics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000005",
+    "name": "B.S. in Business Analytics (Spec #5)",
+    "level": "Undergraduate",
+    "department": "Business Analytics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000006",
+    "name": "M.S. in Information Systems (Spec #6)",
+    "level": "Graduate",
+    "department": "Information Systems",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000007",
+    "name": "B.S. in Economics (Spec #7)",
+    "level": "Undergraduate",
+    "department": "Economics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000008",
+    "name": "B.S. in Mechanical Engineering (Spec #8)",
+    "level": "Undergraduate",
+    "department": "Mechanical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000009",
+    "name": "M.S. in Computer Science (Spec #9)",
+    "level": "Graduate",
+    "department": "Computer Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000010",
+    "name": "B.S. in Data Science (Spec #10)",
+    "level": "Undergraduate",
+    "department": "Data Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000011",
+    "name": "B.S. in Electrical Engineering (Spec #11)",
+    "level": "Undergraduate",
+    "department": "Electrical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000012",
+    "name": "M.S. in Mathematics (Spec #12)",
+    "level": "Graduate",
+    "department": "Mathematics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000013",
+    "name": "B.S. in Business Analytics (Spec #13)",
+    "level": "Undergraduate",
+    "department": "Business Analytics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000014",
+    "name": "B.S. in Information Systems (Spec #14)",
+    "level": "Undergraduate",
+    "department": "Information Systems",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000015",
+    "name": "M.S. in Economics (Spec #15)",
+    "level": "Graduate",
+    "department": "Economics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000016",
+    "name": "B.S. in Mechanical Engineering (Spec #16)",
+    "level": "Undergraduate",
+    "department": "Mechanical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000017",
+    "name": "B.S. in Computer Science (Spec #17)",
+    "level": "Undergraduate",
+    "department": "Computer Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000018",
+    "name": "M.S. in Data Science (Spec #18)",
+    "level": "Graduate",
+    "department": "Data Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000019",
+    "name": "B.S. in Electrical Engineering (Spec #19)",
+    "level": "Undergraduate",
+    "department": "Electrical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000020",
+    "name": "B.S. in Mathematics (Spec #20)",
+    "level": "Undergraduate",
+    "department": "Mathematics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000021",
+    "name": "M.S. in Business Analytics (Spec #21)",
+    "level": "Graduate",
+    "department": "Business Analytics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000022",
+    "name": "B.S. in Information Systems (Spec #22)",
+    "level": "Undergraduate",
+    "department": "Information Systems",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000023",
+    "name": "B.S. in Economics (Spec #23)",
+    "level": "Undergraduate",
+    "department": "Economics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000024",
+    "name": "M.S. in Mechanical Engineering (Spec #24)",
+    "level": "Graduate",
+    "department": "Mechanical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000025",
+    "name": "B.S. in Computer Science (Spec #25)",
+    "level": "Undergraduate",
+    "department": "Computer Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000026",
+    "name": "B.S. in Data Science (Spec #26)",
+    "level": "Undergraduate",
+    "department": "Data Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000027",
+    "name": "M.S. in Electrical Engineering (Spec #27)",
+    "level": "Graduate",
+    "department": "Electrical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000028",
+    "name": "B.S. in Mathematics (Spec #28)",
+    "level": "Undergraduate",
+    "department": "Mathematics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000029",
+    "name": "B.S. in Business Analytics (Spec #29)",
+    "level": "Undergraduate",
+    "department": "Business Analytics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000030",
+    "name": "M.S. in Information Systems (Spec #30)",
+    "level": "Graduate",
+    "department": "Information Systems",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000031",
+    "name": "B.S. in Economics (Spec #31)",
+    "level": "Undergraduate",
+    "department": "Economics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000032",
+    "name": "B.S. in Mechanical Engineering (Spec #32)",
+    "level": "Undergraduate",
+    "department": "Mechanical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000033",
+    "name": "M.S. in Computer Science (Spec #33)",
+    "level": "Graduate",
+    "department": "Computer Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000034",
+    "name": "B.S. in Data Science (Spec #34)",
+    "level": "Undergraduate",
+    "department": "Data Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000035",
+    "name": "B.S. in Electrical Engineering (Spec #35)",
+    "level": "Undergraduate",
+    "department": "Electrical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000036",
+    "name": "M.S. in Mathematics (Spec #36)",
+    "level": "Graduate",
+    "department": "Mathematics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000037",
+    "name": "B.S. in Business Analytics (Spec #37)",
+    "level": "Undergraduate",
+    "department": "Business Analytics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000038",
+    "name": "B.S. in Information Systems (Spec #38)",
+    "level": "Undergraduate",
+    "department": "Information Systems",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000039",
+    "name": "M.S. in Economics (Spec #39)",
+    "level": "Graduate",
+    "department": "Economics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000040",
+    "name": "B.S. in Mechanical Engineering (Spec #40)",
+    "level": "Undergraduate",
+    "department": "Mechanical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000041",
+    "name": "B.S. in Computer Science (Spec #41)",
+    "level": "Undergraduate",
+    "department": "Computer Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000042",
+    "name": "M.S. in Data Science (Spec #42)",
+    "level": "Graduate",
+    "department": "Data Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000043",
+    "name": "B.S. in Electrical Engineering (Spec #43)",
+    "level": "Undergraduate",
+    "department": "Electrical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000044",
+    "name": "B.S. in Mathematics (Spec #44)",
+    "level": "Undergraduate",
+    "department": "Mathematics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000045",
+    "name": "M.S. in Business Analytics (Spec #45)",
+    "level": "Graduate",
+    "department": "Business Analytics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000046",
+    "name": "B.S. in Information Systems (Spec #46)",
+    "level": "Undergraduate",
+    "department": "Information Systems",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000047",
+    "name": "B.S. in Economics (Spec #47)",
+    "level": "Undergraduate",
+    "department": "Economics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000048",
+    "name": "M.S. in Mechanical Engineering (Spec #48)",
+    "level": "Graduate",
+    "department": "Mechanical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000049",
+    "name": "B.S. in Computer Science (Spec #49)",
+    "level": "Undergraduate",
+    "department": "Computer Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000050",
+    "name": "B.S. in Data Science (Spec #50)",
+    "level": "Undergraduate",
+    "department": "Data Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000051",
+    "name": "M.S. in Electrical Engineering (Spec #51)",
+    "level": "Graduate",
+    "department": "Electrical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000052",
+    "name": "B.S. in Mathematics (Spec #52)",
+    "level": "Undergraduate",
+    "department": "Mathematics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000053",
+    "name": "B.S. in Business Analytics (Spec #53)",
+    "level": "Undergraduate",
+    "department": "Business Analytics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000054",
+    "name": "M.S. in Information Systems (Spec #54)",
+    "level": "Graduate",
+    "department": "Information Systems",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000055",
+    "name": "B.S. in Economics (Spec #55)",
+    "level": "Undergraduate",
+    "department": "Economics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000056",
+    "name": "B.S. in Mechanical Engineering (Spec #56)",
+    "level": "Undergraduate",
+    "department": "Mechanical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000057",
+    "name": "M.S. in Computer Science (Spec #57)",
+    "level": "Graduate",
+    "department": "Computer Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000058",
+    "name": "B.S. in Data Science (Spec #58)",
+    "level": "Undergraduate",
+    "department": "Data Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000059",
+    "name": "B.S. in Electrical Engineering (Spec #59)",
+    "level": "Undergraduate",
+    "department": "Electrical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000060",
+    "name": "M.S. in Mathematics (Spec #60)",
+    "level": "Graduate",
+    "department": "Mathematics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000061",
+    "name": "B.S. in Business Analytics (Spec #61)",
+    "level": "Undergraduate",
+    "department": "Business Analytics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000062",
+    "name": "B.S. in Information Systems (Spec #62)",
+    "level": "Undergraduate",
+    "department": "Information Systems",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000063",
+    "name": "M.S. in Economics (Spec #63)",
+    "level": "Graduate",
+    "department": "Economics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000064",
+    "name": "B.S. in Mechanical Engineering (Spec #64)",
+    "level": "Undergraduate",
+    "department": "Mechanical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000065",
+    "name": "B.S. in Computer Science (Spec #65)",
+    "level": "Undergraduate",
+    "department": "Computer Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000066",
+    "name": "M.S. in Data Science (Spec #66)",
+    "level": "Graduate",
+    "department": "Data Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000067",
+    "name": "B.S. in Electrical Engineering (Spec #67)",
+    "level": "Undergraduate",
+    "department": "Electrical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000068",
+    "name": "B.S. in Mathematics (Spec #68)",
+    "level": "Undergraduate",
+    "department": "Mathematics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000069",
+    "name": "M.S. in Business Analytics (Spec #69)",
+    "level": "Graduate",
+    "department": "Business Analytics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000070",
+    "name": "B.S. in Information Systems (Spec #70)",
+    "level": "Undergraduate",
+    "department": "Information Systems",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000071",
+    "name": "B.S. in Economics (Spec #71)",
+    "level": "Undergraduate",
+    "department": "Economics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000072",
+    "name": "M.S. in Mechanical Engineering (Spec #72)",
+    "level": "Graduate",
+    "department": "Mechanical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000073",
+    "name": "B.S. in Computer Science (Spec #73)",
+    "level": "Undergraduate",
+    "department": "Computer Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000074",
+    "name": "B.S. in Data Science (Spec #74)",
+    "level": "Undergraduate",
+    "department": "Data Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000075",
+    "name": "M.S. in Electrical Engineering (Spec #75)",
+    "level": "Graduate",
+    "department": "Electrical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000076",
+    "name": "B.S. in Mathematics (Spec #76)",
+    "level": "Undergraduate",
+    "department": "Mathematics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000077",
+    "name": "B.S. in Business Analytics (Spec #77)",
+    "level": "Undergraduate",
+    "department": "Business Analytics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000078",
+    "name": "M.S. in Information Systems (Spec #78)",
+    "level": "Graduate",
+    "department": "Information Systems",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000079",
+    "name": "B.S. in Economics (Spec #79)",
+    "level": "Undergraduate",
+    "department": "Economics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000080",
+    "name": "B.S. in Mechanical Engineering (Spec #80)",
+    "level": "Undergraduate",
+    "department": "Mechanical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000081",
+    "name": "M.S. in Computer Science (Spec #81)",
+    "level": "Graduate",
+    "department": "Computer Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000082",
+    "name": "B.S. in Data Science (Spec #82)",
+    "level": "Undergraduate",
+    "department": "Data Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000083",
+    "name": "B.S. in Electrical Engineering (Spec #83)",
+    "level": "Undergraduate",
+    "department": "Electrical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000084",
+    "name": "M.S. in Mathematics (Spec #84)",
+    "level": "Graduate",
+    "department": "Mathematics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000085",
+    "name": "B.S. in Business Analytics (Spec #85)",
+    "level": "Undergraduate",
+    "department": "Business Analytics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000086",
+    "name": "B.S. in Information Systems (Spec #86)",
+    "level": "Undergraduate",
+    "department": "Information Systems",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000087",
+    "name": "M.S. in Economics (Spec #87)",
+    "level": "Graduate",
+    "department": "Economics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000088",
+    "name": "B.S. in Mechanical Engineering (Spec #88)",
+    "level": "Undergraduate",
+    "department": "Mechanical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000089",
+    "name": "B.S. in Computer Science (Spec #89)",
+    "level": "Undergraduate",
+    "department": "Computer Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000090",
+    "name": "M.S. in Data Science (Spec #90)",
+    "level": "Graduate",
+    "department": "Data Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000091",
+    "name": "B.S. in Electrical Engineering (Spec #91)",
+    "level": "Undergraduate",
+    "department": "Electrical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000092",
+    "name": "B.S. in Mathematics (Spec #92)",
+    "level": "Undergraduate",
+    "department": "Mathematics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000093",
+    "name": "M.S. in Business Analytics (Spec #93)",
+    "level": "Graduate",
+    "department": "Business Analytics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000094",
+    "name": "B.S. in Information Systems (Spec #94)",
+    "level": "Undergraduate",
+    "department": "Information Systems",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000095",
+    "name": "B.S. in Economics (Spec #95)",
+    "level": "Undergraduate",
+    "department": "Economics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000096",
+    "name": "M.S. in Mechanical Engineering (Spec #96)",
+    "level": "Graduate",
+    "department": "Mechanical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000097",
+    "name": "B.S. in Computer Science (Spec #97)",
+    "level": "Undergraduate",
+    "department": "Computer Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000098",
+    "name": "B.S. in Data Science (Spec #98)",
+    "level": "Undergraduate",
+    "department": "Data Science",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000099",
+    "name": "M.S. in Electrical Engineering (Spec #99)",
+    "level": "Graduate",
+    "department": "Electrical Engineering",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "program_id": "PRG-000100",
+    "name": "B.S. in Mathematics (Spec #100)",
+    "level": "Undergraduate",
+    "department": "Mathematics",
+    "status": "active",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  }
+]

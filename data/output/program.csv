@@ -1,0 +1,101 @@
+program_id,name,level,department,status,effective_from,effective_to
+PRG-000001,B.S. in Computer Science (Spec #1),Undergraduate,Computer Science,active,2020-01-01,2030-12-31
+PRG-000002,B.S. in Data Science (Spec #2),Undergraduate,Data Science,active,2020-01-01,2030-12-31
+PRG-000003,M.S. in Electrical Engineering (Spec #3),Graduate,Electrical Engineering,active,2020-01-01,2030-12-31
+PRG-000004,B.S. in Mathematics (Spec #4),Undergraduate,Mathematics,active,2020-01-01,2030-12-31
+PRG-000005,B.S. in Business Analytics (Spec #5),Undergraduate,Business Analytics,active,2020-01-01,2030-12-31
+PRG-000006,M.S. in Information Systems (Spec #6),Graduate,Information Systems,active,2020-01-01,2030-12-31
+PRG-000007,B.S. in Economics (Spec #7),Undergraduate,Economics,active,2020-01-01,2030-12-31
+PRG-000008,B.S. in Mechanical Engineering (Spec #8),Undergraduate,Mechanical Engineering,active,2020-01-01,2030-12-31
+PRG-000009,M.S. in Computer Science (Spec #9),Graduate,Computer Science,active,2020-01-01,2030-12-31
+PRG-000010,B.S. in Data Science (Spec #10),Undergraduate,Data Science,active,2020-01-01,2030-12-31
+PRG-000011,B.S. in Electrical Engineering (Spec #11),Undergraduate,Electrical Engineering,active,2020-01-01,2030-12-31
+PRG-000012,M.S. in Mathematics (Spec #12),Graduate,Mathematics,active,2020-01-01,2030-12-31
+PRG-000013,B.S. in Business Analytics (Spec #13),Undergraduate,Business Analytics,active,2020-01-01,2030-12-31
+PRG-000014,B.S. in Information Systems (Spec #14),Undergraduate,Information Systems,active,2020-01-01,2030-12-31
+PRG-000015,M.S. in Economics (Spec #15),Graduate,Economics,active,2020-01-01,2030-12-31
+PRG-000016,B.S. in Mechanical Engineering (Spec #16),Undergraduate,Mechanical Engineering,active,2020-01-01,2030-12-31
+PRG-000017,B.S. in Computer Science (Spec #17),Undergraduate,Computer Science,active,2020-01-01,2030-12-31
+PRG-000018,M.S. in Data Science (Spec #18),Graduate,Data Science,active,2020-01-01,2030-12-31
+PRG-000019,B.S. in Electrical Engineering (Spec #19),Undergraduate,Electrical Engineering,active,2020-01-01,2030-12-31
+PRG-000020,B.S. in Mathematics (Spec #20),Undergraduate,Mathematics,active,2020-01-01,2030-12-31
+PRG-000021,M.S. in Business Analytics (Spec #21),Graduate,Business Analytics,active,2020-01-01,2030-12-31
+PRG-000022,B.S. in Information Systems (Spec #22),Undergraduate,Information Systems,active,2020-01-01,2030-12-31
+PRG-000023,B.S. in Economics (Spec #23),Undergraduate,Economics,active,2020-01-01,2030-12-31
+PRG-000024,M.S. in Mechanical Engineering (Spec #24),Graduate,Mechanical Engineering,active,2020-01-01,2030-12-31
+PRG-000025,B.S. in Computer Science (Spec #25),Undergraduate,Computer Science,active,2020-01-01,2030-12-31
+PRG-000026,B.S. in Data Science (Spec #26),Undergraduate,Data Science,active,2020-01-01,2030-12-31
+PRG-000027,M.S. in Electrical Engineering (Spec #27),Graduate,Electrical Engineering,active,2020-01-01,2030-12-31
+PRG-000028,B.S. in Mathematics (Spec #28),Undergraduate,Mathematics,active,2020-01-01,2030-12-31
+PRG-000029,B.S. in Business Analytics (Spec #29),Undergraduate,Business Analytics,active,2020-01-01,2030-12-31
+PRG-000030,M.S. in Information Systems (Spec #30),Graduate,Information Systems,active,2020-01-01,2030-12-31
+PRG-000031,B.S. in Economics (Spec #31),Undergraduate,Economics,active,2020-01-01,2030-12-31
+PRG-000032,B.S. in Mechanical Engineering (Spec #32),Undergraduate,Mechanical Engineering,active,2020-01-01,2030-12-31
+PRG-000033,M.S. in Computer Science (Spec #33),Graduate,Computer Science,active,2020-01-01,2030-12-31
+PRG-000034,B.S. in Data Science (Spec #34),Undergraduate,Data Science,active,2020-01-01,2030-12-31
+PRG-000035,B.S. in Electrical Engineering (Spec #35),Undergraduate,Electrical Engineering,active,2020-01-01,2030-12-31
+PRG-000036,M.S. in Mathematics (Spec #36),Graduate,Mathematics,active,2020-01-01,2030-12-31
+PRG-000037,B.S. in Business Analytics (Spec #37),Undergraduate,Business Analytics,active,2020-01-01,2030-12-31
+PRG-000038,B.S. in Information Systems (Spec #38),Undergraduate,Information Systems,active,2020-01-01,2030-12-31
+PRG-000039,M.S. in Economics (Spec #39),Graduate,Economics,active,2020-01-01,2030-12-31
+PRG-000040,B.S. in Mechanical Engineering (Spec #40),Undergraduate,Mechanical Engineering,active,2020-01-01,2030-12-31
+PRG-000041,B.S. in Computer Science (Spec #41),Undergraduate,Computer Science,active,2020-01-01,2030-12-31
+PRG-000042,M.S. in Data Science (Spec #42),Graduate,Data Science,active,2020-01-01,2030-12-31
+PRG-000043,B.S. in Electrical Engineering (Spec #43),Undergraduate,Electrical Engineering,active,2020-01-01,2030-12-31
+PRG-000044,B.S. in Mathematics (Spec #44),Undergraduate,Mathematics,active,2020-01-01,2030-12-31
+PRG-000045,M.S. in Business Analytics (Spec #45),Graduate,Business Analytics,active,2020-01-01,2030-12-31
+PRG-000046,B.S. in Information Systems (Spec #46),Undergraduate,Information Systems,active,2020-01-01,2030-12-31
+PRG-000047,B.S. in Economics (Spec #47),Undergraduate,Economics,active,2020-01-01,2030-12-31
+PRG-000048,M.S. in Mechanical Engineering (Spec #48),Graduate,Mechanical Engineering,active,2020-01-01,2030-12-31
+PRG-000049,B.S. in Computer Science (Spec #49),Undergraduate,Computer Science,active,2020-01-01,2030-12-31
+PRG-000050,B.S. in Data Science (Spec #50),Undergraduate,Data Science,active,2020-01-01,2030-12-31
+PRG-000051,M.S. in Electrical Engineering (Spec #51),Graduate,Electrical Engineering,active,2020-01-01,2030-12-31
+PRG-000052,B.S. in Mathematics (Spec #52),Undergraduate,Mathematics,active,2020-01-01,2030-12-31
+PRG-000053,B.S. in Business Analytics (Spec #53),Undergraduate,Business Analytics,active,2020-01-01,2030-12-31
+PRG-000054,M.S. in Information Systems (Spec #54),Graduate,Information Systems,active,2020-01-01,2030-12-31
+PRG-000055,B.S. in Economics (Spec #55),Undergraduate,Economics,active,2020-01-01,2030-12-31
+PRG-000056,B.S. in Mechanical Engineering (Spec #56),Undergraduate,Mechanical Engineering,active,2020-01-01,2030-12-31
+PRG-000057,M.S. in Computer Science (Spec #57),Graduate,Computer Science,active,2020-01-01,2030-12-31
+PRG-000058,B.S. in Data Science (Spec #58),Undergraduate,Data Science,active,2020-01-01,2030-12-31
+PRG-000059,B.S. in Electrical Engineering (Spec #59),Undergraduate,Electrical Engineering,active,2020-01-01,2030-12-31
+PRG-000060,M.S. in Mathematics (Spec #60),Graduate,Mathematics,active,2020-01-01,2030-12-31
+PRG-000061,B.S. in Business Analytics (Spec #61),Undergraduate,Business Analytics,active,2020-01-01,2030-12-31
+PRG-000062,B.S. in Information Systems (Spec #62),Undergraduate,Information Systems,active,2020-01-01,2030-12-31
+PRG-000063,M.S. in Economics (Spec #63),Graduate,Economics,active,2020-01-01,2030-12-31
+PRG-000064,B.S. in Mechanical Engineering (Spec #64),Undergraduate,Mechanical Engineering,active,2020-01-01,2030-12-31
+PRG-000065,B.S. in Computer Science (Spec #65),Undergraduate,Computer Science,active,2020-01-01,2030-12-31
+PRG-000066,M.S. in Data Science (Spec #66),Graduate,Data Science,active,2020-01-01,2030-12-31
+PRG-000067,B.S. in Electrical Engineering (Spec #67),Undergraduate,Electrical Engineering,active,2020-01-01,2030-12-31
+PRG-000068,B.S. in Mathematics (Spec #68),Undergraduate,Mathematics,active,2020-01-01,2030-12-31
+PRG-000069,M.S. in Business Analytics (Spec #69),Graduate,Business Analytics,active,2020-01-01,2030-12-31
+PRG-000070,B.S. in Information Systems (Spec #70),Undergraduate,Information Systems,active,2020-01-01,2030-12-31
+PRG-000071,B.S. in Economics (Spec #71),Undergraduate,Economics,active,2020-01-01,2030-12-31
+PRG-000072,M.S. in Mechanical Engineering (Spec #72),Graduate,Mechanical Engineering,active,2020-01-01,2030-12-31
+PRG-000073,B.S. in Computer Science (Spec #73),Undergraduate,Computer Science,active,2020-01-01,2030-12-31
+PRG-000074,B.S. in Data Science (Spec #74),Undergraduate,Data Science,active,2020-01-01,2030-12-31
+PRG-000075,M.S. in Electrical Engineering (Spec #75),Graduate,Electrical Engineering,active,2020-01-01,2030-12-31
+PRG-000076,B.S. in Mathematics (Spec #76),Undergraduate,Mathematics,active,2020-01-01,2030-12-31
+PRG-000077,B.S. in Business Analytics (Spec #77),Undergraduate,Business Analytics,active,2020-01-01,2030-12-31
+PRG-000078,M.S. in Information Systems (Spec #78),Graduate,Information Systems,active,2020-01-01,2030-12-31
+PRG-000079,B.S. in Economics (Spec #79),Undergraduate,Economics,active,2020-01-01,2030-12-31
+PRG-000080,B.S. in Mechanical Engineering (Spec #80),Undergraduate,Mechanical Engineering,active,2020-01-01,2030-12-31
+PRG-000081,M.S. in Computer Science (Spec #81),Graduate,Computer Science,active,2020-01-01,2030-12-31
+PRG-000082,B.S. in Data Science (Spec #82),Undergraduate,Data Science,active,2020-01-01,2030-12-31
+PRG-000083,B.S. in Electrical Engineering (Spec #83),Undergraduate,Electrical Engineering,active,2020-01-01,2030-12-31
+PRG-000084,M.S. in Mathematics (Spec #84),Graduate,Mathematics,active,2020-01-01,2030-12-31
+PRG-000085,B.S. in Business Analytics (Spec #85),Undergraduate,Business Analytics,active,2020-01-01,2030-12-31
+PRG-000086,B.S. in Information Systems (Spec #86),Undergraduate,Information Systems,active,2020-01-01,2030-12-31
+PRG-000087,M.S. in Economics (Spec #87),Graduate,Economics,active,2020-01-01,2030-12-31
+PRG-000088,B.S. in Mechanical Engineering (Spec #88),Undergraduate,Mechanical Engineering,active,2020-01-01,2030-12-31
+PRG-000089,B.S. in Computer Science (Spec #89),Undergraduate,Computer Science,active,2020-01-01,2030-12-31
+PRG-000090,M.S. in Data Science (Spec #90),Graduate,Data Science,active,2020-01-01,2030-12-31
+PRG-000091,B.S. in Electrical Engineering (Spec #91),Undergraduate,Electrical Engineering,active,2020-01-01,2030-12-31
+PRG-000092,B.S. in Mathematics (Spec #92),Undergraduate,Mathematics,active,2020-01-01,2030-12-31
+PRG-000093,M.S. in Business Analytics (Spec #93),Graduate,Business Analytics,active,2020-01-01,2030-12-31
+PRG-000094,B.S. in Information Systems (Spec #94),Undergraduate,Information Systems,active,2020-01-01,2030-12-31
+PRG-000095,B.S. in Economics (Spec #95),Undergraduate,Economics,active,2020-01-01,2030-12-31
+PRG-000096,M.S. in Mechanical Engineering (Spec #96),Graduate,Mechanical Engineering,active,2020-01-01,2030-12-31
+PRG-000097,B.S. in Computer Science (Spec #97),Undergraduate,Computer Science,active,2020-01-01,2030-12-31
+PRG-000098,B.S. in Data Science (Spec #98),Undergraduate,Data Science,active,2020-01-01,2030-12-31
+PRG-000099,M.S. in Electrical Engineering (Spec #99),Graduate,Electrical Engineering,active,2020-01-01,2030-12-31
+PRG-000100,B.S. in Mathematics (Spec #100),Undergraduate,Mathematics,active,2020-01-01,2030-12-31

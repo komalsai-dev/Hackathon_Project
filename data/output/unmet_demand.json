@@ -1,0 +1,7002 @@
+[
+  {
+    "unmet_id": "UMD-2026-000001",
+    "course_id": "CRS-000001",
+    "term": "2026-FA",
+    "unmet_count": 5996,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000002",
+    "course_id": "CRS-000002",
+    "term": "2026-FA",
+    "unmet_count": 5900,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000003",
+    "course_id": "CRS-000003",
+    "term": "2026-FA",
+    "unmet_count": 5905,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000004",
+    "course_id": "CRS-000004",
+    "term": "2026-FA",
+    "unmet_count": 1366,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000005",
+    "course_id": "CRS-000005",
+    "term": "2026-FA",
+    "unmet_count": 5879,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000006",
+    "course_id": "CRS-000006",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000007",
+    "course_id": "CRS-000007",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000008",
+    "course_id": "CRS-000008",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000009",
+    "course_id": "CRS-000009",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000010",
+    "course_id": "CRS-000010",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000011",
+    "course_id": "CRS-000011",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000012",
+    "course_id": "CRS-000012",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000013",
+    "course_id": "CRS-000013",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000014",
+    "course_id": "CRS-000014",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000015",
+    "course_id": "CRS-000015",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000016",
+    "course_id": "CRS-000016",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000017",
+    "course_id": "CRS-000017",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000018",
+    "course_id": "CRS-000018",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000019",
+    "course_id": "CRS-000019",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000020",
+    "course_id": "CRS-000020",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000021",
+    "course_id": "CRS-000021",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000022",
+    "course_id": "CRS-000022",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000023",
+    "course_id": "CRS-000023",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000024",
+    "course_id": "CRS-000024",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000025",
+    "course_id": "CRS-000025",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000026",
+    "course_id": "CRS-000026",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000027",
+    "course_id": "CRS-000027",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000028",
+    "course_id": "CRS-000028",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000029",
+    "course_id": "CRS-000029",
+    "term": "2026-FA",
+    "unmet_count": 68,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000030",
+    "course_id": "CRS-000030",
+    "term": "2026-FA",
+    "unmet_count": 28,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000031",
+    "course_id": "CRS-000031",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000032",
+    "course_id": "CRS-000032",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000033",
+    "course_id": "CRS-000033",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000034",
+    "course_id": "CRS-000034",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000035",
+    "course_id": "CRS-000035",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000036",
+    "course_id": "CRS-000036",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000037",
+    "course_id": "CRS-000037",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000038",
+    "course_id": "CRS-000038",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000039",
+    "course_id": "CRS-000039",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000040",
+    "course_id": "CRS-000040",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000041",
+    "course_id": "CRS-000041",
+    "term": "2026-FA",
+    "unmet_count": 65,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000042",
+    "course_id": "CRS-000042",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000043",
+    "course_id": "CRS-000043",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000044",
+    "course_id": "CRS-000044",
+    "term": "2026-FA",
+    "unmet_count": 55,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000045",
+    "course_id": "CRS-000045",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000046",
+    "course_id": "CRS-000046",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000047",
+    "course_id": "CRS-000047",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000048",
+    "course_id": "CRS-000048",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000049",
+    "course_id": "CRS-000049",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000050",
+    "course_id": "CRS-000050",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000051",
+    "course_id": "CRS-000051",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000052",
+    "course_id": "CRS-000052",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000053",
+    "course_id": "CRS-000053",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000054",
+    "course_id": "CRS-000054",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000055",
+    "course_id": "CRS-000055",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000056",
+    "course_id": "CRS-000056",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000057",
+    "course_id": "CRS-000057",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000058",
+    "course_id": "CRS-000058",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000059",
+    "course_id": "CRS-000059",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000060",
+    "course_id": "CRS-000060",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000061",
+    "course_id": "CRS-000061",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000062",
+    "course_id": "CRS-000062",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000063",
+    "course_id": "CRS-000063",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000064",
+    "course_id": "CRS-000064",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000065",
+    "course_id": "CRS-000065",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000066",
+    "course_id": "CRS-000066",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000067",
+    "course_id": "CRS-000067",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000068",
+    "course_id": "CRS-000068",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000069",
+    "course_id": "CRS-000069",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000070",
+    "course_id": "CRS-000070",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000071",
+    "course_id": "CRS-000071",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000072",
+    "course_id": "CRS-000072",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000073",
+    "course_id": "CRS-000073",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000074",
+    "course_id": "CRS-000074",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000075",
+    "course_id": "CRS-000075",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000076",
+    "course_id": "CRS-000076",
+    "term": "2026-FA",
+    "unmet_count": 26,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000077",
+    "course_id": "CRS-000077",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000078",
+    "course_id": "CRS-000078",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000079",
+    "course_id": "CRS-000079",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000080",
+    "course_id": "CRS-000080",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000081",
+    "course_id": "CRS-000081",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000082",
+    "course_id": "CRS-000082",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000083",
+    "course_id": "CRS-000083",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000084",
+    "course_id": "CRS-000084",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000085",
+    "course_id": "CRS-000085",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000086",
+    "course_id": "CRS-000086",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000087",
+    "course_id": "CRS-000087",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000088",
+    "course_id": "CRS-000088",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000089",
+    "course_id": "CRS-000089",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000090",
+    "course_id": "CRS-000090",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000091",
+    "course_id": "CRS-000091",
+    "term": "2026-FA",
+    "unmet_count": 28,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000092",
+    "course_id": "CRS-000092",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000093",
+    "course_id": "CRS-000093",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000094",
+    "course_id": "CRS-000094",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000095",
+    "course_id": "CRS-000095",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000096",
+    "course_id": "CRS-000096",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000097",
+    "course_id": "CRS-000097",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000098",
+    "course_id": "CRS-000098",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000099",
+    "course_id": "CRS-000099",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000100",
+    "course_id": "CRS-000100",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000101",
+    "course_id": "CRS-000101",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000102",
+    "course_id": "CRS-000102",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000103",
+    "course_id": "CRS-000103",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000104",
+    "course_id": "CRS-000104",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000105",
+    "course_id": "CRS-000105",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000106",
+    "course_id": "CRS-000106",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000107",
+    "course_id": "CRS-000107",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000108",
+    "course_id": "CRS-000108",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000109",
+    "course_id": "CRS-000109",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000110",
+    "course_id": "CRS-000110",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000111",
+    "course_id": "CRS-000111",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000112",
+    "course_id": "CRS-000112",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000113",
+    "course_id": "CRS-000113",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000114",
+    "course_id": "CRS-000114",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000115",
+    "course_id": "CRS-000115",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000116",
+    "course_id": "CRS-000116",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000117",
+    "course_id": "CRS-000117",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000118",
+    "course_id": "CRS-000118",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000119",
+    "course_id": "CRS-000119",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000120",
+    "course_id": "CRS-000120",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000121",
+    "course_id": "CRS-000121",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000122",
+    "course_id": "CRS-000122",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000123",
+    "course_id": "CRS-000123",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000124",
+    "course_id": "CRS-000124",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000125",
+    "course_id": "CRS-000125",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000126",
+    "course_id": "CRS-000126",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000127",
+    "course_id": "CRS-000127",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000128",
+    "course_id": "CRS-000128",
+    "term": "2026-FA",
+    "unmet_count": 29,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000129",
+    "course_id": "CRS-000129",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000130",
+    "course_id": "CRS-000130",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000131",
+    "course_id": "CRS-000131",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000132",
+    "course_id": "CRS-000132",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000133",
+    "course_id": "CRS-000133",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000134",
+    "course_id": "CRS-000134",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000135",
+    "course_id": "CRS-000135",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000136",
+    "course_id": "CRS-000136",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000137",
+    "course_id": "CRS-000137",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000138",
+    "course_id": "CRS-000138",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000139",
+    "course_id": "CRS-000139",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000140",
+    "course_id": "CRS-000140",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000141",
+    "course_id": "CRS-000141",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000142",
+    "course_id": "CRS-000142",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000143",
+    "course_id": "CRS-000143",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000144",
+    "course_id": "CRS-000144",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000145",
+    "course_id": "CRS-000145",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000146",
+    "course_id": "CRS-000146",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000147",
+    "course_id": "CRS-000147",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000148",
+    "course_id": "CRS-000148",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000149",
+    "course_id": "CRS-000149",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000150",
+    "course_id": "CRS-000150",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000151",
+    "course_id": "CRS-000151",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000152",
+    "course_id": "CRS-000152",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000153",
+    "course_id": "CRS-000153",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000154",
+    "course_id": "CRS-000154",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000155",
+    "course_id": "CRS-000155",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000156",
+    "course_id": "CRS-000156",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000157",
+    "course_id": "CRS-000157",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000158",
+    "course_id": "CRS-000158",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000159",
+    "course_id": "CRS-000159",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000160",
+    "course_id": "CRS-000160",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000161",
+    "course_id": "CRS-000161",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000162",
+    "course_id": "CRS-000162",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000163",
+    "course_id": "CRS-000163",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000164",
+    "course_id": "CRS-000164",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000165",
+    "course_id": "CRS-000165",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000166",
+    "course_id": "CRS-000166",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000167",
+    "course_id": "CRS-000167",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000168",
+    "course_id": "CRS-000168",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000169",
+    "course_id": "CRS-000169",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000170",
+    "course_id": "CRS-000170",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000171",
+    "course_id": "CRS-000171",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000172",
+    "course_id": "CRS-000172",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000173",
+    "course_id": "CRS-000173",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000174",
+    "course_id": "CRS-000174",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000175",
+    "course_id": "CRS-000175",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000176",
+    "course_id": "CRS-000176",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000177",
+    "course_id": "CRS-000177",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000178",
+    "course_id": "CRS-000178",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000179",
+    "course_id": "CRS-000179",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000180",
+    "course_id": "CRS-000180",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000181",
+    "course_id": "CRS-000181",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000182",
+    "course_id": "CRS-000182",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000183",
+    "course_id": "CRS-000183",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000184",
+    "course_id": "CRS-000184",
+    "term": "2026-FA",
+    "unmet_count": 42,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000185",
+    "course_id": "CRS-000185",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000186",
+    "course_id": "CRS-000186",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000187",
+    "course_id": "CRS-000187",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000188",
+    "course_id": "CRS-000188",
+    "term": "2026-FA",
+    "unmet_count": 76,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000189",
+    "course_id": "CRS-000189",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000190",
+    "course_id": "CRS-000190",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000191",
+    "course_id": "CRS-000191",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000192",
+    "course_id": "CRS-000192",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000193",
+    "course_id": "CRS-000193",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000194",
+    "course_id": "CRS-000194",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000195",
+    "course_id": "CRS-000195",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000196",
+    "course_id": "CRS-000196",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000197",
+    "course_id": "CRS-000197",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000198",
+    "course_id": "CRS-000198",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000199",
+    "course_id": "CRS-000199",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000200",
+    "course_id": "CRS-000200",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000201",
+    "course_id": "CRS-000201",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000202",
+    "course_id": "CRS-000202",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000203",
+    "course_id": "CRS-000203",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000204",
+    "course_id": "CRS-000204",
+    "term": "2026-FA",
+    "unmet_count": 41,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000205",
+    "course_id": "CRS-000205",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000206",
+    "course_id": "CRS-000206",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000207",
+    "course_id": "CRS-000207",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000208",
+    "course_id": "CRS-000208",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000209",
+    "course_id": "CRS-000209",
+    "term": "2026-FA",
+    "unmet_count": 86,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000210",
+    "course_id": "CRS-000210",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000211",
+    "course_id": "CRS-000211",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000212",
+    "course_id": "CRS-000212",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000213",
+    "course_id": "CRS-000213",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000214",
+    "course_id": "CRS-000214",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000215",
+    "course_id": "CRS-000215",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000216",
+    "course_id": "CRS-000216",
+    "term": "2026-FA",
+    "unmet_count": 25,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000217",
+    "course_id": "CRS-000217",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000218",
+    "course_id": "CRS-000218",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000219",
+    "course_id": "CRS-000219",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000220",
+    "course_id": "CRS-000220",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000221",
+    "course_id": "CRS-000221",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000222",
+    "course_id": "CRS-000222",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000223",
+    "course_id": "CRS-000223",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000224",
+    "course_id": "CRS-000224",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000225",
+    "course_id": "CRS-000225",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000226",
+    "course_id": "CRS-000226",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000227",
+    "course_id": "CRS-000227",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000228",
+    "course_id": "CRS-000228",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000229",
+    "course_id": "CRS-000229",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000230",
+    "course_id": "CRS-000230",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000231",
+    "course_id": "CRS-000231",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000232",
+    "course_id": "CRS-000232",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000233",
+    "course_id": "CRS-000233",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000234",
+    "course_id": "CRS-000234",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000235",
+    "course_id": "CRS-000235",
+    "term": "2026-FA",
+    "unmet_count": 53,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000236",
+    "course_id": "CRS-000236",
+    "term": "2026-FA",
+    "unmet_count": 91,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000237",
+    "course_id": "CRS-000237",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000238",
+    "course_id": "CRS-000238",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000239",
+    "course_id": "CRS-000239",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000240",
+    "course_id": "CRS-000240",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000241",
+    "course_id": "CRS-000241",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000242",
+    "course_id": "CRS-000242",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000243",
+    "course_id": "CRS-000243",
+    "term": "2026-FA",
+    "unmet_count": 73,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000244",
+    "course_id": "CRS-000244",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000245",
+    "course_id": "CRS-000245",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000246",
+    "course_id": "CRS-000246",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000247",
+    "course_id": "CRS-000247",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000248",
+    "course_id": "CRS-000248",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000249",
+    "course_id": "CRS-000249",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000250",
+    "course_id": "CRS-000250",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000251",
+    "course_id": "CRS-000251",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000252",
+    "course_id": "CRS-000252",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000253",
+    "course_id": "CRS-000253",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000254",
+    "course_id": "CRS-000254",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000255",
+    "course_id": "CRS-000255",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000256",
+    "course_id": "CRS-000256",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000257",
+    "course_id": "CRS-000257",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000258",
+    "course_id": "CRS-000258",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000259",
+    "course_id": "CRS-000259",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000260",
+    "course_id": "CRS-000260",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000261",
+    "course_id": "CRS-000261",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000262",
+    "course_id": "CRS-000262",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000263",
+    "course_id": "CRS-000263",
+    "term": "2026-FA",
+    "unmet_count": 36,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000264",
+    "course_id": "CRS-000264",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000265",
+    "course_id": "CRS-000265",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000266",
+    "course_id": "CRS-000266",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000267",
+    "course_id": "CRS-000267",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000268",
+    "course_id": "CRS-000268",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000269",
+    "course_id": "CRS-000269",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000270",
+    "course_id": "CRS-000270",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000271",
+    "course_id": "CRS-000271",
+    "term": "2026-FA",
+    "unmet_count": 14,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000272",
+    "course_id": "CRS-000272",
+    "term": "2026-FA",
+    "unmet_count": 79,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000273",
+    "course_id": "CRS-000273",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000274",
+    "course_id": "CRS-000274",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000275",
+    "course_id": "CRS-000275",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000276",
+    "course_id": "CRS-000276",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000277",
+    "course_id": "CRS-000277",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000278",
+    "course_id": "CRS-000278",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000279",
+    "course_id": "CRS-000279",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000280",
+    "course_id": "CRS-000280",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000281",
+    "course_id": "CRS-000281",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000282",
+    "course_id": "CRS-000282",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000283",
+    "course_id": "CRS-000283",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000284",
+    "course_id": "CRS-000284",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000285",
+    "course_id": "CRS-000285",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000286",
+    "course_id": "CRS-000286",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000287",
+    "course_id": "CRS-000287",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000288",
+    "course_id": "CRS-000288",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000289",
+    "course_id": "CRS-000289",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000290",
+    "course_id": "CRS-000290",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000291",
+    "course_id": "CRS-000291",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000292",
+    "course_id": "CRS-000292",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000293",
+    "course_id": "CRS-000293",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000294",
+    "course_id": "CRS-000294",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000295",
+    "course_id": "CRS-000295",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000296",
+    "course_id": "CRS-000296",
+    "term": "2026-FA",
+    "unmet_count": 59,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000297",
+    "course_id": "CRS-000297",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000298",
+    "course_id": "CRS-000298",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000299",
+    "course_id": "CRS-000299",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000300",
+    "course_id": "CRS-000300",
+    "term": "2026-FA",
+    "unmet_count": 66,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000301",
+    "course_id": "CRS-000301",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000302",
+    "course_id": "CRS-000302",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000303",
+    "course_id": "CRS-000303",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000304",
+    "course_id": "CRS-000304",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000305",
+    "course_id": "CRS-000305",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000306",
+    "course_id": "CRS-000306",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000307",
+    "course_id": "CRS-000307",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000308",
+    "course_id": "CRS-000308",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000309",
+    "course_id": "CRS-000309",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000310",
+    "course_id": "CRS-000310",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000311",
+    "course_id": "CRS-000311",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000312",
+    "course_id": "CRS-000312",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000313",
+    "course_id": "CRS-000313",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000314",
+    "course_id": "CRS-000314",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000315",
+    "course_id": "CRS-000315",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000316",
+    "course_id": "CRS-000316",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000317",
+    "course_id": "CRS-000317",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000318",
+    "course_id": "CRS-000318",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000319",
+    "course_id": "CRS-000319",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000320",
+    "course_id": "CRS-000320",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000321",
+    "course_id": "CRS-000321",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000322",
+    "course_id": "CRS-000322",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000323",
+    "course_id": "CRS-000323",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000324",
+    "course_id": "CRS-000324",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000325",
+    "course_id": "CRS-000325",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000326",
+    "course_id": "CRS-000326",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000327",
+    "course_id": "CRS-000327",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000328",
+    "course_id": "CRS-000328",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000329",
+    "course_id": "CRS-000329",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000330",
+    "course_id": "CRS-000330",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000331",
+    "course_id": "CRS-000331",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000332",
+    "course_id": "CRS-000332",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000333",
+    "course_id": "CRS-000333",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000334",
+    "course_id": "CRS-000334",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000335",
+    "course_id": "CRS-000335",
+    "term": "2026-FA",
+    "unmet_count": 10,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000336",
+    "course_id": "CRS-000336",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000337",
+    "course_id": "CRS-000337",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000338",
+    "course_id": "CRS-000338",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000339",
+    "course_id": "CRS-000339",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000340",
+    "course_id": "CRS-000340",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000341",
+    "course_id": "CRS-000341",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000342",
+    "course_id": "CRS-000342",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000343",
+    "course_id": "CRS-000343",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000344",
+    "course_id": "CRS-000344",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000345",
+    "course_id": "CRS-000345",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000346",
+    "course_id": "CRS-000346",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000347",
+    "course_id": "CRS-000347",
+    "term": "2026-FA",
+    "unmet_count": 46,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000348",
+    "course_id": "CRS-000348",
+    "term": "2026-FA",
+    "unmet_count": 24,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000349",
+    "course_id": "CRS-000349",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000350",
+    "course_id": "CRS-000350",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000351",
+    "course_id": "CRS-000351",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000352",
+    "course_id": "CRS-000352",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000353",
+    "course_id": "CRS-000353",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000354",
+    "course_id": "CRS-000354",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000355",
+    "course_id": "CRS-000355",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000356",
+    "course_id": "CRS-000356",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000357",
+    "course_id": "CRS-000357",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000358",
+    "course_id": "CRS-000358",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000359",
+    "course_id": "CRS-000359",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000360",
+    "course_id": "CRS-000360",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000361",
+    "course_id": "CRS-000361",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000362",
+    "course_id": "CRS-000362",
+    "term": "2026-FA",
+    "unmet_count": 16,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000363",
+    "course_id": "CRS-000363",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000364",
+    "course_id": "CRS-000364",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000365",
+    "course_id": "CRS-000365",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000366",
+    "course_id": "CRS-000366",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000367",
+    "course_id": "CRS-000367",
+    "term": "2026-FA",
+    "unmet_count": 24,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000368",
+    "course_id": "CRS-000368",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000369",
+    "course_id": "CRS-000369",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000370",
+    "course_id": "CRS-000370",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000371",
+    "course_id": "CRS-000371",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000372",
+    "course_id": "CRS-000372",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000373",
+    "course_id": "CRS-000373",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000374",
+    "course_id": "CRS-000374",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000375",
+    "course_id": "CRS-000375",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000376",
+    "course_id": "CRS-000376",
+    "term": "2026-FA",
+    "unmet_count": 132,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000377",
+    "course_id": "CRS-000377",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000378",
+    "course_id": "CRS-000378",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000379",
+    "course_id": "CRS-000379",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000380",
+    "course_id": "CRS-000380",
+    "term": "2026-FA",
+    "unmet_count": 141,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000381",
+    "course_id": "CRS-000381",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000382",
+    "course_id": "CRS-000382",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000383",
+    "course_id": "CRS-000383",
+    "term": "2026-FA",
+    "unmet_count": 16,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000384",
+    "course_id": "CRS-000384",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000385",
+    "course_id": "CRS-000385",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000386",
+    "course_id": "CRS-000386",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000387",
+    "course_id": "CRS-000387",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000388",
+    "course_id": "CRS-000388",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000389",
+    "course_id": "CRS-000389",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000390",
+    "course_id": "CRS-000390",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000391",
+    "course_id": "CRS-000391",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000392",
+    "course_id": "CRS-000392",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000393",
+    "course_id": "CRS-000393",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000394",
+    "course_id": "CRS-000394",
+    "term": "2026-FA",
+    "unmet_count": 29,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000395",
+    "course_id": "CRS-000395",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000396",
+    "course_id": "CRS-000396",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000397",
+    "course_id": "CRS-000397",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000398",
+    "course_id": "CRS-000398",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000399",
+    "course_id": "CRS-000399",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000400",
+    "course_id": "CRS-000400",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000401",
+    "course_id": "CRS-000401",
+    "term": "2026-FA",
+    "unmet_count": 47,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000402",
+    "course_id": "CRS-000402",
+    "term": "2026-FA",
+    "unmet_count": 10,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000403",
+    "course_id": "CRS-000403",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000404",
+    "course_id": "CRS-000404",
+    "term": "2026-FA",
+    "unmet_count": 31,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000405",
+    "course_id": "CRS-000405",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000406",
+    "course_id": "CRS-000406",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000407",
+    "course_id": "CRS-000407",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000408",
+    "course_id": "CRS-000408",
+    "term": "2026-FA",
+    "unmet_count": 29,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000409",
+    "course_id": "CRS-000409",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000410",
+    "course_id": "CRS-000410",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000411",
+    "course_id": "CRS-000411",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000412",
+    "course_id": "CRS-000412",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000413",
+    "course_id": "CRS-000413",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000414",
+    "course_id": "CRS-000414",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000415",
+    "course_id": "CRS-000415",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000416",
+    "course_id": "CRS-000416",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000417",
+    "course_id": "CRS-000417",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000418",
+    "course_id": "CRS-000418",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000419",
+    "course_id": "CRS-000419",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000420",
+    "course_id": "CRS-000420",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000421",
+    "course_id": "CRS-000421",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000422",
+    "course_id": "CRS-000422",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000423",
+    "course_id": "CRS-000423",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000424",
+    "course_id": "CRS-000424",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000425",
+    "course_id": "CRS-000425",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000426",
+    "course_id": "CRS-000426",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000427",
+    "course_id": "CRS-000427",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000428",
+    "course_id": "CRS-000428",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000429",
+    "course_id": "CRS-000429",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000430",
+    "course_id": "CRS-000430",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000431",
+    "course_id": "CRS-000431",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000432",
+    "course_id": "CRS-000432",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000433",
+    "course_id": "CRS-000433",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000434",
+    "course_id": "CRS-000434",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000435",
+    "course_id": "CRS-000435",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000436",
+    "course_id": "CRS-000436",
+    "term": "2026-FA",
+    "unmet_count": 17,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000437",
+    "course_id": "CRS-000437",
+    "term": "2026-FA",
+    "unmet_count": 49,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000438",
+    "course_id": "CRS-000438",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000439",
+    "course_id": "CRS-000439",
+    "term": "2026-FA",
+    "unmet_count": 15,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000440",
+    "course_id": "CRS-000440",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000441",
+    "course_id": "CRS-000441",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000442",
+    "course_id": "CRS-000442",
+    "term": "2026-FA",
+    "unmet_count": 55,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000443",
+    "course_id": "CRS-000443",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000444",
+    "course_id": "CRS-000444",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000445",
+    "course_id": "CRS-000445",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000446",
+    "course_id": "CRS-000446",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000447",
+    "course_id": "CRS-000447",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000448",
+    "course_id": "CRS-000448",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000449",
+    "course_id": "CRS-000449",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000450",
+    "course_id": "CRS-000450",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000451",
+    "course_id": "CRS-000451",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000452",
+    "course_id": "CRS-000452",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000453",
+    "course_id": "CRS-000453",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000454",
+    "course_id": "CRS-000454",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000455",
+    "course_id": "CRS-000455",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000456",
+    "course_id": "CRS-000456",
+    "term": "2026-FA",
+    "unmet_count": 83,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000457",
+    "course_id": "CRS-000457",
+    "term": "2026-FA",
+    "unmet_count": 26,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000458",
+    "course_id": "CRS-000458",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000459",
+    "course_id": "CRS-000459",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000460",
+    "course_id": "CRS-000460",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000461",
+    "course_id": "CRS-000461",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000462",
+    "course_id": "CRS-000462",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000463",
+    "course_id": "CRS-000463",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000464",
+    "course_id": "CRS-000464",
+    "term": "2026-FA",
+    "unmet_count": 41,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000465",
+    "course_id": "CRS-000465",
+    "term": "2026-FA",
+    "unmet_count": 1,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000466",
+    "course_id": "CRS-000466",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000467",
+    "course_id": "CRS-000467",
+    "term": "2026-FA",
+    "unmet_count": 27,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000468",
+    "course_id": "CRS-000468",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000469",
+    "course_id": "CRS-000469",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000470",
+    "course_id": "CRS-000470",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000471",
+    "course_id": "CRS-000471",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000472",
+    "course_id": "CRS-000472",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000473",
+    "course_id": "CRS-000473",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000474",
+    "course_id": "CRS-000474",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000475",
+    "course_id": "CRS-000475",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000476",
+    "course_id": "CRS-000476",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000477",
+    "course_id": "CRS-000477",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000478",
+    "course_id": "CRS-000478",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000479",
+    "course_id": "CRS-000479",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000480",
+    "course_id": "CRS-000480",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000481",
+    "course_id": "CRS-000481",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000482",
+    "course_id": "CRS-000482",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000483",
+    "course_id": "CRS-000483",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000484",
+    "course_id": "CRS-000484",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000485",
+    "course_id": "CRS-000485",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000486",
+    "course_id": "CRS-000486",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000487",
+    "course_id": "CRS-000487",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000488",
+    "course_id": "CRS-000488",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000489",
+    "course_id": "CRS-000489",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000490",
+    "course_id": "CRS-000490",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000491",
+    "course_id": "CRS-000491",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000492",
+    "course_id": "CRS-000492",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000493",
+    "course_id": "CRS-000493",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000494",
+    "course_id": "CRS-000494",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000495",
+    "course_id": "CRS-000495",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000496",
+    "course_id": "CRS-000496",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000497",
+    "course_id": "CRS-000497",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000498",
+    "course_id": "CRS-000498",
+    "term": "2026-FA",
+    "unmet_count": 50,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000499",
+    "course_id": "CRS-000499",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000500",
+    "course_id": "CRS-000500",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000501",
+    "course_id": "CRS-000501",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000502",
+    "course_id": "CRS-000502",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000503",
+    "course_id": "CRS-000503",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000504",
+    "course_id": "CRS-000504",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000505",
+    "course_id": "CRS-000505",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000506",
+    "course_id": "CRS-000506",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000507",
+    "course_id": "CRS-000507",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000508",
+    "course_id": "CRS-000508",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000509",
+    "course_id": "CRS-000509",
+    "term": "2026-FA",
+    "unmet_count": 45,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000510",
+    "course_id": "CRS-000510",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000511",
+    "course_id": "CRS-000511",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000512",
+    "course_id": "CRS-000512",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000513",
+    "course_id": "CRS-000513",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000514",
+    "course_id": "CRS-000514",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000515",
+    "course_id": "CRS-000515",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000516",
+    "course_id": "CRS-000516",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000517",
+    "course_id": "CRS-000517",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000518",
+    "course_id": "CRS-000518",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000519",
+    "course_id": "CRS-000519",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000520",
+    "course_id": "CRS-000520",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000521",
+    "course_id": "CRS-000521",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000522",
+    "course_id": "CRS-000522",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000523",
+    "course_id": "CRS-000523",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000524",
+    "course_id": "CRS-000524",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000525",
+    "course_id": "CRS-000525",
+    "term": "2026-FA",
+    "unmet_count": 64,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000526",
+    "course_id": "CRS-000526",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000527",
+    "course_id": "CRS-000527",
+    "term": "2026-FA",
+    "unmet_count": 15,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000528",
+    "course_id": "CRS-000528",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000529",
+    "course_id": "CRS-000529",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000530",
+    "course_id": "CRS-000530",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000531",
+    "course_id": "CRS-000531",
+    "term": "2026-FA",
+    "unmet_count": 94,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000532",
+    "course_id": "CRS-000532",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000533",
+    "course_id": "CRS-000533",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000534",
+    "course_id": "CRS-000534",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000535",
+    "course_id": "CRS-000535",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000536",
+    "course_id": "CRS-000536",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000537",
+    "course_id": "CRS-000537",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000538",
+    "course_id": "CRS-000538",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000539",
+    "course_id": "CRS-000539",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000540",
+    "course_id": "CRS-000540",
+    "term": "2026-FA",
+    "unmet_count": 68,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000541",
+    "course_id": "CRS-000541",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000542",
+    "course_id": "CRS-000542",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000543",
+    "course_id": "CRS-000543",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000544",
+    "course_id": "CRS-000544",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000545",
+    "course_id": "CRS-000545",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000546",
+    "course_id": "CRS-000546",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000547",
+    "course_id": "CRS-000547",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000548",
+    "course_id": "CRS-000548",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000549",
+    "course_id": "CRS-000549",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000550",
+    "course_id": "CRS-000550",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000551",
+    "course_id": "CRS-000551",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000552",
+    "course_id": "CRS-000552",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000553",
+    "course_id": "CRS-000553",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000554",
+    "course_id": "CRS-000554",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000555",
+    "course_id": "CRS-000555",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000556",
+    "course_id": "CRS-000556",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000557",
+    "course_id": "CRS-000557",
+    "term": "2026-FA",
+    "unmet_count": 36,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000558",
+    "course_id": "CRS-000558",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000559",
+    "course_id": "CRS-000559",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000560",
+    "course_id": "CRS-000560",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000561",
+    "course_id": "CRS-000561",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000562",
+    "course_id": "CRS-000562",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000563",
+    "course_id": "CRS-000563",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000564",
+    "course_id": "CRS-000564",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000565",
+    "course_id": "CRS-000565",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000566",
+    "course_id": "CRS-000566",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000567",
+    "course_id": "CRS-000567",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000568",
+    "course_id": "CRS-000568",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000569",
+    "course_id": "CRS-000569",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000570",
+    "course_id": "CRS-000570",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000571",
+    "course_id": "CRS-000571",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000572",
+    "course_id": "CRS-000572",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000573",
+    "course_id": "CRS-000573",
+    "term": "2026-FA",
+    "unmet_count": 25,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000574",
+    "course_id": "CRS-000574",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000575",
+    "course_id": "CRS-000575",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000576",
+    "course_id": "CRS-000576",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000577",
+    "course_id": "CRS-000577",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000578",
+    "course_id": "CRS-000578",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000579",
+    "course_id": "CRS-000579",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000580",
+    "course_id": "CRS-000580",
+    "term": "2026-FA",
+    "unmet_count": 28,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000581",
+    "course_id": "CRS-000581",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000582",
+    "course_id": "CRS-000582",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000583",
+    "course_id": "CRS-000583",
+    "term": "2026-FA",
+    "unmet_count": 48,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000584",
+    "course_id": "CRS-000584",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000585",
+    "course_id": "CRS-000585",
+    "term": "2026-FA",
+    "unmet_count": 3,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000586",
+    "course_id": "CRS-000586",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000587",
+    "course_id": "CRS-000587",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000588",
+    "course_id": "CRS-000588",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000589",
+    "course_id": "CRS-000589",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000590",
+    "course_id": "CRS-000590",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000591",
+    "course_id": "CRS-000591",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000592",
+    "course_id": "CRS-000592",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000593",
+    "course_id": "CRS-000593",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000594",
+    "course_id": "CRS-000594",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000595",
+    "course_id": "CRS-000595",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000596",
+    "course_id": "CRS-000596",
+    "term": "2026-FA",
+    "unmet_count": 30,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000597",
+    "course_id": "CRS-000597",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000598",
+    "course_id": "CRS-000598",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000599",
+    "course_id": "CRS-000599",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000600",
+    "course_id": "CRS-000600",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000601",
+    "course_id": "CRS-000601",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000602",
+    "course_id": "CRS-000602",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000603",
+    "course_id": "CRS-000603",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000604",
+    "course_id": "CRS-000604",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000605",
+    "course_id": "CRS-000605",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000606",
+    "course_id": "CRS-000606",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000607",
+    "course_id": "CRS-000607",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000608",
+    "course_id": "CRS-000608",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000609",
+    "course_id": "CRS-000609",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000610",
+    "course_id": "CRS-000610",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000611",
+    "course_id": "CRS-000611",
+    "term": "2026-FA",
+    "unmet_count": 54,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000612",
+    "course_id": "CRS-000612",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000613",
+    "course_id": "CRS-000613",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000614",
+    "course_id": "CRS-000614",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000615",
+    "course_id": "CRS-000615",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000616",
+    "course_id": "CRS-000616",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000617",
+    "course_id": "CRS-000617",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000618",
+    "course_id": "CRS-000618",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000619",
+    "course_id": "CRS-000619",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000620",
+    "course_id": "CRS-000620",
+    "term": "2026-FA",
+    "unmet_count": 10,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000621",
+    "course_id": "CRS-000621",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000622",
+    "course_id": "CRS-000622",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000623",
+    "course_id": "CRS-000623",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000624",
+    "course_id": "CRS-000624",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000625",
+    "course_id": "CRS-000625",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000626",
+    "course_id": "CRS-000626",
+    "term": "2026-FA",
+    "unmet_count": 4,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000627",
+    "course_id": "CRS-000627",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000628",
+    "course_id": "CRS-000628",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000629",
+    "course_id": "CRS-000629",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000630",
+    "course_id": "CRS-000630",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000631",
+    "course_id": "CRS-000631",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000632",
+    "course_id": "CRS-000632",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000633",
+    "course_id": "CRS-000633",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000634",
+    "course_id": "CRS-000634",
+    "term": "2026-FA",
+    "unmet_count": 23,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000635",
+    "course_id": "CRS-000635",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000636",
+    "course_id": "CRS-000636",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000637",
+    "course_id": "CRS-000637",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000638",
+    "course_id": "CRS-000638",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000639",
+    "course_id": "CRS-000639",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000640",
+    "course_id": "CRS-000640",
+    "term": "2026-FA",
+    "unmet_count": 43,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000641",
+    "course_id": "CRS-000641",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000642",
+    "course_id": "CRS-000642",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000643",
+    "course_id": "CRS-000643",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000644",
+    "course_id": "CRS-000644",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000645",
+    "course_id": "CRS-000645",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000646",
+    "course_id": "CRS-000646",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000647",
+    "course_id": "CRS-000647",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000648",
+    "course_id": "CRS-000648",
+    "term": "2026-FA",
+    "unmet_count": 32,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000649",
+    "course_id": "CRS-000649",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000650",
+    "course_id": "CRS-000650",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000651",
+    "course_id": "CRS-000651",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000652",
+    "course_id": "CRS-000652",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000653",
+    "course_id": "CRS-000653",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000654",
+    "course_id": "CRS-000654",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000655",
+    "course_id": "CRS-000655",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000656",
+    "course_id": "CRS-000656",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000657",
+    "course_id": "CRS-000657",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000658",
+    "course_id": "CRS-000658",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000659",
+    "course_id": "CRS-000659",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000660",
+    "course_id": "CRS-000660",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000661",
+    "course_id": "CRS-000661",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000662",
+    "course_id": "CRS-000662",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000663",
+    "course_id": "CRS-000663",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000664",
+    "course_id": "CRS-000664",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000665",
+    "course_id": "CRS-000665",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000666",
+    "course_id": "CRS-000666",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000667",
+    "course_id": "CRS-000667",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000668",
+    "course_id": "CRS-000668",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000669",
+    "course_id": "CRS-000669",
+    "term": "2026-FA",
+    "unmet_count": 65,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000670",
+    "course_id": "CRS-000670",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000671",
+    "course_id": "CRS-000671",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000672",
+    "course_id": "CRS-000672",
+    "term": "2026-FA",
+    "unmet_count": 58,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000673",
+    "course_id": "CRS-000673",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000674",
+    "course_id": "CRS-000674",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000675",
+    "course_id": "CRS-000675",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000676",
+    "course_id": "CRS-000676",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000677",
+    "course_id": "CRS-000677",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000678",
+    "course_id": "CRS-000678",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000679",
+    "course_id": "CRS-000679",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000680",
+    "course_id": "CRS-000680",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000681",
+    "course_id": "CRS-000681",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000682",
+    "course_id": "CRS-000682",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000683",
+    "course_id": "CRS-000683",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000684",
+    "course_id": "CRS-000684",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000685",
+    "course_id": "CRS-000685",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000686",
+    "course_id": "CRS-000686",
+    "term": "2026-FA",
+    "unmet_count": 62,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000687",
+    "course_id": "CRS-000687",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000688",
+    "course_id": "CRS-000688",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000689",
+    "course_id": "CRS-000689",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000690",
+    "course_id": "CRS-000690",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000691",
+    "course_id": "CRS-000691",
+    "term": "2026-FA",
+    "unmet_count": 15,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000692",
+    "course_id": "CRS-000692",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000693",
+    "course_id": "CRS-000693",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000694",
+    "course_id": "CRS-000694",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000695",
+    "course_id": "CRS-000695",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000696",
+    "course_id": "CRS-000696",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000697",
+    "course_id": "CRS-000697",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000698",
+    "course_id": "CRS-000698",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000699",
+    "course_id": "CRS-000699",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000700",
+    "course_id": "CRS-000700",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000701",
+    "course_id": "CRS-000701",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000702",
+    "course_id": "CRS-000702",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000703",
+    "course_id": "CRS-000703",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000704",
+    "course_id": "CRS-000704",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000705",
+    "course_id": "CRS-000705",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000706",
+    "course_id": "CRS-000706",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000707",
+    "course_id": "CRS-000707",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000708",
+    "course_id": "CRS-000708",
+    "term": "2026-FA",
+    "unmet_count": 32,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000709",
+    "course_id": "CRS-000709",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000710",
+    "course_id": "CRS-000710",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000711",
+    "course_id": "CRS-000711",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000712",
+    "course_id": "CRS-000712",
+    "term": "2026-FA",
+    "unmet_count": 27,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000713",
+    "course_id": "CRS-000713",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000714",
+    "course_id": "CRS-000714",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000715",
+    "course_id": "CRS-000715",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000716",
+    "course_id": "CRS-000716",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000717",
+    "course_id": "CRS-000717",
+    "term": "2026-FA",
+    "unmet_count": 8,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000718",
+    "course_id": "CRS-000718",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000719",
+    "course_id": "CRS-000719",
+    "term": "2026-FA",
+    "unmet_count": 24,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000720",
+    "course_id": "CRS-000720",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000721",
+    "course_id": "CRS-000721",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000722",
+    "course_id": "CRS-000722",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000723",
+    "course_id": "CRS-000723",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000724",
+    "course_id": "CRS-000724",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000725",
+    "course_id": "CRS-000725",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000726",
+    "course_id": "CRS-000726",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000727",
+    "course_id": "CRS-000727",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000728",
+    "course_id": "CRS-000728",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000729",
+    "course_id": "CRS-000729",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000730",
+    "course_id": "CRS-000730",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000731",
+    "course_id": "CRS-000731",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000732",
+    "course_id": "CRS-000732",
+    "term": "2026-FA",
+    "unmet_count": 67,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000733",
+    "course_id": "CRS-000733",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000734",
+    "course_id": "CRS-000734",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000735",
+    "course_id": "CRS-000735",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000736",
+    "course_id": "CRS-000736",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000737",
+    "course_id": "CRS-000737",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000738",
+    "course_id": "CRS-000738",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000739",
+    "course_id": "CRS-000739",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000740",
+    "course_id": "CRS-000740",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000741",
+    "course_id": "CRS-000741",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000742",
+    "course_id": "CRS-000742",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000743",
+    "course_id": "CRS-000743",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000744",
+    "course_id": "CRS-000744",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000745",
+    "course_id": "CRS-000745",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000746",
+    "course_id": "CRS-000746",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000747",
+    "course_id": "CRS-000747",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000748",
+    "course_id": "CRS-000748",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000749",
+    "course_id": "CRS-000749",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000750",
+    "course_id": "CRS-000750",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000751",
+    "course_id": "CRS-000751",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000752",
+    "course_id": "CRS-000752",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000753",
+    "course_id": "CRS-000753",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000754",
+    "course_id": "CRS-000754",
+    "term": "2026-FA",
+    "unmet_count": 16,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000755",
+    "course_id": "CRS-000755",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000756",
+    "course_id": "CRS-000756",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000757",
+    "course_id": "CRS-000757",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000758",
+    "course_id": "CRS-000758",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000759",
+    "course_id": "CRS-000759",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000760",
+    "course_id": "CRS-000760",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000761",
+    "course_id": "CRS-000761",
+    "term": "2026-FA",
+    "unmet_count": 78,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000762",
+    "course_id": "CRS-000762",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000763",
+    "course_id": "CRS-000763",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000764",
+    "course_id": "CRS-000764",
+    "term": "2026-FA",
+    "unmet_count": 55,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000765",
+    "course_id": "CRS-000765",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000766",
+    "course_id": "CRS-000766",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000767",
+    "course_id": "CRS-000767",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000768",
+    "course_id": "CRS-000768",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000769",
+    "course_id": "CRS-000769",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000770",
+    "course_id": "CRS-000770",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000771",
+    "course_id": "CRS-000771",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000772",
+    "course_id": "CRS-000772",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000773",
+    "course_id": "CRS-000773",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000774",
+    "course_id": "CRS-000774",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000775",
+    "course_id": "CRS-000775",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000776",
+    "course_id": "CRS-000776",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000777",
+    "course_id": "CRS-000777",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000778",
+    "course_id": "CRS-000778",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000779",
+    "course_id": "CRS-000779",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000780",
+    "course_id": "CRS-000780",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000781",
+    "course_id": "CRS-000781",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000782",
+    "course_id": "CRS-000782",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000783",
+    "course_id": "CRS-000783",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000784",
+    "course_id": "CRS-000784",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000785",
+    "course_id": "CRS-000785",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000786",
+    "course_id": "CRS-000786",
+    "term": "2026-FA",
+    "unmet_count": 33,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000787",
+    "course_id": "CRS-000787",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000788",
+    "course_id": "CRS-000788",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000789",
+    "course_id": "CRS-000789",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000790",
+    "course_id": "CRS-000790",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000791",
+    "course_id": "CRS-000791",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000792",
+    "course_id": "CRS-000792",
+    "term": "2026-FA",
+    "unmet_count": 32,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000793",
+    "course_id": "CRS-000793",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000794",
+    "course_id": "CRS-000794",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000795",
+    "course_id": "CRS-000795",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000796",
+    "course_id": "CRS-000796",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000797",
+    "course_id": "CRS-000797",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000798",
+    "course_id": "CRS-000798",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000799",
+    "course_id": "CRS-000799",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000800",
+    "course_id": "CRS-000800",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000801",
+    "course_id": "CRS-000801",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000802",
+    "course_id": "CRS-000802",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000803",
+    "course_id": "CRS-000803",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000804",
+    "course_id": "CRS-000804",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000805",
+    "course_id": "CRS-000805",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000806",
+    "course_id": "CRS-000806",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000807",
+    "course_id": "CRS-000807",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000808",
+    "course_id": "CRS-000808",
+    "term": "2026-FA",
+    "unmet_count": 63,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000809",
+    "course_id": "CRS-000809",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000810",
+    "course_id": "CRS-000810",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000811",
+    "course_id": "CRS-000811",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000812",
+    "course_id": "CRS-000812",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000813",
+    "course_id": "CRS-000813",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000814",
+    "course_id": "CRS-000814",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000815",
+    "course_id": "CRS-000815",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000816",
+    "course_id": "CRS-000816",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000817",
+    "course_id": "CRS-000817",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000818",
+    "course_id": "CRS-000818",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000819",
+    "course_id": "CRS-000819",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000820",
+    "course_id": "CRS-000820",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000821",
+    "course_id": "CRS-000821",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000822",
+    "course_id": "CRS-000822",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000823",
+    "course_id": "CRS-000823",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000824",
+    "course_id": "CRS-000824",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000825",
+    "course_id": "CRS-000825",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000826",
+    "course_id": "CRS-000826",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000827",
+    "course_id": "CRS-000827",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000828",
+    "course_id": "CRS-000828",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000829",
+    "course_id": "CRS-000829",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000830",
+    "course_id": "CRS-000830",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000831",
+    "course_id": "CRS-000831",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000832",
+    "course_id": "CRS-000832",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000833",
+    "course_id": "CRS-000833",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000834",
+    "course_id": "CRS-000834",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000835",
+    "course_id": "CRS-000835",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000836",
+    "course_id": "CRS-000836",
+    "term": "2026-FA",
+    "unmet_count": 48,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000837",
+    "course_id": "CRS-000837",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000838",
+    "course_id": "CRS-000838",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000839",
+    "course_id": "CRS-000839",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000840",
+    "course_id": "CRS-000840",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000841",
+    "course_id": "CRS-000841",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000842",
+    "course_id": "CRS-000842",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000843",
+    "course_id": "CRS-000843",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000844",
+    "course_id": "CRS-000844",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000845",
+    "course_id": "CRS-000845",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000846",
+    "course_id": "CRS-000846",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000847",
+    "course_id": "CRS-000847",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000848",
+    "course_id": "CRS-000848",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000849",
+    "course_id": "CRS-000849",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000850",
+    "course_id": "CRS-000850",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000851",
+    "course_id": "CRS-000851",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000852",
+    "course_id": "CRS-000852",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000853",
+    "course_id": "CRS-000853",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000854",
+    "course_id": "CRS-000854",
+    "term": "2026-FA",
+    "unmet_count": 12,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000855",
+    "course_id": "CRS-000855",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000856",
+    "course_id": "CRS-000856",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000857",
+    "course_id": "CRS-000857",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000858",
+    "course_id": "CRS-000858",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000859",
+    "course_id": "CRS-000859",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000860",
+    "course_id": "CRS-000860",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000861",
+    "course_id": "CRS-000861",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000862",
+    "course_id": "CRS-000862",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000863",
+    "course_id": "CRS-000863",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000864",
+    "course_id": "CRS-000864",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000865",
+    "course_id": "CRS-000865",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000866",
+    "course_id": "CRS-000866",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000867",
+    "course_id": "CRS-000867",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000868",
+    "course_id": "CRS-000868",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000869",
+    "course_id": "CRS-000869",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000870",
+    "course_id": "CRS-000870",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000871",
+    "course_id": "CRS-000871",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000872",
+    "course_id": "CRS-000872",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000873",
+    "course_id": "CRS-000873",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000874",
+    "course_id": "CRS-000874",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000875",
+    "course_id": "CRS-000875",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000876",
+    "course_id": "CRS-000876",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000877",
+    "course_id": "CRS-000877",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000878",
+    "course_id": "CRS-000878",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000879",
+    "course_id": "CRS-000879",
+    "term": "2026-FA",
+    "unmet_count": 24,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000880",
+    "course_id": "CRS-000880",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000881",
+    "course_id": "CRS-000881",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000882",
+    "course_id": "CRS-000882",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000883",
+    "course_id": "CRS-000883",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000884",
+    "course_id": "CRS-000884",
+    "term": "2026-FA",
+    "unmet_count": 76,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000885",
+    "course_id": "CRS-000885",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000886",
+    "course_id": "CRS-000886",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000887",
+    "course_id": "CRS-000887",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000888",
+    "course_id": "CRS-000888",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000889",
+    "course_id": "CRS-000889",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000890",
+    "course_id": "CRS-000890",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000891",
+    "course_id": "CRS-000891",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000892",
+    "course_id": "CRS-000892",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000893",
+    "course_id": "CRS-000893",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000894",
+    "course_id": "CRS-000894",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000895",
+    "course_id": "CRS-000895",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000896",
+    "course_id": "CRS-000896",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000897",
+    "course_id": "CRS-000897",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000898",
+    "course_id": "CRS-000898",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000899",
+    "course_id": "CRS-000899",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000900",
+    "course_id": "CRS-000900",
+    "term": "2026-FA",
+    "unmet_count": 73,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000901",
+    "course_id": "CRS-000901",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000902",
+    "course_id": "CRS-000902",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000903",
+    "course_id": "CRS-000903",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000904",
+    "course_id": "CRS-000904",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000905",
+    "course_id": "CRS-000905",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000906",
+    "course_id": "CRS-000906",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000907",
+    "course_id": "CRS-000907",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000908",
+    "course_id": "CRS-000908",
+    "term": "2026-FA",
+    "unmet_count": 3,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000909",
+    "course_id": "CRS-000909",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000910",
+    "course_id": "CRS-000910",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000911",
+    "course_id": "CRS-000911",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000912",
+    "course_id": "CRS-000912",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000913",
+    "course_id": "CRS-000913",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000914",
+    "course_id": "CRS-000914",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000915",
+    "course_id": "CRS-000915",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000916",
+    "course_id": "CRS-000916",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000917",
+    "course_id": "CRS-000917",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000918",
+    "course_id": "CRS-000918",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000919",
+    "course_id": "CRS-000919",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000920",
+    "course_id": "CRS-000920",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000921",
+    "course_id": "CRS-000921",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000922",
+    "course_id": "CRS-000922",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000923",
+    "course_id": "CRS-000923",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000924",
+    "course_id": "CRS-000924",
+    "term": "2026-FA",
+    "unmet_count": 30,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000925",
+    "course_id": "CRS-000925",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000926",
+    "course_id": "CRS-000926",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000927",
+    "course_id": "CRS-000927",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000928",
+    "course_id": "CRS-000928",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000929",
+    "course_id": "CRS-000929",
+    "term": "2026-FA",
+    "unmet_count": 3,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000930",
+    "course_id": "CRS-000930",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000931",
+    "course_id": "CRS-000931",
+    "term": "2026-FA",
+    "unmet_count": 54,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000932",
+    "course_id": "CRS-000932",
+    "term": "2026-FA",
+    "unmet_count": 45,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000933",
+    "course_id": "CRS-000933",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000934",
+    "course_id": "CRS-000934",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000935",
+    "course_id": "CRS-000935",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000936",
+    "course_id": "CRS-000936",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000937",
+    "course_id": "CRS-000937",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000938",
+    "course_id": "CRS-000938",
+    "term": "2026-FA",
+    "unmet_count": 23,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000939",
+    "course_id": "CRS-000939",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000940",
+    "course_id": "CRS-000940",
+    "term": "2026-FA",
+    "unmet_count": 30,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000941",
+    "course_id": "CRS-000941",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000942",
+    "course_id": "CRS-000942",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000943",
+    "course_id": "CRS-000943",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000944",
+    "course_id": "CRS-000944",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000945",
+    "course_id": "CRS-000945",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000946",
+    "course_id": "CRS-000946",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000947",
+    "course_id": "CRS-000947",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000948",
+    "course_id": "CRS-000948",
+    "term": "2026-FA",
+    "unmet_count": 25,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000949",
+    "course_id": "CRS-000949",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000950",
+    "course_id": "CRS-000950",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000951",
+    "course_id": "CRS-000951",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000952",
+    "course_id": "CRS-000952",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000953",
+    "course_id": "CRS-000953",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000954",
+    "course_id": "CRS-000954",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000955",
+    "course_id": "CRS-000955",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000956",
+    "course_id": "CRS-000956",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000957",
+    "course_id": "CRS-000957",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000958",
+    "course_id": "CRS-000958",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000959",
+    "course_id": "CRS-000959",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000960",
+    "course_id": "CRS-000960",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000961",
+    "course_id": "CRS-000961",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000962",
+    "course_id": "CRS-000962",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000963",
+    "course_id": "CRS-000963",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000964",
+    "course_id": "CRS-000964",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000965",
+    "course_id": "CRS-000965",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000966",
+    "course_id": "CRS-000966",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000967",
+    "course_id": "CRS-000967",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000968",
+    "course_id": "CRS-000968",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000969",
+    "course_id": "CRS-000969",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000970",
+    "course_id": "CRS-000970",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000971",
+    "course_id": "CRS-000971",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000972",
+    "course_id": "CRS-000972",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000973",
+    "course_id": "CRS-000973",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000974",
+    "course_id": "CRS-000974",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000975",
+    "course_id": "CRS-000975",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000976",
+    "course_id": "CRS-000976",
+    "term": "2026-FA",
+    "unmet_count": 30,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000977",
+    "course_id": "CRS-000977",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000978",
+    "course_id": "CRS-000978",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000979",
+    "course_id": "CRS-000979",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000980",
+    "course_id": "CRS-000980",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000981",
+    "course_id": "CRS-000981",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000982",
+    "course_id": "CRS-000982",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000983",
+    "course_id": "CRS-000983",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000984",
+    "course_id": "CRS-000984",
+    "term": "2026-FA",
+    "unmet_count": 50,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000985",
+    "course_id": "CRS-000985",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000986",
+    "course_id": "CRS-000986",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000987",
+    "course_id": "CRS-000987",
+    "term": "2026-FA",
+    "unmet_count": 41,
+    "reason_code": "no_faculty"
+  },
+  {
+    "unmet_id": "UMD-2026-000988",
+    "course_id": "CRS-000988",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000989",
+    "course_id": "CRS-000989",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000990",
+    "course_id": "CRS-000990",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000991",
+    "course_id": "CRS-000991",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000992",
+    "course_id": "CRS-000992",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000993",
+    "course_id": "CRS-000993",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000994",
+    "course_id": "CRS-000994",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000995",
+    "course_id": "CRS-000995",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000996",
+    "course_id": "CRS-000996",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000997",
+    "course_id": "CRS-000997",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-000998",
+    "course_id": "CRS-000998",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "capacity_limit"
+  },
+  {
+    "unmet_id": "UMD-2026-000999",
+    "course_id": "CRS-000999",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  },
+  {
+    "unmet_id": "UMD-2026-001000",
+    "course_id": "CRS-001000",
+    "term": "2026-FA",
+    "unmet_count": 0,
+    "reason_code": "zero_demand"
+  }
+]

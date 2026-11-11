@@ -1,0 +1,3439 @@
+[
+  {
+    "event_id": "AEV-2026-000001",
+    "assignment_id": "WLA-2026-000001",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000153 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000002",
+    "assignment_id": "WLA-2026-000002",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000025 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000003",
+    "assignment_id": "WLA-2026-000003",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000025 (Proficiency: 2, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000004",
+    "assignment_id": "WLA-2026-000004",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000161 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000005",
+    "assignment_id": "WLA-2026-000005",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000161 (Proficiency: 2, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000006",
+    "assignment_id": "WLA-2026-000006",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000025 (Proficiency: 2, Workload: 12.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000007",
+    "assignment_id": "WLA-2026-000007",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000153 (Proficiency: 2, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000008",
+    "assignment_id": "WLA-2026-000008",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000153 (Proficiency: 2, Workload: 12.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000009",
+    "assignment_id": "WLA-2026-000009",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000161 (Proficiency: 2, Workload: 12.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000010",
+    "assignment_id": "WLA-2026-000010",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000025 (Proficiency: 2, Workload: 16.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000011",
+    "assignment_id": "WLA-2026-000011",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000050 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000012",
+    "assignment_id": "WLA-2026-000012",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000146 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000013",
+    "assignment_id": "WLA-2026-000013",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000050 (Proficiency: 2, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000014",
+    "assignment_id": "WLA-2026-000014",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000066 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000015",
+    "assignment_id": "WLA-2026-000015",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000426 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000016",
+    "assignment_id": "WLA-2026-000016",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000066 (Proficiency: 2, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000017",
+    "assignment_id": "WLA-2026-000017",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000426 (Proficiency: 2, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000018",
+    "assignment_id": "WLA-2026-000018",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000050 (Proficiency: 2, Workload: 12.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000019",
+    "assignment_id": "WLA-2026-000019",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000146 (Proficiency: 2, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000020",
+    "assignment_id": "WLA-2026-000020",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000146 (Proficiency: 2, Workload: 12.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000021",
+    "assignment_id": "WLA-2026-000021",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000066 (Proficiency: 2, Workload: 12.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000022",
+    "assignment_id": "WLA-2026-000022",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000050 (Proficiency: 2, Workload: 16.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000023",
+    "assignment_id": "WLA-2026-000023",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000027 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000024",
+    "assignment_id": "WLA-2026-000024",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000227 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000025",
+    "assignment_id": "WLA-2026-000025",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000283 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000026",
+    "assignment_id": "WLA-2026-000026",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000027 (Proficiency: 3, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000027",
+    "assignment_id": "WLA-2026-000027",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000227 (Proficiency: 3, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000028",
+    "assignment_id": "WLA-2026-000028",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000283 (Proficiency: 3, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000029",
+    "assignment_id": "WLA-2026-000029",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000027 (Proficiency: 3, Workload: 12.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000030",
+    "assignment_id": "WLA-2026-000030",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000283 (Proficiency: 3, Workload: 12.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000031",
+    "assignment_id": "WLA-2026-000031",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000027 (Proficiency: 3, Workload: 16.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000032",
+    "assignment_id": "WLA-2026-000032",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000227 (Proficiency: 3, Workload: 12.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000033",
+    "assignment_id": "WLA-2026-000033",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000283 (Proficiency: 3, Workload: 16.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000034",
+    "assignment_id": "WLA-2026-000034",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000355 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000035",
+    "assignment_id": "WLA-2026-000035",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000227 (Proficiency: 3, Workload: 16.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000036",
+    "assignment_id": "WLA-2026-000036",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000492 (Proficiency: 3, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000037",
+    "assignment_id": "WLA-2026-000037",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000492 (Proficiency: 3, Workload: 6.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000038",
+    "assignment_id": "WLA-2026-000038",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000388 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000039",
+    "assignment_id": "WLA-2026-000039",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000476 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000040",
+    "assignment_id": "WLA-2026-000040",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000388 (Proficiency: 2, Workload: 6.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000041",
+    "assignment_id": "WLA-2026-000041",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000476 (Proficiency: 2, Workload: 6.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000042",
+    "assignment_id": "WLA-2026-000042",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000236 (Proficiency: 1, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000043",
+    "assignment_id": "WLA-2026-000043",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000244 (Proficiency: 1, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000044",
+    "assignment_id": "WLA-2026-000044",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000244 (Proficiency: 1, Workload: 6.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000045",
+    "assignment_id": "WLA-2026-000045",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000412 (Proficiency: 1, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000046",
+    "assignment_id": "WLA-2026-000046",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000053 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000047",
+    "assignment_id": "WLA-2026-000047",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000045 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000048",
+    "assignment_id": "WLA-2026-000048",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000149 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000049",
+    "assignment_id": "WLA-2026-000049",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000173 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000050",
+    "assignment_id": "WLA-2026-000050",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000053 (Proficiency: 3, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000051",
+    "assignment_id": "WLA-2026-000051",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000045 (Proficiency: 3, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000052",
+    "assignment_id": "WLA-2026-000052",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000149 (Proficiency: 3, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000053",
+    "assignment_id": "WLA-2026-000053",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000045 (Proficiency: 3, Workload: 12.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000054",
+    "assignment_id": "WLA-2026-000054",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000053 (Proficiency: 3, Workload: 12.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000055",
+    "assignment_id": "WLA-2026-000055",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000045 (Proficiency: 3, Workload: 16.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000056",
+    "assignment_id": "WLA-2026-000056",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000149 (Proficiency: 3, Workload: 12.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000057",
+    "assignment_id": "WLA-2026-000057",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000053 (Proficiency: 3, Workload: 16.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000058",
+    "assignment_id": "WLA-2026-000058",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000173 (Proficiency: 2, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000059",
+    "assignment_id": "WLA-2026-000059",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000319 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000060",
+    "assignment_id": "WLA-2026-000060",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000008 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000061",
+    "assignment_id": "WLA-2026-000061",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000093 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000062",
+    "assignment_id": "WLA-2026-000062",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000184 (Proficiency: 1, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000063",
+    "assignment_id": "WLA-2026-000063",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000264 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000064",
+    "assignment_id": "WLA-2026-000064",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000329 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000065",
+    "assignment_id": "WLA-2026-000065",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000242 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000066",
+    "assignment_id": "WLA-2026-000066",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000469 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000067",
+    "assignment_id": "WLA-2026-000067",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000469 (Proficiency: 3, Workload: 6.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000068",
+    "assignment_id": "WLA-2026-000068",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000343 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000069",
+    "assignment_id": "WLA-2026-000069",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000071 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000070",
+    "assignment_id": "WLA-2026-000070",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000096 (Proficiency: 2, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000071",
+    "assignment_id": "WLA-2026-000071",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000488 (Proficiency: 2, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000072",
+    "assignment_id": "WLA-2026-000072",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000048 (Proficiency: 3, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000073",
+    "assignment_id": "WLA-2026-000073",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000448 (Proficiency: 3, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000074",
+    "assignment_id": "WLA-2026-000074",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000186 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000075",
+    "assignment_id": "WLA-2026-000075",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000007 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000076",
+    "assignment_id": "WLA-2026-000076",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000496 (Proficiency: 2, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000077",
+    "assignment_id": "WLA-2026-000077",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000496 (Proficiency: 2, Workload: 8.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000078",
+    "assignment_id": "WLA-2026-000078",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000201 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000079",
+    "assignment_id": "WLA-2026-000079",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000135 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000080",
+    "assignment_id": "WLA-2026-000080",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000223 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000081",
+    "assignment_id": "WLA-2026-000081",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000273 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000082",
+    "assignment_id": "WLA-2026-000082",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000353 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000083",
+    "assignment_id": "WLA-2026-000083",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000353 (Proficiency: 3, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000084",
+    "assignment_id": "WLA-2026-000084",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000026 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000085",
+    "assignment_id": "WLA-2026-000085",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000144 (Proficiency: 3, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000086",
+    "assignment_id": "WLA-2026-000086",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000009 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000087",
+    "assignment_id": "WLA-2026-000087",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000009 (Proficiency: 3, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000088",
+    "assignment_id": "WLA-2026-000088",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000393 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000089",
+    "assignment_id": "WLA-2026-000089",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000315 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000090",
+    "assignment_id": "WLA-2026-000090",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000108 (Proficiency: 1, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000091",
+    "assignment_id": "WLA-2026-000091",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000295 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000092",
+    "assignment_id": "WLA-2026-000092",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000081 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000093",
+    "assignment_id": "WLA-2026-000093",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000482 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000094",
+    "assignment_id": "WLA-2026-000094",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000483 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000095",
+    "assignment_id": "WLA-2026-000095",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000483 (Proficiency: 2, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000096",
+    "assignment_id": "WLA-2026-000096",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000177 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000097",
+    "assignment_id": "WLA-2026-000097",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000252 (Proficiency: 3, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000098",
+    "assignment_id": "WLA-2026-000098",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000021 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000099",
+    "assignment_id": "WLA-2026-000099",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000021 (Proficiency: 3, Workload: 6.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000100",
+    "assignment_id": "WLA-2026-000100",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000105 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000101",
+    "assignment_id": "WLA-2026-000101",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000285 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000102",
+    "assignment_id": "WLA-2026-000102",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000493 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000103",
+    "assignment_id": "WLA-2026-000103",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000393 (Proficiency: 3, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000104",
+    "assignment_id": "WLA-2026-000104",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000105 (Proficiency: 3, Workload: 6.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000105",
+    "assignment_id": "WLA-2026-000105",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000357 (Proficiency: 1, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000106",
+    "assignment_id": "WLA-2026-000106",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000103 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000107",
+    "assignment_id": "WLA-2026-000107",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000369 (Proficiency: 1, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000108",
+    "assignment_id": "WLA-2026-000108",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000017 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000109",
+    "assignment_id": "WLA-2026-000109",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000019 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000110",
+    "assignment_id": "WLA-2026-000110",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000071 (Proficiency: 2, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000111",
+    "assignment_id": "WLA-2026-000111",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000489 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000112",
+    "assignment_id": "WLA-2026-000112",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000306 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000113",
+    "assignment_id": "WLA-2026-000113",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000124 (Proficiency: 2, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000114",
+    "assignment_id": "WLA-2026-000114",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000102 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000115",
+    "assignment_id": "WLA-2026-000115",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000361 (Proficiency: 1, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000116",
+    "assignment_id": "WLA-2026-000116",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000489 (Proficiency: 3, Workload: 6.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000117",
+    "assignment_id": "WLA-2026-000117",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000098 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000118",
+    "assignment_id": "WLA-2026-000118",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000467 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000119",
+    "assignment_id": "WLA-2026-000119",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000004 (Proficiency: 1, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000120",
+    "assignment_id": "WLA-2026-000120",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000062 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000121",
+    "assignment_id": "WLA-2026-000121",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000472 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000122",
+    "assignment_id": "WLA-2026-000122",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000139 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000123",
+    "assignment_id": "WLA-2026-000123",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000316 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000124",
+    "assignment_id": "WLA-2026-000124",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000397 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000125",
+    "assignment_id": "WLA-2026-000125",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000126 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000126",
+    "assignment_id": "WLA-2026-000126",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000174 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000127",
+    "assignment_id": "WLA-2026-000127",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000208 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000128",
+    "assignment_id": "WLA-2026-000128",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000112 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000129",
+    "assignment_id": "WLA-2026-000129",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000308 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000130",
+    "assignment_id": "WLA-2026-000130",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000396 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000131",
+    "assignment_id": "WLA-2026-000131",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000189 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000132",
+    "assignment_id": "WLA-2026-000132",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000189 (Proficiency: 3, Workload: 6.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000133",
+    "assignment_id": "WLA-2026-000133",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000123 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000134",
+    "assignment_id": "WLA-2026-000134",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000123 (Proficiency: 3, Workload: 6.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000135",
+    "assignment_id": "WLA-2026-000135",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000089 (Proficiency: 1, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000136",
+    "assignment_id": "WLA-2026-000136",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000425 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000137",
+    "assignment_id": "WLA-2026-000137",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000258 (Proficiency: 1, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000138",
+    "assignment_id": "WLA-2026-000138",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000347 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000139",
+    "assignment_id": "WLA-2026-000139",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000229 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000140",
+    "assignment_id": "WLA-2026-000140",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000199 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000141",
+    "assignment_id": "WLA-2026-000141",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000199 (Proficiency: 2, Workload: 6.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000142",
+    "assignment_id": "WLA-2026-000142",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000234 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000143",
+    "assignment_id": "WLA-2026-000143",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000075 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000144",
+    "assignment_id": "WLA-2026-000144",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000188 (Proficiency: 1, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000145",
+    "assignment_id": "WLA-2026-000145",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000188 (Proficiency: 1, Workload: 8.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000146",
+    "assignment_id": "WLA-2026-000146",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000082 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000147",
+    "assignment_id": "WLA-2026-000147",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000437 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000148",
+    "assignment_id": "WLA-2026-000148",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000463 (Proficiency: 1, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000149",
+    "assignment_id": "WLA-2026-000149",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000404 (Proficiency: 3, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000150",
+    "assignment_id": "WLA-2026-000150",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000108 (Proficiency: 2, Workload: 7.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000151",
+    "assignment_id": "WLA-2026-000151",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000386 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000152",
+    "assignment_id": "WLA-2026-000152",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000386 (Proficiency: 3, Workload: 6.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000153",
+    "assignment_id": "WLA-2026-000153",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000235 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000154",
+    "assignment_id": "WLA-2026-000154",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000212 (Proficiency: 2, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000155",
+    "assignment_id": "WLA-2026-000155",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000117 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000156",
+    "assignment_id": "WLA-2026-000156",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000117 (Proficiency: 3, Workload: 6.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000157",
+    "assignment_id": "WLA-2026-000157",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000134 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000158",
+    "assignment_id": "WLA-2026-000158",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000106 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000159",
+    "assignment_id": "WLA-2026-000159",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000059 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000160",
+    "assignment_id": "WLA-2026-000160",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000165 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000161",
+    "assignment_id": "WLA-2026-000161",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000222 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000162",
+    "assignment_id": "WLA-2026-000162",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000367 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000163",
+    "assignment_id": "WLA-2026-000163",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000193 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000164",
+    "assignment_id": "WLA-2026-000164",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000490 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000165",
+    "assignment_id": "WLA-2026-000165",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000355 (Proficiency: 3, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000166",
+    "assignment_id": "WLA-2026-000166",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000292 (Proficiency: 3, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000167",
+    "assignment_id": "WLA-2026-000167",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000111 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000168",
+    "assignment_id": "WLA-2026-000168",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000065 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000169",
+    "assignment_id": "WLA-2026-000169",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000290 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000170",
+    "assignment_id": "WLA-2026-000170",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000185 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000171",
+    "assignment_id": "WLA-2026-000171",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000156 (Proficiency: 3, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000172",
+    "assignment_id": "WLA-2026-000172",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000248 (Proficiency: 2, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000173",
+    "assignment_id": "WLA-2026-000173",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000265 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000174",
+    "assignment_id": "WLA-2026-000174",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000194 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000175",
+    "assignment_id": "WLA-2026-000175",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000251 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000176",
+    "assignment_id": "WLA-2026-000176",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000432 (Proficiency: 2, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000177",
+    "assignment_id": "WLA-2026-000177",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000305 (Proficiency: 1, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000178",
+    "assignment_id": "WLA-2026-000178",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000130 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000179",
+    "assignment_id": "WLA-2026-000179",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000011 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000180",
+    "assignment_id": "WLA-2026-000180",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000277 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000181",
+    "assignment_id": "WLA-2026-000181",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000241 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000182",
+    "assignment_id": "WLA-2026-000182",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000010 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000183",
+    "assignment_id": "WLA-2026-000183",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000097 (Proficiency: 1, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000184",
+    "assignment_id": "WLA-2026-000184",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000179 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000185",
+    "assignment_id": "WLA-2026-000185",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000231 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000186",
+    "assignment_id": "WLA-2026-000186",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000392 (Proficiency: 3, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000187",
+    "assignment_id": "WLA-2026-000187",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000175 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000188",
+    "assignment_id": "WLA-2026-000188",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000148 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000189",
+    "assignment_id": "WLA-2026-000189",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000351 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000190",
+    "assignment_id": "WLA-2026-000190",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000143 (Proficiency: 1, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000191",
+    "assignment_id": "WLA-2026-000191",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000049 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000192",
+    "assignment_id": "WLA-2026-000192",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000411 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000193",
+    "assignment_id": "WLA-2026-000193",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000334 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000194",
+    "assignment_id": "WLA-2026-000194",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000121 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000195",
+    "assignment_id": "WLA-2026-000195",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000474 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000196",
+    "assignment_id": "WLA-2026-000196",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000323 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000197",
+    "assignment_id": "WLA-2026-000197",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000301 (Proficiency: 1, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000198",
+    "assignment_id": "WLA-2026-000198",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000408 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000199",
+    "assignment_id": "WLA-2026-000199",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000339 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000200",
+    "assignment_id": "WLA-2026-000200",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000412 (Proficiency: 3, Workload: 6.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000201",
+    "assignment_id": "WLA-2026-000201",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000150 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000202",
+    "assignment_id": "WLA-2026-000202",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000036 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000203",
+    "assignment_id": "WLA-2026-000203",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000436 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000204",
+    "assignment_id": "WLA-2026-000204",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000074 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000205",
+    "assignment_id": "WLA-2026-000205",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000394 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000206",
+    "assignment_id": "WLA-2026-000206",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000453 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000207",
+    "assignment_id": "WLA-2026-000207",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000182 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000208",
+    "assignment_id": "WLA-2026-000208",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000350 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000209",
+    "assignment_id": "WLA-2026-000209",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000127 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000210",
+    "assignment_id": "WLA-2026-000210",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000215 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000211",
+    "assignment_id": "WLA-2026-000211",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000073 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000212",
+    "assignment_id": "WLA-2026-000212",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000228 (Proficiency: 3, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000213",
+    "assignment_id": "WLA-2026-000213",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000268 (Proficiency: 1, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000214",
+    "assignment_id": "WLA-2026-000214",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000309 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000215",
+    "assignment_id": "WLA-2026-000215",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000369 (Proficiency: 3, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000216",
+    "assignment_id": "WLA-2026-000216",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000356 (Proficiency: 3, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000217",
+    "assignment_id": "WLA-2026-000217",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000399 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000218",
+    "assignment_id": "WLA-2026-000218",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000218 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000219",
+    "assignment_id": "WLA-2026-000219",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000002 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000220",
+    "assignment_id": "WLA-2026-000220",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000279 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000221",
+    "assignment_id": "WLA-2026-000221",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000354 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000222",
+    "assignment_id": "WLA-2026-000222",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000402 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000223",
+    "assignment_id": "WLA-2026-000223",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000354 (Proficiency: 3, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000224",
+    "assignment_id": "WLA-2026-000224",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000451 (Proficiency: 1, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000225",
+    "assignment_id": "WLA-2026-000225",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000475 (Proficiency: 1, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000226",
+    "assignment_id": "WLA-2026-000226",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000207 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000227",
+    "assignment_id": "WLA-2026-000227",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000072 (Proficiency: 2, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000228",
+    "assignment_id": "WLA-2026-000228",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000270 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000229",
+    "assignment_id": "WLA-2026-000229",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000329 (Proficiency: 2, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000230",
+    "assignment_id": "WLA-2026-000230",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000466 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000231",
+    "assignment_id": "WLA-2026-000231",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000347 (Proficiency: 3, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000232",
+    "assignment_id": "WLA-2026-000232",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000132 (Proficiency: 2, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000233",
+    "assignment_id": "WLA-2026-000233",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000151 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000234",
+    "assignment_id": "WLA-2026-000234",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000432 (Proficiency: 3, Workload: 8.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000235",
+    "assignment_id": "WLA-2026-000235",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000361 (Proficiency: 2, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000236",
+    "assignment_id": "WLA-2026-000236",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000091 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000237",
+    "assignment_id": "WLA-2026-000237",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000326 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000238",
+    "assignment_id": "WLA-2026-000238",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000344 (Proficiency: 1, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000239",
+    "assignment_id": "WLA-2026-000239",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000113 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000240",
+    "assignment_id": "WLA-2026-000240",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000249 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000241",
+    "assignment_id": "WLA-2026-000241",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000113 (Proficiency: 3, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000242",
+    "assignment_id": "WLA-2026-000242",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000370 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000243",
+    "assignment_id": "WLA-2026-000243",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000085 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000244",
+    "assignment_id": "WLA-2026-000244",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000152 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000245",
+    "assignment_id": "WLA-2026-000245",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000272 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000246",
+    "assignment_id": "WLA-2026-000246",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000094 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000247",
+    "assignment_id": "WLA-2026-000247",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000226 (Proficiency: 1, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000248",
+    "assignment_id": "WLA-2026-000248",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000035 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000249",
+    "assignment_id": "WLA-2026-000249",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000091 (Proficiency: 2, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000250",
+    "assignment_id": "WLA-2026-000250",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000310 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000251",
+    "assignment_id": "WLA-2026-000251",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000162 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000252",
+    "assignment_id": "WLA-2026-000252",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000012 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000253",
+    "assignment_id": "WLA-2026-000253",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000037 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000254",
+    "assignment_id": "WLA-2026-000254",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000296 (Proficiency: 3, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000255",
+    "assignment_id": "WLA-2026-000255",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000472 (Proficiency: 2, Workload: 7.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000256",
+    "assignment_id": "WLA-2026-000256",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000256 (Proficiency: 2, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000257",
+    "assignment_id": "WLA-2026-000257",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000278 (Proficiency: 1, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000258",
+    "assignment_id": "WLA-2026-000258",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000097 (Proficiency: 3, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000259",
+    "assignment_id": "WLA-2026-000259",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000196 (Proficiency: 2, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000260",
+    "assignment_id": "WLA-2026-000260",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000214 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000261",
+    "assignment_id": "WLA-2026-000261",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000051 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000262",
+    "assignment_id": "WLA-2026-000262",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000015 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000263",
+    "assignment_id": "WLA-2026-000263",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000389 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000264",
+    "assignment_id": "WLA-2026-000264",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000158 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000265",
+    "assignment_id": "WLA-2026-000265",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000395 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000266",
+    "assignment_id": "WLA-2026-000266",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000251 (Proficiency: 2, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000267",
+    "assignment_id": "WLA-2026-000267",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000158 (Proficiency: 3, Workload: 6.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000268",
+    "assignment_id": "WLA-2026-000268",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000016 (Proficiency: 2, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000269",
+    "assignment_id": "WLA-2026-000269",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000033 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000270",
+    "assignment_id": "WLA-2026-000270",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000163 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000271",
+    "assignment_id": "WLA-2026-000271",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000358 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000272",
+    "assignment_id": "WLA-2026-000272",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000258 (Proficiency: 2, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000273",
+    "assignment_id": "WLA-2026-000273",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000397 (Proficiency: 2, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000274",
+    "assignment_id": "WLA-2026-000274",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000247 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000275",
+    "assignment_id": "WLA-2026-000275",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000056 (Proficiency: 3, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000276",
+    "assignment_id": "WLA-2026-000276",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000084 (Proficiency: 3, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000277",
+    "assignment_id": "WLA-2026-000277",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000473 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000278",
+    "assignment_id": "WLA-2026-000278",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000290 (Proficiency: 1, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000279",
+    "assignment_id": "WLA-2026-000279",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000382 (Proficiency: 1, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000280",
+    "assignment_id": "WLA-2026-000280",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000128 (Proficiency: 3, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000281",
+    "assignment_id": "WLA-2026-000281",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000385 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000282",
+    "assignment_id": "WLA-2026-000282",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000026 (Proficiency: 3, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000283",
+    "assignment_id": "WLA-2026-000283",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000146 (Proficiency: 2, Workload: 16.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000284",
+    "assignment_id": "WLA-2026-000284",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000275 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000285",
+    "assignment_id": "WLA-2026-000285",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000006 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000286",
+    "assignment_id": "WLA-2026-000286",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000057 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000287",
+    "assignment_id": "WLA-2026-000287",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000457 (Proficiency: 1, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000288",
+    "assignment_id": "WLA-2026-000288",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000234 (Proficiency: 1, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000289",
+    "assignment_id": "WLA-2026-000289",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000238 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000290",
+    "assignment_id": "WLA-2026-000290",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000456 (Proficiency: 3, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000291",
+    "assignment_id": "WLA-2026-000291",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000051 (Proficiency: 3, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000292",
+    "assignment_id": "WLA-2026-000292",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000069 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000293",
+    "assignment_id": "WLA-2026-000293",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000342 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000294",
+    "assignment_id": "WLA-2026-000294",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000418 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000295",
+    "assignment_id": "WLA-2026-000295",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000471 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000296",
+    "assignment_id": "WLA-2026-000296",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000384 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000297",
+    "assignment_id": "WLA-2026-000297",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000114 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000298",
+    "assignment_id": "WLA-2026-000298",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000205 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000299",
+    "assignment_id": "WLA-2026-000299",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000401 (Proficiency: 1, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000300",
+    "assignment_id": "WLA-2026-000300",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000187 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000301",
+    "assignment_id": "WLA-2026-000301",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000044 (Proficiency: 1, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000302",
+    "assignment_id": "WLA-2026-000302",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000182 (Proficiency: 3, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000303",
+    "assignment_id": "WLA-2026-000303",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000281 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000304",
+    "assignment_id": "WLA-2026-000304",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000059 (Proficiency: 2, Workload: 6.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000305",
+    "assignment_id": "WLA-2026-000305",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000254 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000306",
+    "assignment_id": "WLA-2026-000306",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000088 (Proficiency: 1, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000307",
+    "assignment_id": "WLA-2026-000307",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000292 (Proficiency: 3, Workload: 7.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000308",
+    "assignment_id": "WLA-2026-000308",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000177 (Proficiency: 3, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000309",
+    "assignment_id": "WLA-2026-000309",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000282 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000310",
+    "assignment_id": "WLA-2026-000310",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000348 (Proficiency: 1, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000311",
+    "assignment_id": "WLA-2026-000311",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000133 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000312",
+    "assignment_id": "WLA-2026-000312",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000255 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000313",
+    "assignment_id": "WLA-2026-000313",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000281 (Proficiency: 3, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000314",
+    "assignment_id": "WLA-2026-000314",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000385 (Proficiency: 3, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000315",
+    "assignment_id": "WLA-2026-000315",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000106 (Proficiency: 3, Workload: 6.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000316",
+    "assignment_id": "WLA-2026-000316",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000106 (Proficiency: 3, Workload: 9.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000317",
+    "assignment_id": "WLA-2026-000317",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000323 (Proficiency: 2, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000318",
+    "assignment_id": "WLA-2026-000318",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000164 (Proficiency: 3, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000319",
+    "assignment_id": "WLA-2026-000319",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000077 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000320",
+    "assignment_id": "WLA-2026-000320",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000127 (Proficiency: 3, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000321",
+    "assignment_id": "WLA-2026-000321",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000447 (Proficiency: 1, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000322",
+    "assignment_id": "WLA-2026-000322",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000098 (Proficiency: 2, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000323",
+    "assignment_id": "WLA-2026-000323",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000010 (Proficiency: 1, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000324",
+    "assignment_id": "WLA-2026-000324",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000087 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000325",
+    "assignment_id": "WLA-2026-000325",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000167 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000326",
+    "assignment_id": "WLA-2026-000326",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000265 (Proficiency: 3, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000327",
+    "assignment_id": "WLA-2026-000327",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000162 (Proficiency: 3, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000328",
+    "assignment_id": "WLA-2026-000328",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000442 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000329",
+    "assignment_id": "WLA-2026-000329",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000197 (Proficiency: 1, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000330",
+    "assignment_id": "WLA-2026-000330",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000407 (Proficiency: 1, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000331",
+    "assignment_id": "WLA-2026-000331",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000407 (Proficiency: 1, Workload: 6.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000332",
+    "assignment_id": "WLA-2026-000332",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000467 (Proficiency: 3, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000333",
+    "assignment_id": "WLA-2026-000333",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000467 (Proficiency: 3, Workload: 10.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000334",
+    "assignment_id": "WLA-2026-000334",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000141 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000335",
+    "assignment_id": "WLA-2026-000335",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000429 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000336",
+    "assignment_id": "WLA-2026-000336",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000477 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000337",
+    "assignment_id": "WLA-2026-000337",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000176 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000338",
+    "assignment_id": "WLA-2026-000338",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000336 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000339",
+    "assignment_id": "WLA-2026-000339",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000114 (Proficiency: 2, Workload: 6.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000340",
+    "assignment_id": "WLA-2026-000340",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000471 (Proficiency: 1, Workload: 6.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000341",
+    "assignment_id": "WLA-2026-000341",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000471 (Proficiency: 1, Workload: 9.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000342",
+    "assignment_id": "WLA-2026-000342",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000416 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000343",
+    "assignment_id": "WLA-2026-000343",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000128 (Proficiency: 2, Workload: 7.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000344",
+    "assignment_id": "WLA-2026-000344",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000067 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000345",
+    "assignment_id": "WLA-2026-000345",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000029 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000346",
+    "assignment_id": "WLA-2026-000346",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000029 (Proficiency: 3, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000347",
+    "assignment_id": "WLA-2026-000347",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000070 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000348",
+    "assignment_id": "WLA-2026-000348",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000271 (Proficiency: 1, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000349",
+    "assignment_id": "WLA-2026-000349",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000392 (Proficiency: 3, Workload: 7.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000350",
+    "assignment_id": "WLA-2026-000350",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000408 (Proficiency: 3, Workload: 7.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000351",
+    "assignment_id": "WLA-2026-000351",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000001 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000352",
+    "assignment_id": "WLA-2026-000352",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000001 (Proficiency: 3, Workload: 6.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000353",
+    "assignment_id": "WLA-2026-000353",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000250 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000354",
+    "assignment_id": "WLA-2026-000354",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000130 (Proficiency: 3, Workload: 6.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000355",
+    "assignment_id": "WLA-2026-000355",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000331 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000356",
+    "assignment_id": "WLA-2026-000356",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000331 (Proficiency: 2, Workload: 6.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000357",
+    "assignment_id": "WLA-2026-000357",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000203 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000358",
+    "assignment_id": "WLA-2026-000358",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000076 (Proficiency: 1, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000359",
+    "assignment_id": "WLA-2026-000359",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000308 (Proficiency: 1, Workload: 6.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000360",
+    "assignment_id": "WLA-2026-000360",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000173 (Proficiency: 2, Workload: 11.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000361",
+    "assignment_id": "WLA-2026-000361",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000234 (Proficiency: 3, Workload: 12.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000362",
+    "assignment_id": "WLA-2026-000362",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000170 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000363",
+    "assignment_id": "WLA-2026-000363",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000226 (Proficiency: 2, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000364",
+    "assignment_id": "WLA-2026-000364",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000275 (Proficiency: 1, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000365",
+    "assignment_id": "WLA-2026-000365",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000396 (Proficiency: 3, Workload: 6.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000366",
+    "assignment_id": "WLA-2026-000366",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000056 (Proficiency: 3, Workload: 6.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000367",
+    "assignment_id": "WLA-2026-000367",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000336 (Proficiency: 1, Workload: 6.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000368",
+    "assignment_id": "WLA-2026-000368",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000370 (Proficiency: 1, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000369",
+    "assignment_id": "WLA-2026-000369",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000219 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000370",
+    "assignment_id": "WLA-2026-000370",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000143 (Proficiency: 2, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000371",
+    "assignment_id": "WLA-2026-000371",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000265 (Proficiency: 1, Workload: 11.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000372",
+    "assignment_id": "WLA-2026-000372",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000210 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000373",
+    "assignment_id": "WLA-2026-000373",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000213 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000374",
+    "assignment_id": "WLA-2026-000374",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000095 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000375",
+    "assignment_id": "WLA-2026-000375",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000431 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000376",
+    "assignment_id": "WLA-2026-000376",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000224 (Proficiency: 2, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000377",
+    "assignment_id": "WLA-2026-000377",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000419 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000378",
+    "assignment_id": "WLA-2026-000378",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000437 (Proficiency: 2, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000379",
+    "assignment_id": "WLA-2026-000379",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000064 (Proficiency: 3, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000380",
+    "assignment_id": "WLA-2026-000380",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000475 (Proficiency: 3, Workload: 6.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000381",
+    "assignment_id": "WLA-2026-000381",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000259 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000382",
+    "assignment_id": "WLA-2026-000382",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000464 (Proficiency: 3, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000383",
+    "assignment_id": "WLA-2026-000383",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000057 (Proficiency: 2, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000384",
+    "assignment_id": "WLA-2026-000384",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000092 (Proficiency: 1, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000385",
+    "assignment_id": "WLA-2026-000385",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000024 (Proficiency: 3, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000386",
+    "assignment_id": "WLA-2026-000386",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000229 (Proficiency: 1, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000387",
+    "assignment_id": "WLA-2026-000387",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000310 (Proficiency: 3, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000388",
+    "assignment_id": "WLA-2026-000388",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000479 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000389",
+    "assignment_id": "WLA-2026-000389",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000136 (Proficiency: 2, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000390",
+    "assignment_id": "WLA-2026-000390",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000272 (Proficiency: 2, Workload: 7.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000391",
+    "assignment_id": "WLA-2026-000391",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000383 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000392",
+    "assignment_id": "WLA-2026-000392",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000152 (Proficiency: 2, Workload: 6.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000393",
+    "assignment_id": "WLA-2026-000393",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000078 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000394",
+    "assignment_id": "WLA-2026-000394",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000371 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000395",
+    "assignment_id": "WLA-2026-000395",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000365 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000396",
+    "assignment_id": "WLA-2026-000396",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000192 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000397",
+    "assignment_id": "WLA-2026-000397",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000417 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000398",
+    "assignment_id": "WLA-2026-000398",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000137 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000399",
+    "assignment_id": "WLA-2026-000399",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000035 (Proficiency: 2, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000400",
+    "assignment_id": "WLA-2026-000400",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000166 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000401",
+    "assignment_id": "WLA-2026-000401",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000312 (Proficiency: 2, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000402",
+    "assignment_id": "WLA-2026-000402",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000450 (Proficiency: 1, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000403",
+    "assignment_id": "WLA-2026-000403",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000081 (Proficiency: 3, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000404",
+    "assignment_id": "WLA-2026-000404",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000410 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000405",
+    "assignment_id": "WLA-2026-000405",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000491 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000406",
+    "assignment_id": "WLA-2026-000406",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000364 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000407",
+    "assignment_id": "WLA-2026-000407",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000317 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000408",
+    "assignment_id": "WLA-2026-000408",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000366 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000409",
+    "assignment_id": "WLA-2026-000409",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000327 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000410",
+    "assignment_id": "WLA-2026-000410",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000362 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000411",
+    "assignment_id": "WLA-2026-000411",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000126 (Proficiency: 2, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000412",
+    "assignment_id": "WLA-2026-000412",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000398 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000413",
+    "assignment_id": "WLA-2026-000413",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000202 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000414",
+    "assignment_id": "WLA-2026-000414",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000339 (Proficiency: 1, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000415",
+    "assignment_id": "WLA-2026-000415",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000207 (Proficiency: 2, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000416",
+    "assignment_id": "WLA-2026-000416",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000306 (Proficiency: 2, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000417",
+    "assignment_id": "WLA-2026-000417",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000059 (Proficiency: 3, Workload: 9.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000418",
+    "assignment_id": "WLA-2026-000418",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000069 (Proficiency: 1, Workload: 6.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000419",
+    "assignment_id": "WLA-2026-000419",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000264 (Proficiency: 2, Workload: 7.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000420",
+    "assignment_id": "WLA-2026-000420",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000449 (Proficiency: 1, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000421",
+    "assignment_id": "WLA-2026-000421",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000289 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000422",
+    "assignment_id": "WLA-2026-000422",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000322 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000423",
+    "assignment_id": "WLA-2026-000423",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000252 (Proficiency: 3, Workload: 8.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000424",
+    "assignment_id": "WLA-2026-000424",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000430 (Proficiency: 1, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000425",
+    "assignment_id": "WLA-2026-000425",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000032 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000426",
+    "assignment_id": "WLA-2026-000426",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000411 (Proficiency: 2, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000427",
+    "assignment_id": "WLA-2026-000427",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000301 (Proficiency: 2, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000428",
+    "assignment_id": "WLA-2026-000428",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000119 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000429",
+    "assignment_id": "WLA-2026-000429",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000291 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000430",
+    "assignment_id": "WLA-2026-000430",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000485 (Proficiency: 1, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000431",
+    "assignment_id": "WLA-2026-000431",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000048 (Proficiency: 3, Workload: 7.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000432",
+    "assignment_id": "WLA-2026-000432",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000033 (Proficiency: 3, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000433",
+    "assignment_id": "WLA-2026-000433",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000154 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000434",
+    "assignment_id": "WLA-2026-000434",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000078 (Proficiency: 3, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000435",
+    "assignment_id": "WLA-2026-000435",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000204 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000436",
+    "assignment_id": "WLA-2026-000436",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000249 (Proficiency: 2, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000437",
+    "assignment_id": "WLA-2026-000437",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000328 (Proficiency: 1, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000438",
+    "assignment_id": "WLA-2026-000438",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000036 (Proficiency: 3, Workload: 7.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000439",
+    "assignment_id": "WLA-2026-000439",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000325 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000440",
+    "assignment_id": "WLA-2026-000440",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000069 (Proficiency: 2, Workload: 9.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000441",
+    "assignment_id": "WLA-2026-000441",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000325 (Proficiency: 3, Workload: 6.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000442",
+    "assignment_id": "WLA-2026-000442",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000016 (Proficiency: 1, Workload: 7.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000443",
+    "assignment_id": "WLA-2026-000443",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000465 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000444",
+    "assignment_id": "WLA-2026-000444",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000314 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000445",
+    "assignment_id": "WLA-2026-000445",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000314 (Proficiency: 3, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000446",
+    "assignment_id": "WLA-2026-000446",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000404 (Proficiency: 2, Workload: 8.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000447",
+    "assignment_id": "WLA-2026-000447",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000316 (Proficiency: 1, Workload: 7.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000448",
+    "assignment_id": "WLA-2026-000448",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000064 (Proficiency: 1, Workload: 6.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000449",
+    "assignment_id": "WLA-2026-000449",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000072 (Proficiency: 2, Workload: 7.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000450",
+    "assignment_id": "WLA-2026-000450",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000352 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000451",
+    "assignment_id": "WLA-2026-000451",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000208 (Proficiency: 2, Workload: 6.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000452",
+    "assignment_id": "WLA-2026-000452",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000352 (Proficiency: 2, Workload: 6.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000453",
+    "assignment_id": "WLA-2026-000453",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000001 (Proficiency: 2, Workload: 9.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000454",
+    "assignment_id": "WLA-2026-000454",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000491 (Proficiency: 2, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000455",
+    "assignment_id": "WLA-2026-000455",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000084 (Proficiency: 2, Workload: 7.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000456",
+    "assignment_id": "WLA-2026-000456",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000416 (Proficiency: 3, Workload: 6.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000457",
+    "assignment_id": "WLA-2026-000457",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000216 (Proficiency: 2, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000458",
+    "assignment_id": "WLA-2026-000458",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000376 (Proficiency: 3, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000459",
+    "assignment_id": "WLA-2026-000459",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000499 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000460",
+    "assignment_id": "WLA-2026-000460",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000315 (Proficiency: 3, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000461",
+    "assignment_id": "WLA-2026-000461",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000156 (Proficiency: 2, Workload: 7.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000462",
+    "assignment_id": "WLA-2026-000462",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000085 (Proficiency: 2, Workload: 6.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000463",
+    "assignment_id": "WLA-2026-000463",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000429 (Proficiency: 1, Workload: 6.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000464",
+    "assignment_id": "WLA-2026-000464",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000231 (Proficiency: 2, Workload: 6.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000465",
+    "assignment_id": "WLA-2026-000465",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000255 (Proficiency: 2, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000466",
+    "assignment_id": "WLA-2026-000466",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000290 (Proficiency: 2, Workload: 12.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000467",
+    "assignment_id": "WLA-2026-000467",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000052 (Proficiency: 1, Workload: 3.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000468",
+    "assignment_id": "WLA-2026-000468",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000397 (Proficiency: 3, Workload: 10.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000469",
+    "assignment_id": "WLA-2026-000469",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000445 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000470",
+    "assignment_id": "WLA-2026-000470",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000351 (Proficiency: 2, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000471",
+    "assignment_id": "WLA-2026-000471",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000136 (Proficiency: 3, Workload: 7.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000472",
+    "assignment_id": "WLA-2026-000472",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000377 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000473",
+    "assignment_id": "WLA-2026-000473",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000043 (Proficiency: 1, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000474",
+    "assignment_id": "WLA-2026-000474",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000229 (Proficiency: 2, Workload: 11.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000475",
+    "assignment_id": "WLA-2026-000475",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000241 (Proficiency: 3, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000476",
+    "assignment_id": "WLA-2026-000476",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000147 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000477",
+    "assignment_id": "WLA-2026-000477",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000495 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000478",
+    "assignment_id": "WLA-2026-000478",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000495 (Proficiency: 3, Workload: 8.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000479",
+    "assignment_id": "WLA-2026-000479",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000009 (Proficiency: 2, Workload: 11.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000480",
+    "assignment_id": "WLA-2026-000480",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000193 (Proficiency: 3, Workload: 7.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000481",
+    "assignment_id": "WLA-2026-000481",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000206 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000482",
+    "assignment_id": "WLA-2026-000482",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000199 (Proficiency: 2, Workload: 10.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000483",
+    "assignment_id": "WLA-2026-000483",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000303 (Proficiency: 2, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000484",
+    "assignment_id": "WLA-2026-000484",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000349 (Proficiency: 3, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000485",
+    "assignment_id": "WLA-2026-000485",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000092 (Proficiency: 3, Workload: 6.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000486",
+    "assignment_id": "WLA-2026-000486",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000061 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000487",
+    "assignment_id": "WLA-2026-000487",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000145 (Proficiency: 3, Workload: 4.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000488",
+    "assignment_id": "WLA-2026-000488",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000034 (Proficiency: 2, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000489",
+    "assignment_id": "WLA-2026-000489",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000379 (Proficiency: 1, Workload: 3.0/16.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000490",
+    "assignment_id": "WLA-2026-000490",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000172 (Proficiency: 3, Workload: 4.0/8.0h)"
+  },
+  {
+    "event_id": "AEV-2026-000491",
+    "assignment_id": "WLA-2026-000491",
+    "event_type": "assigned",
+    "event_ts": "2026-10-22T09:30:00Z",
+    "reason": "Assigned to FAC-000118 (Proficiency: 2, Workload: 3.0/16.0h)"
+  }
+]

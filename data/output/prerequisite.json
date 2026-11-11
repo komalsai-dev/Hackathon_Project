@@ -1,0 +1,3130 @@
+[
+  {
+    "prerequisite_id": "PRQ-000001",
+    "course_id": "CRS-000177",
+    "required_course_id": "CRS-000041",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000002",
+    "course_id": "CRS-000393",
+    "required_course_id": "CRS-000337",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000003",
+    "course_id": "CRS-000465",
+    "required_course_id": "CRS-000041",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000004",
+    "course_id": "CRS-000681",
+    "required_course_id": "CRS-000657",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000005",
+    "course_id": "CRS-000697",
+    "required_course_id": "CRS-000281",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000006",
+    "course_id": "CRS-000713",
+    "required_course_id": "CRS-000697",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000007",
+    "course_id": "CRS-000817",
+    "required_course_id": "CRS-000281",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000008",
+    "course_id": "CRS-000961",
+    "required_course_id": "CRS-000097",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000009",
+    "course_id": "CRS-000129",
+    "required_course_id": "CRS-000697",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000010",
+    "course_id": "CRS-000377",
+    "required_course_id": "CRS-000681",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000011",
+    "course_id": "CRS-000513",
+    "required_course_id": "CRS-000009",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000012",
+    "course_id": "CRS-000641",
+    "required_course_id": "CRS-000697",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000013",
+    "course_id": "CRS-000649",
+    "required_course_id": "CRS-000609",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000014",
+    "course_id": "CRS-000673",
+    "required_course_id": "CRS-000113",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000015",
+    "course_id": "CRS-000985",
+    "required_course_id": "CRS-000113",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000016",
+    "course_id": "CRS-000049",
+    "required_course_id": "CRS-000129",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000017",
+    "course_id": "CRS-000321",
+    "required_course_id": "CRS-000177",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000018",
+    "course_id": "CRS-000737",
+    "required_course_id": "CRS-000681",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000019",
+    "course_id": "CRS-000201",
+    "required_course_id": "CRS-000865",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000020",
+    "course_id": "CRS-000521",
+    "required_course_id": "CRS-000121",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000021",
+    "course_id": "CRS-000561",
+    "required_course_id": "CRS-000841",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000022",
+    "course_id": "CRS-000745",
+    "required_course_id": "CRS-000673",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000023",
+    "course_id": "CRS-000753",
+    "required_course_id": "CRS-000089",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000024",
+    "course_id": "CRS-000801",
+    "required_course_id": "CRS-000673",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000025",
+    "course_id": "CRS-000873",
+    "required_course_id": "CRS-000089",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000026",
+    "course_id": "CRS-000289",
+    "required_course_id": "CRS-000849",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000027",
+    "course_id": "CRS-000369",
+    "required_course_id": "CRS-000889",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000028",
+    "course_id": "CRS-000409",
+    "required_course_id": "CRS-000009",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000029",
+    "course_id": "CRS-000489",
+    "required_course_id": "CRS-000953",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000030",
+    "course_id": "CRS-000577",
+    "required_course_id": "CRS-000385",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000031",
+    "course_id": "CRS-000625",
+    "required_course_id": "CRS-000177",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000032",
+    "course_id": "CRS-000721",
+    "required_course_id": "CRS-000017",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000033",
+    "course_id": "CRS-000921",
+    "required_course_id": "CRS-000241",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000034",
+    "course_id": "CRS-000137",
+    "required_course_id": "CRS-000001",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000035",
+    "course_id": "CRS-000217",
+    "required_course_id": "CRS-000121",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000036",
+    "course_id": "CRS-000545",
+    "required_course_id": "CRS-000745",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000037",
+    "course_id": "CRS-000945",
+    "required_course_id": "CRS-000697",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000038",
+    "course_id": "CRS-000977",
+    "required_course_id": "CRS-000169",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000039",
+    "course_id": "CRS-000082",
+    "required_course_id": "CRS-000034",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000040",
+    "course_id": "CRS-000090",
+    "required_course_id": "CRS-000034",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000041",
+    "course_id": "CRS-000130",
+    "required_course_id": "CRS-000034",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000042",
+    "course_id": "CRS-000290",
+    "required_course_id": "CRS-000258",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000043",
+    "course_id": "CRS-000810",
+    "required_course_id": "CRS-000090",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000044",
+    "course_id": "CRS-000858",
+    "required_course_id": "CRS-000618",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000045",
+    "course_id": "CRS-000874",
+    "required_course_id": "CRS-000578",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000046",
+    "course_id": "CRS-000026",
+    "required_course_id": "CRS-000130",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000047",
+    "course_id": "CRS-000218",
+    "required_course_id": "CRS-000578",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000048",
+    "course_id": "CRS-000386",
+    "required_course_id": "CRS-000250",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000049",
+    "course_id": "CRS-000410",
+    "required_course_id": "CRS-000202",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000050",
+    "course_id": "CRS-000482",
+    "required_course_id": "CRS-000402",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000051",
+    "course_id": "CRS-000490",
+    "required_course_id": "CRS-000122",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000052",
+    "course_id": "CRS-000586",
+    "required_course_id": "CRS-000122",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000053",
+    "course_id": "CRS-000722",
+    "required_course_id": "CRS-000642",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000054",
+    "course_id": "CRS-000770",
+    "required_course_id": "CRS-000386",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000055",
+    "course_id": "CRS-000850",
+    "required_course_id": "CRS-000586",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000056",
+    "course_id": "CRS-000930",
+    "required_course_id": "CRS-000154",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000057",
+    "course_id": "CRS-000138",
+    "required_course_id": "CRS-000578",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000058",
+    "course_id": "CRS-000186",
+    "required_course_id": "CRS-000642",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000059",
+    "course_id": "CRS-000194",
+    "required_course_id": "CRS-000986",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000060",
+    "course_id": "CRS-000274",
+    "required_course_id": "CRS-000858",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000061",
+    "course_id": "CRS-000282",
+    "required_course_id": "CRS-000226",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000062",
+    "course_id": "CRS-000330",
+    "required_course_id": "CRS-000274",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000063",
+    "course_id": "CRS-000522",
+    "required_course_id": "CRS-000994",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000064",
+    "course_id": "CRS-000738",
+    "required_course_id": "CRS-000722",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000065",
+    "course_id": "CRS-000866",
+    "required_course_id": "CRS-000258",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000066",
+    "course_id": "CRS-000978",
+    "required_course_id": "CRS-000258",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000067",
+    "course_id": "CRS-000146",
+    "required_course_id": "CRS-000738",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000068",
+    "course_id": "CRS-000306",
+    "required_course_id": "CRS-000282",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000069",
+    "course_id": "CRS-000458",
+    "required_course_id": "CRS-000794",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000070",
+    "course_id": "CRS-000506",
+    "required_course_id": "CRS-000362",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000071",
+    "course_id": "CRS-000746",
+    "required_course_id": "CRS-000266",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000072",
+    "course_id": "CRS-000010",
+    "required_course_id": "CRS-000618",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000073",
+    "course_id": "CRS-000042",
+    "required_course_id": "CRS-000202",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000074",
+    "course_id": "CRS-000066",
+    "required_course_id": "CRS-000050",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000075",
+    "course_id": "CRS-000474",
+    "required_course_id": "CRS-000210",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000076",
+    "course_id": "CRS-000594",
+    "required_course_id": "CRS-000490",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000077",
+    "course_id": "CRS-000690",
+    "required_course_id": "CRS-000314",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000078",
+    "course_id": "CRS-000714",
+    "required_course_id": "CRS-000450",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000079",
+    "course_id": "CRS-000778",
+    "required_course_id": "CRS-000402",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000080",
+    "course_id": "CRS-000098",
+    "required_course_id": "CRS-000362",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000081",
+    "course_id": "CRS-000106",
+    "required_course_id": "CRS-000058",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000082",
+    "course_id": "CRS-000242",
+    "required_course_id": "CRS-000426",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000083",
+    "course_id": "CRS-000322",
+    "required_course_id": "CRS-000498",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000084",
+    "course_id": "CRS-000434",
+    "required_course_id": "CRS-000642",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000085",
+    "course_id": "CRS-000570",
+    "required_course_id": "CRS-000442",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000086",
+    "course_id": "CRS-000658",
+    "required_course_id": "CRS-000114",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000087",
+    "course_id": "CRS-000674",
+    "required_course_id": "CRS-000810",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000088",
+    "course_id": "CRS-000730",
+    "required_course_id": "CRS-000210",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000089",
+    "course_id": "CRS-000762",
+    "required_course_id": "CRS-000346",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000090",
+    "course_id": "CRS-000954",
+    "required_course_id": "CRS-000458",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000091",
+    "course_id": "CRS-000131",
+    "required_course_id": "CRS-000107",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000092",
+    "course_id": "CRS-000187",
+    "required_course_id": "CRS-000131",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000093",
+    "course_id": "CRS-000219",
+    "required_course_id": "CRS-000131",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000094",
+    "course_id": "CRS-000283",
+    "required_course_id": "CRS-000219",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000095",
+    "course_id": "CRS-000371",
+    "required_course_id": "CRS-000211",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000096",
+    "course_id": "CRS-000395",
+    "required_course_id": "CRS-000187",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000097",
+    "course_id": "CRS-000539",
+    "required_course_id": "CRS-000283",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000098",
+    "course_id": "CRS-000611",
+    "required_course_id": "CRS-000587",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000099",
+    "course_id": "CRS-000803",
+    "required_course_id": "CRS-000467",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000100",
+    "course_id": "CRS-000907",
+    "required_course_id": "CRS-000483",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000101",
+    "course_id": "CRS-000915",
+    "required_course_id": "CRS-000611",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000102",
+    "course_id": "CRS-000043",
+    "required_course_id": "CRS-000211",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000103",
+    "course_id": "CRS-000051",
+    "required_course_id": "CRS-000915",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000104",
+    "course_id": "CRS-000083",
+    "required_course_id": "CRS-000051",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000105",
+    "course_id": "CRS-000427",
+    "required_course_id": "CRS-000539",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000106",
+    "course_id": "CRS-000435",
+    "required_course_id": "CRS-000051",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000107",
+    "course_id": "CRS-000651",
+    "required_course_id": "CRS-000195",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000108",
+    "course_id": "CRS-000035",
+    "required_course_id": "CRS-000019",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000109",
+    "course_id": "CRS-000147",
+    "required_course_id": "CRS-000427",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000110",
+    "course_id": "CRS-000299",
+    "required_course_id": "CRS-000987",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000111",
+    "course_id": "CRS-000355",
+    "required_course_id": "CRS-000803",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000112",
+    "course_id": "CRS-000451",
+    "required_course_id": "CRS-000915",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000113",
+    "course_id": "CRS-000571",
+    "required_course_id": "CRS-000371",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000114",
+    "course_id": "CRS-000603",
+    "required_course_id": "CRS-000435",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000115",
+    "course_id": "CRS-000731",
+    "required_course_id": "CRS-000571",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000116",
+    "course_id": "CRS-000755",
+    "required_course_id": "CRS-000779",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000117",
+    "course_id": "CRS-000763",
+    "required_course_id": "CRS-000419",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000118",
+    "course_id": "CRS-000947",
+    "required_course_id": "CRS-000579",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000119",
+    "course_id": "CRS-000971",
+    "required_course_id": "CRS-000699",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000120",
+    "course_id": "CRS-000027",
+    "required_course_id": "CRS-000099",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000121",
+    "course_id": "CRS-000179",
+    "required_course_id": "CRS-000763",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000122",
+    "course_id": "CRS-000339",
+    "required_course_id": "CRS-000779",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000123",
+    "course_id": "CRS-000411",
+    "required_course_id": "CRS-000427",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000124",
+    "course_id": "CRS-000747",
+    "required_course_id": "CRS-000827",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000125",
+    "course_id": "CRS-000115",
+    "required_course_id": "CRS-000243",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000126",
+    "course_id": "CRS-000291",
+    "required_course_id": "CRS-000931",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000127",
+    "course_id": "CRS-000363",
+    "required_course_id": "CRS-000107",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000128",
+    "course_id": "CRS-000707",
+    "required_course_id": "CRS-000067",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000129",
+    "course_id": "CRS-000739",
+    "required_course_id": "CRS-000355",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000130",
+    "course_id": "CRS-000811",
+    "required_course_id": "CRS-000035",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000131",
+    "course_id": "CRS-000835",
+    "required_course_id": "CRS-000019",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000132",
+    "course_id": "CRS-000979",
+    "required_course_id": "CRS-000571",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000133",
+    "course_id": "CRS-000227",
+    "required_course_id": "CRS-000211",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000134",
+    "course_id": "CRS-000331",
+    "required_course_id": "CRS-000931",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000135",
+    "course_id": "CRS-000387",
+    "required_course_id": "CRS-000763",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000136",
+    "course_id": "CRS-000515",
+    "required_course_id": "CRS-000139",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000137",
+    "course_id": "CRS-000523",
+    "required_course_id": "CRS-000139",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000138",
+    "course_id": "CRS-000555",
+    "required_course_id": "CRS-000531",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000139",
+    "course_id": "CRS-000851",
+    "required_course_id": "CRS-000419",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000140",
+    "course_id": "CRS-000891",
+    "required_course_id": "CRS-000779",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000141",
+    "course_id": "CRS-000148",
+    "required_course_id": "CRS-000068",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000142",
+    "course_id": "CRS-000220",
+    "required_course_id": "CRS-000068",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000143",
+    "course_id": "CRS-000556",
+    "required_course_id": "CRS-000516",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000144",
+    "course_id": "CRS-000644",
+    "required_course_id": "CRS-000148",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000145",
+    "course_id": "CRS-000692",
+    "required_course_id": "CRS-000516",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000146",
+    "course_id": "CRS-000868",
+    "required_course_id": "CRS-000292",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000147",
+    "course_id": "CRS-000892",
+    "required_course_id": "CRS-000292",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000148",
+    "course_id": "CRS-000060",
+    "required_course_id": "CRS-000068",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000149",
+    "course_id": "CRS-000428",
+    "required_course_id": "CRS-000764",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000150",
+    "course_id": "CRS-000484",
+    "required_course_id": "CRS-000764",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000151",
+    "course_id": "CRS-000572",
+    "required_course_id": "CRS-000260",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000152",
+    "course_id": "CRS-000636",
+    "required_course_id": "CRS-000060",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000153",
+    "course_id": "CRS-000700",
+    "required_course_id": "CRS-000556",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000154",
+    "course_id": "CRS-000756",
+    "required_course_id": "CRS-000124",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000155",
+    "course_id": "CRS-000812",
+    "required_course_id": "CRS-000516",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000156",
+    "course_id": "CRS-000964",
+    "required_course_id": "CRS-000748",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000157",
+    "course_id": "CRS-000100",
+    "required_course_id": "CRS-000068",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000158",
+    "course_id": "CRS-000308",
+    "required_course_id": "CRS-000572",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000159",
+    "course_id": "CRS-000508",
+    "required_course_id": "CRS-000572",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000160",
+    "course_id": "CRS-000724",
+    "required_course_id": "CRS-000828",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000161",
+    "course_id": "CRS-000772",
+    "required_course_id": "CRS-000884",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000162",
+    "course_id": "CRS-000956",
+    "required_course_id": "CRS-000140",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000163",
+    "course_id": "CRS-000972",
+    "required_course_id": "CRS-000508",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000164",
+    "course_id": "CRS-000980",
+    "required_course_id": "CRS-000796",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000165",
+    "course_id": "CRS-000028",
+    "required_course_id": "CRS-000972",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000166",
+    "course_id": "CRS-000164",
+    "required_course_id": "CRS-000260",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000167",
+    "course_id": "CRS-000284",
+    "required_course_id": "CRS-000948",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000168",
+    "course_id": "CRS-000388",
+    "required_course_id": "CRS-000012",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000169",
+    "course_id": "CRS-000476",
+    "required_course_id": "CRS-000116",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000170",
+    "course_id": "CRS-000548",
+    "required_course_id": "CRS-000980",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000171",
+    "course_id": "CRS-000716",
+    "required_course_id": "CRS-000308",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000172",
+    "course_id": "CRS-000780",
+    "required_course_id": "CRS-000284",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000173",
+    "course_id": "CRS-000876",
+    "required_course_id": "CRS-000572",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000174",
+    "course_id": "CRS-000036",
+    "required_course_id": "CRS-000980",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000175",
+    "course_id": "CRS-000156",
+    "required_course_id": "CRS-000932",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000176",
+    "course_id": "CRS-000340",
+    "required_course_id": "CRS-000700",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000177",
+    "course_id": "CRS-000444",
+    "required_course_id": "CRS-000868",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000178",
+    "course_id": "CRS-000564",
+    "required_course_id": "CRS-000588",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000179",
+    "course_id": "CRS-000652",
+    "required_course_id": "CRS-000436",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000180",
+    "course_id": "CRS-000804",
+    "required_course_id": "CRS-000900",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000181",
+    "course_id": "CRS-000820",
+    "required_course_id": "CRS-000244",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000182",
+    "course_id": "CRS-000844",
+    "required_course_id": "CRS-000540",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000183",
+    "course_id": "CRS-000132",
+    "required_course_id": "CRS-000148",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000184",
+    "course_id": "CRS-000180",
+    "required_course_id": "CRS-000132",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000185",
+    "course_id": "CRS-000212",
+    "required_course_id": "CRS-000524",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000186",
+    "course_id": "CRS-000252",
+    "required_course_id": "CRS-000284",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000187",
+    "course_id": "CRS-000276",
+    "required_course_id": "CRS-000308",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000188",
+    "course_id": "CRS-000316",
+    "required_course_id": "CRS-000132",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000189",
+    "course_id": "CRS-000460",
+    "required_course_id": "CRS-000060",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000190",
+    "course_id": "CRS-000492",
+    "required_course_id": "CRS-000164",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000191",
+    "course_id": "CRS-000532",
+    "required_course_id": "CRS-000412",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000192",
+    "course_id": "CRS-000668",
+    "required_course_id": "CRS-000660",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000193",
+    "course_id": "CRS-000133",
+    "required_course_id": "CRS-000085",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000194",
+    "course_id": "CRS-000373",
+    "required_course_id": "CRS-000133",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000195",
+    "course_id": "CRS-000533",
+    "required_course_id": "CRS-000133",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000196",
+    "course_id": "CRS-000549",
+    "required_course_id": "CRS-000325",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000197",
+    "course_id": "CRS-000061",
+    "required_course_id": "CRS-000533",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000198",
+    "course_id": "CRS-000069",
+    "required_course_id": "CRS-000645",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000199",
+    "course_id": "CRS-000117",
+    "required_course_id": "CRS-000085",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000200",
+    "course_id": "CRS-000221",
+    "required_course_id": "CRS-000373",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000201",
+    "course_id": "CRS-000253",
+    "required_course_id": "CRS-000533",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000202",
+    "course_id": "CRS-000285",
+    "required_course_id": "CRS-000645",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000203",
+    "course_id": "CRS-000333",
+    "required_course_id": "CRS-000133",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000204",
+    "course_id": "CRS-000381",
+    "required_course_id": "CRS-000221",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000205",
+    "course_id": "CRS-000477",
+    "required_course_id": "CRS-000197",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000206",
+    "course_id": "CRS-000693",
+    "required_course_id": "CRS-000549",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000207",
+    "course_id": "CRS-000733",
+    "required_course_id": "CRS-000085",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000208",
+    "course_id": "CRS-000749",
+    "required_course_id": "CRS-000325",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000209",
+    "course_id": "CRS-000781",
+    "required_course_id": "CRS-000541",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000210",
+    "course_id": "CRS-000845",
+    "required_course_id": "CRS-000677",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000211",
+    "course_id": "CRS-000125",
+    "required_course_id": "CRS-000445",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000212",
+    "course_id": "CRS-000157",
+    "required_course_id": "CRS-000333",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000213",
+    "course_id": "CRS-000269",
+    "required_course_id": "CRS-000069",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000214",
+    "course_id": "CRS-000277",
+    "required_course_id": "CRS-000989",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000215",
+    "course_id": "CRS-000421",
+    "required_course_id": "CRS-000325",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000216",
+    "course_id": "CRS-000517",
+    "required_course_id": "CRS-000645",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000217",
+    "course_id": "CRS-000805",
+    "required_course_id": "CRS-000949",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000218",
+    "course_id": "CRS-000861",
+    "required_course_id": "CRS-000517",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000219",
+    "course_id": "CRS-000893",
+    "required_course_id": "CRS-000693",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000220",
+    "course_id": "CRS-000925",
+    "required_course_id": "CRS-000333",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000221",
+    "course_id": "CRS-000037",
+    "required_course_id": "CRS-000613",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000222",
+    "course_id": "CRS-000053",
+    "required_course_id": "CRS-000013",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000223",
+    "course_id": "CRS-000077",
+    "required_course_id": "CRS-000061",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000224",
+    "course_id": "CRS-000189",
+    "required_course_id": "CRS-000941",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000225",
+    "course_id": "CRS-000237",
+    "required_course_id": "CRS-000085",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000226",
+    "course_id": "CRS-000309",
+    "required_course_id": "CRS-000941",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000227",
+    "course_id": "CRS-000469",
+    "required_course_id": "CRS-000429",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000228",
+    "course_id": "CRS-000789",
+    "required_course_id": "CRS-000373",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000229",
+    "course_id": "CRS-000837",
+    "required_course_id": "CRS-000829",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000230",
+    "course_id": "CRS-000245",
+    "required_course_id": "CRS-000381",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000231",
+    "course_id": "CRS-000349",
+    "required_course_id": "CRS-000565",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000232",
+    "course_id": "CRS-000493",
+    "required_course_id": "CRS-000309",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000233",
+    "course_id": "CRS-000605",
+    "required_course_id": "CRS-000165",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000234",
+    "course_id": "CRS-000629",
+    "required_course_id": "CRS-000165",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000235",
+    "course_id": "CRS-000933",
+    "required_course_id": "CRS-000869",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000236",
+    "course_id": "CRS-000997",
+    "required_course_id": "CRS-000773",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000237",
+    "course_id": "CRS-000101",
+    "required_course_id": "CRS-000005",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000238",
+    "course_id": "CRS-000109",
+    "required_course_id": "CRS-000285",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000239",
+    "course_id": "CRS-000293",
+    "required_course_id": "CRS-000205",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000240",
+    "course_id": "CRS-000365",
+    "required_course_id": "CRS-000613",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000241",
+    "course_id": "CRS-000397",
+    "required_course_id": "CRS-000965",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000242",
+    "course_id": "CRS-000405",
+    "required_course_id": "CRS-000541",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000243",
+    "course_id": "CRS-000589",
+    "required_course_id": "CRS-000709",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000244",
+    "course_id": "CRS-000685",
+    "required_course_id": "CRS-000653",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000245",
+    "course_id": "CRS-000853",
+    "required_course_id": "CRS-000741",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000246",
+    "course_id": "CRS-000901",
+    "required_course_id": "CRS-000269",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000247",
+    "course_id": "CRS-000038",
+    "required_course_id": "CRS-000006",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000248",
+    "course_id": "CRS-000374",
+    "required_course_id": "CRS-000086",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000249",
+    "course_id": "CRS-000382",
+    "required_course_id": "CRS-000142",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000250",
+    "course_id": "CRS-000630",
+    "required_course_id": "CRS-000510",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000251",
+    "course_id": "CRS-000838",
+    "required_course_id": "CRS-000510",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000252",
+    "course_id": "CRS-000062",
+    "required_course_id": "CRS-000630",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000253",
+    "course_id": "CRS-000262",
+    "required_course_id": "CRS-000406",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000254",
+    "course_id": "CRS-000302",
+    "required_course_id": "CRS-000174",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000255",
+    "course_id": "CRS-000350",
+    "required_course_id": "CRS-000406",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000256",
+    "course_id": "CRS-000414",
+    "required_course_id": "CRS-000174",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000257",
+    "course_id": "CRS-000462",
+    "required_course_id": "CRS-000974",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000258",
+    "course_id": "CRS-000750",
+    "required_course_id": "CRS-000126",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000259",
+    "course_id": "CRS-000878",
+    "required_course_id": "CRS-000558",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000260",
+    "course_id": "CRS-000918",
+    "required_course_id": "CRS-000510",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000261",
+    "course_id": "CRS-000990",
+    "required_course_id": "CRS-000534",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000262",
+    "course_id": "CRS-000046",
+    "required_course_id": "CRS-000206",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000263",
+    "course_id": "CRS-000054",
+    "required_course_id": "CRS-000318",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000264",
+    "course_id": "CRS-000094",
+    "required_course_id": "CRS-000990",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000265",
+    "course_id": "CRS-000150",
+    "required_course_id": "CRS-000006",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000266",
+    "course_id": "CRS-000158",
+    "required_course_id": "CRS-000630",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000267",
+    "course_id": "CRS-000182",
+    "required_course_id": "CRS-000534",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000268",
+    "course_id": "CRS-000198",
+    "required_course_id": "CRS-000502",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000269",
+    "course_id": "CRS-000278",
+    "required_course_id": "CRS-000150",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000270",
+    "course_id": "CRS-000702",
+    "required_course_id": "CRS-000878",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000271",
+    "course_id": "CRS-000718",
+    "required_course_id": "CRS-000278",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000272",
+    "course_id": "CRS-000902",
+    "required_course_id": "CRS-000750",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000273",
+    "course_id": "CRS-000966",
+    "required_course_id": "CRS-000350",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000274",
+    "course_id": "CRS-000110",
+    "required_course_id": "CRS-000766",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000275",
+    "course_id": "CRS-000190",
+    "required_course_id": "CRS-000718",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000276",
+    "course_id": "CRS-000246",
+    "required_course_id": "CRS-000214",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000277",
+    "course_id": "CRS-000254",
+    "required_course_id": "CRS-000870",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000278",
+    "course_id": "CRS-000454",
+    "required_course_id": "CRS-000406",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000279",
+    "course_id": "CRS-000518",
+    "required_course_id": "CRS-000702",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000280",
+    "course_id": "CRS-000526",
+    "required_course_id": "CRS-000182",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000281",
+    "course_id": "CRS-000654",
+    "required_course_id": "CRS-000094",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000282",
+    "course_id": "CRS-000014",
+    "required_course_id": "CRS-000110",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000283",
+    "course_id": "CRS-000022",
+    "required_course_id": "CRS-000086",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000284",
+    "course_id": "CRS-000078",
+    "required_course_id": "CRS-000758",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000285",
+    "course_id": "CRS-000134",
+    "required_course_id": "CRS-000190",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000286",
+    "course_id": "CRS-000222",
+    "required_course_id": "CRS-000302",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000287",
+    "course_id": "CRS-000286",
+    "required_course_id": "CRS-000486",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000288",
+    "course_id": "CRS-000478",
+    "required_course_id": "CRS-000270",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000289",
+    "course_id": "CRS-000614",
+    "required_course_id": "CRS-000006",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000290",
+    "course_id": "CRS-000622",
+    "required_course_id": "CRS-000614",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000291",
+    "course_id": "CRS-000638",
+    "required_course_id": "CRS-000614",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000292",
+    "course_id": "CRS-000774",
+    "required_course_id": "CRS-000318",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000293",
+    "course_id": "CRS-000822",
+    "required_course_id": "CRS-000118",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000294",
+    "course_id": "CRS-000926",
+    "required_course_id": "CRS-000062",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000295",
+    "course_id": "CRS-000950",
+    "required_course_id": "CRS-000870",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000296",
+    "course_id": "CRS-000982",
+    "required_course_id": "CRS-000742",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000297",
+    "course_id": "CRS-000102",
+    "required_course_id": "CRS-000942",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000298",
+    "course_id": "CRS-000166",
+    "required_course_id": "CRS-000102",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000299",
+    "course_id": "CRS-000238",
+    "required_course_id": "CRS-000950",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000300",
+    "course_id": "CRS-000294",
+    "required_course_id": "CRS-000654",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000301",
+    "course_id": "CRS-000574",
+    "required_course_id": "CRS-000606",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000302",
+    "course_id": "CRS-000582",
+    "required_course_id": "CRS-000054",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000303",
+    "course_id": "CRS-000694",
+    "required_course_id": "CRS-000998",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000304",
+    "course_id": "CRS-000710",
+    "required_course_id": "CRS-000174",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000305",
+    "course_id": "CRS-000726",
+    "required_course_id": "CRS-000950",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000306",
+    "course_id": "CRS-000958",
+    "required_course_id": "CRS-000150",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000307",
+    "course_id": "CRS-000015",
+    "required_course_id": "CRS-000007",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000308",
+    "course_id": "CRS-000063",
+    "required_course_id": "CRS-000031",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000309",
+    "course_id": "CRS-000079",
+    "required_course_id": "CRS-000047",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000310",
+    "course_id": "CRS-000831",
+    "required_course_id": "CRS-000527",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000311",
+    "course_id": "CRS-000895",
+    "required_course_id": "CRS-000871",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000312",
+    "course_id": "CRS-000903",
+    "required_course_id": "CRS-000527",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000313",
+    "course_id": "CRS-000927",
+    "required_course_id": "CRS-000047",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000314",
+    "course_id": "CRS-000135",
+    "required_course_id": "CRS-000095",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000315",
+    "course_id": "CRS-000447",
+    "required_course_id": "CRS-000639",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000316",
+    "course_id": "CRS-000503",
+    "required_course_id": "CRS-000031",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000317",
+    "course_id": "CRS-000559",
+    "required_course_id": "CRS-000191",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000318",
+    "course_id": "CRS-000847",
+    "required_course_id": "CRS-000503",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000319",
+    "course_id": "CRS-000991",
+    "required_course_id": "CRS-000079",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000320",
+    "course_id": "CRS-000127",
+    "required_course_id": "CRS-000007",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000321",
+    "course_id": "CRS-000143",
+    "required_course_id": "CRS-000183",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000322",
+    "course_id": "CRS-000151",
+    "required_course_id": "CRS-000735",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000323",
+    "course_id": "CRS-000199",
+    "required_course_id": "CRS-000063",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000324",
+    "course_id": "CRS-000239",
+    "required_course_id": "CRS-000927",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000325",
+    "course_id": "CRS-000431",
+    "required_course_id": "CRS-000447",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000326",
+    "course_id": "CRS-000495",
+    "required_course_id": "CRS-000031",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000327",
+    "course_id": "CRS-000775",
+    "required_course_id": "CRS-000239",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000328",
+    "course_id": "CRS-000983",
+    "required_course_id": "CRS-000903",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000329",
+    "course_id": "CRS-000407",
+    "required_course_id": "CRS-000183",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000330",
+    "course_id": "CRS-000463",
+    "required_course_id": "CRS-000863",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000331",
+    "course_id": "CRS-000511",
+    "required_course_id": "CRS-000407",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000332",
+    "course_id": "CRS-000607",
+    "required_course_id": "CRS-000271",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000333",
+    "course_id": "CRS-000759",
+    "required_course_id": "CRS-000407",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000334",
+    "course_id": "CRS-000999",
+    "required_course_id": "CRS-000031",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000335",
+    "course_id": "CRS-000159",
+    "required_course_id": "CRS-000719",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000336",
+    "course_id": "CRS-000223",
+    "required_course_id": "CRS-000087",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000337",
+    "course_id": "CRS-000399",
+    "required_course_id": "CRS-000847",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000338",
+    "course_id": "CRS-000591",
+    "required_course_id": "CRS-000103",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000339",
+    "course_id": "CRS-000647",
+    "required_course_id": "CRS-000375",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000340",
+    "course_id": "CRS-000767",
+    "required_course_id": "CRS-000047",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000341",
+    "course_id": "CRS-000783",
+    "required_course_id": "CRS-000631",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000342",
+    "course_id": "CRS-000791",
+    "required_course_id": "CRS-000751",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000343",
+    "course_id": "CRS-000887",
+    "required_course_id": "CRS-000215",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000344",
+    "course_id": "CRS-000119",
+    "required_course_id": "CRS-000319",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000345",
+    "course_id": "CRS-000255",
+    "required_course_id": "CRS-000903",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000346",
+    "course_id": "CRS-000359",
+    "required_course_id": "CRS-000895",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000347",
+    "course_id": "CRS-000455",
+    "required_course_id": "CRS-000575",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000348",
+    "course_id": "CRS-000583",
+    "required_course_id": "CRS-000663",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000349",
+    "course_id": "CRS-000727",
+    "required_course_id": "CRS-000551",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000350",
+    "course_id": "CRS-000807",
+    "required_course_id": "CRS-000535",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000351",
+    "course_id": "CRS-000911",
+    "required_course_id": "CRS-000071",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000352",
+    "course_id": "CRS-000959",
+    "required_course_id": "CRS-000727",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000353",
+    "course_id": "CRS-000512",
+    "required_course_id": "CRS-000112",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000354",
+    "course_id": "CRS-000592",
+    "required_course_id": "CRS-000520",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000355",
+    "course_id": "CRS-000080",
+    "required_course_id": "CRS-000512",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000356",
+    "course_id": "CRS-000096",
+    "required_course_id": "CRS-000792",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000357",
+    "course_id": "CRS-000192",
+    "required_course_id": "CRS-000216",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000358",
+    "course_id": "CRS-000448",
+    "required_course_id": "CRS-000376",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000359",
+    "course_id": "CRS-000616",
+    "required_course_id": "CRS-000688",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000360",
+    "course_id": "CRS-000872",
+    "required_course_id": "CRS-000016",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000361",
+    "course_id": "CRS-000880",
+    "required_course_id": "CRS-000936",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000362",
+    "course_id": "CRS-000896",
+    "required_course_id": "CRS-000448",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000363",
+    "course_id": "CRS-000992",
+    "required_course_id": "CRS-000896",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000364",
+    "course_id": "CRS-000152",
+    "required_course_id": "CRS-000288",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000365",
+    "course_id": "CRS-000168",
+    "required_course_id": "CRS-000192",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000366",
+    "course_id": "CRS-000320",
+    "required_course_id": "CRS-000688",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000367",
+    "course_id": "CRS-000328",
+    "required_course_id": "CRS-000896",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000368",
+    "course_id": "CRS-000384",
+    "required_course_id": "CRS-000448",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000369",
+    "course_id": "CRS-000432",
+    "required_course_id": "CRS-000688",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000370",
+    "course_id": "CRS-000528",
+    "required_course_id": "CRS-000592",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000371",
+    "course_id": "CRS-000848",
+    "required_course_id": "CRS-000432",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000372",
+    "course_id": "CRS-000928",
+    "required_course_id": "CRS-000904",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000373",
+    "course_id": "CRS-000960",
+    "required_course_id": "CRS-000384",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000374",
+    "course_id": "CRS-000072",
+    "required_course_id": "CRS-000144",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000375",
+    "course_id": "CRS-000160",
+    "required_course_id": "CRS-000848",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000376",
+    "course_id": "CRS-000304",
+    "required_course_id": "CRS-000384",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000377",
+    "course_id": "CRS-000344",
+    "required_course_id": "CRS-000112",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000378",
+    "course_id": "CRS-000488",
+    "required_course_id": "CRS-000624",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000379",
+    "course_id": "CRS-000552",
+    "required_course_id": "CRS-000024",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000380",
+    "course_id": "CRS-000608",
+    "required_course_id": "CRS-000464",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000381",
+    "course_id": "CRS-000056",
+    "required_course_id": "CRS-000752",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000382",
+    "course_id": "CRS-000104",
+    "required_course_id": "CRS-000320",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000383",
+    "course_id": "CRS-000312",
+    "required_course_id": "CRS-000144",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000384",
+    "course_id": "CRS-000400",
+    "required_course_id": "CRS-000440",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000385",
+    "course_id": "CRS-000544",
+    "required_course_id": "CRS-000192",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000386",
+    "course_id": "CRS-000888",
+    "required_course_id": "CRS-000984",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000387",
+    "course_id": "CRS-000128",
+    "required_course_id": "CRS-000320",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000388",
+    "course_id": "CRS-000176",
+    "required_course_id": "CRS-000056",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000389",
+    "course_id": "CRS-000208",
+    "required_course_id": "CRS-000848",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000390",
+    "course_id": "CRS-000584",
+    "required_course_id": "CRS-000848",
+    "min_grade": "C",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  },
+  {
+    "prerequisite_id": "PRQ-000391",
+    "course_id": "CRS-000944",
+    "required_course_id": "CRS-000992",
+    "min_grade": "B",
+    "effective_from": "2020-01-01",
+    "effective_to": "2030-12-31"
+  }
+]

@@ -1,0 +1,1082 @@
+[
+  {
+    "entity": "course",
+    "record_id": "CRS-000006",
+    "issue_type": "zero_demand_course",
+    "expected_decision": "no_sections_created",
+    "expected_reason_code": "ZERO_FORECAST_DEMAND",
+    "injected_flag": 0
+  },
+  {
+    "entity": "course",
+    "record_id": "CRS-000009",
+    "issue_type": "zero_demand_course",
+    "expected_decision": "no_sections_created",
+    "expected_reason_code": "ZERO_FORECAST_DEMAND",
+    "injected_flag": 0
+  },
+  {
+    "entity": "course",
+    "record_id": "CRS-000010",
+    "issue_type": "zero_demand_course",
+    "expected_decision": "no_sections_created",
+    "expected_reason_code": "ZERO_FORECAST_DEMAND",
+    "injected_flag": 0
+  },
+  {
+    "entity": "course",
+    "record_id": "CRS-000011",
+    "issue_type": "zero_demand_course",
+    "expected_decision": "no_sections_created",
+    "expected_reason_code": "ZERO_FORECAST_DEMAND",
+    "injected_flag": 0
+  },
+  {
+    "entity": "course",
+    "record_id": "CRS-000012",
+    "issue_type": "zero_demand_course",
+    "expected_decision": "no_sections_created",
+    "expected_reason_code": "ZERO_FORECAST_DEMAND",
+    "injected_flag": 0
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000001",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000002",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000004",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000006",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000007",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000008",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000009",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000010",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000011",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000012",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000013",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000014",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000015",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000016",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000017",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000018",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000019",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000020",
+    "issue_type": "faculty_on_leave",
+    "expected_decision": "skip_assignment",
+    "expected_reason_code": "FACULTY_ON_LEAVE",
+    "injected_flag": 0
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000021",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000022",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000024",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000025",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000026",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000027",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000029",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000030",
+    "issue_type": "workload_exceeded",
+    "expected_decision": "flag_overload",
+    "expected_reason_code": "WORKLOAD_HOURS_EXCEEDED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000040",
+    "issue_type": "faculty_on_leave",
+    "expected_decision": "skip_assignment",
+    "expected_reason_code": "FACULTY_ON_LEAVE",
+    "injected_flag": 0
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000060",
+    "issue_type": "faculty_on_leave",
+    "expected_decision": "skip_assignment",
+    "expected_reason_code": "FACULTY_ON_LEAVE",
+    "injected_flag": 0
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000080",
+    "issue_type": "faculty_on_leave",
+    "expected_decision": "skip_assignment",
+    "expected_reason_code": "FACULTY_ON_LEAVE",
+    "injected_flag": 0
+  },
+  {
+    "entity": "faculty",
+    "record_id": "FAC-000100",
+    "issue_type": "faculty_on_leave",
+    "expected_decision": "skip_assignment",
+    "expected_reason_code": "FACULTY_ON_LEAVE",
+    "injected_flag": 0
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221942",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221943",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221944",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221945",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221946",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221947",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221948",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221949",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221950",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221951",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221952",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221953",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221954",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221955",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221956",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221957",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221958",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221959",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221960",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221961",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221962",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221963",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221964",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221965",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "registration_interest",
+    "record_id": "INT-221966",
+    "issue_type": "prerequisite_violation",
+    "expected_decision": "reject_registration",
+    "expected_reason_code": "PREREQUISITE_NOT_COMPLETED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000028",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000039",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000050",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000064",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000065",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000066",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000067",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000070",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000071",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000073",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000075",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000079",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000081",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000083",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000085",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000088",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000090",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000093",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000094",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000095",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000099",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000103",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000106",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000107",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "section",
+    "record_id": "SEC-2026-000108",
+    "issue_type": "section_capacity_too_low",
+    "expected_decision": "resize_or_split",
+    "expected_reason_code": "SECTION_CAPACITY_UNDERSIZED",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000001",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000002",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000003",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000004",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000005",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000006",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000007",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000008",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000009",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000010",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000011",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000012",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000013",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000014",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000015",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000016",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000017",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000018",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000019",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000020",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000021",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000022",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000023",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000024",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000025",
+    "issue_type": "faculty_outside_skill",
+    "expected_decision": "flag_or_reject",
+    "expected_reason_code": "FACULTY_LACKS_CERTIFIED_SKILL",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000028",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000030",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000032",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000034",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000039",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000041",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000043",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000045",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000048",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000050",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000052",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000054",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000056",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000058",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000102",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000104",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000108",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000116",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000126",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000128",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000130",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000132",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000134",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000136",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  },
+  {
+    "entity": "workload_assignment",
+    "record_id": "WLA-2026-000150",
+    "issue_type": "duplicate_section_assignment",
+    "expected_decision": "reassign_or_flag",
+    "expected_reason_code": "SCHEDULE_TIME_COLLISION",
+    "injected_flag": 1
+  }
+]

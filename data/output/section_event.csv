@@ -1,0 +1,983 @@
+event_id,section_id,event_type,event_ts,reason
+SEV-2026-000001,SEC-2026-000001,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6396)
+SEV-2026-000002,SEC-2026-000001,approved,2026-10-22T09:30:00Z,Approved with room ROM-0003 and faculty FAC-000153
+SEV-2026-000003,SEC-2026-000002,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6396)
+SEV-2026-000004,SEC-2026-000002,approved,2026-10-22T09:30:00Z,Approved with room ROM-0003 and faculty FAC-000025
+SEV-2026-000005,SEC-2026-000003,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6396)
+SEV-2026-000006,SEC-2026-000003,approved,2026-10-22T09:30:00Z,Approved with room ROM-0003 and faculty FAC-000025
+SEV-2026-000007,SEC-2026-000004,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6396)
+SEV-2026-000008,SEC-2026-000004,approved,2026-10-22T09:30:00Z,Approved with room ROM-0003 and faculty FAC-000161
+SEV-2026-000009,SEC-2026-000005,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6396)
+SEV-2026-000010,SEC-2026-000005,approved,2026-10-22T09:30:00Z,Approved with room ROM-0003 and faculty FAC-000161
+SEV-2026-000011,SEC-2026-000006,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6396)
+SEV-2026-000012,SEC-2026-000006,approved,2026-10-22T09:30:00Z,Approved with room ROM-0003 and faculty FAC-000025
+SEV-2026-000013,SEC-2026-000007,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6396)
+SEV-2026-000014,SEC-2026-000007,approved,2026-10-22T09:30:00Z,Approved with room ROM-0003 and faculty FAC-000153
+SEV-2026-000015,SEC-2026-000008,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6396)
+SEV-2026-000016,SEC-2026-000008,approved,2026-10-22T09:30:00Z,Approved with room ROM-0003 and faculty FAC-000153
+SEV-2026-000017,SEC-2026-000009,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6396)
+SEV-2026-000018,SEC-2026-000009,approved,2026-10-22T09:30:00Z,Approved with room ROM-0003 and faculty FAC-000161
+SEV-2026-000019,SEC-2026-000010,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6396)
+SEV-2026-000020,SEC-2026-000010,approved,2026-10-22T09:30:00Z,Approved with room ROM-0003 and faculty FAC-000025
+SEV-2026-000021,SEC-2026-000012,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6380)
+SEV-2026-000022,SEC-2026-000012,approved,2026-10-22T09:30:00Z,Approved with room ROM-0008 and faculty FAC-000050
+SEV-2026-000023,SEC-2026-000013,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6380)
+SEV-2026-000024,SEC-2026-000013,approved,2026-10-22T09:30:00Z,Approved with room ROM-0008 and faculty FAC-000146
+SEV-2026-000025,SEC-2026-000014,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6380)
+SEV-2026-000026,SEC-2026-000014,approved,2026-10-22T09:30:00Z,Approved with room ROM-0008 and faculty FAC-000050
+SEV-2026-000027,SEC-2026-000015,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6380)
+SEV-2026-000028,SEC-2026-000015,approved,2026-10-22T09:30:00Z,Approved with room ROM-0008 and faculty FAC-000066
+SEV-2026-000029,SEC-2026-000016,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6380)
+SEV-2026-000030,SEC-2026-000016,approved,2026-10-22T09:30:00Z,Approved with room ROM-0008 and faculty FAC-000426
+SEV-2026-000031,SEC-2026-000017,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6380)
+SEV-2026-000032,SEC-2026-000017,approved,2026-10-22T09:30:00Z,Approved with room ROM-0008 and faculty FAC-000066
+SEV-2026-000033,SEC-2026-000018,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6380)
+SEV-2026-000034,SEC-2026-000018,approved,2026-10-22T09:30:00Z,Approved with room ROM-0008 and faculty FAC-000426
+SEV-2026-000035,SEC-2026-000019,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6380)
+SEV-2026-000036,SEC-2026-000019,approved,2026-10-22T09:30:00Z,Approved with room ROM-0008 and faculty FAC-000050
+SEV-2026-000037,SEC-2026-000020,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6380)
+SEV-2026-000038,SEC-2026-000020,approved,2026-10-22T09:30:00Z,Approved with room ROM-0008 and faculty FAC-000146
+SEV-2026-000039,SEC-2026-000021,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6380)
+SEV-2026-000040,SEC-2026-000021,approved,2026-10-22T09:30:00Z,Approved with room ROM-0008 and faculty FAC-000146
+SEV-2026-000041,SEC-2026-000022,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6380)
+SEV-2026-000042,SEC-2026-000022,approved,2026-10-22T09:30:00Z,Approved with room ROM-0013 and faculty FAC-000066
+SEV-2026-000043,SEC-2026-000023,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6380)
+SEV-2026-000044,SEC-2026-000023,approved,2026-10-22T09:30:00Z,Approved with room ROM-0013 and faculty FAC-000050
+SEV-2026-000045,SEC-2026-000025,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6425)
+SEV-2026-000046,SEC-2026-000025,approved,2026-10-22T09:30:00Z,Approved with room ROM-0018 and faculty FAC-000027
+SEV-2026-000047,SEC-2026-000026,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6425)
+SEV-2026-000048,SEC-2026-000026,approved,2026-10-22T09:30:00Z,Approved with room ROM-0018 and faculty FAC-000227
+SEV-2026-000049,SEC-2026-000027,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6425)
+SEV-2026-000050,SEC-2026-000027,approved,2026-10-22T09:30:00Z,Approved with room ROM-0013 and faculty FAC-000283
+SEV-2026-000051,SEC-2026-000028,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6425)
+SEV-2026-000052,SEC-2026-000028,approved,2026-10-22T09:30:00Z,Approved with room ROM-0013 and faculty FAC-000027
+SEV-2026-000053,SEC-2026-000029,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6425)
+SEV-2026-000054,SEC-2026-000029,approved,2026-10-22T09:30:00Z,Approved with room ROM-0013 and faculty FAC-000227
+SEV-2026-000055,SEC-2026-000030,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6425)
+SEV-2026-000056,SEC-2026-000030,approved,2026-10-22T09:30:00Z,Approved with room ROM-0013 and faculty FAC-000283
+SEV-2026-000057,SEC-2026-000031,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6425)
+SEV-2026-000058,SEC-2026-000031,approved,2026-10-22T09:30:00Z,Approved with room ROM-0013 and faculty FAC-000027
+SEV-2026-000059,SEC-2026-000032,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6425)
+SEV-2026-000060,SEC-2026-000032,approved,2026-10-22T09:30:00Z,Approved with room ROM-0013 and faculty FAC-000283
+SEV-2026-000061,SEC-2026-000033,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6425)
+SEV-2026-000062,SEC-2026-000033,approved,2026-10-22T09:30:00Z,Approved with room ROM-0013 and faculty FAC-000027
+SEV-2026-000063,SEC-2026-000034,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6425)
+SEV-2026-000064,SEC-2026-000034,approved,2026-10-22T09:30:00Z,Approved with room ROM-0013 and faculty FAC-000227
+SEV-2026-000065,SEC-2026-000035,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6425)
+SEV-2026-000066,SEC-2026-000035,approved,2026-10-22T09:30:00Z,Approved with room ROM-0023 and faculty FAC-000283
+SEV-2026-000067,SEC-2026-000036,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6425)
+SEV-2026-000068,SEC-2026-000036,approved,2026-10-22T09:30:00Z,Approved with room ROM-0023 and faculty FAC-000355
+SEV-2026-000069,SEC-2026-000037,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6425)
+SEV-2026-000070,SEC-2026-000037,approved,2026-10-22T09:30:00Z,Approved with room ROM-0018 and faculty FAC-000227
+SEV-2026-000071,SEC-2026-000039,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (1766)
+SEV-2026-000072,SEC-2026-000039,approved,2026-10-22T09:30:00Z,Approved with room ROM-0028 and faculty FAC-000492
+SEV-2026-000073,SEC-2026-000040,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (1766)
+SEV-2026-000074,SEC-2026-000040,approved,2026-10-22T09:30:00Z,Approved with room ROM-0028 and faculty FAC-000492
+SEV-2026-000075,SEC-2026-000041,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (1766)
+SEV-2026-000076,SEC-2026-000041,approved,2026-10-22T09:30:00Z,Approved with room ROM-0023 and faculty FAC-000388
+SEV-2026-000077,SEC-2026-000042,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (1766)
+SEV-2026-000078,SEC-2026-000042,approved,2026-10-22T09:30:00Z,Approved with room ROM-0018 and faculty FAC-000476
+SEV-2026-000079,SEC-2026-000043,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (1766)
+SEV-2026-000080,SEC-2026-000043,approved,2026-10-22T09:30:00Z,Approved with room ROM-0018 and faculty FAC-000388
+SEV-2026-000081,SEC-2026-000044,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (1766)
+SEV-2026-000082,SEC-2026-000044,approved,2026-10-22T09:30:00Z,Approved with room ROM-0018 and faculty FAC-000476
+SEV-2026-000083,SEC-2026-000045,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (1766)
+SEV-2026-000084,SEC-2026-000045,approved,2026-10-22T09:30:00Z,Approved with room ROM-0018 and faculty FAC-000236
+SEV-2026-000085,SEC-2026-000046,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (1766)
+SEV-2026-000086,SEC-2026-000046,approved,2026-10-22T09:30:00Z,Approved with room ROM-0018 and faculty FAC-000244
+SEV-2026-000087,SEC-2026-000047,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (1766)
+SEV-2026-000088,SEC-2026-000047,approved,2026-10-22T09:30:00Z,Approved with room ROM-0018 and faculty FAC-000244
+SEV-2026-000089,SEC-2026-000048,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (1766)
+SEV-2026-000090,SEC-2026-000048,approved,2026-10-22T09:30:00Z,Approved with room ROM-0018 and faculty FAC-000412
+SEV-2026-000091,SEC-2026-000050,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6399)
+SEV-2026-000092,SEC-2026-000050,approved,2026-10-22T09:30:00Z,Approved with room ROM-0033 and faculty FAC-000053
+SEV-2026-000093,SEC-2026-000051,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6399)
+SEV-2026-000094,SEC-2026-000051,approved,2026-10-22T09:30:00Z,Approved with room ROM-0033 and faculty FAC-000045
+SEV-2026-000095,SEC-2026-000052,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6399)
+SEV-2026-000096,SEC-2026-000052,approved,2026-10-22T09:30:00Z,Approved with room ROM-0028 and faculty FAC-000149
+SEV-2026-000097,SEC-2026-000053,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6399)
+SEV-2026-000098,SEC-2026-000053,approved,2026-10-22T09:30:00Z,Approved with room ROM-0023 and faculty FAC-000173
+SEV-2026-000099,SEC-2026-000054,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6399)
+SEV-2026-000100,SEC-2026-000054,approved,2026-10-22T09:30:00Z,Approved with room ROM-0023 and faculty FAC-000053
+SEV-2026-000101,SEC-2026-000055,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6399)
+SEV-2026-000102,SEC-2026-000055,approved,2026-10-22T09:30:00Z,Approved with room ROM-0023 and faculty FAC-000045
+SEV-2026-000103,SEC-2026-000056,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6399)
+SEV-2026-000104,SEC-2026-000056,approved,2026-10-22T09:30:00Z,Approved with room ROM-0023 and faculty FAC-000149
+SEV-2026-000105,SEC-2026-000057,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6399)
+SEV-2026-000106,SEC-2026-000057,approved,2026-10-22T09:30:00Z,Approved with room ROM-0023 and faculty FAC-000045
+SEV-2026-000107,SEC-2026-000058,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6399)
+SEV-2026-000108,SEC-2026-000058,approved,2026-10-22T09:30:00Z,Approved with room ROM-0023 and faculty FAC-000053
+SEV-2026-000109,SEC-2026-000059,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6399)
+SEV-2026-000110,SEC-2026-000059,approved,2026-10-22T09:30:00Z,Approved with room ROM-0023 and faculty FAC-000045
+SEV-2026-000111,SEC-2026-000060,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6399)
+SEV-2026-000112,SEC-2026-000060,approved,2026-10-22T09:30:00Z,Approved with room ROM-0038 and faculty FAC-000149
+SEV-2026-000113,SEC-2026-000061,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6399)
+SEV-2026-000114,SEC-2026-000061,approved,2026-10-22T09:30:00Z,Approved with room ROM-0038 and faculty FAC-000053
+SEV-2026-000115,SEC-2026-000062,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (6399)
+SEV-2026-000116,SEC-2026-000062,approved,2026-10-22T09:30:00Z,Approved with room ROM-0033 and faculty FAC-000173
+SEV-2026-000117,SEC-2026-000064,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (35)
+SEV-2026-000118,SEC-2026-000064,approved,2026-10-22T09:30:00Z,Approved with room ROM-0043 and faculty FAC-000319
+SEV-2026-000119,SEC-2026-000065,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (36)
+SEV-2026-000120,SEC-2026-000065,approved,2026-10-22T09:30:00Z,Approved with room ROM-0048 and faculty FAC-000008
+SEV-2026-000121,SEC-2026-000066,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (26)
+SEV-2026-000122,SEC-2026-000066,approved,2026-10-22T09:30:00Z,Approved with room ROM-0002 and faculty FAC-000093
+SEV-2026-000123,SEC-2026-000067,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (45)
+SEV-2026-000124,SEC-2026-000067,approved,2026-10-22T09:30:00Z,Approved with room ROM-0053 and faculty FAC-000184
+SEV-2026-000125,SEC-2026-000068,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (45)
+SEV-2026-000126,SEC-2026-000068,approved,2026-10-22T09:30:00Z,Approved with room ROM-0001 and faculty FAC-000264
+SEV-2026-000127,SEC-2026-000069,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (23)
+SEV-2026-000128,SEC-2026-000069,approved,2026-10-22T09:30:00Z,Approved with room ROM-0007 and faculty FAC-000329
+SEV-2026-000129,SEC-2026-000070,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (27)
+SEV-2026-000130,SEC-2026-000070,approved,2026-10-22T09:30:00Z,Approved with room ROM-0012 and faculty FAC-000242
+SEV-2026-000131,SEC-2026-000071,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (80)
+SEV-2026-000132,SEC-2026-000071,approved,2026-10-22T09:30:00Z,Approved with room ROM-0058 and faculty FAC-000469
+SEV-2026-000133,SEC-2026-000072,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (80)
+SEV-2026-000134,SEC-2026-000072,approved,2026-10-22T09:30:00Z,Approved with room ROM-0043 and faculty FAC-000469
+SEV-2026-000135,SEC-2026-000073,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (64)
+SEV-2026-000136,SEC-2026-000073,approved,2026-10-22T09:30:00Z,Approved with room ROM-0063 and faculty FAC-000343
+SEV-2026-000137,SEC-2026-000074,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (64)
+SEV-2026-000138,SEC-2026-000074,approved,2026-10-22T09:30:00Z,Approved with room ROM-0002 and faculty FAC-000071
+SEV-2026-000139,SEC-2026-000075,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (55)
+SEV-2026-000140,SEC-2026-000075,approved,2026-10-22T09:30:00Z,Approved with room ROM-0068 and faculty FAC-000096
+SEV-2026-000141,SEC-2026-000076,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (55)
+SEV-2026-000142,SEC-2026-000076,approved,2026-10-22T09:30:00Z,Approved with room ROM-0006 and faculty FAC-000488
+SEV-2026-000143,SEC-2026-000079,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (66)
+SEV-2026-000144,SEC-2026-000079,approved,2026-10-22T09:30:00Z,Approved with room ROM-0073 and faculty FAC-000048
+SEV-2026-000145,SEC-2026-000080,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (66)
+SEV-2026-000146,SEC-2026-000080,approved,2026-10-22T09:30:00Z,Approved with room ROM-0007 and faculty FAC-000448
+SEV-2026-000147,SEC-2026-000081,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (31)
+SEV-2026-000148,SEC-2026-000081,approved,2026-10-22T09:30:00Z,Approved with room ROM-0078 and faculty FAC-000186
+SEV-2026-000149,SEC-2026-000082,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (14)
+SEV-2026-000150,SEC-2026-000082,approved,2026-10-22T09:30:00Z,Approved with room ROM-0001 and faculty FAC-000007
+SEV-2026-000151,SEC-2026-000083,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (74)
+SEV-2026-000152,SEC-2026-000083,approved,2026-10-22T09:30:00Z,Approved with room ROM-0083 and faculty FAC-000496
+SEV-2026-000153,SEC-2026-000084,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (74)
+SEV-2026-000154,SEC-2026-000084,approved,2026-10-22T09:30:00Z,Approved with room ROM-0048 and faculty FAC-000496
+SEV-2026-000155,SEC-2026-000085,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (105)
+SEV-2026-000156,SEC-2026-000085,approved,2026-10-22T09:30:00Z,Approved with room ROM-0088 and faculty FAC-000201
+SEV-2026-000157,SEC-2026-000088,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (62)
+SEV-2026-000158,SEC-2026-000088,approved,2026-10-22T09:30:00Z,Approved with room ROM-0093 and faculty FAC-000135
+SEV-2026-000159,SEC-2026-000089,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (62)
+SEV-2026-000160,SEC-2026-000089,approved,2026-10-22T09:30:00Z,Approved with room ROM-0012 and faculty FAC-000223
+SEV-2026-000161,SEC-2026-000090,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (104)
+SEV-2026-000162,SEC-2026-000090,approved,2026-10-22T09:30:00Z,Approved with room ROM-0098 and faculty FAC-000273
+SEV-2026-000163,SEC-2026-000091,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (104)
+SEV-2026-000164,SEC-2026-000091,approved,2026-10-22T09:30:00Z,Approved with room ROM-0053 and faculty FAC-000353
+SEV-2026-000165,SEC-2026-000092,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (104)
+SEV-2026-000166,SEC-2026-000092,approved,2026-10-22T09:30:00Z,Approved with room ROM-0002 and faculty FAC-000353
+SEV-2026-000167,SEC-2026-000093,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (33)
+SEV-2026-000168,SEC-2026-000093,approved,2026-10-22T09:30:00Z,Approved with room ROM-0103 and faculty FAC-000026
+SEV-2026-000169,SEC-2026-000094,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (30)
+SEV-2026-000170,SEC-2026-000094,approved,2026-10-22T09:30:00Z,Approved with room ROM-0017 and faculty FAC-000144
+SEV-2026-000171,SEC-2026-000095,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (108)
+SEV-2026-000172,SEC-2026-000095,approved,2026-10-22T09:30:00Z,Approved with room ROM-0108 and faculty FAC-000009
+SEV-2026-000173,SEC-2026-000096,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (108)
+SEV-2026-000174,SEC-2026-000096,approved,2026-10-22T09:30:00Z,Approved with room ROM-0058 and faculty FAC-000009
+SEV-2026-000175,SEC-2026-000097,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (108)
+SEV-2026-000176,SEC-2026-000097,approved,2026-10-22T09:30:00Z,Approved with room ROM-0007 and faculty FAC-000393
+SEV-2026-000177,SEC-2026-000098,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (22)
+SEV-2026-000178,SEC-2026-000098,approved,2026-10-22T09:30:00Z,Approved with room ROM-0022 and faculty FAC-000315
+SEV-2026-000179,SEC-2026-000099,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (33)
+SEV-2026-000180,SEC-2026-000099,approved,2026-10-22T09:30:00Z,Approved with room ROM-0113 and faculty FAC-000108
+SEV-2026-000181,SEC-2026-000100,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (12)
+SEV-2026-000182,SEC-2026-000100,approved,2026-10-22T09:30:00Z,Approved with room ROM-0006 and faculty FAC-000295
+SEV-2026-000183,SEC-2026-000101,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (20)
+SEV-2026-000184,SEC-2026-000101,approved,2026-10-22T09:30:00Z,Approved with room ROM-0011 and faculty FAC-000081
+SEV-2026-000185,SEC-2026-000102,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (18)
+SEV-2026-000186,SEC-2026-000102,approved,2026-10-22T09:30:00Z,Approved with room ROM-0016 and faculty FAC-000482
+SEV-2026-000187,SEC-2026-000103,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (54)
+SEV-2026-000188,SEC-2026-000103,approved,2026-10-22T09:30:00Z,Approved with room ROM-0118 and faculty FAC-000483
+SEV-2026-000189,SEC-2026-000104,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (54)
+SEV-2026-000190,SEC-2026-000104,approved,2026-10-22T09:30:00Z,Approved with room ROM-0011 and faculty FAC-000483
+SEV-2026-000191,SEC-2026-000106,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (40)
+SEV-2026-000192,SEC-2026-000106,approved,2026-10-22T09:30:00Z,Approved with room ROM-0123 and faculty FAC-000177
+SEV-2026-000193,SEC-2026-000107,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (31)
+SEV-2026-000194,SEC-2026-000107,approved,2026-10-22T09:30:00Z,Approved with room ROM-0128 and faculty FAC-000252
+SEV-2026-000195,SEC-2026-000108,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (44)
+SEV-2026-000196,SEC-2026-000108,approved,2026-10-22T09:30:00Z,Approved with room ROM-0133 and faculty FAC-000021
+SEV-2026-000197,SEC-2026-000109,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (44)
+SEV-2026-000198,SEC-2026-000109,approved,2026-10-22T09:30:00Z,Approved with room ROM-0016 and faculty FAC-000021
+SEV-2026-000199,SEC-2026-000110,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (33)
+SEV-2026-000200,SEC-2026-000110,approved,2026-10-22T09:30:00Z,Approved with room ROM-0138 and faculty FAC-000105
+SEV-2026-000201,SEC-2026-000112,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (60)
+SEV-2026-000202,SEC-2026-000112,approved,2026-10-22T09:30:00Z,Approved with room ROM-0143 and faculty FAC-000285
+SEV-2026-000203,SEC-2026-000113,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (60)
+SEV-2026-000204,SEC-2026-000113,approved,2026-10-22T09:30:00Z,Approved with room ROM-0021 and faculty FAC-000493
+SEV-2026-000205,SEC-2026-000114,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (42)
+SEV-2026-000206,SEC-2026-000114,approved,2026-10-22T09:30:00Z,Approved with room ROM-0148 and faculty FAC-000393
+SEV-2026-000207,SEC-2026-000115,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (42)
+SEV-2026-000208,SEC-2026-000115,approved,2026-10-22T09:30:00Z,Approved with room ROM-0026 and faculty FAC-000105
+SEV-2026-000209,SEC-2026-000116,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (54)
+SEV-2026-000210,SEC-2026-000116,approved,2026-10-22T09:30:00Z,Approved with room ROM-0004 and faculty FAC-000357
+SEV-2026-000211,SEC-2026-000117,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (16)
+SEV-2026-000212,SEC-2026-000117,approved,2026-10-22T09:30:00Z,Approved with room ROM-0021 and faculty FAC-000103
+SEV-2026-000213,SEC-2026-000118,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (90)
+SEV-2026-000214,SEC-2026-000118,approved,2026-10-22T09:30:00Z,Approved with room ROM-0009 and faculty FAC-000369
+SEV-2026-000215,SEC-2026-000119,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (90)
+SEV-2026-000216,SEC-2026-000119,approved,2026-10-22T09:30:00Z,Approved with room ROM-0017 and faculty FAC-000017
+SEV-2026-000217,SEC-2026-000120,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (30)
+SEV-2026-000218,SEC-2026-000120,approved,2026-10-22T09:30:00Z,Approved with room ROM-0027 and faculty FAC-000019
+SEV-2026-000219,SEC-2026-000121,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (21)
+SEV-2026-000220,SEC-2026-000121,approved,2026-10-22T09:30:00Z,Approved with room ROM-0032 and faculty FAC-000071
+SEV-2026-000221,SEC-2026-000122,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (43)
+SEV-2026-000222,SEC-2026-000122,approved,2026-10-22T09:30:00Z,Approved with room ROM-0014 and faculty FAC-000489
+SEV-2026-000223,SEC-2026-000123,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (46)
+SEV-2026-000224,SEC-2026-000123,approved,2026-10-22T09:30:00Z,Approved with room ROM-0019 and faculty FAC-000306
+SEV-2026-000225,SEC-2026-000124,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (18)
+SEV-2026-000226,SEC-2026-000124,approved,2026-10-22T09:30:00Z,Approved with room ROM-0026 and faculty FAC-000124
+SEV-2026-000227,SEC-2026-000125,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (47)
+SEV-2026-000228,SEC-2026-000125,approved,2026-10-22T09:30:00Z,Approved with room ROM-0024 and faculty FAC-000102
+SEV-2026-000229,SEC-2026-000126,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (95)
+SEV-2026-000230,SEC-2026-000126,approved,2026-10-22T09:30:00Z,Approved with room ROM-0029 and faculty FAC-000361
+SEV-2026-000231,SEC-2026-000127,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (95)
+SEV-2026-000232,SEC-2026-000127,approved,2026-10-22T09:30:00Z,Approved with room ROM-0063 and faculty FAC-000489
+SEV-2026-000233,SEC-2026-000128,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (45)
+SEV-2026-000234,SEC-2026-000128,approved,2026-10-22T09:30:00Z,Approved with room ROM-0034 and faculty FAC-000098
+SEV-2026-000235,SEC-2026-000129,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (20)
+SEV-2026-000236,SEC-2026-000129,approved,2026-10-22T09:30:00Z,Approved with room ROM-0031 and faculty FAC-000467
+SEV-2026-000237,SEC-2026-000130,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (12)
+SEV-2026-000238,SEC-2026-000130,approved,2026-10-22T09:30:00Z,Approved with room ROM-0036 and faculty FAC-000004
+SEV-2026-000239,SEC-2026-000131,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (49)
+SEV-2026-000240,SEC-2026-000131,approved,2026-10-22T09:30:00Z,Approved with room ROM-0039 and faculty FAC-000062
+SEV-2026-000241,SEC-2026-000133,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (37)
+SEV-2026-000242,SEC-2026-000133,approved,2026-10-22T09:30:00Z,Approved with room ROM-0044 and faculty FAC-000472
+SEV-2026-000243,SEC-2026-000134,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (28)
+SEV-2026-000244,SEC-2026-000134,approved,2026-10-22T09:30:00Z,Approved with room ROM-0037 and faculty FAC-000139
+SEV-2026-000245,SEC-2026-000135,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (36)
+SEV-2026-000246,SEC-2026-000135,approved,2026-10-22T09:30:00Z,Approved with room ROM-0049 and faculty FAC-000316
+SEV-2026-000247,SEC-2026-000136,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (33)
+SEV-2026-000248,SEC-2026-000136,approved,2026-10-22T09:30:00Z,Approved with room ROM-0054 and faculty FAC-000397
+SEV-2026-000249,SEC-2026-000137,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (64)
+SEV-2026-000250,SEC-2026-000137,approved,2026-10-22T09:30:00Z,Approved with room ROM-0059 and faculty FAC-000126
+SEV-2026-000251,SEC-2026-000138,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (64)
+SEV-2026-000252,SEC-2026-000138,approved,2026-10-22T09:30:00Z,Approved with room ROM-0031 and faculty FAC-000174
+SEV-2026-000253,SEC-2026-000139,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (87)
+SEV-2026-000254,SEC-2026-000139,approved,2026-10-22T09:30:00Z,Approved with room ROM-0064 and faculty FAC-000208
+SEV-2026-000255,SEC-2026-000140,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (87)
+SEV-2026-000256,SEC-2026-000140,approved,2026-10-22T09:30:00Z,Approved with room ROM-0022 and faculty FAC-000112
+SEV-2026-000257,SEC-2026-000141,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (69)
+SEV-2026-000258,SEC-2026-000141,approved,2026-10-22T09:30:00Z,Approved with room ROM-0069 and faculty FAC-000308
+SEV-2026-000259,SEC-2026-000142,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (69)
+SEV-2026-000260,SEC-2026-000142,approved,2026-10-22T09:30:00Z,Approved with room ROM-0036 and faculty FAC-000396
+SEV-2026-000261,SEC-2026-000143,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (97)
+SEV-2026-000262,SEC-2026-000143,approved,2026-10-22T09:30:00Z,Approved with room ROM-0074 and faculty FAC-000189
+SEV-2026-000263,SEC-2026-000144,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (97)
+SEV-2026-000264,SEC-2026-000144,approved,2026-10-22T09:30:00Z,Approved with room ROM-0068 and faculty FAC-000189
+SEV-2026-000265,SEC-2026-000145,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (91)
+SEV-2026-000266,SEC-2026-000145,approved,2026-10-22T09:30:00Z,Approved with room ROM-0079 and faculty FAC-000123
+SEV-2026-000267,SEC-2026-000146,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (91)
+SEV-2026-000268,SEC-2026-000146,approved,2026-10-22T09:30:00Z,Approved with room ROM-0073 and faculty FAC-000123
+SEV-2026-000269,SEC-2026-000147,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (72)
+SEV-2026-000270,SEC-2026-000147,approved,2026-10-22T09:30:00Z,Approved with room ROM-0084 and faculty FAC-000089
+SEV-2026-000271,SEC-2026-000148,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (72)
+SEV-2026-000272,SEC-2026-000148,approved,2026-10-22T09:30:00Z,Approved with room ROM-0041 and faculty FAC-000425
+SEV-2026-000273,SEC-2026-000149,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (41)
+SEV-2026-000274,SEC-2026-000149,approved,2026-10-22T09:30:00Z,Approved with room ROM-0089 and faculty FAC-000258
+SEV-2026-000275,SEC-2026-000150,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (24)
+SEV-2026-000276,SEC-2026-000150,approved,2026-10-22T09:30:00Z,Approved with room ROM-0042 and faculty FAC-000347
+SEV-2026-000277,SEC-2026-000151,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (47)
+SEV-2026-000278,SEC-2026-000151,approved,2026-10-22T09:30:00Z,Approved with room ROM-0094 and faculty FAC-000229
+SEV-2026-000279,SEC-2026-000152,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (63)
+SEV-2026-000280,SEC-2026-000152,approved,2026-10-22T09:30:00Z,Approved with room ROM-0099 and faculty FAC-000199
+SEV-2026-000281,SEC-2026-000153,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (63)
+SEV-2026-000282,SEC-2026-000153,approved,2026-10-22T09:30:00Z,Approved with room ROM-0046 and faculty FAC-000199
+SEV-2026-000283,SEC-2026-000154,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (29)
+SEV-2026-000284,SEC-2026-000154,approved,2026-10-22T09:30:00Z,Approved with room ROM-0047 and faculty FAC-000234
+SEV-2026-000285,SEC-2026-000155,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (31)
+SEV-2026-000286,SEC-2026-000155,approved,2026-10-22T09:30:00Z,Approved with room ROM-0104 and faculty FAC-000075
+SEV-2026-000287,SEC-2026-000156,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (73)
+SEV-2026-000288,SEC-2026-000156,approved,2026-10-22T09:30:00Z,Approved with room ROM-0109 and faculty FAC-000188
+SEV-2026-000289,SEC-2026-000157,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (73)
+SEV-2026-000290,SEC-2026-000157,approved,2026-10-22T09:30:00Z,Approved with room ROM-0051 and faculty FAC-000188
+SEV-2026-000291,SEC-2026-000158,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (17)
+SEV-2026-000292,SEC-2026-000158,approved,2026-10-22T09:30:00Z,Approved with room ROM-0041 and faculty FAC-000082
+SEV-2026-000293,SEC-2026-000159,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (32)
+SEV-2026-000294,SEC-2026-000159,approved,2026-10-22T09:30:00Z,Approved with room ROM-0114 and faculty FAC-000437
+SEV-2026-000295,SEC-2026-000162,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (16)
+SEV-2026-000296,SEC-2026-000162,approved,2026-10-22T09:30:00Z,Approved with room ROM-0046 and faculty FAC-000463
+SEV-2026-000297,SEC-2026-000163,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (79)
+SEV-2026-000298,SEC-2026-000163,approved,2026-10-22T09:30:00Z,Approved with room ROM-0119 and faculty FAC-000404
+SEV-2026-000299,SEC-2026-000164,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (79)
+SEV-2026-000300,SEC-2026-000164,approved,2026-10-22T09:30:00Z,Approved with room ROM-0056 and faculty FAC-000108
+SEV-2026-000301,SEC-2026-000165,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (74)
+SEV-2026-000302,SEC-2026-000165,approved,2026-10-22T09:30:00Z,Approved with room ROM-0124 and faculty FAC-000386
+SEV-2026-000303,SEC-2026-000166,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (74)
+SEV-2026-000304,SEC-2026-000166,approved,2026-10-22T09:30:00Z,Approved with room ROM-0061 and faculty FAC-000386
+SEV-2026-000305,SEC-2026-000167,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (31)
+SEV-2026-000306,SEC-2026-000167,approved,2026-10-22T09:30:00Z,Approved with room ROM-0129 and faculty FAC-000235
+SEV-2026-000307,SEC-2026-000168,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (101)
+SEV-2026-000308,SEC-2026-000168,approved,2026-10-22T09:30:00Z,Approved with room ROM-0134 and faculty FAC-000212
+SEV-2026-000309,SEC-2026-000170,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (87)
+SEV-2026-000310,SEC-2026-000170,approved,2026-10-22T09:30:00Z,Approved with room ROM-0139 and faculty FAC-000117
+SEV-2026-000311,SEC-2026-000171,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (87)
+SEV-2026-000312,SEC-2026-000171,approved,2026-10-22T09:30:00Z,Approved with room ROM-0027 and faculty FAC-000117
+SEV-2026-000313,SEC-2026-000172,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (45)
+SEV-2026-000314,SEC-2026-000172,approved,2026-10-22T09:30:00Z,Approved with room ROM-0144 and faculty FAC-000134
+SEV-2026-000315,SEC-2026-000174,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (28)
+SEV-2026-000316,SEC-2026-000174,approved,2026-10-22T09:30:00Z,Approved with room ROM-0052 and faculty FAC-000106
+SEV-2026-000317,SEC-2026-000175,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (12)
+SEV-2026-000318,SEC-2026-000175,approved,2026-10-22T09:30:00Z,Approved with room ROM-0051 and faculty FAC-000059
+SEV-2026-000319,SEC-2026-000176,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (40)
+SEV-2026-000320,SEC-2026-000176,approved,2026-10-22T09:30:00Z,Approved with room ROM-0149 and faculty FAC-000165
+SEV-2026-000321,SEC-2026-000177,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (37)
+SEV-2026-000322,SEC-2026-000177,approved,2026-10-22T09:30:00Z,Approved with room ROM-0005 and faculty FAC-000222
+SEV-2026-000323,SEC-2026-000178,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (24)
+SEV-2026-000324,SEC-2026-000178,approved,2026-10-22T09:30:00Z,Approved with room ROM-0057 and faculty FAC-000367
+SEV-2026-000325,SEC-2026-000180,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (36)
+SEV-2026-000326,SEC-2026-000180,approved,2026-10-22T09:30:00Z,Approved with room ROM-0010 and faculty FAC-000193
+SEV-2026-000327,SEC-2026-000181,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (85)
+SEV-2026-000328,SEC-2026-000181,approved,2026-10-22T09:30:00Z,Approved with room ROM-0015 and faculty FAC-000490
+SEV-2026-000329,SEC-2026-000182,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (45)
+SEV-2026-000330,SEC-2026-000182,approved,2026-10-22T09:30:00Z,Approved with room ROM-0020 and faculty FAC-000355
+SEV-2026-000331,SEC-2026-000183,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (31)
+SEV-2026-000332,SEC-2026-000183,approved,2026-10-22T09:30:00Z,Approved with room ROM-0025 and faculty FAC-000292
+SEV-2026-000333,SEC-2026-000184,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (25)
+SEV-2026-000334,SEC-2026-000184,approved,2026-10-22T09:30:00Z,Approved with room ROM-0062 and faculty FAC-000111
+SEV-2026-000335,SEC-2026-000185,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (43)
+SEV-2026-000336,SEC-2026-000185,approved,2026-10-22T09:30:00Z,Approved with room ROM-0030 and faculty FAC-000065
+SEV-2026-000337,SEC-2026-000186,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (46)
+SEV-2026-000338,SEC-2026-000186,approved,2026-10-22T09:30:00Z,Approved with room ROM-0035 and faculty FAC-000290
+SEV-2026-000339,SEC-2026-000189,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (111)
+SEV-2026-000340,SEC-2026-000189,approved,2026-10-22T09:30:00Z,Approved with room ROM-0040 and faculty FAC-000185
+SEV-2026-000341,SEC-2026-000191,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (94)
+SEV-2026-000342,SEC-2026-000191,approved,2026-10-22T09:30:00Z,Approved with room ROM-0045 and faculty FAC-000156
+SEV-2026-000343,SEC-2026-000192,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (78)
+SEV-2026-000344,SEC-2026-000192,approved,2026-10-22T09:30:00Z,Approved with room ROM-0050 and faculty FAC-000248
+SEV-2026-000345,SEC-2026-000193,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (24)
+SEV-2026-000346,SEC-2026-000193,approved,2026-10-22T09:30:00Z,Approved with room ROM-0067 and faculty FAC-000265
+SEV-2026-000347,SEC-2026-000194,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (30)
+SEV-2026-000348,SEC-2026-000194,approved,2026-10-22T09:30:00Z,Approved with room ROM-0072 and faculty FAC-000194
+SEV-2026-000349,SEC-2026-000195,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (28)
+SEV-2026-000350,SEC-2026-000195,approved,2026-10-22T09:30:00Z,Approved with room ROM-0077 and faculty FAC-000251
+SEV-2026-000351,SEC-2026-000196,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (75)
+SEV-2026-000352,SEC-2026-000196,approved,2026-10-22T09:30:00Z,Approved with room ROM-0055 and faculty FAC-000432
+SEV-2026-000353,SEC-2026-000197,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (42)
+SEV-2026-000354,SEC-2026-000197,approved,2026-10-22T09:30:00Z,Approved with room ROM-0060 and faculty FAC-000305
+SEV-2026-000355,SEC-2026-000198,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (28)
+SEV-2026-000356,SEC-2026-000198,approved,2026-10-22T09:30:00Z,Approved with room ROM-0082 and faculty FAC-000130
+SEV-2026-000357,SEC-2026-000199,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (77)
+SEV-2026-000358,SEC-2026-000199,approved,2026-10-22T09:30:00Z,Approved with room ROM-0065 and faculty FAC-000011
+SEV-2026-000359,SEC-2026-000200,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (33)
+SEV-2026-000360,SEC-2026-000200,approved,2026-10-22T09:30:00Z,Approved with room ROM-0070 and faculty FAC-000277
+SEV-2026-000361,SEC-2026-000202,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (48)
+SEV-2026-000362,SEC-2026-000202,approved,2026-10-22T09:30:00Z,Approved with room ROM-0075 and faculty FAC-000241
+SEV-2026-000363,SEC-2026-000203,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (45)
+SEV-2026-000364,SEC-2026-000203,approved,2026-10-22T09:30:00Z,Approved with room ROM-0080 and faculty FAC-000010
+SEV-2026-000365,SEC-2026-000206,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (70)
+SEV-2026-000366,SEC-2026-000206,approved,2026-10-22T09:30:00Z,Approved with room ROM-0085 and faculty FAC-000097
+SEV-2026-000367,SEC-2026-000207,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (37)
+SEV-2026-000368,SEC-2026-000207,approved,2026-10-22T09:30:00Z,Approved with room ROM-0090 and faculty FAC-000179
+SEV-2026-000369,SEC-2026-000208,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (87)
+SEV-2026-000370,SEC-2026-000208,approved,2026-10-22T09:30:00Z,Approved with room ROM-0095 and faculty FAC-000231
+SEV-2026-000371,SEC-2026-000209,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (37)
+SEV-2026-000372,SEC-2026-000209,approved,2026-10-22T09:30:00Z,Approved with room ROM-0100 and faculty FAC-000392
+SEV-2026-000373,SEC-2026-000210,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (78)
+SEV-2026-000374,SEC-2026-000210,approved,2026-10-22T09:30:00Z,Approved with room ROM-0105 and faculty FAC-000175
+SEV-2026-000375,SEC-2026-000211,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (39)
+SEV-2026-000376,SEC-2026-000211,approved,2026-10-22T09:30:00Z,Approved with room ROM-0110 and faculty FAC-000148
+SEV-2026-000377,SEC-2026-000212,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (16)
+SEV-2026-000378,SEC-2026-000212,approved,2026-10-22T09:30:00Z,Approved with room ROM-0056 and faculty FAC-000351
+SEV-2026-000379,SEC-2026-000215,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (66)
+SEV-2026-000380,SEC-2026-000215,approved,2026-10-22T09:30:00Z,Approved with room ROM-0115 and faculty FAC-000143
+SEV-2026-000381,SEC-2026-000216,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (16)
+SEV-2026-000382,SEC-2026-000216,approved,2026-10-22T09:30:00Z,Approved with room ROM-0061 and faculty FAC-000049
+SEV-2026-000383,SEC-2026-000217,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (40)
+SEV-2026-000384,SEC-2026-000217,approved,2026-10-22T09:30:00Z,Approved with room ROM-0120 and faculty FAC-000411
+SEV-2026-000385,SEC-2026-000218,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (14)
+SEV-2026-000386,SEC-2026-000218,approved,2026-10-22T09:30:00Z,Approved with room ROM-0066 and faculty FAC-000334
+SEV-2026-000387,SEC-2026-000219,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (51)
+SEV-2026-000388,SEC-2026-000219,approved,2026-10-22T09:30:00Z,Approved with room ROM-0125 and faculty FAC-000121
+SEV-2026-000389,SEC-2026-000220,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (33)
+SEV-2026-000390,SEC-2026-000220,approved,2026-10-22T09:30:00Z,Approved with room ROM-0130 and faculty FAC-000474
+SEV-2026-000391,SEC-2026-000221,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (44)
+SEV-2026-000392,SEC-2026-000221,approved,2026-10-22T09:30:00Z,Approved with room ROM-0135 and faculty FAC-000323
+SEV-2026-000393,SEC-2026-000222,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (33)
+SEV-2026-000394,SEC-2026-000222,approved,2026-10-22T09:30:00Z,Approved with room ROM-0140 and faculty FAC-000301
+SEV-2026-000395,SEC-2026-000223,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (51)
+SEV-2026-000396,SEC-2026-000223,approved,2026-10-22T09:30:00Z,Approved with room ROM-0145 and faculty FAC-000408
+SEV-2026-000397,SEC-2026-000224,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (92)
+SEV-2026-000398,SEC-2026-000224,approved,2026-10-22T09:30:00Z,Approved with room ROM-0150 and faculty FAC-000339
+SEV-2026-000399,SEC-2026-000225,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (38)
+SEV-2026-000400,SEC-2026-000225,approved,2026-10-22T09:30:00Z,Approved with room ROM-0078 and faculty FAC-000412
+SEV-2026-000401,SEC-2026-000226,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (40)
+SEV-2026-000402,SEC-2026-000226,approved,2026-10-22T09:30:00Z,Approved with room ROM-0083 and faculty FAC-000150
+SEV-2026-000403,SEC-2026-000227,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (49)
+SEV-2026-000404,SEC-2026-000227,approved,2026-10-22T09:30:00Z,Approved with room ROM-0088 and faculty FAC-000036
+SEV-2026-000405,SEC-2026-000228,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (49)
+SEV-2026-000406,SEC-2026-000228,approved,2026-10-22T09:30:00Z,Approved with room ROM-0066 and faculty FAC-000436
+SEV-2026-000407,SEC-2026-000230,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (65)
+SEV-2026-000408,SEC-2026-000230,approved,2026-10-22T09:30:00Z,Approved with room ROM-0093 and faculty FAC-000074
+SEV-2026-000409,SEC-2026-000231,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (65)
+SEV-2026-000410,SEC-2026-000231,approved,2026-10-22T09:30:00Z,Approved with room ROM-0032 and faculty FAC-000394
+SEV-2026-000411,SEC-2026-000232,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (17)
+SEV-2026-000412,SEC-2026-000232,approved,2026-10-22T09:30:00Z,Approved with room ROM-0071 and faculty FAC-000453
+SEV-2026-000413,SEC-2026-000233,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (65)
+SEV-2026-000414,SEC-2026-000233,approved,2026-10-22T09:30:00Z,Approved with room ROM-0098 and faculty FAC-000182
+SEV-2026-000415,SEC-2026-000234,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (65)
+SEV-2026-000416,SEC-2026-000234,approved,2026-10-22T09:30:00Z,Approved with room ROM-0037 and faculty FAC-000350
+SEV-2026-000417,SEC-2026-000235,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (63)
+SEV-2026-000418,SEC-2026-000235,approved,2026-10-22T09:30:00Z,Approved with room ROM-0103 and faculty FAC-000127
+SEV-2026-000419,SEC-2026-000236,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (63)
+SEV-2026-000420,SEC-2026-000236,approved,2026-10-22T09:30:00Z,Approved with room ROM-0042 and faculty FAC-000215
+SEV-2026-000421,SEC-2026-000239,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (31)
+SEV-2026-000422,SEC-2026-000239,approved,2026-10-22T09:30:00Z,Approved with room ROM-0108 and faculty FAC-000073
+SEV-2026-000423,SEC-2026-000240,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (78)
+SEV-2026-000424,SEC-2026-000240,approved,2026-10-22T09:30:00Z,Approved with room ROM-0113 and faculty FAC-000228
+SEV-2026-000425,SEC-2026-000241,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (78)
+SEV-2026-000426,SEC-2026-000241,approved,2026-10-22T09:30:00Z,Approved with room ROM-0118 and faculty FAC-000268
+SEV-2026-000427,SEC-2026-000242,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (26)
+SEV-2026-000428,SEC-2026-000242,approved,2026-10-22T09:30:00Z,Approved with room ROM-0087 and faculty FAC-000309
+SEV-2026-000429,SEC-2026-000243,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (35)
+SEV-2026-000430,SEC-2026-000243,approved,2026-10-22T09:30:00Z,Approved with room ROM-0123 and faculty FAC-000369
+SEV-2026-000431,SEC-2026-000245,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (34)
+SEV-2026-000432,SEC-2026-000245,approved,2026-10-22T09:30:00Z,Approved with room ROM-0128 and faculty FAC-000356
+SEV-2026-000433,SEC-2026-000246,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (64)
+SEV-2026-000434,SEC-2026-000246,approved,2026-10-22T09:30:00Z,Approved with room ROM-0133 and faculty FAC-000399
+SEV-2026-000435,SEC-2026-000248,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (62)
+SEV-2026-000436,SEC-2026-000248,approved,2026-10-22T09:30:00Z,Approved with room ROM-0138 and faculty FAC-000218
+SEV-2026-000437,SEC-2026-000249,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (62)
+SEV-2026-000438,SEC-2026-000249,approved,2026-10-22T09:30:00Z,Approved with room ROM-0047 and faculty FAC-000002
+SEV-2026-000439,SEC-2026-000250,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (15)
+SEV-2026-000440,SEC-2026-000250,approved,2026-10-22T09:30:00Z,Approved with room ROM-0076 and faculty FAC-000279
+SEV-2026-000441,SEC-2026-000252,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (117)
+SEV-2026-000442,SEC-2026-000252,approved,2026-10-22T09:30:00Z,Approved with room ROM-0143 and faculty FAC-000354
+SEV-2026-000443,SEC-2026-000253,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (117)
+SEV-2026-000444,SEC-2026-000253,approved,2026-10-22T09:30:00Z,Approved with room ROM-0148 and faculty FAC-000402
+SEV-2026-000445,SEC-2026-000254,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (117)
+SEV-2026-000446,SEC-2026-000254,approved,2026-10-22T09:30:00Z,Approved with room ROM-0038 and faculty FAC-000354
+SEV-2026-000447,SEC-2026-000255,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (76)
+SEV-2026-000448,SEC-2026-000255,approved,2026-10-22T09:30:00Z,Approved with room ROM-0004 and faculty FAC-000451
+SEV-2026-000449,SEC-2026-000256,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (76)
+SEV-2026-000450,SEC-2026-000256,approved,2026-10-22T09:30:00Z,Approved with room ROM-0071 and faculty FAC-000475
+SEV-2026-000451,SEC-2026-000258,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (76)
+SEV-2026-000452,SEC-2026-000258,approved,2026-10-22T09:30:00Z,Approved with room ROM-0009 and faculty FAC-000207
+SEV-2026-000453,SEC-2026-000260,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (45)
+SEV-2026-000454,SEC-2026-000260,approved,2026-10-22T09:30:00Z,Approved with room ROM-0014 and faculty FAC-000072
+SEV-2026-000455,SEC-2026-000262,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (42)
+SEV-2026-000456,SEC-2026-000262,approved,2026-10-22T09:30:00Z,Approved with room ROM-0019 and faculty FAC-000270
+SEV-2026-000457,SEC-2026-000263,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (107)
+SEV-2026-000458,SEC-2026-000263,approved,2026-10-22T09:30:00Z,Approved with room ROM-0024 and faculty FAC-000329
+SEV-2026-000459,SEC-2026-000265,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (70)
+SEV-2026-000460,SEC-2026-000265,approved,2026-10-22T09:30:00Z,Approved with room ROM-0029 and faculty FAC-000466
+SEV-2026-000461,SEC-2026-000267,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (47)
+SEV-2026-000462,SEC-2026-000267,approved,2026-10-22T09:30:00Z,Approved with room ROM-0034 and faculty FAC-000347
+SEV-2026-000463,SEC-2026-000270,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (15)
+SEV-2026-000464,SEC-2026-000270,approved,2026-10-22T09:30:00Z,Approved with room ROM-0081 and faculty FAC-000132
+SEV-2026-000465,SEC-2026-000271,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (40)
+SEV-2026-000466,SEC-2026-000271,approved,2026-10-22T09:30:00Z,Approved with room ROM-0039 and faculty FAC-000151
+SEV-2026-000467,SEC-2026-000272,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (32)
+SEV-2026-000468,SEC-2026-000272,approved,2026-10-22T09:30:00Z,Approved with room ROM-0044 and faculty FAC-000432
+SEV-2026-000469,SEC-2026-000273,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (33)
+SEV-2026-000470,SEC-2026-000273,approved,2026-10-22T09:30:00Z,Approved with room ROM-0049 and faculty FAC-000361
+SEV-2026-000471,SEC-2026-000274,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (24)
+SEV-2026-000472,SEC-2026-000274,approved,2026-10-22T09:30:00Z,Approved with room ROM-0092 and faculty FAC-000091
+SEV-2026-000473,SEC-2026-000275,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (34)
+SEV-2026-000474,SEC-2026-000275,approved,2026-10-22T09:30:00Z,Approved with room ROM-0054 and faculty FAC-000326
+SEV-2026-000475,SEC-2026-000276,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (30)
+SEV-2026-000476,SEC-2026-000276,approved,2026-10-22T09:30:00Z,Approved with room ROM-0097 and faculty FAC-000344
+SEV-2026-000477,SEC-2026-000277,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (127)
+SEV-2026-000478,SEC-2026-000277,approved,2026-10-22T09:30:00Z,Approved with room ROM-0059 and faculty FAC-000113
+SEV-2026-000479,SEC-2026-000278,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (127)
+SEV-2026-000480,SEC-2026-000278,approved,2026-10-22T09:30:00Z,Approved with room ROM-0064 and faculty FAC-000249
+SEV-2026-000481,SEC-2026-000279,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (127)
+SEV-2026-000482,SEC-2026-000279,approved,2026-10-22T09:30:00Z,Approved with room ROM-0001 and faculty FAC-000113
+SEV-2026-000483,SEC-2026-000280,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (25)
+SEV-2026-000484,SEC-2026-000280,approved,2026-10-22T09:30:00Z,Approved with room ROM-0102 and faculty FAC-000370
+SEV-2026-000485,SEC-2026-000281,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (43)
+SEV-2026-000486,SEC-2026-000281,approved,2026-10-22T09:30:00Z,Approved with room ROM-0069 and faculty FAC-000085
+SEV-2026-000487,SEC-2026-000282,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (62)
+SEV-2026-000488,SEC-2026-000282,approved,2026-10-22T09:30:00Z,Approved with room ROM-0074 and faculty FAC-000152
+SEV-2026-000489,SEC-2026-000283,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (62)
+SEV-2026-000490,SEC-2026-000283,approved,2026-10-22T09:30:00Z,Approved with room ROM-0076 and faculty FAC-000272
+SEV-2026-000491,SEC-2026-000286,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (40)
+SEV-2026-000492,SEC-2026-000286,approved,2026-10-22T09:30:00Z,Approved with room ROM-0079 and faculty FAC-000094
+SEV-2026-000493,SEC-2026-000288,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (115)
+SEV-2026-000494,SEC-2026-000288,approved,2026-10-22T09:30:00Z,Approved with room ROM-0084 and faculty FAC-000226
+SEV-2026-000495,SEC-2026-000290,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (107)
+SEV-2026-000496,SEC-2026-000290,approved,2026-10-22T09:30:00Z,Approved with room ROM-0089 and faculty FAC-000035
+SEV-2026-000497,SEC-2026-000291,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (107)
+SEV-2026-000498,SEC-2026-000291,approved,2026-10-22T09:30:00Z,Approved with room ROM-0094 and faculty FAC-000091
+SEV-2026-000499,SEC-2026-000292,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (49)
+SEV-2026-000500,SEC-2026-000292,approved,2026-10-22T09:30:00Z,Approved with room ROM-0099 and faculty FAC-000310
+SEV-2026-000501,SEC-2026-000293,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (33)
+SEV-2026-000502,SEC-2026-000293,approved,2026-10-22T09:30:00Z,Approved with room ROM-0104 and faculty FAC-000162
+SEV-2026-000503,SEC-2026-000294,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (51)
+SEV-2026-000504,SEC-2026-000294,approved,2026-10-22T09:30:00Z,Approved with room ROM-0109 and faculty FAC-000012
+SEV-2026-000505,SEC-2026-000295,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (45)
+SEV-2026-000506,SEC-2026-000295,approved,2026-10-22T09:30:00Z,Approved with room ROM-0114 and faculty FAC-000037
+SEV-2026-000507,SEC-2026-000296,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (243)
+SEV-2026-000508,SEC-2026-000296,approved,2026-10-22T09:30:00Z,Approved with room ROM-0119 and faculty FAC-000296
+SEV-2026-000509,SEC-2026-000297,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (243)
+SEV-2026-000510,SEC-2026-000297,approved,2026-10-22T09:30:00Z,Approved with room ROM-0124 and faculty FAC-000472
+SEV-2026-000511,SEC-2026-000298,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (243)
+SEV-2026-000512,SEC-2026-000298,approved,2026-10-22T09:30:00Z,Approved with room ROM-0043 and faculty FAC-000256
+SEV-2026-000513,SEC-2026-000301,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (45)
+SEV-2026-000514,SEC-2026-000301,approved,2026-10-22T09:30:00Z,Approved with room ROM-0129 and faculty FAC-000278
+SEV-2026-000515,SEC-2026-000303,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (61)
+SEV-2026-000516,SEC-2026-000303,approved,2026-10-22T09:30:00Z,Approved with room ROM-0134 and faculty FAC-000097
+SEV-2026-000517,SEC-2026-000306,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (34)
+SEV-2026-000518,SEC-2026-000306,approved,2026-10-22T09:30:00Z,Approved with room ROM-0139 and faculty FAC-000196
+SEV-2026-000519,SEC-2026-000307,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (37)
+SEV-2026-000520,SEC-2026-000307,approved,2026-10-22T09:30:00Z,Approved with room ROM-0144 and faculty FAC-000214
+SEV-2026-000521,SEC-2026-000308,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (41)
+SEV-2026-000522,SEC-2026-000308,approved,2026-10-22T09:30:00Z,Approved with room ROM-0149 and faculty FAC-000051
+SEV-2026-000523,SEC-2026-000309,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (25)
+SEV-2026-000524,SEC-2026-000309,approved,2026-10-22T09:30:00Z,Approved with room ROM-0107 and faculty FAC-000015
+SEV-2026-000525,SEC-2026-000310,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (29)
+SEV-2026-000526,SEC-2026-000310,approved,2026-10-22T09:30:00Z,Approved with room ROM-0112 and faculty FAC-000389
+SEV-2026-000527,SEC-2026-000311,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (24)
+SEV-2026-000528,SEC-2026-000311,approved,2026-10-22T09:30:00Z,Approved with room ROM-0117 and faculty FAC-000158
+SEV-2026-000529,SEC-2026-000312,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (51)
+SEV-2026-000530,SEC-2026-000312,approved,2026-10-22T09:30:00Z,Approved with room ROM-0005 and faculty FAC-000395
+SEV-2026-000531,SEC-2026-000314,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (52)
+SEV-2026-000532,SEC-2026-000314,approved,2026-10-22T09:30:00Z,Approved with room ROM-0010 and faculty FAC-000251
+SEV-2026-000533,SEC-2026-000315,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (69)
+SEV-2026-000534,SEC-2026-000315,approved,2026-10-22T09:30:00Z,Approved with room ROM-0015 and faculty FAC-000158
+SEV-2026-000535,SEC-2026-000316,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (57)
+SEV-2026-000536,SEC-2026-000316,approved,2026-10-22T09:30:00Z,Approved with room ROM-0020 and faculty FAC-000016
+SEV-2026-000537,SEC-2026-000317,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (46)
+SEV-2026-000538,SEC-2026-000317,approved,2026-10-22T09:30:00Z,Approved with room ROM-0025 and faculty FAC-000033
+SEV-2026-000539,SEC-2026-000318,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (28)
+SEV-2026-000540,SEC-2026-000318,approved,2026-10-22T09:30:00Z,Approved with room ROM-0122 and faculty FAC-000163
+SEV-2026-000541,SEC-2026-000320,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (48)
+SEV-2026-000542,SEC-2026-000320,approved,2026-10-22T09:30:00Z,Approved with room ROM-0030 and faculty FAC-000358
+SEV-2026-000543,SEC-2026-000321,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (56)
+SEV-2026-000544,SEC-2026-000321,approved,2026-10-22T09:30:00Z,Approved with room ROM-0035 and faculty FAC-000258
+SEV-2026-000545,SEC-2026-000322,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (41)
+SEV-2026-000546,SEC-2026-000322,approved,2026-10-22T09:30:00Z,Approved with room ROM-0040 and faculty FAC-000397
+SEV-2026-000547,SEC-2026-000323,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (90)
+SEV-2026-000548,SEC-2026-000323,approved,2026-10-22T09:30:00Z,Approved with room ROM-0045 and faculty FAC-000247
+SEV-2026-000549,SEC-2026-000324,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (25)
+SEV-2026-000550,SEC-2026-000324,approved,2026-10-22T09:30:00Z,Approved with room ROM-0127 and faculty FAC-000056
+SEV-2026-000551,SEC-2026-000325,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (54)
+SEV-2026-000552,SEC-2026-000325,approved,2026-10-22T09:30:00Z,Approved with room ROM-0050 and faculty FAC-000084
+SEV-2026-000553,SEC-2026-000328,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (108)
+SEV-2026-000554,SEC-2026-000328,approved,2026-10-22T09:30:00Z,Approved with room ROM-0055 and faculty FAC-000473
+SEV-2026-000555,SEC-2026-000329,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (34)
+SEV-2026-000556,SEC-2026-000329,approved,2026-10-22T09:30:00Z,Approved with room ROM-0060 and faculty FAC-000290
+SEV-2026-000557,SEC-2026-000331,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (20)
+SEV-2026-000558,SEC-2026-000331,approved,2026-10-22T09:30:00Z,Approved with room ROM-0086 and faculty FAC-000382
+SEV-2026-000559,SEC-2026-000332,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (14)
+SEV-2026-000560,SEC-2026-000332,approved,2026-10-22T09:30:00Z,Approved with room ROM-0091 and faculty FAC-000128
+SEV-2026-000561,SEC-2026-000333,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (16)
+SEV-2026-000562,SEC-2026-000333,approved,2026-10-22T09:30:00Z,Approved with room ROM-0096 and faculty FAC-000385
+SEV-2026-000563,SEC-2026-000334,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (79)
+SEV-2026-000564,SEC-2026-000334,approved,2026-10-22T09:30:00Z,Approved with room ROM-0065 and faculty FAC-000026
+SEV-2026-000565,SEC-2026-000336,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (29)
+SEV-2026-000566,SEC-2026-000336,approved,2026-10-22T09:30:00Z,Approved with room ROM-0132 and faculty FAC-000146
+SEV-2026-000567,SEC-2026-000337,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (28)
+SEV-2026-000568,SEC-2026-000337,approved,2026-10-22T09:30:00Z,Approved with room ROM-0137 and faculty FAC-000275
+SEV-2026-000569,SEC-2026-000338,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (16)
+SEV-2026-000570,SEC-2026-000338,approved,2026-10-22T09:30:00Z,Approved with room ROM-0101 and faculty FAC-000006
+SEV-2026-000571,SEC-2026-000339,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (139)
+SEV-2026-000572,SEC-2026-000339,approved,2026-10-22T09:30:00Z,Approved with room ROM-0070 and faculty FAC-000057
+SEV-2026-000573,SEC-2026-000340,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (139)
+SEV-2026-000574,SEC-2026-000340,approved,2026-10-22T09:30:00Z,Approved with room ROM-0081 and faculty FAC-000457
+SEV-2026-000575,SEC-2026-000341,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (39)
+SEV-2026-000576,SEC-2026-000341,approved,2026-10-22T09:30:00Z,Approved with room ROM-0075 and faculty FAC-000234
+SEV-2026-000577,SEC-2026-000343,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (45)
+SEV-2026-000578,SEC-2026-000343,approved,2026-10-22T09:30:00Z,Approved with room ROM-0080 and faculty FAC-000238
+SEV-2026-000579,SEC-2026-000344,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (120)
+SEV-2026-000580,SEC-2026-000344,approved,2026-10-22T09:30:00Z,Approved with room ROM-0085 and faculty FAC-000456
+SEV-2026-000581,SEC-2026-000345,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (11)
+SEV-2026-000582,SEC-2026-000345,approved,2026-10-22T09:30:00Z,Approved with room ROM-0106 and faculty FAC-000051
+SEV-2026-000583,SEC-2026-000346,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (48)
+SEV-2026-000584,SEC-2026-000346,approved,2026-10-22T09:30:00Z,Approved with room ROM-0090 and faculty FAC-000069
+SEV-2026-000585,SEC-2026-000347,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (16)
+SEV-2026-000586,SEC-2026-000347,approved,2026-10-22T09:30:00Z,Approved with room ROM-0111 and faculty FAC-000342
+SEV-2026-000587,SEC-2026-000348,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (58)
+SEV-2026-000588,SEC-2026-000348,approved,2026-10-22T09:30:00Z,Approved with room ROM-0095 and faculty FAC-000418
+SEV-2026-000589,SEC-2026-000350,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (22)
+SEV-2026-000590,SEC-2026-000350,approved,2026-10-22T09:30:00Z,Approved with room ROM-0142 and faculty FAC-000471
+SEV-2026-000591,SEC-2026-000351,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (33)
+SEV-2026-000592,SEC-2026-000351,approved,2026-10-22T09:30:00Z,Approved with room ROM-0100 and faculty FAC-000384
+SEV-2026-000593,SEC-2026-000352,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (26)
+SEV-2026-000594,SEC-2026-000352,approved,2026-10-22T09:30:00Z,Approved with room ROM-0147 and faculty FAC-000114
+SEV-2026-000595,SEC-2026-000354,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (9)
+SEV-2026-000596,SEC-2026-000354,approved,2026-10-22T09:30:00Z,Approved with room ROM-0116 and faculty FAC-000205
+SEV-2026-000597,SEC-2026-000356,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (123)
+SEV-2026-000598,SEC-2026-000356,approved,2026-10-22T09:30:00Z,Approved with room ROM-0105 and faculty FAC-000401
+SEV-2026-000599,SEC-2026-000358,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (76)
+SEV-2026-000600,SEC-2026-000358,approved,2026-10-22T09:30:00Z,Approved with room ROM-0110 and faculty FAC-000187
+SEV-2026-000601,SEC-2026-000359,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (23)
+SEV-2026-000602,SEC-2026-000359,approved,2026-10-22T09:30:00Z,Approved with room ROM-0052 and faculty FAC-000044
+SEV-2026-000603,SEC-2026-000360,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (9)
+SEV-2026-000604,SEC-2026-000360,approved,2026-10-22T09:30:00Z,Approved with room ROM-0121 and faculty FAC-000182
+SEV-2026-000605,SEC-2026-000361,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (42)
+SEV-2026-000606,SEC-2026-000361,approved,2026-10-22T09:30:00Z,Approved with room ROM-0115 and faculty FAC-000281
+SEV-2026-000607,SEC-2026-000362,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (70)
+SEV-2026-000608,SEC-2026-000362,approved,2026-10-22T09:30:00Z,Approved with room ROM-0120 and faculty FAC-000059
+SEV-2026-000609,SEC-2026-000364,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (41)
+SEV-2026-000610,SEC-2026-000364,approved,2026-10-22T09:30:00Z,Approved with room ROM-0125 and faculty FAC-000254
+SEV-2026-000611,SEC-2026-000365,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (20)
+SEV-2026-000612,SEC-2026-000365,approved,2026-10-22T09:30:00Z,Approved with room ROM-0126 and faculty FAC-000088
+SEV-2026-000613,SEC-2026-000366,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (53)
+SEV-2026-000614,SEC-2026-000366,approved,2026-10-22T09:30:00Z,Approved with room ROM-0130 and faculty FAC-000292
+SEV-2026-000615,SEC-2026-000367,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (51)
+SEV-2026-000616,SEC-2026-000367,approved,2026-10-22T09:30:00Z,Approved with room ROM-0135 and faculty FAC-000177
+SEV-2026-000617,SEC-2026-000368,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (27)
+SEV-2026-000618,SEC-2026-000368,approved,2026-10-22T09:30:00Z,Approved with room ROM-0057 and faculty FAC-000282
+SEV-2026-000619,SEC-2026-000370,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (33)
+SEV-2026-000620,SEC-2026-000370,approved,2026-10-22T09:30:00Z,Approved with room ROM-0140 and faculty FAC-000348
+SEV-2026-000621,SEC-2026-000371,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (69)
+SEV-2026-000622,SEC-2026-000371,approved,2026-10-22T09:30:00Z,Approved with room ROM-0145 and faculty FAC-000133
+SEV-2026-000623,SEC-2026-000372,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (40)
+SEV-2026-000624,SEC-2026-000372,approved,2026-10-22T09:30:00Z,Approved with room ROM-0150 and faculty FAC-000255
+SEV-2026-000625,SEC-2026-000373,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (67)
+SEV-2026-000626,SEC-2026-000373,approved,2026-10-22T09:30:00Z,Approved with room ROM-0048 and faculty FAC-000281
+SEV-2026-000627,SEC-2026-000374,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (67)
+SEV-2026-000628,SEC-2026-000374,approved,2026-10-22T09:30:00Z,Approved with room ROM-0062 and faculty FAC-000385
+SEV-2026-000629,SEC-2026-000375,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (41)
+SEV-2026-000630,SEC-2026-000375,approved,2026-10-22T09:30:00Z,Approved with room ROM-0053 and faculty FAC-000106
+SEV-2026-000631,SEC-2026-000376,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (41)
+SEV-2026-000632,SEC-2026-000376,approved,2026-10-22T09:30:00Z,Approved with room ROM-0086 and faculty FAC-000106
+SEV-2026-000633,SEC-2026-000377,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (21)
+SEV-2026-000634,SEC-2026-000377,approved,2026-10-22T09:30:00Z,Approved with room ROM-0067 and faculty FAC-000323
+SEV-2026-000635,SEC-2026-000378,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (50)
+SEV-2026-000636,SEC-2026-000378,approved,2026-10-22T09:30:00Z,Approved with room ROM-0058 and faculty FAC-000164
+SEV-2026-000637,SEC-2026-000380,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (32)
+SEV-2026-000638,SEC-2026-000380,approved,2026-10-22T09:30:00Z,Approved with room ROM-0063 and faculty FAC-000077
+SEV-2026-000639,SEC-2026-000381,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (59)
+SEV-2026-000640,SEC-2026-000381,approved,2026-10-22T09:30:00Z,Approved with room ROM-0068 and faculty FAC-000127
+SEV-2026-000641,SEC-2026-000382,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (59)
+SEV-2026-000642,SEC-2026-000382,approved,2026-10-22T09:30:00Z,Approved with room ROM-0091 and faculty FAC-000447
+SEV-2026-000643,SEC-2026-000383,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (84)
+SEV-2026-000644,SEC-2026-000383,approved,2026-10-22T09:30:00Z,Approved with room ROM-0073 and faculty FAC-000098
+SEV-2026-000645,SEC-2026-000384,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (84)
+SEV-2026-000646,SEC-2026-000384,approved,2026-10-22T09:30:00Z,Approved with room ROM-0078 and faculty FAC-000010
+SEV-2026-000647,SEC-2026-000386,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (68)
+SEV-2026-000648,SEC-2026-000386,approved,2026-10-22T09:30:00Z,Approved with room ROM-0083 and faculty FAC-000087
+SEV-2026-000649,SEC-2026-000387,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (68)
+SEV-2026-000650,SEC-2026-000387,approved,2026-10-22T09:30:00Z,Approved with room ROM-0072 and faculty FAC-000167
+SEV-2026-000651,SEC-2026-000388,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (21)
+SEV-2026-000652,SEC-2026-000388,approved,2026-10-22T09:30:00Z,Approved with room ROM-0077 and faculty FAC-000265
+SEV-2026-000653,SEC-2026-000389,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (103)
+SEV-2026-000654,SEC-2026-000389,approved,2026-10-22T09:30:00Z,Approved with room ROM-0088 and faculty FAC-000162
+SEV-2026-000655,SEC-2026-000390,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (103)
+SEV-2026-000656,SEC-2026-000390,approved,2026-10-22T09:30:00Z,Approved with room ROM-0093 and faculty FAC-000442
+SEV-2026-000657,SEC-2026-000392,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (26)
+SEV-2026-000658,SEC-2026-000392,approved,2026-10-22T09:30:00Z,Approved with room ROM-0082 and faculty FAC-000197
+SEV-2026-000659,SEC-2026-000393,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (42)
+SEV-2026-000660,SEC-2026-000393,approved,2026-10-22T09:30:00Z,Approved with room ROM-0098 and faculty FAC-000407
+SEV-2026-000661,SEC-2026-000394,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (42)
+SEV-2026-000662,SEC-2026-000394,approved,2026-10-22T09:30:00Z,Approved with room ROM-0096 and faculty FAC-000407
+SEV-2026-000663,SEC-2026-000396,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (58)
+SEV-2026-000664,SEC-2026-000396,approved,2026-10-22T09:30:00Z,Approved with room ROM-0103 and faculty FAC-000467
+SEV-2026-000665,SEC-2026-000397,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (58)
+SEV-2026-000666,SEC-2026-000397,approved,2026-10-22T09:30:00Z,Approved with room ROM-0101 and faculty FAC-000467
+SEV-2026-000667,SEC-2026-000398,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (101)
+SEV-2026-000668,SEC-2026-000398,approved,2026-10-22T09:30:00Z,Approved with room ROM-0108 and faculty FAC-000141
+SEV-2026-000669,SEC-2026-000399,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (101)
+SEV-2026-000670,SEC-2026-000399,approved,2026-10-22T09:30:00Z,Approved with room ROM-0113 and faculty FAC-000429
+SEV-2026-000671,SEC-2026-000400,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (101)
+SEV-2026-000672,SEC-2026-000400,approved,2026-10-22T09:30:00Z,Approved with room ROM-0012 and faculty FAC-000477
+SEV-2026-000673,SEC-2026-000401,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (112)
+SEV-2026-000674,SEC-2026-000401,approved,2026-10-22T09:30:00Z,Approved with room ROM-0118 and faculty FAC-000176
+SEV-2026-000675,SEC-2026-000402,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (112)
+SEV-2026-000676,SEC-2026-000402,approved,2026-10-22T09:30:00Z,Approved with room ROM-0123 and faculty FAC-000336
+SEV-2026-000677,SEC-2026-000404,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (31)
+SEV-2026-000678,SEC-2026-000404,approved,2026-10-22T09:30:00Z,Approved with room ROM-0128 and faculty FAC-000114
+SEV-2026-000679,SEC-2026-000405,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (56)
+SEV-2026-000680,SEC-2026-000405,approved,2026-10-22T09:30:00Z,Approved with room ROM-0133 and faculty FAC-000471
+SEV-2026-000681,SEC-2026-000406,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (56)
+SEV-2026-000682,SEC-2026-000406,approved,2026-10-22T09:30:00Z,Approved with room ROM-0106 and faculty FAC-000471
+SEV-2026-000683,SEC-2026-000407,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (51)
+SEV-2026-000684,SEC-2026-000407,approved,2026-10-22T09:30:00Z,Approved with room ROM-0138 and faculty FAC-000416
+SEV-2026-000685,SEC-2026-000408,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (51)
+SEV-2026-000686,SEC-2026-000408,approved,2026-10-22T09:30:00Z,Approved with room ROM-0111 and faculty FAC-000128
+SEV-2026-000687,SEC-2026-000409,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (18)
+SEV-2026-000688,SEC-2026-000409,approved,2026-10-22T09:30:00Z,Approved with room ROM-0131 and faculty FAC-000067
+SEV-2026-000689,SEC-2026-000410,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (46)
+SEV-2026-000690,SEC-2026-000410,approved,2026-10-22T09:30:00Z,Approved with room ROM-0143 and faculty FAC-000029
+SEV-2026-000691,SEC-2026-000411,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (46)
+SEV-2026-000692,SEC-2026-000411,approved,2026-10-22T09:30:00Z,Approved with room ROM-0116 and faculty FAC-000029
+SEV-2026-000693,SEC-2026-000412,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (25)
+SEV-2026-000694,SEC-2026-000412,approved,2026-10-22T09:30:00Z,Approved with room ROM-0087 and faculty FAC-000070
+SEV-2026-000695,SEC-2026-000413,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (23)
+SEV-2026-000696,SEC-2026-000413,approved,2026-10-22T09:30:00Z,Approved with room ROM-0092 and faculty FAC-000271
+SEV-2026-000697,SEC-2026-000414,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (51)
+SEV-2026-000698,SEC-2026-000414,approved,2026-10-22T09:30:00Z,Approved with room ROM-0148 and faculty FAC-000392
+SEV-2026-000699,SEC-2026-000415,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (51)
+SEV-2026-000700,SEC-2026-000415,approved,2026-10-22T09:30:00Z,Approved with room ROM-0121 and faculty FAC-000408
+SEV-2026-000701,SEC-2026-000416,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (84)
+SEV-2026-000702,SEC-2026-000416,approved,2026-10-22T09:30:00Z,Approved with room ROM-0004 and faculty FAC-000001
+SEV-2026-000703,SEC-2026-000417,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (84)
+SEV-2026-000704,SEC-2026-000417,approved,2026-10-22T09:30:00Z,Approved with room ROM-0097 and faculty FAC-000001
+SEV-2026-000705,SEC-2026-000418,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (119)
+SEV-2026-000706,SEC-2026-000418,approved,2026-10-22T09:30:00Z,Approved with room ROM-0009 and faculty FAC-000250
+SEV-2026-000707,SEC-2026-000419,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (119)
+SEV-2026-000708,SEC-2026-000419,approved,2026-10-22T09:30:00Z,Approved with room ROM-0014 and faculty FAC-000130
+SEV-2026-000709,SEC-2026-000420,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (79)
+SEV-2026-000710,SEC-2026-000420,approved,2026-10-22T09:30:00Z,Approved with room ROM-0019 and faculty FAC-000331
+SEV-2026-000711,SEC-2026-000421,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (79)
+SEV-2026-000712,SEC-2026-000421,approved,2026-10-22T09:30:00Z,Approved with room ROM-0126 and faculty FAC-000331
+SEV-2026-000713,SEC-2026-000424,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (45)
+SEV-2026-000714,SEC-2026-000424,approved,2026-10-22T09:30:00Z,Approved with room ROM-0024 and faculty FAC-000203
+SEV-2026-000715,SEC-2026-000425,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (80)
+SEV-2026-000716,SEC-2026-000425,approved,2026-10-22T09:30:00Z,Approved with room ROM-0029 and faculty FAC-000076
+SEV-2026-000717,SEC-2026-000426,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (80)
+SEV-2026-000718,SEC-2026-000426,approved,2026-10-22T09:30:00Z,Approved with room ROM-0131 and faculty FAC-000308
+SEV-2026-000719,SEC-2026-000427,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (5)
+SEV-2026-000720,SEC-2026-000427,approved,2026-10-22T09:30:00Z,Approved with room ROM-0136 and faculty FAC-000173
+SEV-2026-000721,SEC-2026-000428,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (124)
+SEV-2026-000722,SEC-2026-000428,approved,2026-10-22T09:30:00Z,Approved with room ROM-0034 and faculty FAC-000234
+SEV-2026-000723,SEC-2026-000429,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (124)
+SEV-2026-000724,SEC-2026-000429,approved,2026-10-22T09:30:00Z,Approved with room ROM-0039 and faculty FAC-000170
+SEV-2026-000725,SEC-2026-000430,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (124)
+SEV-2026-000726,SEC-2026-000430,approved,2026-10-22T09:30:00Z,Approved with room ROM-0006 and faculty FAC-000226
+SEV-2026-000727,SEC-2026-000431,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (21)
+SEV-2026-000728,SEC-2026-000431,approved,2026-10-22T09:30:00Z,Approved with room ROM-0102 and faculty FAC-000275
+SEV-2026-000729,SEC-2026-000432,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (53)
+SEV-2026-000730,SEC-2026-000432,approved,2026-10-22T09:30:00Z,Approved with room ROM-0044 and faculty FAC-000396
+SEV-2026-000731,SEC-2026-000434,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (66)
+SEV-2026-000732,SEC-2026-000434,approved,2026-10-22T09:30:00Z,Approved with room ROM-0049 and faculty FAC-000056
+SEV-2026-000733,SEC-2026-000435,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (66)
+SEV-2026-000734,SEC-2026-000435,approved,2026-10-22T09:30:00Z,Approved with room ROM-0136 and faculty FAC-000336
+SEV-2026-000735,SEC-2026-000436,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (41)
+SEV-2026-000736,SEC-2026-000436,approved,2026-10-22T09:30:00Z,Approved with room ROM-0054 and faculty FAC-000370
+SEV-2026-000737,SEC-2026-000438,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (37)
+SEV-2026-000738,SEC-2026-000438,approved,2026-10-22T09:30:00Z,Approved with room ROM-0059 and faculty FAC-000219
+SEV-2026-000739,SEC-2026-000439,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (21)
+SEV-2026-000740,SEC-2026-000439,approved,2026-10-22T09:30:00Z,Approved with room ROM-0107 and faculty FAC-000143
+SEV-2026-000741,SEC-2026-000440,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (41)
+SEV-2026-000742,SEC-2026-000440,approved,2026-10-22T09:30:00Z,Approved with room ROM-0064 and faculty FAC-000265
+SEV-2026-000743,SEC-2026-000441,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (49)
+SEV-2026-000744,SEC-2026-000441,approved,2026-10-22T09:30:00Z,Approved with room ROM-0069 and faculty FAC-000210
+SEV-2026-000745,SEC-2026-000443,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (54)
+SEV-2026-000746,SEC-2026-000443,approved,2026-10-22T09:30:00Z,Approved with room ROM-0074 and faculty FAC-000213
+SEV-2026-000747,SEC-2026-000444,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (66)
+SEV-2026-000748,SEC-2026-000444,approved,2026-10-22T09:30:00Z,Approved with room ROM-0079 and faculty FAC-000095
+SEV-2026-000749,SEC-2026-000445,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (66)
+SEV-2026-000750,SEC-2026-000445,approved,2026-10-22T09:30:00Z,Approved with room ROM-0141 and faculty FAC-000431
+SEV-2026-000751,SEC-2026-000446,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (87)
+SEV-2026-000752,SEC-2026-000446,approved,2026-10-22T09:30:00Z,Approved with room ROM-0084 and faculty FAC-000224
+SEV-2026-000753,SEC-2026-000448,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (21)
+SEV-2026-000754,SEC-2026-000448,approved,2026-10-22T09:30:00Z,Approved with room ROM-0112 and faculty FAC-000419
+SEV-2026-000755,SEC-2026-000449,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (68)
+SEV-2026-000756,SEC-2026-000449,approved,2026-10-22T09:30:00Z,Approved with room ROM-0089 and faculty FAC-000437
+SEV-2026-000757,SEC-2026-000452,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (22)
+SEV-2026-000758,SEC-2026-000452,approved,2026-10-22T09:30:00Z,Approved with room ROM-0117 and faculty FAC-000064
+SEV-2026-000759,SEC-2026-000453,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (72)
+SEV-2026-000760,SEC-2026-000453,approved,2026-10-22T09:30:00Z,Approved with room ROM-0094 and faculty FAC-000475
+SEV-2026-000761,SEC-2026-000454,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (72)
+SEV-2026-000762,SEC-2026-000454,approved,2026-10-22T09:30:00Z,Approved with room ROM-0146 and faculty FAC-000259
+SEV-2026-000763,SEC-2026-000455,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (45)
+SEV-2026-000764,SEC-2026-000455,approved,2026-10-22T09:30:00Z,Approved with room ROM-0099 and faculty FAC-000464
+SEV-2026-000765,SEC-2026-000456,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (57)
+SEV-2026-000766,SEC-2026-000456,approved,2026-10-22T09:30:00Z,Approved with room ROM-0104 and faculty FAC-000057
+SEV-2026-000767,SEC-2026-000457,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (127)
+SEV-2026-000768,SEC-2026-000457,approved,2026-10-22T09:30:00Z,Approved with room ROM-0109 and faculty FAC-000092
+SEV-2026-000769,SEC-2026-000459,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (38)
+SEV-2026-000770,SEC-2026-000459,approved,2026-10-22T09:30:00Z,Approved with room ROM-0114 and faculty FAC-000024
+SEV-2026-000771,SEC-2026-000460,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (23)
+SEV-2026-000772,SEC-2026-000460,approved,2026-10-22T09:30:00Z,Approved with room ROM-0122 and faculty FAC-000229
+SEV-2026-000773,SEC-2026-000461,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (38)
+SEV-2026-000774,SEC-2026-000461,approved,2026-10-22T09:30:00Z,Approved with room ROM-0119 and faculty FAC-000310
+SEV-2026-000775,SEC-2026-000462,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (33)
+SEV-2026-000776,SEC-2026-000462,approved,2026-10-22T09:30:00Z,Approved with room ROM-0124 and faculty FAC-000479
+SEV-2026-000777,SEC-2026-000463,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (95)
+SEV-2026-000778,SEC-2026-000463,approved,2026-10-22T09:30:00Z,Approved with room ROM-0129 and faculty FAC-000136
+SEV-2026-000779,SEC-2026-000464,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (95)
+SEV-2026-000780,SEC-2026-000464,approved,2026-10-22T09:30:00Z,Approved with room ROM-0134 and faculty FAC-000272
+SEV-2026-000781,SEC-2026-000465,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (21)
+SEV-2026-000782,SEC-2026-000465,approved,2026-10-22T09:30:00Z,Approved with room ROM-0127 and faculty FAC-000383
+SEV-2026-000783,SEC-2026-000466,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (45)
+SEV-2026-000784,SEC-2026-000466,approved,2026-10-22T09:30:00Z,Approved with room ROM-0139 and faculty FAC-000152
+SEV-2026-000785,SEC-2026-000468,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (30)
+SEV-2026-000786,SEC-2026-000468,approved,2026-10-22T09:30:00Z,Approved with room ROM-0132 and faculty FAC-000078
+SEV-2026-000787,SEC-2026-000470,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (23)
+SEV-2026-000788,SEC-2026-000470,approved,2026-10-22T09:30:00Z,Approved with room ROM-0137 and faculty FAC-000371
+SEV-2026-000789,SEC-2026-000472,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (29)
+SEV-2026-000790,SEC-2026-000472,approved,2026-10-22T09:30:00Z,Approved with room ROM-0142 and faculty FAC-000365
+SEV-2026-000791,SEC-2026-000473,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (40)
+SEV-2026-000792,SEC-2026-000473,approved,2026-10-22T09:30:00Z,Approved with room ROM-0144 and faculty FAC-000192
+SEV-2026-000793,SEC-2026-000474,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (41)
+SEV-2026-000794,SEC-2026-000474,approved,2026-10-22T09:30:00Z,Approved with room ROM-0149 and faculty FAC-000417
+SEV-2026-000795,SEC-2026-000475,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (74)
+SEV-2026-000796,SEC-2026-000475,approved,2026-10-22T09:30:00Z,Approved with room ROM-0005 and faculty FAC-000137
+SEV-2026-000797,SEC-2026-000476,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (19)
+SEV-2026-000798,SEC-2026-000476,approved,2026-10-22T09:30:00Z,Approved with room ROM-0141 and faculty FAC-000035
+SEV-2026-000799,SEC-2026-000477,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (83)
+SEV-2026-000800,SEC-2026-000477,approved,2026-10-22T09:30:00Z,Approved with room ROM-0010 and faculty FAC-000166
+SEV-2026-000801,SEC-2026-000478,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (82)
+SEV-2026-000802,SEC-2026-000478,approved,2026-10-22T09:30:00Z,Approved with room ROM-0015 and faculty FAC-000312
+SEV-2026-000803,SEC-2026-000479,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (153)
+SEV-2026-000804,SEC-2026-000479,approved,2026-10-22T09:30:00Z,Approved with room ROM-0020 and faculty FAC-000450
+SEV-2026-000805,SEC-2026-000482,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (50)
+SEV-2026-000806,SEC-2026-000482,approved,2026-10-22T09:30:00Z,Approved with room ROM-0025 and faculty FAC-000081
+SEV-2026-000807,SEC-2026-000483,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (76)
+SEV-2026-000808,SEC-2026-000483,approved,2026-10-22T09:30:00Z,Approved with room ROM-0030 and faculty FAC-000410
+SEV-2026-000809,SEC-2026-000484,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (107)
+SEV-2026-000810,SEC-2026-000484,approved,2026-10-22T09:30:00Z,Approved with room ROM-0035 and faculty FAC-000491
+SEV-2026-000811,SEC-2026-000485,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (39)
+SEV-2026-000812,SEC-2026-000485,approved,2026-10-22T09:30:00Z,Approved with room ROM-0040 and faculty FAC-000364
+SEV-2026-000813,SEC-2026-000486,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (48)
+SEV-2026-000814,SEC-2026-000486,approved,2026-10-22T09:30:00Z,Approved with room ROM-0045 and faculty FAC-000317
+SEV-2026-000815,SEC-2026-000487,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (11)
+SEV-2026-000816,SEC-2026-000487,approved,2026-10-22T09:30:00Z,Approved with room ROM-0146 and faculty FAC-000366
+SEV-2026-000817,SEC-2026-000488,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (53)
+SEV-2026-000818,SEC-2026-000488,approved,2026-10-22T09:30:00Z,Approved with room ROM-0050 and faculty FAC-000327
+SEV-2026-000819,SEC-2026-000489,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (33)
+SEV-2026-000820,SEC-2026-000489,approved,2026-10-22T09:30:00Z,Approved with room ROM-0055 and faculty FAC-000362
+SEV-2026-000821,SEC-2026-000490,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (23)
+SEV-2026-000822,SEC-2026-000490,approved,2026-10-22T09:30:00Z,Approved with room ROM-0147 and faculty FAC-000126
+SEV-2026-000823,SEC-2026-000492,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (16)
+SEV-2026-000824,SEC-2026-000492,approved,2026-10-22T09:30:00Z,Approved with room ROM-0011 and faculty FAC-000398
+SEV-2026-000825,SEC-2026-000493,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (84)
+SEV-2026-000826,SEC-2026-000493,approved,2026-10-22T09:30:00Z,Approved with room ROM-0060 and faculty FAC-000202
+SEV-2026-000827,SEC-2026-000494,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (23)
+SEV-2026-000828,SEC-2026-000494,approved,2026-10-22T09:30:00Z,Approved with room ROM-0017 and faculty FAC-000339
+SEV-2026-000829,SEC-2026-000495,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (70)
+SEV-2026-000830,SEC-2026-000495,approved,2026-10-22T09:30:00Z,Approved with room ROM-0065 and faculty FAC-000207
+SEV-2026-000831,SEC-2026-000496,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (50)
+SEV-2026-000832,SEC-2026-000496,approved,2026-10-22T09:30:00Z,Approved with room ROM-0070 and faculty FAC-000306
+SEV-2026-000833,SEC-2026-000497,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (36)
+SEV-2026-000834,SEC-2026-000497,approved,2026-10-22T09:30:00Z,Approved with room ROM-0075 and faculty FAC-000059
+SEV-2026-000835,SEC-2026-000498,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (42)
+SEV-2026-000836,SEC-2026-000498,approved,2026-10-22T09:30:00Z,Approved with room ROM-0080 and faculty FAC-000069
+SEV-2026-000837,SEC-2026-000499,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (36)
+SEV-2026-000838,SEC-2026-000499,approved,2026-10-22T09:30:00Z,Approved with room ROM-0085 and faculty FAC-000264
+SEV-2026-000839,SEC-2026-000500,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (29)
+SEV-2026-000840,SEC-2026-000500,approved,2026-10-22T09:30:00Z,Approved with room ROM-0022 and faculty FAC-000449
+SEV-2026-000841,SEC-2026-000502,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (26)
+SEV-2026-000842,SEC-2026-000502,approved,2026-10-22T09:30:00Z,Approved with room ROM-0027 and faculty FAC-000289
+SEV-2026-000843,SEC-2026-000503,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (35)
+SEV-2026-000844,SEC-2026-000503,approved,2026-10-22T09:30:00Z,Approved with room ROM-0090 and faculty FAC-000322
+SEV-2026-000845,SEC-2026-000504,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (70)
+SEV-2026-000846,SEC-2026-000504,approved,2026-10-22T09:30:00Z,Approved with room ROM-0095 and faculty FAC-000252
+SEV-2026-000847,SEC-2026-000506,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (34)
+SEV-2026-000848,SEC-2026-000506,approved,2026-10-22T09:30:00Z,Approved with room ROM-0100 and faculty FAC-000430
+SEV-2026-000849,SEC-2026-000507,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (25)
+SEV-2026-000850,SEC-2026-000507,approved,2026-10-22T09:30:00Z,Approved with room ROM-0032 and faculty FAC-000032
+SEV-2026-000851,SEC-2026-000508,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (29)
+SEV-2026-000852,SEC-2026-000508,approved,2026-10-22T09:30:00Z,Approved with room ROM-0037 and faculty FAC-000411
+SEV-2026-000853,SEC-2026-000509,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (50)
+SEV-2026-000854,SEC-2026-000509,approved,2026-10-22T09:30:00Z,Approved with room ROM-0105 and faculty FAC-000301
+SEV-2026-000855,SEC-2026-000510,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (39)
+SEV-2026-000856,SEC-2026-000510,approved,2026-10-22T09:30:00Z,Approved with room ROM-0110 and faculty FAC-000119
+SEV-2026-000857,SEC-2026-000511,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (48)
+SEV-2026-000858,SEC-2026-000511,approved,2026-10-22T09:30:00Z,Approved with room ROM-0115 and faculty FAC-000291
+SEV-2026-000859,SEC-2026-000512,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (63)
+SEV-2026-000860,SEC-2026-000512,approved,2026-10-22T09:30:00Z,Approved with room ROM-0120 and faculty FAC-000485
+SEV-2026-000861,SEC-2026-000514,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (51)
+SEV-2026-000862,SEC-2026-000514,approved,2026-10-22T09:30:00Z,Approved with room ROM-0125 and faculty FAC-000048
+SEV-2026-000863,SEC-2026-000515,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (35)
+SEV-2026-000864,SEC-2026-000515,approved,2026-10-22T09:30:00Z,Approved with room ROM-0130 and faculty FAC-000033
+SEV-2026-000865,SEC-2026-000516,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (13)
+SEV-2026-000866,SEC-2026-000516,approved,2026-10-22T09:30:00Z,Approved with room ROM-0016 and faculty FAC-000154
+SEV-2026-000867,SEC-2026-000518,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (69)
+SEV-2026-000868,SEC-2026-000518,approved,2026-10-22T09:30:00Z,Approved with room ROM-0135 and faculty FAC-000078
+SEV-2026-000869,SEC-2026-000519,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (50)
+SEV-2026-000870,SEC-2026-000519,approved,2026-10-22T09:30:00Z,Approved with room ROM-0140 and faculty FAC-000204
+SEV-2026-000871,SEC-2026-000520,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (96)
+SEV-2026-000872,SEC-2026-000520,approved,2026-10-22T09:30:00Z,Approved with room ROM-0145 and faculty FAC-000249
+SEV-2026-000873,SEC-2026-000522,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (72)
+SEV-2026-000874,SEC-2026-000522,approved,2026-10-22T09:30:00Z,Approved with room ROM-0150 and faculty FAC-000328
+SEV-2026-000875,SEC-2026-000523,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (43)
+SEV-2026-000876,SEC-2026-000523,approved,2026-10-22T09:30:00Z,Approved with room ROM-0028 and faculty FAC-000036
+SEV-2026-000877,SEC-2026-000525,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (95)
+SEV-2026-000878,SEC-2026-000525,approved,2026-10-22T09:30:00Z,Approved with room ROM-0033 and faculty FAC-000325
+SEV-2026-000879,SEC-2026-000526,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (95)
+SEV-2026-000880,SEC-2026-000526,approved,2026-10-22T09:30:00Z,Approved with room ROM-0038 and faculty FAC-000069
+SEV-2026-000881,SEC-2026-000527,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (95)
+SEV-2026-000882,SEC-2026-000527,approved,2026-10-22T09:30:00Z,Approved with room ROM-0021 and faculty FAC-000325
+SEV-2026-000883,SEC-2026-000528,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (26)
+SEV-2026-000884,SEC-2026-000528,approved,2026-10-22T09:30:00Z,Approved with room ROM-0042 and faculty FAC-000016
+SEV-2026-000885,SEC-2026-000529,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (24)
+SEV-2026-000886,SEC-2026-000529,approved,2026-10-22T09:30:00Z,Approved with room ROM-0047 and faculty FAC-000465
+SEV-2026-000887,SEC-2026-000530,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (68)
+SEV-2026-000888,SEC-2026-000530,approved,2026-10-22T09:30:00Z,Approved with room ROM-0043 and faculty FAC-000314
+SEV-2026-000889,SEC-2026-000531,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (68)
+SEV-2026-000890,SEC-2026-000531,approved,2026-10-22T09:30:00Z,Approved with room ROM-0052 and faculty FAC-000314
+SEV-2026-000891,SEC-2026-000532,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (53)
+SEV-2026-000892,SEC-2026-000532,approved,2026-10-22T09:30:00Z,Approved with room ROM-0048 and faculty FAC-000404
+SEV-2026-000893,SEC-2026-000533,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (53)
+SEV-2026-000894,SEC-2026-000533,approved,2026-10-22T09:30:00Z,Approved with room ROM-0026 and faculty FAC-000316
+SEV-2026-000895,SEC-2026-000534,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (43)
+SEV-2026-000896,SEC-2026-000534,approved,2026-10-22T09:30:00Z,Approved with room ROM-0053 and faculty FAC-000064
+SEV-2026-000897,SEC-2026-000535,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (43)
+SEV-2026-000898,SEC-2026-000535,approved,2026-10-22T09:30:00Z,Approved with room ROM-0031 and faculty FAC-000072
+SEV-2026-000899,SEC-2026-000537,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (100)
+SEV-2026-000900,SEC-2026-000537,approved,2026-10-22T09:30:00Z,Approved with room ROM-0058 and faculty FAC-000352
+SEV-2026-000901,SEC-2026-000538,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (100)
+SEV-2026-000902,SEC-2026-000538,approved,2026-10-22T09:30:00Z,Approved with room ROM-0063 and faculty FAC-000208
+SEV-2026-000903,SEC-2026-000539,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (100)
+SEV-2026-000904,SEC-2026-000539,approved,2026-10-22T09:30:00Z,Approved with room ROM-0036 and faculty FAC-000352
+SEV-2026-000905,SEC-2026-000540,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (43)
+SEV-2026-000906,SEC-2026-000540,approved,2026-10-22T09:30:00Z,Approved with room ROM-0068 and faculty FAC-000001
+SEV-2026-000907,SEC-2026-000542,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (94)
+SEV-2026-000908,SEC-2026-000542,approved,2026-10-22T09:30:00Z,Approved with room ROM-0073 and faculty FAC-000491
+SEV-2026-000909,SEC-2026-000544,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (85)
+SEV-2026-000910,SEC-2026-000544,approved,2026-10-22T09:30:00Z,Approved with room ROM-0078 and faculty FAC-000084
+SEV-2026-000911,SEC-2026-000546,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (84)
+SEV-2026-000912,SEC-2026-000546,approved,2026-10-22T09:30:00Z,Approved with room ROM-0083 and faculty FAC-000416
+SEV-2026-000913,SEC-2026-000547,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (84)
+SEV-2026-000914,SEC-2026-000547,approved,2026-10-22T09:30:00Z,Approved with room ROM-0088 and faculty FAC-000216
+SEV-2026-000915,SEC-2026-000548,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (84)
+SEV-2026-000916,SEC-2026-000548,approved,2026-10-22T09:30:00Z,Approved with room ROM-0041 and faculty FAC-000376
+SEV-2026-000917,SEC-2026-000550,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (78)
+SEV-2026-000918,SEC-2026-000550,approved,2026-10-22T09:30:00Z,Approved with room ROM-0093 and faculty FAC-000499
+SEV-2026-000919,SEC-2026-000551,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (78)
+SEV-2026-000920,SEC-2026-000551,approved,2026-10-22T09:30:00Z,Approved with room ROM-0098 and faculty FAC-000315
+SEV-2026-000921,SEC-2026-000552,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (70)
+SEV-2026-000922,SEC-2026-000552,approved,2026-10-22T09:30:00Z,Approved with room ROM-0103 and faculty FAC-000156
+SEV-2026-000923,SEC-2026-000554,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (79)
+SEV-2026-000924,SEC-2026-000554,approved,2026-10-22T09:30:00Z,Approved with room ROM-0108 and faculty FAC-000085
+SEV-2026-000925,SEC-2026-000555,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (79)
+SEV-2026-000926,SEC-2026-000555,approved,2026-10-22T09:30:00Z,Approved with room ROM-0113 and faculty FAC-000429
+SEV-2026-000927,SEC-2026-000556,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (44)
+SEV-2026-000928,SEC-2026-000556,approved,2026-10-22T09:30:00Z,Approved with room ROM-0118 and faculty FAC-000231
+SEV-2026-000929,SEC-2026-000557,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (44)
+SEV-2026-000930,SEC-2026-000557,approved,2026-10-22T09:30:00Z,Approved with room ROM-0046 and faculty FAC-000255
+SEV-2026-000931,SEC-2026-000558,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (33)
+SEV-2026-000932,SEC-2026-000558,approved,2026-10-22T09:30:00Z,Approved with room ROM-0123 and faculty FAC-000290
+SEV-2026-000933,SEC-2026-000559,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (65)
+SEV-2026-000934,SEC-2026-000559,approved,2026-10-22T09:30:00Z,Approved with room ROM-0128 and faculty FAC-000052
+SEV-2026-000935,SEC-2026-000561,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (74)
+SEV-2026-000936,SEC-2026-000561,approved,2026-10-22T09:30:00Z,Approved with room ROM-0133 and faculty FAC-000397
+SEV-2026-000937,SEC-2026-000562,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (74)
+SEV-2026-000938,SEC-2026-000562,approved,2026-10-22T09:30:00Z,Approved with room ROM-0138 and faculty FAC-000445
+SEV-2026-000939,SEC-2026-000563,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (22)
+SEV-2026-000940,SEC-2026-000563,approved,2026-10-22T09:30:00Z,Approved with room ROM-0057 and faculty FAC-000351
+SEV-2026-000941,SEC-2026-000564,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (31)
+SEV-2026-000942,SEC-2026-000564,approved,2026-10-22T09:30:00Z,Approved with room ROM-0143 and faculty FAC-000136
+SEV-2026-000943,SEC-2026-000565,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (26)
+SEV-2026-000944,SEC-2026-000565,approved,2026-10-22T09:30:00Z,Approved with room ROM-0062 and faculty FAC-000377
+SEV-2026-000945,SEC-2026-000566,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (37)
+SEV-2026-000946,SEC-2026-000566,approved,2026-10-22T09:30:00Z,Approved with room ROM-0148 and faculty FAC-000043
+SEV-2026-000947,SEC-2026-000567,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (22)
+SEV-2026-000948,SEC-2026-000567,approved,2026-10-22T09:30:00Z,Approved with room ROM-0067 and faculty FAC-000229
+SEV-2026-000949,SEC-2026-000568,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (18)
+SEV-2026-000950,SEC-2026-000568,approved,2026-10-22T09:30:00Z,Approved with room ROM-0051 and faculty FAC-000241
+SEV-2026-000951,SEC-2026-000569,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (29)
+SEV-2026-000952,SEC-2026-000569,approved,2026-10-22T09:30:00Z,Approved with room ROM-0072 and faculty FAC-000147
+SEV-2026-000953,SEC-2026-000570,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (67)
+SEV-2026-000954,SEC-2026-000570,approved,2026-10-22T09:30:00Z,Approved with room ROM-0004 and faculty FAC-000495
+SEV-2026-000955,SEC-2026-000571,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (67)
+SEV-2026-000956,SEC-2026-000571,approved,2026-10-22T09:30:00Z,Approved with room ROM-0056 and faculty FAC-000495
+SEV-2026-000957,SEC-2026-000572,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (82)
+SEV-2026-000958,SEC-2026-000572,approved,2026-10-22T09:30:00Z,Approved with room ROM-0009 and faculty FAC-000009
+SEV-2026-000959,SEC-2026-000573,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (82)
+SEV-2026-000960,SEC-2026-000573,approved,2026-10-22T09:30:00Z,Approved with room ROM-0077 and faculty FAC-000193
+SEV-2026-000961,SEC-2026-000574,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (60)
+SEV-2026-000962,SEC-2026-000574,approved,2026-10-22T09:30:00Z,Approved with room ROM-0014 and faculty FAC-000206
+SEV-2026-000963,SEC-2026-000575,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (73)
+SEV-2026-000964,SEC-2026-000575,approved,2026-10-22T09:30:00Z,Approved with room ROM-0019 and faculty FAC-000199
+SEV-2026-000965,SEC-2026-000576,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (73)
+SEV-2026-000966,SEC-2026-000576,approved,2026-10-22T09:30:00Z,Approved with room ROM-0061 and faculty FAC-000303
+SEV-2026-000967,SEC-2026-000578,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (32)
+SEV-2026-000968,SEC-2026-000578,approved,2026-10-22T09:30:00Z,Approved with room ROM-0024 and faculty FAC-000349
+SEV-2026-000969,SEC-2026-000581,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (39)
+SEV-2026-000970,SEC-2026-000581,approved,2026-10-22T09:30:00Z,Approved with room ROM-0029 and faculty FAC-000092
+SEV-2026-000971,SEC-2026-000582,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (31)
+SEV-2026-000972,SEC-2026-000582,approved,2026-10-22T09:30:00Z,Approved with room ROM-0034 and faculty FAC-000061
+SEV-2026-000973,SEC-2026-000583,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (26)
+SEV-2026-000974,SEC-2026-000583,approved,2026-10-22T09:30:00Z,Approved with room ROM-0082 and faculty FAC-000145
+SEV-2026-000975,SEC-2026-000584,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (30)
+SEV-2026-000976,SEC-2026-000584,approved,2026-10-22T09:30:00Z,Approved with room ROM-0087 and faculty FAC-000034
+SEV-2026-000977,SEC-2026-000585,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (40)
+SEV-2026-000978,SEC-2026-000585,approved,2026-10-22T09:30:00Z,Approved with room ROM-0039 and faculty FAC-000379
+SEV-2026-000979,SEC-2026-000586,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (43)
+SEV-2026-000980,SEC-2026-000586,approved,2026-10-22T09:30:00Z,Approved with room ROM-0044 and faculty FAC-000172
+SEV-2026-000981,SEC-2026-000587,proposed,2026-10-22T08:00:00Z,Initial section proposed to meet forecast demand (17)
+SEV-2026-000982,SEC-2026-000587,approved,2026-10-22T09:30:00Z,Approved with room ROM-0066 and faculty FAC-000118

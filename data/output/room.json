@@ -1,0 +1,1052 @@
+[
+  {
+    "room_id": "ROM-0001",
+    "building": "Turing Hall Room 101",
+    "capacity": 20,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0002",
+    "building": "Von Neumann Center Room 102",
+    "capacity": 30,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0003",
+    "building": "Shannon Hall Room 103",
+    "capacity": 40,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0004",
+    "building": "Euler Science Tower Room 104",
+    "capacity": 60,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0005",
+    "building": "Curie Labs Room 105",
+    "capacity": 120,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0006",
+    "building": "Turing Hall Room 106",
+    "capacity": 20,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0007",
+    "building": "Von Neumann Center Room 107",
+    "capacity": 30,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0008",
+    "building": "Shannon Hall Room 108",
+    "capacity": 40,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0009",
+    "building": "Euler Science Tower Room 109",
+    "capacity": 60,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0010",
+    "building": "Curie Labs Room 110",
+    "capacity": 120,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0011",
+    "building": "Turing Hall Room 111",
+    "capacity": 20,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0012",
+    "building": "Von Neumann Center Room 112",
+    "capacity": 30,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0013",
+    "building": "Shannon Hall Room 113",
+    "capacity": 40,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0014",
+    "building": "Euler Science Tower Room 114",
+    "capacity": 60,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0015",
+    "building": "Curie Labs Room 115",
+    "capacity": 120,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0016",
+    "building": "Turing Hall Room 116",
+    "capacity": 20,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0017",
+    "building": "Von Neumann Center Room 117",
+    "capacity": 30,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0018",
+    "building": "Shannon Hall Room 118",
+    "capacity": 40,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0019",
+    "building": "Euler Science Tower Room 119",
+    "capacity": 60,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0020",
+    "building": "Curie Labs Room 120",
+    "capacity": 120,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0021",
+    "building": "Turing Hall Room 121",
+    "capacity": 20,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0022",
+    "building": "Von Neumann Center Room 122",
+    "capacity": 30,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0023",
+    "building": "Shannon Hall Room 123",
+    "capacity": 40,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0024",
+    "building": "Euler Science Tower Room 124",
+    "capacity": 60,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0025",
+    "building": "Curie Labs Room 125",
+    "capacity": 120,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0026",
+    "building": "Turing Hall Room 126",
+    "capacity": 20,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0027",
+    "building": "Von Neumann Center Room 127",
+    "capacity": 30,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0028",
+    "building": "Shannon Hall Room 128",
+    "capacity": 40,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0029",
+    "building": "Euler Science Tower Room 129",
+    "capacity": 60,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0030",
+    "building": "Curie Labs Room 130",
+    "capacity": 120,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0031",
+    "building": "Turing Hall Room 131",
+    "capacity": 20,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0032",
+    "building": "Von Neumann Center Room 132",
+    "capacity": 30,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0033",
+    "building": "Shannon Hall Room 133",
+    "capacity": 40,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0034",
+    "building": "Euler Science Tower Room 134",
+    "capacity": 60,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0035",
+    "building": "Curie Labs Room 135",
+    "capacity": 120,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0036",
+    "building": "Turing Hall Room 136",
+    "capacity": 20,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0037",
+    "building": "Von Neumann Center Room 137",
+    "capacity": 30,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0038",
+    "building": "Shannon Hall Room 138",
+    "capacity": 40,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0039",
+    "building": "Euler Science Tower Room 139",
+    "capacity": 60,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0040",
+    "building": "Curie Labs Room 140",
+    "capacity": 120,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0041",
+    "building": "Turing Hall Room 141",
+    "capacity": 20,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0042",
+    "building": "Von Neumann Center Room 142",
+    "capacity": 30,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0043",
+    "building": "Shannon Hall Room 143",
+    "capacity": 40,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0044",
+    "building": "Euler Science Tower Room 144",
+    "capacity": 60,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0045",
+    "building": "Curie Labs Room 145",
+    "capacity": 120,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0046",
+    "building": "Turing Hall Room 146",
+    "capacity": 20,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0047",
+    "building": "Von Neumann Center Room 147",
+    "capacity": 30,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0048",
+    "building": "Shannon Hall Room 148",
+    "capacity": 40,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0049",
+    "building": "Euler Science Tower Room 149",
+    "capacity": 60,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0050",
+    "building": "Curie Labs Room 150",
+    "capacity": 120,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0051",
+    "building": "Turing Hall Room 151",
+    "capacity": 20,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0052",
+    "building": "Von Neumann Center Room 152",
+    "capacity": 30,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0053",
+    "building": "Shannon Hall Room 153",
+    "capacity": 40,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0054",
+    "building": "Euler Science Tower Room 154",
+    "capacity": 60,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0055",
+    "building": "Curie Labs Room 155",
+    "capacity": 120,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0056",
+    "building": "Turing Hall Room 156",
+    "capacity": 20,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0057",
+    "building": "Von Neumann Center Room 157",
+    "capacity": 30,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0058",
+    "building": "Shannon Hall Room 158",
+    "capacity": 40,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0059",
+    "building": "Euler Science Tower Room 159",
+    "capacity": 60,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0060",
+    "building": "Curie Labs Room 160",
+    "capacity": 120,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0061",
+    "building": "Turing Hall Room 161",
+    "capacity": 20,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0062",
+    "building": "Von Neumann Center Room 162",
+    "capacity": 30,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0063",
+    "building": "Shannon Hall Room 163",
+    "capacity": 40,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0064",
+    "building": "Euler Science Tower Room 164",
+    "capacity": 60,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0065",
+    "building": "Curie Labs Room 165",
+    "capacity": 120,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0066",
+    "building": "Turing Hall Room 166",
+    "capacity": 20,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0067",
+    "building": "Von Neumann Center Room 167",
+    "capacity": 30,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0068",
+    "building": "Shannon Hall Room 168",
+    "capacity": 40,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0069",
+    "building": "Euler Science Tower Room 169",
+    "capacity": 60,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0070",
+    "building": "Curie Labs Room 170",
+    "capacity": 120,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0071",
+    "building": "Turing Hall Room 171",
+    "capacity": 20,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0072",
+    "building": "Von Neumann Center Room 172",
+    "capacity": 30,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0073",
+    "building": "Shannon Hall Room 173",
+    "capacity": 40,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0074",
+    "building": "Euler Science Tower Room 174",
+    "capacity": 60,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0075",
+    "building": "Curie Labs Room 175",
+    "capacity": 120,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0076",
+    "building": "Turing Hall Room 176",
+    "capacity": 20,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0077",
+    "building": "Von Neumann Center Room 177",
+    "capacity": 30,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0078",
+    "building": "Shannon Hall Room 178",
+    "capacity": 40,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0079",
+    "building": "Euler Science Tower Room 179",
+    "capacity": 60,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0080",
+    "building": "Curie Labs Room 180",
+    "capacity": 120,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0081",
+    "building": "Turing Hall Room 181",
+    "capacity": 20,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0082",
+    "building": "Von Neumann Center Room 182",
+    "capacity": 30,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0083",
+    "building": "Shannon Hall Room 183",
+    "capacity": 40,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0084",
+    "building": "Euler Science Tower Room 184",
+    "capacity": 60,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0085",
+    "building": "Curie Labs Room 185",
+    "capacity": 120,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0086",
+    "building": "Turing Hall Room 186",
+    "capacity": 20,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0087",
+    "building": "Von Neumann Center Room 187",
+    "capacity": 30,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0088",
+    "building": "Shannon Hall Room 188",
+    "capacity": 40,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0089",
+    "building": "Euler Science Tower Room 189",
+    "capacity": 60,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0090",
+    "building": "Curie Labs Room 190",
+    "capacity": 120,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0091",
+    "building": "Turing Hall Room 191",
+    "capacity": 20,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0092",
+    "building": "Von Neumann Center Room 192",
+    "capacity": 30,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0093",
+    "building": "Shannon Hall Room 193",
+    "capacity": 40,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0094",
+    "building": "Euler Science Tower Room 194",
+    "capacity": 60,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0095",
+    "building": "Curie Labs Room 195",
+    "capacity": 120,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0096",
+    "building": "Turing Hall Room 196",
+    "capacity": 20,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0097",
+    "building": "Von Neumann Center Room 197",
+    "capacity": 30,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0098",
+    "building": "Shannon Hall Room 198",
+    "capacity": 40,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0099",
+    "building": "Euler Science Tower Room 199",
+    "capacity": 60,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0100",
+    "building": "Curie Labs Room 200",
+    "capacity": 120,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0101",
+    "building": "Turing Hall Room 201",
+    "capacity": 20,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0102",
+    "building": "Von Neumann Center Room 202",
+    "capacity": 30,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0103",
+    "building": "Shannon Hall Room 203",
+    "capacity": 40,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0104",
+    "building": "Euler Science Tower Room 204",
+    "capacity": 60,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0105",
+    "building": "Curie Labs Room 205",
+    "capacity": 120,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0106",
+    "building": "Turing Hall Room 206",
+    "capacity": 20,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0107",
+    "building": "Von Neumann Center Room 207",
+    "capacity": 30,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0108",
+    "building": "Shannon Hall Room 208",
+    "capacity": 40,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0109",
+    "building": "Euler Science Tower Room 209",
+    "capacity": 60,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0110",
+    "building": "Curie Labs Room 210",
+    "capacity": 120,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0111",
+    "building": "Turing Hall Room 211",
+    "capacity": 20,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0112",
+    "building": "Von Neumann Center Room 212",
+    "capacity": 30,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0113",
+    "building": "Shannon Hall Room 213",
+    "capacity": 40,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0114",
+    "building": "Euler Science Tower Room 214",
+    "capacity": 60,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0115",
+    "building": "Curie Labs Room 215",
+    "capacity": 120,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0116",
+    "building": "Turing Hall Room 216",
+    "capacity": 20,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0117",
+    "building": "Von Neumann Center Room 217",
+    "capacity": 30,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0118",
+    "building": "Shannon Hall Room 218",
+    "capacity": 40,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0119",
+    "building": "Euler Science Tower Room 219",
+    "capacity": 60,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0120",
+    "building": "Curie Labs Room 220",
+    "capacity": 120,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0121",
+    "building": "Turing Hall Room 221",
+    "capacity": 20,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0122",
+    "building": "Von Neumann Center Room 222",
+    "capacity": 30,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0123",
+    "building": "Shannon Hall Room 223",
+    "capacity": 40,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0124",
+    "building": "Euler Science Tower Room 224",
+    "capacity": 60,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0125",
+    "building": "Curie Labs Room 225",
+    "capacity": 120,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0126",
+    "building": "Turing Hall Room 226",
+    "capacity": 20,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0127",
+    "building": "Von Neumann Center Room 227",
+    "capacity": 30,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0128",
+    "building": "Shannon Hall Room 228",
+    "capacity": 40,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0129",
+    "building": "Euler Science Tower Room 229",
+    "capacity": 60,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0130",
+    "building": "Curie Labs Room 230",
+    "capacity": 120,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0131",
+    "building": "Turing Hall Room 231",
+    "capacity": 20,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0132",
+    "building": "Von Neumann Center Room 232",
+    "capacity": 30,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0133",
+    "building": "Shannon Hall Room 233",
+    "capacity": 40,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0134",
+    "building": "Euler Science Tower Room 234",
+    "capacity": 60,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0135",
+    "building": "Curie Labs Room 235",
+    "capacity": 120,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0136",
+    "building": "Turing Hall Room 236",
+    "capacity": 20,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0137",
+    "building": "Von Neumann Center Room 237",
+    "capacity": 30,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0138",
+    "building": "Shannon Hall Room 238",
+    "capacity": 40,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0139",
+    "building": "Euler Science Tower Room 239",
+    "capacity": 60,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0140",
+    "building": "Curie Labs Room 240",
+    "capacity": 120,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0141",
+    "building": "Turing Hall Room 241",
+    "capacity": 20,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0142",
+    "building": "Von Neumann Center Room 242",
+    "capacity": 30,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0143",
+    "building": "Shannon Hall Room 243",
+    "capacity": 40,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0144",
+    "building": "Euler Science Tower Room 244",
+    "capacity": 60,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0145",
+    "building": "Curie Labs Room 245",
+    "capacity": 120,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0146",
+    "building": "Turing Hall Room 246",
+    "capacity": 20,
+    "room_type": "classroom",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0147",
+    "building": "Von Neumann Center Room 247",
+    "capacity": 30,
+    "room_type": "seminar",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0148",
+    "building": "Shannon Hall Room 248",
+    "capacity": 40,
+    "room_type": "computer_lab",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0149",
+    "building": "Euler Science Tower Room 249",
+    "capacity": 60,
+    "room_type": "lecture_hall",
+    "available_slots": 10
+  },
+  {
+    "room_id": "ROM-0150",
+    "building": "Curie Labs Room 250",
+    "capacity": 120,
+    "room_type": "classroom",
+    "available_slots": 10
+  }
+]

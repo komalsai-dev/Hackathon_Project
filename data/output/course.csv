@@ -1,0 +1,1001 @@
+course_id,code,title,credits,level,category,contact_hours_per_week,status
+CRS-000001,CS-400-001,Intro to Programming,4,400,standard,4.0,active
+CRS-000002,DS-600-001,Applied Statistics,4,600,standard,4.0,active
+CRS-000003,EE-600-001,Digital Logic Design,4,600,standard,4.0,active
+CRS-000004,MATH-200-001,Differential Equations,3,200,low_enrollment,3.0,active
+CRS-000005,BA-600-001,Financial Analytics,4,600,standard,4.0,active
+CRS-000006,IS-100-001,Cloud Infrastructure,3,100,core,3.0,active
+CRS-000007,ECON-100-001,International Trade,3,100,core,3.0,active
+CRS-000008,ME-200-001,Mechatronics,3,200,core,3.0,active
+CRS-000009,CS-100-002,Machine Learning,3,100,core,3.0,active
+CRS-000010,DS-500-002,Data Engineering,4,500,core,4.0,active
+CRS-000011,EE-500-002,Embedded Systems,4,500,core,4.0,active
+CRS-000012,MATH-400-002,Topology,4,400,standard,4.0,active
+CRS-000013,BA-300-002,Business Statistics 13,3,300,core,3.0,active
+CRS-000014,IS-500-002,Information Security 14,4,500,core,4.0,active
+CRS-000015,ECON-100-002,Econometrics 15,3,100,low_enrollment,3.0,active
+CRS-000016,ME-200-002,Fluid Mechanics 16,3,200,core,3.0,active
+CRS-000017,CS-300-003,Intro to Programming 17,3,300,core,3.0,active
+CRS-000018,DS-500-003,Data Visualization 18,4,500,core,4.0,active
+CRS-000019,EE-200-003,VLSI Design 19,3,200,core,3.0,active
+CRS-000020,MATH-300-003,Numerical Analysis 20,3,300,core,3.0,active
+CRS-000021,BA-300-003,Managerial Economics 21,3,300,core,3.0,active
+CRS-000022,IS-500-003,IT Project Management 22,4,500,core,4.0,active
+CRS-000023,ECON-500-003,Health Economics 23,4,500,core,4.0,active
+CRS-000024,ME-400-003,Vibrations 24,4,400,standard,4.0,active
+CRS-000025,CS-200-004,Machine Learning 25,3,200,standard,3.0,active
+CRS-000026,DS-200-004,Applied Statistics 26,3,200,standard,3.0,active
+CRS-000027,EE-400-004,Digital Logic Design 27,4,400,low_enrollment,4.0,active
+CRS-000028,MATH-400-004,Differential Equations 28,4,400,standard,4.0,active
+CRS-000029,BA-200-004,Financial Analytics 29,3,200,standard,3.0,active
+CRS-000030,IS-600-004,Knowledge Management 30,4,600,low_enrollment,4.0,active
+CRS-000031,ECON-100-004,International Trade 31,3,100,popular_elective,3.0,active
+CRS-000032,ME-600-004,Mechatronics 32,4,600,standard,4.0,active
+CRS-000033,CS-600-005,Intro to Programming 33,4,600,core,4.0,active
+CRS-000034,DS-100-005,Data Engineering 34,3,100,standard,3.0,active
+CRS-000035,EE-300-005,Embedded Systems 35,3,300,standard,3.0,active
+CRS-000036,MATH-500-005,Topology 36,4,500,standard,4.0,active
+CRS-000037,BA-400-005,Business Statistics 37,4,400,core,4.0,active
+CRS-000038,IS-100-005,E-Commerce Technologies 38,3,100,core,3.0,active
+CRS-000039,ECON-600-005,Econometrics 39,4,600,low_enrollment,4.0,active
+CRS-000040,ME-400-005,Fluid Mechanics 40,4,400,core,4.0,active
+CRS-000041,CS-100-006,Machine Learning 41,3,100,standard,3.0,active
+CRS-000042,DS-500-006,Data Visualization 42,4,500,popular_elective,4.0,active
+CRS-000043,EE-200-006,VLSI Design 43,3,200,core,3.0,active
+CRS-000044,MATH-400-006,Numerical Analysis 44,4,400,standard,4.0,active
+CRS-000045,BA-600-006,Managerial Economics 45,4,600,low_enrollment,4.0,active
+CRS-000046,IS-300-006,Cloud Infrastructure 46,3,300,popular_elective,3.0,active
+CRS-000047,ECON-100-006,Health Economics 47,3,100,core,3.0,active
+CRS-000048,ME-200-006,Vibrations 48,3,200,standard,3.0,active
+CRS-000049,CS-300-007,Intro to Programming 49,3,300,popular_elective,3.0,active
+CRS-000050,DS-500-007,Applied Statistics 50,4,500,core,4.0,active
+CRS-000051,EE-200-007,Digital Logic Design 51,3,200,popular_elective,3.0,active
+CRS-000052,MATH-200-007,Differential Equations 52,3,200,standard,3.0,active
+CRS-000053,BA-400-007,Financial Analytics 53,4,400,core,4.0,active
+CRS-000054,IS-300-007,Information Security 54,3,300,standard,3.0,active
+CRS-000055,ECON-600-007,International Trade 55,4,600,standard,4.0,active
+CRS-000056,ME-500-007,Mechatronics 56,4,500,core,4.0,active
+CRS-000057,CS-500-008,Machine Learning 57,4,500,popular_elective,4.0,active
+CRS-000058,DS-400-008,Data Engineering 58,4,400,standard,4.0,active
+CRS-000059,EE-200-008,Embedded Systems 59,3,200,core,3.0,active
+CRS-000060,MATH-200-008,Topology 60,3,200,standard,3.0,active
+CRS-000061,BA-200-008,Business Statistics 61,3,200,core,3.0,active
+CRS-000062,IS-200-008,IT Project Management 62,3,200,standard,3.0,active
+CRS-000063,ECON-100-008,Econometrics 63,3,100,core,3.0,active
+CRS-000064,ME-500-008,Fluid Mechanics 64,4,500,core,4.0,active
+CRS-000065,CS-500-009,Intro to Programming 65,4,500,standard,4.0,active
+CRS-000066,DS-500-009,Data Visualization 66,4,500,popular_elective,4.0,active
+CRS-000067,EE-500-009,VLSI Design 67,4,500,standard,4.0,active
+CRS-000068,MATH-100-009,Numerical Analysis 68,3,100,core,3.0,active
+CRS-000069,BA-200-009,Managerial Economics 69,3,200,core,3.0,active
+CRS-000070,IS-600-009,Knowledge Management 70,4,600,standard,4.0,active
+CRS-000071,ECON-500-009,Health Economics 71,4,500,low_enrollment,4.0,active
+CRS-000072,ME-400-009,Vibrations 72,4,400,low_enrollment,4.0,active
+CRS-000073,CS-500-010,Machine Learning 73,4,500,standard,4.0,active
+CRS-000074,DS-400-010,Applied Statistics 74,4,400,standard,4.0,active
+CRS-000075,EE-600-010,Digital Logic Design 75,4,600,standard,4.0,active
+CRS-000076,MATH-600-010,Differential Equations 76,4,600,standard,4.0,active
+CRS-000077,BA-400-010,Financial Analytics 77,4,400,standard,4.0,active
+CRS-000078,IS-500-010,E-Commerce Technologies 78,4,500,popular_elective,4.0,active
+CRS-000079,ECON-100-010,International Trade 79,3,100,standard,3.0,active
+CRS-000080,ME-200-010,Mechatronics 80,3,200,standard,3.0,active
+CRS-000081,CS-500-011,Intro to Programming 81,4,500,core,4.0,active
+CRS-000082,DS-100-011,Data Engineering 82,3,100,standard,3.0,active
+CRS-000083,EE-200-011,Embedded Systems 83,3,200,standard,3.0,active
+CRS-000084,MATH-500-011,Topology 84,4,500,standard,4.0,active
+CRS-000085,BA-100-011,Business Statistics 85,3,100,popular_elective,3.0,active
+CRS-000086,IS-100-011,Cloud Infrastructure 86,3,100,standard,3.0,active
+CRS-000087,ECON-500-011,Econometrics 87,4,500,standard,4.0,active
+CRS-000088,ME-500-011,Fluid Mechanics 88,4,500,core,4.0,active
+CRS-000089,CS-200-012,Machine Learning 89,3,200,standard,3.0,active
+CRS-000090,DS-100-012,Data Visualization 90,3,100,low_enrollment,3.0,active
+CRS-000091,EE-400-012,VLSI Design 91,4,400,standard,4.0,active
+CRS-000092,MATH-400-012,Numerical Analysis 92,4,400,standard,4.0,active
+CRS-000093,BA-500-012,Managerial Economics 93,4,500,standard,4.0,active
+CRS-000094,IS-300-012,Information Security 94,3,300,core,3.0,active
+CRS-000095,ECON-100-012,Health Economics 95,3,100,core,3.0,active
+CRS-000096,ME-200-012,Vibrations 96,3,200,core,3.0,active
+CRS-000097,CS-100-013,Intro to Programming 97,3,100,standard,3.0,active
+CRS-000098,DS-600-013,Applied Statistics 98,4,600,low_enrollment,4.0,active
+CRS-000099,EE-200-013,Digital Logic Design 99,3,200,standard,3.0,active
+CRS-000100,MATH-300-013,Differential Equations 100,3,300,core,3.0,active
+CRS-000101,BA-600-013,Financial Analytics 101,4,600,core,4.0,active
+CRS-000102,IS-600-013,IT Project Management 102,4,600,standard,4.0,active
+CRS-000103,ECON-300-013,International Trade 103,3,300,core,3.0,active
+CRS-000104,ME-500-013,Mechatronics 104,4,500,core,4.0,active
+CRS-000105,CS-500-014,Machine Learning 105,4,500,popular_elective,4.0,active
+CRS-000106,DS-600-014,Data Engineering 106,4,600,low_enrollment,4.0,active
+CRS-000107,EE-100-014,Embedded Systems 107,3,100,standard,3.0,active
+CRS-000108,MATH-600-014,Topology 108,4,600,popular_elective,4.0,active
+CRS-000109,BA-600-014,Business Statistics 109,4,600,standard,4.0,active
+CRS-000110,IS-400-014,Knowledge Management 110,4,400,standard,4.0,active
+CRS-000111,ECON-500-014,Econometrics 111,4,500,standard,4.0,active
+CRS-000112,ME-100-014,Fluid Mechanics 112,3,100,standard,3.0,active
+CRS-000113,CS-200-015,Intro to Programming 113,3,200,core,3.0,active
+CRS-000114,DS-500-015,Data Visualization 114,4,500,standard,4.0,active
+CRS-000115,EE-500-015,VLSI Design 115,4,500,core,4.0,active
+CRS-000116,MATH-400-015,Numerical Analysis 116,4,400,core,4.0,active
+CRS-000117,BA-200-015,Managerial Economics 117,3,200,low_enrollment,3.0,active
+CRS-000118,IS-400-015,E-Commerce Technologies 118,4,400,popular_elective,4.0,active
+CRS-000119,ECON-600-015,Health Economics 119,4,600,low_enrollment,4.0,active
+CRS-000120,ME-600-015,Vibrations 120,4,600,standard,4.0,active
+CRS-000121,CS-300-016,Machine Learning 121,3,300,standard,3.0,active
+CRS-000122,DS-100-016,Applied Statistics 122,3,100,core,3.0,active
+CRS-000123,EE-500-016,Digital Logic Design 123,4,500,low_enrollment,4.0,active
+CRS-000124,MATH-100-016,Differential Equations 124,3,100,core,3.0,active
+CRS-000125,BA-300-016,Financial Analytics 125,3,300,standard,3.0,active
+CRS-000126,IS-200-016,Cloud Infrastructure 126,3,200,standard,3.0,active
+CRS-000127,ECON-300-016,International Trade 127,3,300,standard,3.0,active
+CRS-000128,ME-600-016,Mechatronics 128,4,600,core,4.0,active
+CRS-000129,CS-200-017,Intro to Programming 129,3,200,core,3.0,active
+CRS-000130,DS-100-017,Data Engineering 130,3,100,standard,3.0,active
+CRS-000131,EE-100-017,Embedded Systems 131,3,100,core,3.0,active
+CRS-000132,MATH-600-017,Topology 132,4,600,core,4.0,active
+CRS-000133,BA-100-017,Business Statistics 133,3,100,standard,3.0,active
+CRS-000134,IS-500-017,Information Security 134,4,500,low_enrollment,4.0,active
+CRS-000135,ECON-200-017,Econometrics 135,3,200,standard,3.0,active
+CRS-000136,ME-300-017,Fluid Mechanics 136,3,300,standard,3.0,active
+CRS-000137,CS-600-018,Machine Learning 137,4,600,standard,4.0,active
+CRS-000138,DS-300-018,Data Visualization 138,3,300,core,3.0,active
+CRS-000139,EE-600-018,VLSI Design 139,4,600,standard,4.0,active
+CRS-000140,MATH-200-018,Numerical Analysis 140,3,200,standard,3.0,active
+CRS-000141,BA-400-018,Managerial Economics 141,4,400,core,4.0,active
+CRS-000142,IS-100-018,IT Project Management 142,3,100,standard,3.0,active
+CRS-000143,ECON-300-018,Health Economics 143,3,300,core,3.0,active
+CRS-000144,ME-300-018,Vibrations 144,3,300,standard,3.0,active
+CRS-000145,CS-300-019,Intro to Programming 145,3,300,standard,3.0,active
+CRS-000146,DS-400-019,Applied Statistics 146,4,400,standard,4.0,active
+CRS-000147,EE-300-019,Digital Logic Design 147,3,300,standard,3.0,active
+CRS-000148,MATH-100-019,Differential Equations 148,3,100,standard,3.0,active
+CRS-000149,BA-300-019,Financial Analytics 149,3,300,standard,3.0,active
+CRS-000150,IS-300-019,Knowledge Management 150,3,300,standard,3.0,active
+CRS-000151,ECON-300-019,International Trade 151,3,300,core,3.0,active
+CRS-000152,ME-300-019,Mechatronics 152,3,300,low_enrollment,3.0,active
+CRS-000153,CS-300-020,Machine Learning 153,3,300,low_enrollment,3.0,active
+CRS-000154,DS-200-020,Data Engineering 154,3,200,standard,3.0,active
+CRS-000155,EE-300-020,Embedded Systems 155,3,300,popular_elective,3.0,active
+CRS-000156,MATH-500-020,Topology 156,4,500,standard,4.0,active
+CRS-000157,BA-300-020,Business Statistics 157,3,300,core,3.0,active
+CRS-000158,IS-300-020,E-Commerce Technologies 158,3,300,popular_elective,3.0,active
+CRS-000159,ECON-500-020,Econometrics 159,4,500,low_enrollment,4.0,active
+CRS-000160,ME-400-020,Fluid Mechanics 160,4,400,standard,4.0,active
+CRS-000161,CS-600-021,Intro to Programming 161,4,600,standard,4.0,active
+CRS-000162,DS-400-021,Data Visualization 162,4,400,core,4.0,active
+CRS-000163,EE-500-021,VLSI Design 163,4,500,low_enrollment,4.0,active
+CRS-000164,MATH-400-021,Numerical Analysis 164,4,400,core,4.0,active
+CRS-000165,BA-400-021,Managerial Economics 165,4,400,standard,4.0,active
+CRS-000166,IS-600-021,Cloud Infrastructure 166,4,600,standard,4.0,active
+CRS-000167,ECON-200-021,Health Economics 167,3,200,standard,3.0,active
+CRS-000168,ME-300-021,Vibrations 168,3,300,popular_elective,3.0,active
+CRS-000169,CS-300-022,Machine Learning 169,3,300,low_enrollment,3.0,active
+CRS-000170,DS-400-022,Applied Statistics 170,4,400,core,4.0,active
+CRS-000171,EE-500-022,Digital Logic Design 171,4,500,popular_elective,4.0,active
+CRS-000172,MATH-600-022,Differential Equations 172,4,600,core,4.0,active
+CRS-000173,BA-500-022,Financial Analytics 173,4,500,standard,4.0,active
+CRS-000174,IS-100-022,Information Security 174,3,100,core,3.0,active
+CRS-000175,ECON-300-022,International Trade 175,3,300,core,3.0,active
+CRS-000176,ME-600-022,Mechatronics 176,4,600,core,4.0,active
+CRS-000177,CS-100-023,Intro to Programming 177,3,100,core,3.0,active
+CRS-000178,DS-500-023,Data Engineering 178,4,500,standard,4.0,active
+CRS-000179,EE-400-023,Embedded Systems 179,4,400,standard,4.0,active
+CRS-000180,MATH-600-023,Topology 180,4,600,popular_elective,4.0,active
+CRS-000181,BA-500-023,Business Statistics 181,4,500,core,4.0,active
+CRS-000182,IS-300-023,IT Project Management 182,3,300,core,3.0,active
+CRS-000183,ECON-200-023,Econometrics 183,3,200,popular_elective,3.0,active
+CRS-000184,ME-400-023,Fluid Mechanics 184,4,400,standard,4.0,active
+CRS-000185,CS-500-024,Machine Learning 185,4,500,standard,4.0,active
+CRS-000186,DS-300-024,Data Visualization 186,3,300,standard,3.0,active
+CRS-000187,EE-100-024,VLSI Design 187,3,100,standard,3.0,active
+CRS-000188,MATH-500-024,Numerical Analysis 188,4,500,core,4.0,active
+CRS-000189,BA-400-024,Managerial Economics 189,4,400,popular_elective,4.0,active
+CRS-000190,IS-400-024,Knowledge Management 190,4,400,core,4.0,active
+CRS-000191,ECON-100-024,Health Economics 191,3,100,standard,3.0,active
+CRS-000192,ME-200-024,Vibrations 192,3,200,core,3.0,active
+CRS-000193,CS-500-025,Intro to Programming 193,4,500,core,4.0,active
+CRS-000194,DS-300-025,Applied Statistics 194,3,300,standard,3.0,active
+CRS-000195,EE-100-025,Digital Logic Design 195,3,100,standard,3.0,active
+CRS-000196,MATH-600-025,Differential Equations 196,4,600,standard,4.0,active
+CRS-000197,BA-200-025,Financial Analytics 197,3,200,low_enrollment,3.0,active
+CRS-000198,IS-300-025,E-Commerce Technologies 198,3,300,core,3.0,active
+CRS-000199,ECON-300-025,International Trade 199,3,300,standard,3.0,active
+CRS-000200,ME-400-025,Mechatronics 200,4,400,low_enrollment,4.0,active
+CRS-000201,CS-400-026,Machine Learning 201,4,400,core,4.0,active
+CRS-000202,DS-100-026,Data Engineering 202,3,100,low_enrollment,3.0,active
+CRS-000203,EE-300-026,Embedded Systems 203,3,300,standard,3.0,active
+CRS-000204,MATH-400-026,Topology 204,4,400,core,4.0,active
+CRS-000205,BA-200-026,Business Statistics 205,3,200,standard,3.0,active
+CRS-000206,IS-100-026,Cloud Infrastructure 206,3,100,standard,3.0,active
+CRS-000207,ECON-500-026,Econometrics 207,4,500,standard,4.0,active
+CRS-000208,ME-600-026,Fluid Mechanics 208,4,600,standard,4.0,active
+CRS-000209,CS-300-027,Intro to Programming 209,3,300,standard,3.0,active
+CRS-000210,DS-300-027,Data Visualization 210,3,300,core,3.0,active
+CRS-000211,EE-100-027,VLSI Design 211,3,100,low_enrollment,3.0,active
+CRS-000212,MATH-600-027,Numerical Analysis 212,4,600,standard,4.0,active
+CRS-000213,BA-500-027,Managerial Economics 213,4,500,standard,4.0,active
+CRS-000214,IS-400-027,Information Security 214,4,400,popular_elective,4.0,active
+CRS-000215,ECON-400-027,Health Economics 215,4,400,standard,4.0,active
+CRS-000216,ME-100-027,Vibrations 216,3,100,low_enrollment,3.0,active
+CRS-000217,CS-600-028,Machine Learning 217,4,600,core,4.0,active
+CRS-000218,DS-200-028,Applied Statistics 218,3,200,low_enrollment,3.0,active
+CRS-000219,EE-100-028,Digital Logic Design 219,3,100,low_enrollment,3.0,active
+CRS-000220,MATH-100-028,Differential Equations 220,3,100,core,3.0,active
+CRS-000221,BA-200-028,Financial Analytics 221,3,200,core,3.0,active
+CRS-000222,IS-500-028,IT Project Management 222,4,500,core,4.0,active
+CRS-000223,ECON-500-028,International Trade 223,4,500,core,4.0,active
+CRS-000224,ME-200-028,Mechatronics 224,3,200,core,3.0,active
+CRS-000225,CS-100-029,Intro to Programming 225,3,100,standard,3.0,active
+CRS-000226,DS-300-029,Data Engineering 226,3,300,standard,3.0,active
+CRS-000227,EE-600-029,Embedded Systems 227,4,600,core,4.0,active
+CRS-000228,MATH-400-029,Topology 228,4,400,core,4.0,active
+CRS-000229,BA-200-029,Business Statistics 229,3,200,core,3.0,active
+CRS-000230,IS-300-029,Knowledge Management 230,3,300,low_enrollment,3.0,active
+CRS-000231,ECON-200-029,Econometrics 231,3,200,core,3.0,active
+CRS-000232,ME-200-029,Fluid Mechanics 232,3,200,standard,3.0,active
+CRS-000233,CS-600-030,Machine Learning 233,4,600,core,4.0,active
+CRS-000234,DS-600-030,Data Visualization 234,4,600,core,4.0,active
+CRS-000235,EE-200-030,VLSI Design 235,3,200,core,3.0,active
+CRS-000236,MATH-500-030,Numerical Analysis 236,4,500,popular_elective,4.0,active
+CRS-000237,BA-400-030,Managerial Economics 237,4,400,popular_elective,4.0,active
+CRS-000238,IS-600-030,E-Commerce Technologies 238,4,600,standard,4.0,active
+CRS-000239,ECON-300-030,Health Economics 239,3,300,standard,3.0,active
+CRS-000240,ME-500-030,Vibrations 240,4,500,low_enrollment,4.0,active
+CRS-000241,CS-400-031,Intro to Programming 241,4,400,standard,4.0,active
+CRS-000242,DS-600-031,Applied Statistics 242,4,600,standard,4.0,active
+CRS-000243,EE-300-031,Digital Logic Design 243,3,300,core,3.0,active
+CRS-000244,MATH-500-031,Differential Equations 244,4,500,standard,4.0,active
+CRS-000245,BA-500-031,Financial Analytics 245,4,500,standard,4.0,active
+CRS-000246,IS-400-031,Cloud Infrastructure 246,4,400,standard,4.0,active
+CRS-000247,ECON-500-031,International Trade 247,4,500,core,4.0,active
+CRS-000248,ME-600-031,Mechatronics 248,4,600,popular_elective,4.0,active
+CRS-000249,CS-600-032,Machine Learning 249,4,600,standard,4.0,active
+CRS-000250,DS-200-032,Data Engineering 250,3,200,standard,3.0,active
+CRS-000251,EE-100-032,Embedded Systems 251,3,100,standard,3.0,active
+CRS-000252,MATH-600-032,Topology 252,4,600,core,4.0,active
+CRS-000253,BA-200-032,Business Statistics 253,3,200,standard,3.0,active
+CRS-000254,IS-400-032,Information Security 254,4,400,standard,4.0,active
+CRS-000255,ECON-600-032,Econometrics 255,4,600,standard,4.0,active
+CRS-000256,ME-400-032,Fluid Mechanics 256,4,400,standard,4.0,active
+CRS-000257,CS-600-033,Intro to Programming 257,4,600,standard,4.0,active
+CRS-000258,DS-100-033,Data Visualization 258,3,100,core,3.0,active
+CRS-000259,EE-300-033,VLSI Design 259,3,300,standard,3.0,active
+CRS-000260,MATH-200-033,Numerical Analysis 260,3,200,standard,3.0,active
+CRS-000261,BA-600-033,Managerial Economics 261,4,600,standard,4.0,active
+CRS-000262,IS-200-033,IT Project Management 262,3,200,standard,3.0,active
+CRS-000263,ECON-500-033,Health Economics 263,4,500,popular_elective,4.0,active
+CRS-000264,ME-600-033,Vibrations 264,4,600,core,4.0,active
+CRS-000265,CS-400-034,Machine Learning 265,4,400,popular_elective,4.0,active
+CRS-000266,DS-200-034,Applied Statistics 266,3,200,core,3.0,active
+CRS-000267,EE-400-034,Digital Logic Design 267,4,400,core,4.0,active
+CRS-000268,MATH-400-034,Differential Equations 268,4,400,standard,4.0,active
+CRS-000269,BA-300-034,Financial Analytics 269,3,300,low_enrollment,3.0,active
+CRS-000270,IS-300-034,Knowledge Management 270,3,300,standard,3.0,active
+CRS-000271,ECON-100-034,International Trade 271,3,100,low_enrollment,3.0,active
+CRS-000272,ME-200-034,Mechatronics 272,3,200,core,3.0,active
+CRS-000273,CS-500-035,Intro to Programming 273,4,500,core,4.0,active
+CRS-000274,DS-300-035,Data Engineering 274,3,300,standard,3.0,active
+CRS-000275,EE-600-035,Embedded Systems 275,4,600,core,4.0,active
+CRS-000276,MATH-600-035,Topology 276,4,600,low_enrollment,4.0,active
+CRS-000277,BA-300-035,Business Statistics 277,3,300,standard,3.0,active
+CRS-000278,IS-300-035,E-Commerce Technologies 278,3,300,standard,3.0,active
+CRS-000279,ECON-200-035,Econometrics 279,3,200,standard,3.0,active
+CRS-000280,ME-300-035,Fluid Mechanics 280,3,300,standard,3.0,active
+CRS-000281,CS-100-036,Machine Learning 281,3,100,core,3.0,active
+CRS-000282,DS-300-036,Data Visualization 282,3,300,standard,3.0,active
+CRS-000283,EE-100-036,VLSI Design 283,3,100,standard,3.0,active
+CRS-000284,MATH-400-036,Numerical Analysis 284,4,400,standard,4.0,active
+CRS-000285,BA-200-036,Managerial Economics 285,3,200,core,3.0,active
+CRS-000286,IS-500-036,Cloud Infrastructure 286,4,500,standard,4.0,active
+CRS-000287,ECON-500-036,Health Economics 287,4,500,core,4.0,active
+CRS-000288,ME-200-036,Vibrations 288,3,200,core,3.0,active
+CRS-000289,CS-500-037,Intro to Programming 289,4,500,standard,4.0,active
+CRS-000290,DS-100-037,Applied Statistics 290,3,100,core,3.0,active
+CRS-000291,EE-500-037,Digital Logic Design 291,4,500,popular_elective,4.0,active
+CRS-000292,MATH-100-037,Differential Equations 292,3,100,standard,3.0,active
+CRS-000293,BA-600-037,Financial Analytics 293,4,600,standard,4.0,active
+CRS-000294,IS-600-037,Information Security 294,4,600,core,4.0,active
+CRS-000295,ECON-400-037,International Trade 295,4,400,core,4.0,active
+CRS-000296,ME-200-037,Mechatronics 296,3,200,standard,3.0,active
+CRS-000297,CS-300-038,Machine Learning 297,3,300,standard,3.0,active
+CRS-000298,DS-600-038,Data Engineering 298,4,600,standard,4.0,active
+CRS-000299,EE-300-038,Embedded Systems 299,3,300,core,3.0,active
+CRS-000300,MATH-600-038,Topology 300,4,600,low_enrollment,4.0,active
+CRS-000301,BA-300-038,Business Statistics 301,3,300,standard,3.0,active
+CRS-000302,IS-200-038,IT Project Management 302,3,200,standard,3.0,active
+CRS-000303,ECON-600-038,Econometrics 303,4,600,core,4.0,active
+CRS-000304,ME-400-038,Fluid Mechanics 304,4,400,standard,4.0,active
+CRS-000305,CS-400-039,Intro to Programming 305,4,400,standard,4.0,active
+CRS-000306,DS-400-039,Data Visualization 306,4,400,core,4.0,active
+CRS-000307,EE-400-039,VLSI Design 307,4,400,standard,4.0,active
+CRS-000308,MATH-300-039,Numerical Analysis 308,3,300,standard,3.0,active
+CRS-000309,BA-400-039,Managerial Economics 309,4,400,core,4.0,active
+CRS-000310,IS-200-039,Knowledge Management 310,3,200,core,3.0,active
+CRS-000311,ECON-200-039,Health Economics 311,3,200,core,3.0,active
+CRS-000312,ME-500-039,Vibrations 312,4,500,popular_elective,4.0,active
+CRS-000313,CS-200-040,Machine Learning 313,3,200,popular_elective,3.0,active
+CRS-000314,DS-500-040,Applied Statistics 314,4,500,standard,4.0,active
+CRS-000315,EE-300-040,Digital Logic Design 315,3,300,standard,3.0,active
+CRS-000316,MATH-600-040,Differential Equations 316,4,600,low_enrollment,4.0,active
+CRS-000317,BA-400-040,Financial Analytics 317,4,400,standard,4.0,active
+CRS-000318,IS-200-040,E-Commerce Technologies 318,3,200,core,3.0,active
+CRS-000319,ECON-400-040,International Trade 319,4,400,standard,4.0,active
+CRS-000320,ME-300-040,Mechatronics 320,3,300,standard,3.0,active
+CRS-000321,CS-300-041,Intro to Programming 321,3,300,low_enrollment,3.0,active
+CRS-000322,DS-600-041,Data Engineering 322,4,600,popular_elective,4.0,active
+CRS-000323,EE-600-041,Embedded Systems 323,4,600,standard,4.0,active
+CRS-000324,MATH-200-041,Topology 324,3,200,standard,3.0,active
+CRS-000325,BA-100-041,Business Statistics 325,3,100,standard,3.0,active
+CRS-000326,IS-600-041,Cloud Infrastructure 326,4,600,standard,4.0,active
+CRS-000327,ECON-300-041,Econometrics 327,3,300,standard,3.0,active
+CRS-000328,ME-300-041,Fluid Mechanics 328,3,300,standard,3.0,active
+CRS-000329,CS-300-042,Machine Learning 329,3,300,standard,3.0,active
+CRS-000330,DS-300-042,Data Visualization 330,3,300,core,3.0,active
+CRS-000331,EE-600-042,VLSI Design 331,4,600,standard,4.0,active
+CRS-000332,MATH-100-042,Numerical Analysis 332,3,100,low_enrollment,3.0,active
+CRS-000333,BA-200-042,Managerial Economics 333,3,200,core,3.0,active
+CRS-000334,IS-600-042,Information Security 334,4,600,core,4.0,active
+CRS-000335,ECON-600-042,Health Economics 335,4,600,low_enrollment,4.0,active
+CRS-000336,ME-600-042,Vibrations 336,4,600,popular_elective,4.0,active
+CRS-000337,CS-100-043,Intro to Programming 337,3,100,standard,3.0,active
+CRS-000338,DS-500-043,Applied Statistics 338,4,500,standard,4.0,active
+CRS-000339,EE-400-043,Digital Logic Design 339,4,400,core,4.0,active
+CRS-000340,MATH-500-043,Differential Equations 340,4,500,standard,4.0,active
+CRS-000341,BA-300-043,Financial Analytics 341,3,300,standard,3.0,active
+CRS-000342,IS-400-043,IT Project Management 342,4,400,core,4.0,active
+CRS-000343,ECON-100-043,International Trade 343,3,100,popular_elective,3.0,active
+CRS-000344,ME-400-043,Mechatronics 344,4,400,standard,4.0,active
+CRS-000345,CS-200-044,Machine Learning 345,3,200,standard,3.0,active
+CRS-000346,DS-300-044,Data Engineering 346,3,300,low_enrollment,3.0,active
+CRS-000347,EE-100-044,Embedded Systems 347,3,100,core,3.0,active
+CRS-000348,MATH-300-044,Topology 348,3,300,core,3.0,active
+CRS-000349,BA-500-044,Business Statistics 349,4,500,standard,4.0,active
+CRS-000350,IS-200-044,Knowledge Management 350,3,200,standard,3.0,active
+CRS-000351,ECON-100-044,Econometrics 351,3,100,standard,3.0,active
+CRS-000352,ME-600-044,Fluid Mechanics 352,4,600,core,4.0,active
+CRS-000353,CS-600-045,Intro to Programming 353,4,600,standard,4.0,active
+CRS-000354,DS-400-045,Data Visualization 354,4,400,low_enrollment,4.0,active
+CRS-000355,EE-300-045,VLSI Design 355,3,300,standard,3.0,active
+CRS-000356,MATH-400-045,Numerical Analysis 356,4,400,popular_elective,4.0,active
+CRS-000357,BA-400-045,Managerial Economics 357,4,400,core,4.0,active
+CRS-000358,IS-600-045,E-Commerce Technologies 358,4,600,standard,4.0,active
+CRS-000359,ECON-600-045,Health Economics 359,4,600,popular_elective,4.0,active
+CRS-000360,ME-400-045,Vibrations 360,4,400,standard,4.0,active
+CRS-000361,CS-500-046,Machine Learning 361,4,500,standard,4.0,active
+CRS-000362,DS-400-046,Applied Statistics 362,4,400,core,4.0,active
+CRS-000363,EE-500-046,Digital Logic Design 363,4,500,standard,4.0,active
+CRS-000364,MATH-200-046,Differential Equations 364,3,200,standard,3.0,active
+CRS-000365,BA-600-046,Financial Analytics 365,4,600,low_enrollment,4.0,active
+CRS-000366,IS-100-046,Cloud Infrastructure 366,3,100,core,3.0,active
+CRS-000367,ECON-400-046,International Trade 367,4,400,core,4.0,active
+CRS-000368,ME-500-046,Mechatronics 368,4,500,core,4.0,active
+CRS-000369,CS-500-047,Intro to Programming 369,4,500,standard,4.0,active
+CRS-000370,DS-300-047,Data Engineering 370,3,300,standard,3.0,active
+CRS-000371,EE-100-047,Embedded Systems 371,3,100,standard,3.0,active
+CRS-000372,MATH-600-047,Topology 372,4,600,standard,4.0,active
+CRS-000373,BA-100-047,Business Statistics 373,3,100,standard,3.0,active
+CRS-000374,IS-100-047,Information Security 374,3,100,standard,3.0,active
+CRS-000375,ECON-100-047,Econometrics 375,3,100,low_enrollment,3.0,active
+CRS-000376,ME-200-047,Fluid Mechanics 376,3,200,standard,3.0,active
+CRS-000377,CS-200-048,Machine Learning 377,3,200,standard,3.0,active
+CRS-000378,DS-500-048,Data Visualization 378,4,500,standard,4.0,active
+CRS-000379,EE-200-048,VLSI Design 379,3,200,standard,3.0,active
+CRS-000380,MATH-200-048,Numerical Analysis 380,3,200,standard,3.0,active
+CRS-000381,BA-200-048,Managerial Economics 381,3,200,core,3.0,active
+CRS-000382,IS-100-048,IT Project Management 382,3,100,core,3.0,active
+CRS-000383,ECON-500-048,Health Economics 383,4,500,standard,4.0,active
+CRS-000384,ME-300-048,Vibrations 384,3,300,standard,3.0,active
+CRS-000385,CS-400-049,Intro to Programming 385,4,400,low_enrollment,4.0,active
+CRS-000386,DS-200-049,Applied Statistics 386,3,200,core,3.0,active
+CRS-000387,EE-600-049,Digital Logic Design 387,4,600,standard,4.0,active
+CRS-000388,MATH-400-049,Differential Equations 388,4,400,low_enrollment,4.0,active
+CRS-000389,BA-400-049,Financial Analytics 389,4,400,standard,4.0,active
+CRS-000390,IS-400-049,Knowledge Management 390,4,400,low_enrollment,4.0,active
+CRS-000391,ECON-600-049,International Trade 391,4,600,standard,4.0,active
+CRS-000392,ME-600-049,Mechatronics 392,4,600,low_enrollment,4.0,active
+CRS-000393,CS-100-050,Machine Learning 393,3,100,low_enrollment,3.0,active
+CRS-000394,DS-300-050,Data Engineering 394,3,300,standard,3.0,active
+CRS-000395,EE-100-050,Embedded Systems 395,3,100,standard,3.0,active
+CRS-000396,MATH-500-050,Topology 396,4,500,standard,4.0,active
+CRS-000397,BA-600-050,Business Statistics 397,4,600,standard,4.0,active
+CRS-000398,IS-600-050,E-Commerce Technologies 398,4,600,standard,4.0,active
+CRS-000399,ECON-500-050,Econometrics 399,4,500,standard,4.0,active
+CRS-000400,ME-500-050,Fluid Mechanics 400,4,500,standard,4.0,active
+CRS-000401,CS-600-051,Intro to Programming 401,4,600,core,4.0,active
+CRS-000402,DS-100-051,Data Visualization 402,3,100,core,3.0,active
+CRS-000403,EE-200-051,VLSI Design 403,3,200,standard,3.0,active
+CRS-000404,MATH-200-051,Numerical Analysis 404,3,200,standard,3.0,active
+CRS-000405,BA-600-051,Managerial Economics 405,4,600,core,4.0,active
+CRS-000406,IS-100-051,Cloud Infrastructure 406,3,100,low_enrollment,3.0,active
+CRS-000407,ECON-400-051,Health Economics 407,4,400,standard,4.0,active
+CRS-000408,ME-500-051,Vibrations 408,4,500,core,4.0,active
+CRS-000409,CS-500-052,Machine Learning 409,4,500,low_enrollment,4.0,active
+CRS-000410,DS-200-052,Applied Statistics 410,3,200,low_enrollment,3.0,active
+CRS-000411,EE-400-052,Digital Logic Design 411,4,400,core,4.0,active
+CRS-000412,MATH-600-052,Differential Equations 412,4,600,standard,4.0,active
+CRS-000413,BA-600-052,Financial Analytics 413,4,600,standard,4.0,active
+CRS-000414,IS-200-052,Information Security 414,3,200,standard,3.0,active
+CRS-000415,ECON-400-052,International Trade 415,4,400,core,4.0,active
+CRS-000416,ME-400-052,Mechatronics 416,4,400,low_enrollment,4.0,active
+CRS-000417,CS-600-053,Intro to Programming 417,4,600,standard,4.0,active
+CRS-000418,DS-500-053,Data Engineering 418,4,500,core,4.0,active
+CRS-000419,EE-200-053,Embedded Systems 419,3,200,low_enrollment,3.0,active
+CRS-000420,MATH-600-053,Topology 420,4,600,popular_elective,4.0,active
+CRS-000421,BA-300-053,Business Statistics 421,3,300,standard,3.0,active
+CRS-000422,IS-600-053,IT Project Management 422,4,600,standard,4.0,active
+CRS-000423,ECON-500-053,Econometrics 423,4,500,standard,4.0,active
+CRS-000424,ME-600-053,Fluid Mechanics 424,4,600,core,4.0,active
+CRS-000425,CS-600-054,Machine Learning 425,4,600,core,4.0,active
+CRS-000426,DS-400-054,Data Visualization 426,4,400,low_enrollment,4.0,active
+CRS-000427,EE-200-054,VLSI Design 427,3,200,standard,3.0,active
+CRS-000428,MATH-200-054,Numerical Analysis 428,3,200,low_enrollment,3.0,active
+CRS-000429,BA-300-054,Managerial Economics 429,3,300,low_enrollment,3.0,active
+CRS-000430,IS-300-054,Knowledge Management 430,3,300,core,3.0,active
+CRS-000431,ECON-300-054,Health Economics 431,3,300,standard,3.0,active
+CRS-000432,ME-300-054,Vibrations 432,3,300,core,3.0,active
+CRS-000433,CS-200-055,Intro to Programming 433,3,200,standard,3.0,active
+CRS-000434,DS-600-055,Applied Statistics 434,4,600,standard,4.0,active
+CRS-000435,EE-200-055,Digital Logic Design 435,3,200,standard,3.0,active
+CRS-000436,MATH-500-055,Differential Equations 436,4,500,low_enrollment,4.0,active
+CRS-000437,BA-600-055,Financial Analytics 437,4,600,low_enrollment,4.0,active
+CRS-000438,IS-400-055,E-Commerce Technologies 438,4,400,standard,4.0,active
+CRS-000439,ECON-300-055,International Trade 439,3,300,standard,3.0,active
+CRS-000440,ME-400-055,Mechatronics 440,4,400,popular_elective,4.0,active
+CRS-000441,CS-400-056,Machine Learning 441,4,400,standard,4.0,active
+CRS-000442,DS-600-056,Data Engineering 442,4,600,low_enrollment,4.0,active
+CRS-000443,EE-600-056,Embedded Systems 443,4,600,standard,4.0,active
+CRS-000444,MATH-500-056,Topology 444,4,500,standard,4.0,active
+CRS-000445,BA-200-056,Business Statistics 445,3,200,low_enrollment,3.0,active
+CRS-000446,IS-500-056,Cloud Infrastructure 446,4,500,core,4.0,active
+CRS-000447,ECON-200-056,Econometrics 447,3,200,core,3.0,active
+CRS-000448,ME-200-056,Fluid Mechanics 448,3,200,core,3.0,active
+CRS-000449,CS-200-057,Intro to Programming 449,3,200,standard,3.0,active
+CRS-000450,DS-400-057,Data Visualization 450,4,400,low_enrollment,4.0,active
+CRS-000451,EE-300-057,VLSI Design 451,3,300,standard,3.0,active
+CRS-000452,MATH-300-057,Numerical Analysis 452,3,300,popular_elective,3.0,active
+CRS-000453,BA-400-057,Managerial Economics 453,4,400,core,4.0,active
+CRS-000454,IS-400-057,Information Security 454,4,400,core,4.0,active
+CRS-000455,ECON-600-057,Health Economics 455,4,600,standard,4.0,active
+CRS-000456,ME-600-057,Vibrations 456,4,600,standard,4.0,active
+CRS-000457,CS-300-058,Machine Learning 457,3,300,standard,3.0,active
+CRS-000458,DS-400-058,Applied Statistics 458,4,400,standard,4.0,active
+CRS-000459,EE-500-058,Digital Logic Design 459,4,500,standard,4.0,active
+CRS-000460,MATH-600-058,Differential Equations 460,4,600,standard,4.0,active
+CRS-000461,BA-300-058,Financial Analytics 461,3,300,core,3.0,active
+CRS-000462,IS-200-058,IT Project Management 462,3,200,core,3.0,active
+CRS-000463,ECON-400-058,International Trade 463,4,400,low_enrollment,4.0,active
+CRS-000464,ME-300-058,Mechatronics 464,3,300,standard,3.0,active
+CRS-000465,CS-100-059,Intro to Programming 465,3,100,core,3.0,active
+CRS-000466,DS-300-059,Data Engineering 466,3,300,popular_elective,3.0,active
+CRS-000467,EE-100-059,Embedded Systems 467,3,100,core,3.0,active
+CRS-000468,MATH-400-059,Topology 468,4,400,standard,4.0,active
+CRS-000469,BA-400-059,Business Statistics 469,4,400,standard,4.0,active
+CRS-000470,IS-500-059,Knowledge Management 470,4,500,core,4.0,active
+CRS-000471,ECON-600-059,Econometrics 471,4,600,low_enrollment,4.0,active
+CRS-000472,ME-500-059,Fluid Mechanics 472,4,500,core,4.0,active
+CRS-000473,CS-400-060,Machine Learning 473,4,400,standard,4.0,active
+CRS-000474,DS-500-060,Data Visualization 474,4,500,core,4.0,active
+CRS-000475,EE-200-060,VLSI Design 475,3,200,core,3.0,active
+CRS-000476,MATH-400-060,Numerical Analysis 476,4,400,core,4.0,active
+CRS-000477,BA-200-060,Managerial Economics 477,3,200,low_enrollment,3.0,active
+CRS-000478,IS-500-060,E-Commerce Technologies 478,4,500,standard,4.0,active
+CRS-000479,ECON-300-060,Health Economics 479,3,300,standard,3.0,active
+CRS-000480,ME-200-060,Vibrations 480,3,200,standard,3.0,active
+CRS-000481,CS-600-061,Intro to Programming 481,4,600,core,4.0,active
+CRS-000482,DS-200-061,Applied Statistics 482,3,200,core,3.0,active
+CRS-000483,EE-100-061,Digital Logic Design 483,3,100,core,3.0,active
+CRS-000484,MATH-200-061,Differential Equations 484,3,200,core,3.0,active
+CRS-000485,BA-500-061,Financial Analytics 485,4,500,core,4.0,active
+CRS-000486,IS-300-061,Cloud Infrastructure 486,3,300,core,3.0,active
+CRS-000487,ECON-400-061,International Trade 487,4,400,standard,4.0,active
+CRS-000488,ME-400-061,Mechatronics 488,4,400,standard,4.0,active
+CRS-000489,CS-500-062,Machine Learning 489,4,500,popular_elective,4.0,active
+CRS-000490,DS-200-062,Data Engineering 490,3,200,core,3.0,active
+CRS-000491,EE-600-062,Embedded Systems 491,4,600,standard,4.0,active
+CRS-000492,MATH-600-062,Topology 492,4,600,low_enrollment,4.0,active
+CRS-000493,BA-500-062,Business Statistics 493,4,500,core,4.0,active
+CRS-000494,IS-200-062,Information Security 494,3,200,standard,3.0,active
+CRS-000495,ECON-300-062,Econometrics 495,3,300,standard,3.0,active
+CRS-000496,ME-600-062,Fluid Mechanics 496,4,600,standard,4.0,active
+CRS-000497,CS-400-063,Intro to Programming 497,4,400,standard,4.0,active
+CRS-000498,DS-300-063,Data Visualization 498,3,300,low_enrollment,3.0,active
+CRS-000499,EE-500-063,VLSI Design 499,4,500,core,4.0,active
+CRS-000500,MATH-600-063,Numerical Analysis 500,4,600,core,4.0,active
+CRS-000501,BA-300-063,Managerial Economics 501,3,300,standard,3.0,active
+CRS-000502,IS-200-063,IT Project Management 502,3,200,standard,3.0,active
+CRS-000503,ECON-200-063,Health Economics 503,3,200,standard,3.0,active
+CRS-000504,ME-600-063,Vibrations 504,4,600,standard,4.0,active
+CRS-000505,CS-500-064,Machine Learning 505,4,500,popular_elective,4.0,active
+CRS-000506,DS-400-064,Applied Statistics 506,4,400,standard,4.0,active
+CRS-000507,EE-200-064,Digital Logic Design 507,3,200,standard,3.0,active
+CRS-000508,MATH-300-064,Differential Equations 508,3,300,low_enrollment,3.0,active
+CRS-000509,BA-500-064,Financial Analytics 509,4,500,popular_elective,4.0,active
+CRS-000510,IS-100-064,Knowledge Management 510,3,100,core,3.0,active
+CRS-000511,ECON-400-064,International Trade 511,4,400,core,4.0,active
+CRS-000512,ME-100-064,Mechatronics 512,3,100,core,3.0,active
+CRS-000513,CS-200-065,Intro to Programming 513,3,200,standard,3.0,active
+CRS-000514,DS-500-065,Data Engineering 514,4,500,low_enrollment,4.0,active
+CRS-000515,EE-600-065,Embedded Systems 515,4,600,core,4.0,active
+CRS-000516,MATH-100-065,Topology 516,3,100,core,3.0,active
+CRS-000517,BA-300-065,Business Statistics 517,3,300,standard,3.0,active
+CRS-000518,IS-400-065,E-Commerce Technologies 518,4,400,low_enrollment,4.0,active
+CRS-000519,ECON-500-065,Econometrics 519,4,500,popular_elective,4.0,active
+CRS-000520,ME-100-065,Fluid Mechanics 520,3,100,low_enrollment,3.0,active
+CRS-000521,CS-400-066,Machine Learning 521,4,400,standard,4.0,active
+CRS-000522,DS-300-066,Data Visualization 522,3,300,core,3.0,active
+CRS-000523,EE-600-066,VLSI Design 523,4,600,core,4.0,active
+CRS-000524,MATH-300-066,Numerical Analysis 524,3,300,popular_elective,3.0,active
+CRS-000525,BA-600-066,Managerial Economics 525,4,600,core,4.0,active
+CRS-000526,IS-400-066,Cloud Infrastructure 526,4,400,core,4.0,active
+CRS-000527,ECON-100-066,Health Economics 527,3,100,core,3.0,active
+CRS-000528,ME-300-066,Vibrations 528,3,300,core,3.0,active
+CRS-000529,CS-500-067,Intro to Programming 529,4,500,core,4.0,active
+CRS-000530,DS-500-067,Applied Statistics 530,4,500,popular_elective,4.0,active
+CRS-000531,EE-600-067,Digital Logic Design 531,4,600,standard,4.0,active
+CRS-000532,MATH-600-067,Differential Equations 532,4,600,core,4.0,active
+CRS-000533,BA-100-067,Financial Analytics 533,3,100,low_enrollment,3.0,active
+CRS-000534,IS-200-067,Information Security 534,3,200,standard,3.0,active
+CRS-000535,ECON-400-067,International Trade 535,4,400,core,4.0,active
+CRS-000536,ME-400-067,Mechatronics 536,4,400,core,4.0,active
+CRS-000537,CS-400-068,Machine Learning 537,4,400,standard,4.0,active
+CRS-000538,DS-300-068,Data Engineering 538,3,300,standard,3.0,active
+CRS-000539,EE-100-068,Embedded Systems 539,3,100,low_enrollment,3.0,active
+CRS-000540,MATH-300-068,Topology 540,3,300,core,3.0,active
+CRS-000541,BA-200-068,Business Statistics 541,3,200,standard,3.0,active
+CRS-000542,IS-100-068,IT Project Management 542,3,100,core,3.0,active
+CRS-000543,ECON-100-068,Econometrics 543,3,100,core,3.0,active
+CRS-000544,ME-500-068,Fluid Mechanics 544,4,500,standard,4.0,active
+CRS-000545,CS-600-069,Intro to Programming 545,4,600,popular_elective,4.0,active
+CRS-000546,DS-500-069,Data Visualization 546,4,500,standard,4.0,active
+CRS-000547,EE-300-069,VLSI Design 547,3,300,core,3.0,active
+CRS-000548,MATH-400-069,Numerical Analysis 548,4,400,core,4.0,active
+CRS-000549,BA-100-069,Managerial Economics 549,3,100,low_enrollment,3.0,active
+CRS-000550,IS-500-069,Knowledge Management 550,4,500,core,4.0,active
+CRS-000551,ECON-600-069,Health Economics 551,4,600,core,4.0,active
+CRS-000552,ME-400-069,Vibrations 552,4,400,standard,4.0,active
+CRS-000553,CS-100-070,Machine Learning 553,3,100,popular_elective,3.0,active
+CRS-000554,DS-600-070,Applied Statistics 554,4,600,standard,4.0,active
+CRS-000555,EE-600-070,Digital Logic Design 555,4,600,core,4.0,active
+CRS-000556,MATH-100-070,Differential Equations 556,3,100,low_enrollment,3.0,active
+CRS-000557,BA-500-070,Financial Analytics 557,4,500,standard,4.0,active
+CRS-000558,IS-100-070,E-Commerce Technologies 558,3,100,popular_elective,3.0,active
+CRS-000559,ECON-200-070,International Trade 559,3,200,popular_elective,3.0,active
+CRS-000560,ME-500-070,Mechatronics 560,4,500,standard,4.0,active
+CRS-000561,CS-400-071,Intro to Programming 561,4,400,low_enrollment,4.0,active
+CRS-000562,DS-400-071,Data Engineering 562,4,400,popular_elective,4.0,active
+CRS-000563,EE-400-071,Embedded Systems 563,4,400,low_enrollment,4.0,active
+CRS-000564,MATH-500-071,Topology 564,4,500,standard,4.0,active
+CRS-000565,BA-200-071,Business Statistics 565,3,200,standard,3.0,active
+CRS-000566,IS-600-071,Cloud Infrastructure 566,4,600,core,4.0,active
+CRS-000567,ECON-200-071,Econometrics 567,3,200,core,3.0,active
+CRS-000568,ME-600-071,Fluid Mechanics 568,4,600,standard,4.0,active
+CRS-000569,CS-500-072,Machine Learning 569,4,500,standard,4.0,active
+CRS-000570,DS-600-072,Data Visualization 570,4,600,core,4.0,active
+CRS-000571,EE-300-072,VLSI Design 571,3,300,standard,3.0,active
+CRS-000572,MATH-200-072,Numerical Analysis 572,3,200,popular_elective,3.0,active
+CRS-000573,BA-600-072,Managerial Economics 573,4,600,core,4.0,active
+CRS-000574,IS-600-072,Information Security 574,4,600,core,4.0,active
+CRS-000575,ECON-100-072,Health Economics 575,3,100,core,3.0,active
+CRS-000576,ME-200-072,Vibrations 576,3,200,standard,3.0,active
+CRS-000577,CS-500-073,Intro to Programming 577,4,500,standard,4.0,active
+CRS-000578,DS-100-073,Applied Statistics 578,3,100,core,3.0,active
+CRS-000579,EE-300-073,Digital Logic Design 579,3,300,standard,3.0,active
+CRS-000580,MATH-100-073,Differential Equations 580,3,100,core,3.0,active
+CRS-000581,BA-300-073,Financial Analytics 581,3,300,low_enrollment,3.0,active
+CRS-000582,IS-600-073,IT Project Management 582,4,600,popular_elective,4.0,active
+CRS-000583,ECON-600-073,International Trade 583,4,600,standard,4.0,active
+CRS-000584,ME-600-073,Mechatronics 584,4,600,standard,4.0,active
+CRS-000585,CS-500-074,Machine Learning 585,4,500,core,4.0,active
+CRS-000586,DS-200-074,Data Engineering 586,3,200,standard,3.0,active
+CRS-000587,EE-100-074,Embedded Systems 587,3,100,core,3.0,active
+CRS-000588,MATH-400-074,Topology 588,4,400,standard,4.0,active
+CRS-000589,BA-600-074,Business Statistics 589,4,600,low_enrollment,4.0,active
+CRS-000590,IS-200-074,Knowledge Management 590,3,200,low_enrollment,3.0,active
+CRS-000591,ECON-500-074,Econometrics 591,4,500,popular_elective,4.0,active
+CRS-000592,ME-100-074,Fluid Mechanics 592,3,100,standard,3.0,active
+CRS-000593,CS-500-075,Intro to Programming 593,4,500,standard,4.0,active
+CRS-000594,DS-500-075,Data Visualization 594,4,500,core,4.0,active
+CRS-000595,EE-200-075,VLSI Design 595,3,200,core,3.0,active
+CRS-000596,MATH-600-075,Numerical Analysis 596,4,600,core,4.0,active
+CRS-000597,BA-600-075,Managerial Economics 597,4,600,core,4.0,active
+CRS-000598,IS-300-075,E-Commerce Technologies 598,3,300,core,3.0,active
+CRS-000599,ECON-100-075,Health Economics 599,3,100,popular_elective,3.0,active
+CRS-000600,ME-500-075,Vibrations 600,4,500,low_enrollment,4.0,active
+CRS-000601,CS-300-076,Machine Learning 601,3,300,standard,3.0,active
+CRS-000602,DS-500-076,Applied Statistics 602,4,500,low_enrollment,4.0,active
+CRS-000603,EE-300-076,Digital Logic Design 603,3,300,low_enrollment,3.0,active
+CRS-000604,MATH-300-076,Differential Equations 604,3,300,core,3.0,active
+CRS-000605,BA-500-076,Financial Analytics 605,4,500,core,4.0,active
+CRS-000606,IS-400-076,Cloud Infrastructure 606,4,400,core,4.0,active
+CRS-000607,ECON-400-076,International Trade 607,4,400,standard,4.0,active
+CRS-000608,ME-400-076,Mechatronics 608,4,400,standard,4.0,active
+CRS-000609,CS-100-077,Intro to Programming 609,3,100,standard,3.0,active
+CRS-000610,DS-400-077,Data Engineering 610,4,400,core,4.0,active
+CRS-000611,EE-100-077,Embedded Systems 611,3,100,standard,3.0,active
+CRS-000612,MATH-600-077,Topology 612,4,600,standard,4.0,active
+CRS-000613,BA-300-077,Business Statistics 613,3,300,standard,3.0,active
+CRS-000614,IS-500-077,Information Security 614,4,500,core,4.0,active
+CRS-000615,ECON-600-077,Econometrics 615,4,600,core,4.0,active
+CRS-000616,ME-200-077,Fluid Mechanics 616,3,200,core,3.0,active
+CRS-000617,CS-300-078,Machine Learning 617,3,300,standard,3.0,active
+CRS-000618,DS-100-078,Data Visualization 618,3,100,standard,3.0,active
+CRS-000619,EE-400-078,VLSI Design 619,4,400,low_enrollment,4.0,active
+CRS-000620,MATH-300-078,Numerical Analysis 620,3,300,core,3.0,active
+CRS-000621,BA-600-078,Managerial Economics 621,4,600,low_enrollment,4.0,active
+CRS-000622,IS-500-078,IT Project Management 622,4,500,low_enrollment,4.0,active
+CRS-000623,ECON-500-078,Health Economics 623,4,500,low_enrollment,4.0,active
+CRS-000624,ME-300-078,Vibrations 624,3,300,standard,3.0,active
+CRS-000625,CS-500-079,Intro to Programming 625,4,500,standard,4.0,active
+CRS-000626,DS-600-079,Applied Statistics 626,4,600,standard,4.0,active
+CRS-000627,EE-200-079,Digital Logic Design 627,3,200,standard,3.0,active
+CRS-000628,MATH-300-079,Differential Equations 628,3,300,standard,3.0,active
+CRS-000629,BA-500-079,Financial Analytics 629,4,500,standard,4.0,active
+CRS-000630,IS-100-079,Knowledge Management 630,3,100,core,3.0,active
+CRS-000631,ECON-500-079,International Trade 631,4,500,standard,4.0,active
+CRS-000632,ME-400-079,Mechatronics 632,4,400,popular_elective,4.0,active
+CRS-000633,CS-200-080,Machine Learning 633,3,200,core,3.0,active
+CRS-000634,DS-500-080,Data Engineering 634,4,500,standard,4.0,active
+CRS-000635,EE-600-080,Embedded Systems 635,4,600,core,4.0,active
+CRS-000636,MATH-200-080,Topology 636,3,200,standard,3.0,active
+CRS-000637,BA-500-080,Business Statistics 637,4,500,standard,4.0,active
+CRS-000638,IS-500-080,E-Commerce Technologies 638,4,500,low_enrollment,4.0,active
+CRS-000639,ECON-100-080,Econometrics 639,3,100,core,3.0,active
+CRS-000640,ME-600-080,Fluid Mechanics 640,4,600,core,4.0,active
+CRS-000641,CS-200-081,Intro to Programming 641,3,200,standard,3.0,active
+CRS-000642,DS-200-081,Data Visualization 642,3,200,core,3.0,active
+CRS-000643,EE-300-081,VLSI Design 643,3,300,core,3.0,active
+CRS-000644,MATH-100-081,Numerical Analysis 644,3,100,core,3.0,active
+CRS-000645,BA-100-081,Managerial Economics 645,3,100,standard,3.0,active
+CRS-000646,IS-400-081,Cloud Infrastructure 646,4,400,core,4.0,active
+CRS-000647,ECON-500-081,Health Economics 647,4,500,low_enrollment,4.0,active
+CRS-000648,ME-200-081,Vibrations 648,3,200,popular_elective,3.0,active
+CRS-000649,CS-200-082,Machine Learning 649,3,200,core,3.0,active
+CRS-000650,DS-300-082,Applied Statistics 650,3,300,standard,3.0,active
+CRS-000651,EE-200-082,Digital Logic Design 651,3,200,core,3.0,active
+CRS-000652,MATH-500-082,Differential Equations 652,4,500,standard,4.0,active
+CRS-000653,BA-500-082,Financial Analytics 653,4,500,core,4.0,active
+CRS-000654,IS-400-082,Information Security 654,4,400,standard,4.0,active
+CRS-000655,ECON-200-082,International Trade 655,3,200,core,3.0,active
+CRS-000656,ME-200-082,Mechatronics 656,3,200,standard,3.0,active
+CRS-000657,CS-100-083,Intro to Programming 657,3,100,standard,3.0,active
+CRS-000658,DS-600-083,Data Engineering 658,4,600,core,4.0,active
+CRS-000659,EE-500-083,Embedded Systems 659,4,500,core,4.0,active
+CRS-000660,MATH-400-083,Topology 660,4,400,standard,4.0,active
+CRS-000661,BA-600-083,Business Statistics 661,4,600,standard,4.0,active
+CRS-000662,IS-300-083,IT Project Management 662,3,300,low_enrollment,3.0,active
+CRS-000663,ECON-400-083,Econometrics 663,4,400,standard,4.0,active
+CRS-000664,ME-400-083,Fluid Mechanics 664,4,400,standard,4.0,active
+CRS-000665,CS-200-084,Machine Learning 665,3,200,core,3.0,active
+CRS-000666,DS-300-084,Data Visualization 666,3,300,standard,3.0,active
+CRS-000667,EE-200-084,VLSI Design 667,3,200,popular_elective,3.0,active
+CRS-000668,MATH-600-084,Numerical Analysis 668,4,600,standard,4.0,active
+CRS-000669,BA-600-084,Managerial Economics 669,4,600,core,4.0,active
+CRS-000670,IS-100-084,Knowledge Management 670,3,100,popular_elective,3.0,active
+CRS-000671,ECON-200-084,Health Economics 671,3,200,standard,3.0,active
+CRS-000672,ME-600-084,Vibrations 672,4,600,popular_elective,4.0,active
+CRS-000673,CS-200-085,Intro to Programming 673,3,200,core,3.0,active
+CRS-000674,DS-600-085,Applied Statistics 674,4,600,standard,4.0,active
+CRS-000675,EE-200-085,Digital Logic Design 675,3,200,low_enrollment,3.0,active
+CRS-000676,MATH-300-085,Differential Equations 676,3,300,core,3.0,active
+CRS-000677,BA-200-085,Financial Analytics 677,3,200,low_enrollment,3.0,active
+CRS-000678,IS-200-085,E-Commerce Technologies 678,3,200,standard,3.0,active
+CRS-000679,ECON-400-085,International Trade 679,4,400,core,4.0,active
+CRS-000680,ME-500-085,Mechatronics 680,4,500,standard,4.0,active
+CRS-000681,CS-100-086,Machine Learning 681,3,100,standard,3.0,active
+CRS-000682,DS-400-086,Data Engineering 682,4,400,standard,4.0,active
+CRS-000683,EE-500-086,Embedded Systems 683,4,500,core,4.0,active
+CRS-000684,MATH-300-086,Topology 684,3,300,core,3.0,active
+CRS-000685,BA-600-086,Business Statistics 685,4,600,low_enrollment,4.0,active
+CRS-000686,IS-400-086,Cloud Infrastructure 686,4,400,standard,4.0,active
+CRS-000687,ECON-500-086,Econometrics 687,4,500,standard,4.0,active
+CRS-000688,ME-100-086,Fluid Mechanics 688,3,100,core,3.0,active
+CRS-000689,CS-400-087,Intro to Programming 689,4,400,low_enrollment,4.0,active
+CRS-000690,DS-500-087,Data Visualization 690,4,500,low_enrollment,4.0,active
+CRS-000691,EE-400-087,VLSI Design 691,4,400,low_enrollment,4.0,active
+CRS-000692,MATH-100-087,Numerical Analysis 692,3,100,standard,3.0,active
+CRS-000693,BA-200-087,Managerial Economics 693,3,200,standard,3.0,active
+CRS-000694,IS-600-087,Information Security 694,4,600,standard,4.0,active
+CRS-000695,ECON-600-087,Health Economics 695,4,600,core,4.0,active
+CRS-000696,ME-600-087,Vibrations 696,4,600,standard,4.0,active
+CRS-000697,CS-100-088,Machine Learning 697,3,100,standard,3.0,active
+CRS-000698,DS-200-088,Applied Statistics 698,3,200,popular_elective,3.0,active
+CRS-000699,EE-200-088,Digital Logic Design 699,3,200,core,3.0,active
+CRS-000700,MATH-200-088,Differential Equations 700,3,200,standard,3.0,active
+CRS-000701,BA-600-088,Financial Analytics 701,4,600,core,4.0,active
+CRS-000702,IS-300-088,IT Project Management 702,3,300,core,3.0,active
+CRS-000703,ECON-600-088,International Trade 703,4,600,core,4.0,active
+CRS-000704,ME-400-088,Mechatronics 704,4,400,standard,4.0,active
+CRS-000705,CS-500-089,Intro to Programming 705,4,500,standard,4.0,active
+CRS-000706,DS-500-089,Data Engineering 706,4,500,standard,4.0,active
+CRS-000707,EE-500-089,Embedded Systems 707,4,500,core,4.0,active
+CRS-000708,MATH-600-089,Topology 708,4,600,core,4.0,active
+CRS-000709,BA-300-089,Business Statistics 709,3,300,low_enrollment,3.0,active
+CRS-000710,IS-600-089,Knowledge Management 710,4,600,standard,4.0,active
+CRS-000711,ECON-100-089,Econometrics 711,3,100,low_enrollment,3.0,active
+CRS-000712,ME-400-089,Fluid Mechanics 712,4,400,standard,4.0,active
+CRS-000713,CS-100-090,Machine Learning 713,3,100,standard,3.0,active
+CRS-000714,DS-500-090,Data Visualization 714,4,500,popular_elective,4.0,active
+CRS-000715,EE-100-090,VLSI Design 715,3,100,core,3.0,active
+CRS-000716,MATH-400-090,Numerical Analysis 716,4,400,core,4.0,active
+CRS-000717,BA-500-090,Managerial Economics 717,4,500,standard,4.0,active
+CRS-000718,IS-300-090,E-Commerce Technologies 718,3,300,standard,3.0,active
+CRS-000719,ECON-400-090,Health Economics 719,4,400,core,4.0,active
+CRS-000720,ME-300-090,Vibrations 720,3,300,standard,3.0,active
+CRS-000721,CS-500-091,Intro to Programming 721,4,500,popular_elective,4.0,active
+CRS-000722,DS-200-091,Applied Statistics 722,3,200,low_enrollment,3.0,active
+CRS-000723,EE-200-091,Digital Logic Design 723,3,200,core,3.0,active
+CRS-000724,MATH-300-091,Differential Equations 724,3,300,low_enrollment,3.0,active
+CRS-000725,BA-600-091,Financial Analytics 725,4,600,core,4.0,active
+CRS-000726,IS-600-091,Cloud Infrastructure 726,4,600,standard,4.0,active
+CRS-000727,ECON-600-091,International Trade 727,4,600,core,4.0,active
+CRS-000728,ME-600-091,Mechatronics 728,4,600,standard,4.0,active
+CRS-000729,CS-500-092,Machine Learning 729,4,500,standard,4.0,active
+CRS-000730,DS-600-092,Data Engineering 730,4,600,standard,4.0,active
+CRS-000731,EE-300-092,Embedded Systems 731,3,300,core,3.0,active
+CRS-000732,MATH-300-092,Topology 732,3,300,standard,3.0,active
+CRS-000733,BA-200-092,Business Statistics 733,3,200,core,3.0,active
+CRS-000734,IS-500-092,Information Security 734,4,500,standard,4.0,active
+CRS-000735,ECON-200-092,Econometrics 735,3,200,core,3.0,active
+CRS-000736,ME-300-092,Fluid Mechanics 736,3,300,core,3.0,active
+CRS-000737,CS-300-093,Intro to Programming 737,3,300,standard,3.0,active
+CRS-000738,DS-300-093,Data Visualization 738,3,300,core,3.0,active
+CRS-000739,EE-500-093,VLSI Design 739,4,500,standard,4.0,active
+CRS-000740,MATH-400-093,Numerical Analysis 740,4,400,core,4.0,active
+CRS-000741,BA-400-093,Managerial Economics 741,4,400,standard,4.0,active
+CRS-000742,IS-100-093,IT Project Management 742,3,100,standard,3.0,active
+CRS-000743,ECON-100-093,Health Economics 743,3,100,low_enrollment,3.0,active
+CRS-000744,ME-600-093,Vibrations 744,4,600,standard,4.0,active
+CRS-000745,CS-400-094,Machine Learning 745,4,400,standard,4.0,active
+CRS-000746,DS-400-094,Applied Statistics 746,4,400,standard,4.0,active
+CRS-000747,EE-400-094,Digital Logic Design 747,4,400,popular_elective,4.0,active
+CRS-000748,MATH-100-094,Differential Equations 748,3,100,low_enrollment,3.0,active
+CRS-000749,BA-200-094,Financial Analytics 749,3,200,core,3.0,active
+CRS-000750,IS-200-094,Knowledge Management 750,3,200,core,3.0,active
+CRS-000751,ECON-400-094,International Trade 751,4,400,core,4.0,active
+CRS-000752,ME-100-094,Mechatronics 752,3,100,popular_elective,3.0,active
+CRS-000753,CS-400-095,Intro to Programming 753,4,400,standard,4.0,active
+CRS-000754,DS-600-095,Data Engineering 754,4,600,standard,4.0,active
+CRS-000755,EE-300-095,Embedded Systems 755,3,300,core,3.0,active
+CRS-000756,MATH-200-095,Topology 756,3,200,standard,3.0,active
+CRS-000757,BA-500-095,Business Statistics 757,4,500,standard,4.0,active
+CRS-000758,IS-400-095,E-Commerce Technologies 758,4,400,core,4.0,active
+CRS-000759,ECON-400-095,Econometrics 759,4,400,core,4.0,active
+CRS-000760,ME-500-095,Fluid Mechanics 760,4,500,core,4.0,active
+CRS-000761,CS-200-096,Machine Learning 761,3,200,popular_elective,3.0,active
+CRS-000762,DS-600-096,Data Visualization 762,4,600,standard,4.0,active
+CRS-000763,EE-300-096,VLSI Design 763,3,300,core,3.0,active
+CRS-000764,MATH-100-096,Numerical Analysis 764,3,100,standard,3.0,active
+CRS-000765,BA-300-096,Managerial Economics 765,3,300,core,3.0,active
+CRS-000766,IS-200-096,Cloud Infrastructure 766,3,200,core,3.0,active
+CRS-000767,ECON-500-096,Health Economics 767,4,500,standard,4.0,active
+CRS-000768,ME-100-096,Vibrations 768,3,100,popular_elective,3.0,active
+CRS-000769,CS-500-097,Intro to Programming 769,4,500,standard,4.0,active
+CRS-000770,DS-200-097,Applied Statistics 770,3,200,core,3.0,active
+CRS-000771,EE-600-097,Digital Logic Design 771,4,600,core,4.0,active
+CRS-000772,MATH-300-097,Differential Equations 772,3,300,standard,3.0,active
+CRS-000773,BA-300-097,Financial Analytics 773,3,300,standard,3.0,active
+CRS-000774,IS-500-097,Information Security 774,4,500,standard,4.0,active
+CRS-000775,ECON-300-097,International Trade 775,3,300,core,3.0,active
+CRS-000776,ME-300-097,Mechatronics 776,3,300,standard,3.0,active
+CRS-000777,CS-200-098,Machine Learning 777,3,200,core,3.0,active
+CRS-000778,DS-500-098,Data Engineering 778,4,500,standard,4.0,active
+CRS-000779,EE-200-098,Embedded Systems 779,3,200,low_enrollment,3.0,active
+CRS-000780,MATH-400-098,Topology 780,4,400,standard,4.0,active
+CRS-000781,BA-200-098,Business Statistics 781,3,200,popular_elective,3.0,active
+CRS-000782,IS-300-098,IT Project Management 782,3,300,standard,3.0,active
+CRS-000783,ECON-500-098,Econometrics 783,4,500,core,4.0,active
+CRS-000784,ME-600-098,Fluid Mechanics 784,4,600,standard,4.0,active
+CRS-000785,CS-500-099,Intro to Programming 785,4,500,core,4.0,active
+CRS-000786,DS-600-099,Data Visualization 786,4,600,core,4.0,active
+CRS-000787,EE-300-099,VLSI Design 787,3,300,popular_elective,3.0,active
+CRS-000788,MATH-400-099,Numerical Analysis 788,4,400,core,4.0,active
+CRS-000789,BA-400-099,Managerial Economics 789,4,400,core,4.0,active
+CRS-000790,IS-200-099,Knowledge Management 790,3,200,standard,3.0,active
+CRS-000791,ECON-500-099,Health Economics 791,4,500,standard,4.0,active
+CRS-000792,ME-100-099,Vibrations 792,3,100,standard,3.0,active
+CRS-000793,CS-400-100,Machine Learning 793,4,400,popular_elective,4.0,active
+CRS-000794,DS-200-100,Applied Statistics 794,3,200,popular_elective,3.0,active
+CRS-000795,EE-600-100,Digital Logic Design 795,4,600,core,4.0,active
+CRS-000796,MATH-200-100,Differential Equations 796,3,200,standard,3.0,active
+CRS-000797,BA-400-100,Financial Analytics 797,4,400,popular_elective,4.0,active
+CRS-000798,IS-300-100,E-Commerce Technologies 798,3,300,popular_elective,3.0,active
+CRS-000799,ECON-600-100,International Trade 799,4,600,standard,4.0,active
+CRS-000800,ME-400-100,Mechatronics 800,4,400,standard,4.0,active
+CRS-000801,CS-400-101,Intro to Programming 801,4,400,standard,4.0,active
+CRS-000802,DS-500-101,Data Engineering 802,4,500,standard,4.0,active
+CRS-000803,EE-100-101,Embedded Systems 803,3,100,core,3.0,active
+CRS-000804,MATH-500-101,Topology 804,4,500,standard,4.0,active
+CRS-000805,BA-300-101,Business Statistics 805,3,300,standard,3.0,active
+CRS-000806,IS-600-101,Cloud Infrastructure 806,4,600,popular_elective,4.0,active
+CRS-000807,ECON-600-101,Econometrics 807,4,600,standard,4.0,active
+CRS-000808,ME-100-101,Fluid Mechanics 808,3,100,standard,3.0,active
+CRS-000809,CS-200-102,Machine Learning 809,3,200,standard,3.0,active
+CRS-000810,DS-100-102,Data Visualization 810,3,100,core,3.0,active
+CRS-000811,EE-500-102,VLSI Design 811,4,500,core,4.0,active
+CRS-000812,MATH-200-102,Numerical Analysis 812,3,200,core,3.0,active
+CRS-000813,BA-500-102,Managerial Economics 813,4,500,standard,4.0,active
+CRS-000814,IS-300-102,Information Security 814,3,300,core,3.0,active
+CRS-000815,ECON-100-102,Health Economics 815,3,100,core,3.0,active
+CRS-000816,ME-400-102,Vibrations 816,4,400,popular_elective,4.0,active
+CRS-000817,CS-100-103,Intro to Programming 817,3,100,core,3.0,active
+CRS-000818,DS-400-103,Applied Statistics 818,4,400,standard,4.0,active
+CRS-000819,EE-400-103,Digital Logic Design 819,4,400,core,4.0,active
+CRS-000820,MATH-500-103,Differential Equations 820,4,500,core,4.0,active
+CRS-000821,BA-500-103,Financial Analytics 821,4,500,core,4.0,active
+CRS-000822,IS-500-103,IT Project Management 822,4,500,standard,4.0,active
+CRS-000823,ECON-300-103,International Trade 823,3,300,core,3.0,active
+CRS-000824,ME-400-103,Mechatronics 824,4,400,standard,4.0,active
+CRS-000825,CS-500-104,Machine Learning 825,4,500,core,4.0,active
+CRS-000826,DS-600-104,Data Engineering 826,4,600,standard,4.0,active
+CRS-000827,EE-300-104,Embedded Systems 827,3,300,standard,3.0,active
+CRS-000828,MATH-100-104,Topology 828,3,100,standard,3.0,active
+CRS-000829,BA-100-104,Business Statistics 829,3,100,popular_elective,3.0,active
+CRS-000830,IS-400-104,Knowledge Management 830,4,400,standard,4.0,active
+CRS-000831,ECON-100-104,Econometrics 831,3,100,core,3.0,active
+CRS-000832,ME-400-104,Fluid Mechanics 832,4,400,core,4.0,active
+CRS-000833,CS-300-105,Intro to Programming 833,3,300,core,3.0,active
+CRS-000834,DS-500-105,Data Visualization 834,4,500,popular_elective,4.0,active
+CRS-000835,EE-500-105,VLSI Design 835,4,500,standard,4.0,active
+CRS-000836,MATH-400-105,Numerical Analysis 836,4,400,standard,4.0,active
+CRS-000837,BA-400-105,Managerial Economics 837,4,400,core,4.0,active
+CRS-000838,IS-100-105,E-Commerce Technologies 838,3,100,standard,3.0,active
+CRS-000839,ECON-400-105,Health Economics 839,4,400,standard,4.0,active
+CRS-000840,ME-600-105,Vibrations 840,4,600,standard,4.0,active
+CRS-000841,CS-300-106,Machine Learning 841,3,300,low_enrollment,3.0,active
+CRS-000842,DS-500-106,Applied Statistics 842,4,500,standard,4.0,active
+CRS-000843,EE-500-106,Digital Logic Design 843,4,500,standard,4.0,active
+CRS-000844,MATH-500-106,Differential Equations 844,4,500,standard,4.0,active
+CRS-000845,BA-200-106,Financial Analytics 845,3,200,core,3.0,active
+CRS-000846,IS-500-106,Cloud Infrastructure 846,4,500,standard,4.0,active
+CRS-000847,ECON-200-106,International Trade 847,3,200,core,3.0,active
+CRS-000848,ME-300-106,Mechatronics 848,3,300,core,3.0,active
+CRS-000849,CS-200-107,Intro to Programming 849,3,200,standard,3.0,active
+CRS-000850,DS-200-107,Data Engineering 850,3,200,standard,3.0,active
+CRS-000851,EE-600-107,Embedded Systems 851,4,600,core,4.0,active
+CRS-000852,MATH-500-107,Topology 852,4,500,core,4.0,active
+CRS-000853,BA-600-107,Business Statistics 853,4,600,core,4.0,active
+CRS-000854,IS-500-107,Information Security 854,4,500,low_enrollment,4.0,active
+CRS-000855,ECON-600-107,Econometrics 855,4,600,low_enrollment,4.0,active
+CRS-000856,ME-200-107,Fluid Mechanics 856,3,200,core,3.0,active
+CRS-000857,CS-200-108,Machine Learning 857,3,200,core,3.0,active
+CRS-000858,DS-100-108,Data Visualization 858,3,100,popular_elective,3.0,active
+CRS-000859,EE-300-108,VLSI Design 859,3,300,core,3.0,active
+CRS-000860,MATH-600-108,Numerical Analysis 860,4,600,core,4.0,active
+CRS-000861,BA-300-108,Managerial Economics 861,3,300,standard,3.0,active
+CRS-000862,IS-500-108,IT Project Management 862,4,500,standard,4.0,active
+CRS-000863,ECON-100-108,Health Economics 863,3,100,low_enrollment,3.0,active
+CRS-000864,ME-100-108,Vibrations 864,3,100,low_enrollment,3.0,active
+CRS-000865,CS-200-109,Intro to Programming 865,3,200,core,3.0,active
+CRS-000866,DS-300-109,Applied Statistics 866,3,300,standard,3.0,active
+CRS-000867,EE-300-109,Digital Logic Design 867,3,300,standard,3.0,active
+CRS-000868,MATH-100-109,Differential Equations 868,3,100,core,3.0,active
+CRS-000869,BA-200-109,Financial Analytics 869,3,200,standard,3.0,active
+CRS-000870,IS-300-109,Knowledge Management 870,3,300,standard,3.0,active
+CRS-000871,ECON-100-109,International Trade 871,3,100,standard,3.0,active
+CRS-000872,ME-200-109,Mechatronics 872,3,200,low_enrollment,3.0,active
+CRS-000873,CS-400-110,Machine Learning 873,4,400,core,4.0,active
+CRS-000874,DS-100-110,Data Engineering 874,3,100,standard,3.0,active
+CRS-000875,EE-400-110,Embedded Systems 875,4,400,standard,4.0,active
+CRS-000876,MATH-400-110,Topology 876,4,400,standard,4.0,active
+CRS-000877,BA-600-110,Business Statistics 877,4,600,standard,4.0,active
+CRS-000878,IS-200-110,E-Commerce Technologies 878,3,200,core,3.0,active
+CRS-000879,ECON-600-110,Econometrics 879,4,600,standard,4.0,active
+CRS-000880,ME-200-110,Fluid Mechanics 880,3,200,core,3.0,active
+CRS-000881,CS-400-111,Intro to Programming 881,4,400,core,4.0,active
+CRS-000882,DS-600-111,Data Visualization 882,4,600,core,4.0,active
+CRS-000883,EE-300-111,VLSI Design 883,3,300,low_enrollment,3.0,active
+CRS-000884,MATH-100-111,Numerical Analysis 884,3,100,core,3.0,active
+CRS-000885,BA-300-111,Managerial Economics 885,3,300,low_enrollment,3.0,active
+CRS-000886,IS-100-111,Cloud Infrastructure 886,3,100,standard,3.0,active
+CRS-000887,ECON-500-111,Health Economics 887,4,500,standard,4.0,active
+CRS-000888,ME-500-111,Vibrations 888,4,500,core,4.0,active
+CRS-000889,CS-100-112,Machine Learning 889,3,100,low_enrollment,3.0,active
+CRS-000890,DS-200-112,Applied Statistics 890,3,200,core,3.0,active
+CRS-000891,EE-600-112,Digital Logic Design 891,4,600,core,4.0,active
+CRS-000892,MATH-100-112,Differential Equations 892,3,100,low_enrollment,3.0,active
+CRS-000893,BA-300-112,Financial Analytics 893,3,300,low_enrollment,3.0,active
+CRS-000894,IS-500-112,Information Security 894,4,500,standard,4.0,active
+CRS-000895,ECON-100-112,International Trade 895,3,100,core,3.0,active
+CRS-000896,ME-200-112,Mechatronics 896,3,200,standard,3.0,active
+CRS-000897,CS-600-113,Intro to Programming 897,4,600,core,4.0,active
+CRS-000898,DS-400-113,Data Engineering 898,4,400,popular_elective,4.0,active
+CRS-000899,EE-300-113,Embedded Systems 899,3,300,core,3.0,active
+CRS-000900,MATH-200-113,Topology 900,3,200,standard,3.0,active
+CRS-000901,BA-600-113,Business Statistics 901,4,600,standard,4.0,active
+CRS-000902,IS-300-113,IT Project Management 902,3,300,standard,3.0,active
+CRS-000903,ECON-100-113,Econometrics 903,3,100,standard,3.0,active
+CRS-000904,ME-200-113,Fluid Mechanics 904,3,200,core,3.0,active
+CRS-000905,CS-500-114,Machine Learning 905,4,500,standard,4.0,active
+CRS-000906,DS-400-114,Data Visualization 906,4,400,standard,4.0,active
+CRS-000907,EE-100-114,VLSI Design 907,3,100,standard,3.0,active
+CRS-000908,MATH-600-114,Numerical Analysis 908,4,600,core,4.0,active
+CRS-000909,BA-300-114,Managerial Economics 909,3,300,standard,3.0,active
+CRS-000910,IS-600-114,Knowledge Management 910,4,600,low_enrollment,4.0,active
+CRS-000911,ECON-600-114,Health Economics 911,4,600,core,4.0,active
+CRS-000912,ME-100-114,Vibrations 912,3,100,core,3.0,active
+CRS-000913,CS-400-115,Intro to Programming 913,4,400,core,4.0,active
+CRS-000914,DS-500-115,Applied Statistics 914,4,500,standard,4.0,active
+CRS-000915,EE-100-115,Digital Logic Design 915,3,100,standard,3.0,active
+CRS-000916,MATH-400-115,Differential Equations 916,4,400,low_enrollment,4.0,active
+CRS-000917,BA-600-115,Financial Analytics 917,4,600,core,4.0,active
+CRS-000918,IS-200-115,E-Commerce Technologies 918,3,200,core,3.0,active
+CRS-000919,ECON-500-115,International Trade 919,4,500,standard,4.0,active
+CRS-000920,ME-200-115,Mechatronics 920,3,200,core,3.0,active
+CRS-000921,CS-500-116,Machine Learning 921,4,500,standard,4.0,active
+CRS-000922,DS-200-116,Data Engineering 922,3,200,low_enrollment,3.0,active
+CRS-000923,EE-600-116,Embedded Systems 923,4,600,standard,4.0,active
+CRS-000924,MATH-200-116,Topology 924,3,200,standard,3.0,active
+CRS-000925,BA-300-116,Business Statistics 925,3,300,low_enrollment,3.0,active
+CRS-000926,IS-500-116,Cloud Infrastructure 926,4,500,core,4.0,active
+CRS-000927,ECON-100-116,Econometrics 927,3,100,core,3.0,active
+CRS-000928,ME-300-116,Fluid Mechanics 928,3,300,standard,3.0,active
+CRS-000929,CS-300-117,Intro to Programming 929,3,300,standard,3.0,active
+CRS-000930,DS-200-117,Data Visualization 930,3,200,core,3.0,active
+CRS-000931,EE-400-117,VLSI Design 931,4,400,standard,4.0,active
+CRS-000932,MATH-400-117,Numerical Analysis 932,4,400,low_enrollment,4.0,active
+CRS-000933,BA-500-117,Managerial Economics 933,4,500,low_enrollment,4.0,active
+CRS-000934,IS-400-117,Information Security 934,4,400,core,4.0,active
+CRS-000935,ECON-600-117,Health Economics 935,4,600,core,4.0,active
+CRS-000936,ME-100-117,Vibrations 936,3,100,standard,3.0,active
+CRS-000937,CS-500-118,Machine Learning 937,4,500,core,4.0,active
+CRS-000938,DS-400-118,Applied Statistics 938,4,400,low_enrollment,4.0,active
+CRS-000939,EE-500-118,Digital Logic Design 939,4,500,popular_elective,4.0,active
+CRS-000940,MATH-300-118,Differential Equations 940,3,300,standard,3.0,active
+CRS-000941,BA-200-118,Financial Analytics 941,3,200,core,3.0,active
+CRS-000942,IS-500-118,IT Project Management 942,4,500,core,4.0,active
+CRS-000943,ECON-200-118,International Trade 943,3,200,standard,3.0,active
+CRS-000944,ME-600-118,Mechatronics 944,4,600,standard,4.0,active
+CRS-000945,CS-600-119,Intro to Programming 945,4,600,core,4.0,active
+CRS-000946,DS-500-119,Data Engineering 946,4,500,standard,4.0,active
+CRS-000947,EE-300-119,Embedded Systems 947,3,300,core,3.0,active
+CRS-000948,MATH-300-119,Topology 948,3,300,core,3.0,active
+CRS-000949,BA-200-119,Business Statistics 949,3,200,standard,3.0,active
+CRS-000950,IS-500-119,Knowledge Management 950,4,500,core,4.0,active
+CRS-000951,ECON-500-119,Econometrics 951,4,500,standard,4.0,active
+CRS-000952,ME-200-119,Fluid Mechanics 952,3,200,standard,3.0,active
+CRS-000953,CS-400-120,Machine Learning 953,4,400,standard,4.0,active
+CRS-000954,DS-600-120,Data Visualization 954,4,600,core,4.0,active
+CRS-000955,EE-400-120,VLSI Design 955,4,400,standard,4.0,active
+CRS-000956,MATH-300-120,Numerical Analysis 956,3,300,core,3.0,active
+CRS-000957,BA-200-120,Managerial Economics 957,3,200,standard,3.0,active
+CRS-000958,IS-600-120,E-Commerce Technologies 958,4,600,standard,4.0,active
+CRS-000959,ECON-600-120,Health Economics 959,4,600,core,4.0,active
+CRS-000960,ME-300-120,Vibrations 960,3,300,core,3.0,active
+CRS-000961,CS-100-121,Intro to Programming 961,3,100,standard,3.0,active
+CRS-000962,DS-600-121,Applied Statistics 962,4,600,core,4.0,active
+CRS-000963,EE-300-121,Digital Logic Design 963,3,300,standard,3.0,active
+CRS-000964,MATH-200-121,Differential Equations 964,3,200,standard,3.0,active
+CRS-000965,BA-100-121,Financial Analytics 965,3,100,low_enrollment,3.0,active
+CRS-000966,IS-300-121,Cloud Infrastructure 966,3,300,core,3.0,active
+CRS-000967,ECON-600-121,International Trade 967,4,600,core,4.0,active
+CRS-000968,ME-400-121,Mechatronics 968,4,400,standard,4.0,active
+CRS-000969,CS-200-122,Machine Learning 969,3,200,core,3.0,active
+CRS-000970,DS-400-122,Data Engineering 970,4,400,core,4.0,active
+CRS-000971,EE-300-122,Embedded Systems 971,3,300,standard,3.0,active
+CRS-000972,MATH-300-122,Topology 972,3,300,standard,3.0,active
+CRS-000973,BA-300-122,Business Statistics 973,3,300,standard,3.0,active
+CRS-000974,IS-100-122,Information Security 974,3,100,standard,3.0,active
+CRS-000975,ECON-500-122,Econometrics 975,4,500,core,4.0,active
+CRS-000976,ME-200-122,Fluid Mechanics 976,3,200,core,3.0,active
+CRS-000977,CS-600-123,Intro to Programming 977,4,600,core,4.0,active
+CRS-000978,DS-300-123,Data Visualization 978,3,300,core,3.0,active
+CRS-000979,EE-500-123,VLSI Design 979,4,500,core,4.0,active
+CRS-000980,MATH-300-123,Numerical Analysis 980,3,300,standard,3.0,active
+CRS-000981,BA-200-123,Managerial Economics 981,3,200,core,3.0,active
+CRS-000982,IS-500-123,IT Project Management 982,4,500,core,4.0,active
+CRS-000983,ECON-300-123,Health Economics 983,3,300,standard,3.0,active
+CRS-000984,ME-400-123,Vibrations 984,4,400,core,4.0,active
+CRS-000985,CS-200-124,Machine Learning 985,3,200,core,3.0,active
+CRS-000986,DS-200-124,Applied Statistics 986,3,200,low_enrollment,3.0,active
+CRS-000987,EE-200-124,Digital Logic Design 987,3,200,popular_elective,3.0,active
+CRS-000988,MATH-200-124,Differential Equations 988,3,200,standard,3.0,active
+CRS-000989,BA-200-124,Financial Analytics 989,3,200,core,3.0,active
+CRS-000990,IS-200-124,Knowledge Management 990,3,200,standard,3.0,active
+CRS-000991,ECON-200-124,International Trade 991,3,200,popular_elective,3.0,active
+CRS-000992,ME-200-124,Mechatronics 992,3,200,popular_elective,3.0,active
+CRS-000993,CS-500-125,Intro to Programming 993,4,500,standard,4.0,active
+CRS-000994,DS-100-125,Data Engineering 994,3,100,standard,3.0,active
+CRS-000995,EE-200-125,Embedded Systems 995,3,200,core,3.0,active
+CRS-000996,MATH-600-125,Topology 996,4,600,standard,4.0,active
+CRS-000997,BA-500-125,Business Statistics 997,4,500,core,4.0,active
+CRS-000998,IS-300-125,E-Commerce Technologies 998,3,300,core,3.0,active
+CRS-000999,ECON-400-125,Econometrics 999,4,400,standard,4.0,active
+CRS-001000,ME-400-125,Fluid Mechanics 1000,4,400,standard,4.0,active

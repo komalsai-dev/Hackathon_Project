@@ -1,0 +1,4130 @@
+[
+  {
+    "assignment_id": "WLA-2026-000001",
+    "section_id": "SEC-2026-000001",
+    "faculty_id": "FAC-000333",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000002",
+    "section_id": "SEC-2026-000002",
+    "faculty_id": "FAC-000130",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000003",
+    "section_id": "SEC-2026-000003",
+    "faculty_id": "FAC-000017",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000004",
+    "section_id": "SEC-2026-000004",
+    "faculty_id": "FAC-000057",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000005",
+    "section_id": "SEC-2026-000005",
+    "faculty_id": "FAC-000002",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000006",
+    "section_id": "SEC-2026-000006",
+    "faculty_id": "FAC-000481",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000007",
+    "section_id": "SEC-2026-000007",
+    "faculty_id": "FAC-000336",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000008",
+    "section_id": "SEC-2026-000008",
+    "faculty_id": "FAC-000404",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000009",
+    "section_id": "SEC-2026-000009",
+    "faculty_id": "FAC-000091",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000010",
+    "section_id": "SEC-2026-000010",
+    "faculty_id": "FAC-000444",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000011",
+    "section_id": "SEC-2026-000012",
+    "faculty_id": "FAC-000468",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000012",
+    "section_id": "SEC-2026-000013",
+    "faculty_id": "FAC-000239",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000013",
+    "section_id": "SEC-2026-000014",
+    "faculty_id": "FAC-000216",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000014",
+    "section_id": "SEC-2026-000015",
+    "faculty_id": "FAC-000176",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000015",
+    "section_id": "SEC-2026-000016",
+    "faculty_id": "FAC-000478",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000016",
+    "section_id": "SEC-2026-000017",
+    "faculty_id": "FAC-000334",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000017",
+    "section_id": "SEC-2026-000018",
+    "faculty_id": "FAC-000482",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000018",
+    "section_id": "SEC-2026-000019",
+    "faculty_id": "FAC-000374",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000019",
+    "section_id": "SEC-2026-000020",
+    "faculty_id": "FAC-000002",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000020",
+    "section_id": "SEC-2026-000021",
+    "faculty_id": "FAC-000272",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000021",
+    "section_id": "SEC-2026-000022",
+    "faculty_id": "FAC-000374",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000022",
+    "section_id": "SEC-2026-000023",
+    "faculty_id": "FAC-000148",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000023",
+    "section_id": "SEC-2026-000025",
+    "faculty_id": "FAC-000070",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000024",
+    "section_id": "SEC-2026-000026",
+    "faculty_id": "FAC-000202",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000025",
+    "section_id": "SEC-2026-000027",
+    "faculty_id": "FAC-000303",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000026",
+    "section_id": "SEC-2026-000028",
+    "faculty_id": "FAC-000027",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000027",
+    "section_id": "SEC-2026-000029",
+    "faculty_id": "FAC-000227",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000028",
+    "section_id": "SEC-2026-000030",
+    "faculty_id": "FAC-000227",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000029",
+    "section_id": "SEC-2026-000031",
+    "faculty_id": "FAC-000027",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000030",
+    "section_id": "SEC-2026-000032",
+    "faculty_id": "FAC-000027",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000031",
+    "section_id": "SEC-2026-000033",
+    "faculty_id": "FAC-000027",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000032",
+    "section_id": "SEC-2026-000034",
+    "faculty_id": "FAC-000027",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000033",
+    "section_id": "SEC-2026-000035",
+    "faculty_id": "FAC-000283",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000034",
+    "section_id": "SEC-2026-000036",
+    "faculty_id": "FAC-000283",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000035",
+    "section_id": "SEC-2026-000037",
+    "faculty_id": "FAC-000227",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000036",
+    "section_id": "SEC-2026-000039",
+    "faculty_id": "FAC-000492",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000037",
+    "section_id": "SEC-2026-000040",
+    "faculty_id": "FAC-000492",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000038",
+    "section_id": "SEC-2026-000041",
+    "faculty_id": "FAC-000388",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000039",
+    "section_id": "SEC-2026-000042",
+    "faculty_id": "FAC-000388",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000040",
+    "section_id": "SEC-2026-000043",
+    "faculty_id": "FAC-000388",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000041",
+    "section_id": "SEC-2026-000044",
+    "faculty_id": "FAC-000388",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000042",
+    "section_id": "SEC-2026-000045",
+    "faculty_id": "FAC-000236",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000043",
+    "section_id": "SEC-2026-000046",
+    "faculty_id": "FAC-000236",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000044",
+    "section_id": "SEC-2026-000047",
+    "faculty_id": "FAC-000244",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000045",
+    "section_id": "SEC-2026-000048",
+    "faculty_id": "FAC-000244",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000046",
+    "section_id": "SEC-2026-000050",
+    "faculty_id": "FAC-000053",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000047",
+    "section_id": "SEC-2026-000051",
+    "faculty_id": "FAC-000045",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000048",
+    "section_id": "SEC-2026-000052",
+    "faculty_id": "FAC-000045",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000049",
+    "section_id": "SEC-2026-000053",
+    "faculty_id": "FAC-000173",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000050",
+    "section_id": "SEC-2026-000054",
+    "faculty_id": "FAC-000173",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000051",
+    "section_id": "SEC-2026-000055",
+    "faculty_id": "FAC-000045",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000052",
+    "section_id": "SEC-2026-000056",
+    "faculty_id": "FAC-000045",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000053",
+    "section_id": "SEC-2026-000057",
+    "faculty_id": "FAC-000045",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000054",
+    "section_id": "SEC-2026-000058",
+    "faculty_id": "FAC-000045",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000055",
+    "section_id": "SEC-2026-000059",
+    "faculty_id": "FAC-000045",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000056",
+    "section_id": "SEC-2026-000060",
+    "faculty_id": "FAC-000045",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000057",
+    "section_id": "SEC-2026-000061",
+    "faculty_id": "FAC-000053",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000058",
+    "section_id": "SEC-2026-000062",
+    "faculty_id": "FAC-000053",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000059",
+    "section_id": "SEC-2026-000064",
+    "faculty_id": "FAC-000319",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000060",
+    "section_id": "SEC-2026-000065",
+    "faculty_id": "FAC-000008",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000061",
+    "section_id": "SEC-2026-000066",
+    "faculty_id": "FAC-000093",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000062",
+    "section_id": "SEC-2026-000067",
+    "faculty_id": "FAC-000184",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000063",
+    "section_id": "SEC-2026-000068",
+    "faculty_id": "FAC-000264",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000064",
+    "section_id": "SEC-2026-000069",
+    "faculty_id": "FAC-000329",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000065",
+    "section_id": "SEC-2026-000070",
+    "faculty_id": "FAC-000242",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000066",
+    "section_id": "SEC-2026-000071",
+    "faculty_id": "FAC-000469",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000067",
+    "section_id": "SEC-2026-000072",
+    "faculty_id": "FAC-000469",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000068",
+    "section_id": "SEC-2026-000073",
+    "faculty_id": "FAC-000343",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000069",
+    "section_id": "SEC-2026-000074",
+    "faculty_id": "FAC-000071",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000070",
+    "section_id": "SEC-2026-000075",
+    "faculty_id": "FAC-000096",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000071",
+    "section_id": "SEC-2026-000076",
+    "faculty_id": "FAC-000488",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000072",
+    "section_id": "SEC-2026-000079",
+    "faculty_id": "FAC-000048",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000073",
+    "section_id": "SEC-2026-000080",
+    "faculty_id": "FAC-000448",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000074",
+    "section_id": "SEC-2026-000081",
+    "faculty_id": "FAC-000186",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000075",
+    "section_id": "SEC-2026-000082",
+    "faculty_id": "FAC-000007",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000076",
+    "section_id": "SEC-2026-000083",
+    "faculty_id": "FAC-000496",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000077",
+    "section_id": "SEC-2026-000084",
+    "faculty_id": "FAC-000496",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000078",
+    "section_id": "SEC-2026-000085",
+    "faculty_id": "FAC-000201",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000079",
+    "section_id": "SEC-2026-000088",
+    "faculty_id": "FAC-000135",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000080",
+    "section_id": "SEC-2026-000089",
+    "faculty_id": "FAC-000223",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000081",
+    "section_id": "SEC-2026-000090",
+    "faculty_id": "FAC-000273",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000082",
+    "section_id": "SEC-2026-000091",
+    "faculty_id": "FAC-000353",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000083",
+    "section_id": "SEC-2026-000092",
+    "faculty_id": "FAC-000353",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000084",
+    "section_id": "SEC-2026-000093",
+    "faculty_id": "FAC-000026",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000085",
+    "section_id": "SEC-2026-000094",
+    "faculty_id": "FAC-000144",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000086",
+    "section_id": "SEC-2026-000095",
+    "faculty_id": "FAC-000009",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000087",
+    "section_id": "SEC-2026-000096",
+    "faculty_id": "FAC-000009",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000088",
+    "section_id": "SEC-2026-000097",
+    "faculty_id": "FAC-000393",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000089",
+    "section_id": "SEC-2026-000098",
+    "faculty_id": "FAC-000315",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000090",
+    "section_id": "SEC-2026-000099",
+    "faculty_id": "FAC-000108",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000091",
+    "section_id": "SEC-2026-000100",
+    "faculty_id": "FAC-000295",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000092",
+    "section_id": "SEC-2026-000101",
+    "faculty_id": "FAC-000081",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000093",
+    "section_id": "SEC-2026-000102",
+    "faculty_id": "FAC-000482",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000094",
+    "section_id": "SEC-2026-000103",
+    "faculty_id": "FAC-000483",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000095",
+    "section_id": "SEC-2026-000104",
+    "faculty_id": "FAC-000483",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000096",
+    "section_id": "SEC-2026-000106",
+    "faculty_id": "FAC-000177",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000097",
+    "section_id": "SEC-2026-000107",
+    "faculty_id": "FAC-000252",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000098",
+    "section_id": "SEC-2026-000108",
+    "faculty_id": "FAC-000021",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000099",
+    "section_id": "SEC-2026-000109",
+    "faculty_id": "FAC-000021",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000100",
+    "section_id": "SEC-2026-000110",
+    "faculty_id": "FAC-000105",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000101",
+    "section_id": "SEC-2026-000112",
+    "faculty_id": "FAC-000285",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000102",
+    "section_id": "SEC-2026-000113",
+    "faculty_id": "FAC-000285",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000103",
+    "section_id": "SEC-2026-000114",
+    "faculty_id": "FAC-000393",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000104",
+    "section_id": "SEC-2026-000115",
+    "faculty_id": "FAC-000393",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000105",
+    "section_id": "SEC-2026-000116",
+    "faculty_id": "FAC-000357",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000106",
+    "section_id": "SEC-2026-000117",
+    "faculty_id": "FAC-000103",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000107",
+    "section_id": "SEC-2026-000118",
+    "faculty_id": "FAC-000369",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000108",
+    "section_id": "SEC-2026-000119",
+    "faculty_id": "FAC-000369",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000109",
+    "section_id": "SEC-2026-000120",
+    "faculty_id": "FAC-000019",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000110",
+    "section_id": "SEC-2026-000121",
+    "faculty_id": "FAC-000071",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000111",
+    "section_id": "SEC-2026-000122",
+    "faculty_id": "FAC-000489",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000112",
+    "section_id": "SEC-2026-000123",
+    "faculty_id": "FAC-000306",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000113",
+    "section_id": "SEC-2026-000124",
+    "faculty_id": "FAC-000124",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000114",
+    "section_id": "SEC-2026-000125",
+    "faculty_id": "FAC-000102",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000115",
+    "section_id": "SEC-2026-000126",
+    "faculty_id": "FAC-000361",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000116",
+    "section_id": "SEC-2026-000127",
+    "faculty_id": "FAC-000361",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000117",
+    "section_id": "SEC-2026-000128",
+    "faculty_id": "FAC-000098",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000118",
+    "section_id": "SEC-2026-000129",
+    "faculty_id": "FAC-000467",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000119",
+    "section_id": "SEC-2026-000130",
+    "faculty_id": "FAC-000004",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000120",
+    "section_id": "SEC-2026-000131",
+    "faculty_id": "FAC-000062",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000121",
+    "section_id": "SEC-2026-000133",
+    "faculty_id": "FAC-000472",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000122",
+    "section_id": "SEC-2026-000134",
+    "faculty_id": "FAC-000139",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000123",
+    "section_id": "SEC-2026-000135",
+    "faculty_id": "FAC-000316",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000124",
+    "section_id": "SEC-2026-000136",
+    "faculty_id": "FAC-000397",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000125",
+    "section_id": "SEC-2026-000137",
+    "faculty_id": "FAC-000126",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000126",
+    "section_id": "SEC-2026-000138",
+    "faculty_id": "FAC-000126",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000127",
+    "section_id": "SEC-2026-000139",
+    "faculty_id": "FAC-000208",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000128",
+    "section_id": "SEC-2026-000140",
+    "faculty_id": "FAC-000208",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000129",
+    "section_id": "SEC-2026-000141",
+    "faculty_id": "FAC-000308",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000130",
+    "section_id": "SEC-2026-000142",
+    "faculty_id": "FAC-000308",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000131",
+    "section_id": "SEC-2026-000143",
+    "faculty_id": "FAC-000189",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000132",
+    "section_id": "SEC-2026-000144",
+    "faculty_id": "FAC-000189",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000133",
+    "section_id": "SEC-2026-000145",
+    "faculty_id": "FAC-000123",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000134",
+    "section_id": "SEC-2026-000146",
+    "faculty_id": "FAC-000123",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000135",
+    "section_id": "SEC-2026-000147",
+    "faculty_id": "FAC-000089",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000136",
+    "section_id": "SEC-2026-000148",
+    "faculty_id": "FAC-000089",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000137",
+    "section_id": "SEC-2026-000149",
+    "faculty_id": "FAC-000258",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000138",
+    "section_id": "SEC-2026-000150",
+    "faculty_id": "FAC-000347",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000139",
+    "section_id": "SEC-2026-000151",
+    "faculty_id": "FAC-000229",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000140",
+    "section_id": "SEC-2026-000152",
+    "faculty_id": "FAC-000199",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000141",
+    "section_id": "SEC-2026-000153",
+    "faculty_id": "FAC-000199",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000142",
+    "section_id": "SEC-2026-000154",
+    "faculty_id": "FAC-000234",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000143",
+    "section_id": "SEC-2026-000155",
+    "faculty_id": "FAC-000075",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000144",
+    "section_id": "SEC-2026-000156",
+    "faculty_id": "FAC-000188",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000145",
+    "section_id": "SEC-2026-000157",
+    "faculty_id": "FAC-000188",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000146",
+    "section_id": "SEC-2026-000158",
+    "faculty_id": "FAC-000082",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000147",
+    "section_id": "SEC-2026-000159",
+    "faculty_id": "FAC-000437",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000148",
+    "section_id": "SEC-2026-000162",
+    "faculty_id": "FAC-000463",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000149",
+    "section_id": "SEC-2026-000163",
+    "faculty_id": "FAC-000404",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000150",
+    "section_id": "SEC-2026-000164",
+    "faculty_id": "FAC-000404",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000151",
+    "section_id": "SEC-2026-000165",
+    "faculty_id": "FAC-000386",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000152",
+    "section_id": "SEC-2026-000166",
+    "faculty_id": "FAC-000386",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000153",
+    "section_id": "SEC-2026-000167",
+    "faculty_id": "FAC-000235",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000154",
+    "section_id": "SEC-2026-000168",
+    "faculty_id": "FAC-000212",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000155",
+    "section_id": "SEC-2026-000170",
+    "faculty_id": "FAC-000117",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000156",
+    "section_id": "SEC-2026-000171",
+    "faculty_id": "FAC-000117",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000157",
+    "section_id": "SEC-2026-000172",
+    "faculty_id": "FAC-000134",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000158",
+    "section_id": "SEC-2026-000174",
+    "faculty_id": "FAC-000106",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000159",
+    "section_id": "SEC-2026-000175",
+    "faculty_id": "FAC-000059",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000160",
+    "section_id": "SEC-2026-000176",
+    "faculty_id": "FAC-000165",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000161",
+    "section_id": "SEC-2026-000177",
+    "faculty_id": "FAC-000222",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000162",
+    "section_id": "SEC-2026-000178",
+    "faculty_id": "FAC-000367",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000163",
+    "section_id": "SEC-2026-000180",
+    "faculty_id": "FAC-000193",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000164",
+    "section_id": "SEC-2026-000181",
+    "faculty_id": "FAC-000490",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000165",
+    "section_id": "SEC-2026-000182",
+    "faculty_id": "FAC-000355",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000166",
+    "section_id": "SEC-2026-000183",
+    "faculty_id": "FAC-000292",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000167",
+    "section_id": "SEC-2026-000184",
+    "faculty_id": "FAC-000111",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000168",
+    "section_id": "SEC-2026-000185",
+    "faculty_id": "FAC-000065",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000169",
+    "section_id": "SEC-2026-000186",
+    "faculty_id": "FAC-000290",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000170",
+    "section_id": "SEC-2026-000189",
+    "faculty_id": "FAC-000185",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000171",
+    "section_id": "SEC-2026-000191",
+    "faculty_id": "FAC-000156",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000172",
+    "section_id": "SEC-2026-000192",
+    "faculty_id": "FAC-000248",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000173",
+    "section_id": "SEC-2026-000193",
+    "faculty_id": "FAC-000265",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000174",
+    "section_id": "SEC-2026-000194",
+    "faculty_id": "FAC-000194",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000175",
+    "section_id": "SEC-2026-000195",
+    "faculty_id": "FAC-000251",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000176",
+    "section_id": "SEC-2026-000196",
+    "faculty_id": "FAC-000432",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000177",
+    "section_id": "SEC-2026-000197",
+    "faculty_id": "FAC-000305",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000178",
+    "section_id": "SEC-2026-000198",
+    "faculty_id": "FAC-000130",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000179",
+    "section_id": "SEC-2026-000199",
+    "faculty_id": "FAC-000011",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000180",
+    "section_id": "SEC-2026-000200",
+    "faculty_id": "FAC-000277",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000181",
+    "section_id": "SEC-2026-000202",
+    "faculty_id": "FAC-000241",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000182",
+    "section_id": "SEC-2026-000203",
+    "faculty_id": "FAC-000010",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000183",
+    "section_id": "SEC-2026-000206",
+    "faculty_id": "FAC-000097",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000184",
+    "section_id": "SEC-2026-000207",
+    "faculty_id": "FAC-000179",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000185",
+    "section_id": "SEC-2026-000208",
+    "faculty_id": "FAC-000231",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000186",
+    "section_id": "SEC-2026-000209",
+    "faculty_id": "FAC-000392",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000187",
+    "section_id": "SEC-2026-000210",
+    "faculty_id": "FAC-000175",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000188",
+    "section_id": "SEC-2026-000211",
+    "faculty_id": "FAC-000148",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000189",
+    "section_id": "SEC-2026-000212",
+    "faculty_id": "FAC-000351",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000190",
+    "section_id": "SEC-2026-000215",
+    "faculty_id": "FAC-000143",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000191",
+    "section_id": "SEC-2026-000216",
+    "faculty_id": "FAC-000049",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000192",
+    "section_id": "SEC-2026-000217",
+    "faculty_id": "FAC-000411",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000193",
+    "section_id": "SEC-2026-000218",
+    "faculty_id": "FAC-000334",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000194",
+    "section_id": "SEC-2026-000219",
+    "faculty_id": "FAC-000121",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000195",
+    "section_id": "SEC-2026-000220",
+    "faculty_id": "FAC-000474",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000196",
+    "section_id": "SEC-2026-000221",
+    "faculty_id": "FAC-000323",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000197",
+    "section_id": "SEC-2026-000222",
+    "faculty_id": "FAC-000301",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000198",
+    "section_id": "SEC-2026-000223",
+    "faculty_id": "FAC-000408",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000199",
+    "section_id": "SEC-2026-000224",
+    "faculty_id": "FAC-000339",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000200",
+    "section_id": "SEC-2026-000225",
+    "faculty_id": "FAC-000412",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000201",
+    "section_id": "SEC-2026-000226",
+    "faculty_id": "FAC-000150",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000202",
+    "section_id": "SEC-2026-000227",
+    "faculty_id": "FAC-000036",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000203",
+    "section_id": "SEC-2026-000228",
+    "faculty_id": "FAC-000436",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000204",
+    "section_id": "SEC-2026-000230",
+    "faculty_id": "FAC-000074",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000205",
+    "section_id": "SEC-2026-000231",
+    "faculty_id": "FAC-000394",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000206",
+    "section_id": "SEC-2026-000232",
+    "faculty_id": "FAC-000453",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000207",
+    "section_id": "SEC-2026-000233",
+    "faculty_id": "FAC-000182",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000208",
+    "section_id": "SEC-2026-000234",
+    "faculty_id": "FAC-000350",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000209",
+    "section_id": "SEC-2026-000235",
+    "faculty_id": "FAC-000127",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000210",
+    "section_id": "SEC-2026-000236",
+    "faculty_id": "FAC-000215",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000211",
+    "section_id": "SEC-2026-000239",
+    "faculty_id": "FAC-000073",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000212",
+    "section_id": "SEC-2026-000240",
+    "faculty_id": "FAC-000228",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000213",
+    "section_id": "SEC-2026-000241",
+    "faculty_id": "FAC-000268",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000214",
+    "section_id": "SEC-2026-000242",
+    "faculty_id": "FAC-000309",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000215",
+    "section_id": "SEC-2026-000243",
+    "faculty_id": "FAC-000369",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000216",
+    "section_id": "SEC-2026-000245",
+    "faculty_id": "FAC-000356",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000217",
+    "section_id": "SEC-2026-000246",
+    "faculty_id": "FAC-000399",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000218",
+    "section_id": "SEC-2026-000248",
+    "faculty_id": "FAC-000218",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000219",
+    "section_id": "SEC-2026-000249",
+    "faculty_id": "FAC-000002",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000220",
+    "section_id": "SEC-2026-000250",
+    "faculty_id": "FAC-000279",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000221",
+    "section_id": "SEC-2026-000252",
+    "faculty_id": "FAC-000354",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000222",
+    "section_id": "SEC-2026-000253",
+    "faculty_id": "FAC-000402",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000223",
+    "section_id": "SEC-2026-000254",
+    "faculty_id": "FAC-000354",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000224",
+    "section_id": "SEC-2026-000255",
+    "faculty_id": "FAC-000451",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000225",
+    "section_id": "SEC-2026-000256",
+    "faculty_id": "FAC-000475",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000226",
+    "section_id": "SEC-2026-000258",
+    "faculty_id": "FAC-000207",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000227",
+    "section_id": "SEC-2026-000260",
+    "faculty_id": "FAC-000072",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000228",
+    "section_id": "SEC-2026-000262",
+    "faculty_id": "FAC-000270",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000229",
+    "section_id": "SEC-2026-000263",
+    "faculty_id": "FAC-000329",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000230",
+    "section_id": "SEC-2026-000265",
+    "faculty_id": "FAC-000466",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000231",
+    "section_id": "SEC-2026-000267",
+    "faculty_id": "FAC-000347",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000232",
+    "section_id": "SEC-2026-000270",
+    "faculty_id": "FAC-000132",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000233",
+    "section_id": "SEC-2026-000271",
+    "faculty_id": "FAC-000151",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000234",
+    "section_id": "SEC-2026-000272",
+    "faculty_id": "FAC-000432",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000235",
+    "section_id": "SEC-2026-000273",
+    "faculty_id": "FAC-000361",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000236",
+    "section_id": "SEC-2026-000274",
+    "faculty_id": "FAC-000091",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000237",
+    "section_id": "SEC-2026-000275",
+    "faculty_id": "FAC-000326",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000238",
+    "section_id": "SEC-2026-000276",
+    "faculty_id": "FAC-000344",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000239",
+    "section_id": "SEC-2026-000277",
+    "faculty_id": "FAC-000113",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000240",
+    "section_id": "SEC-2026-000278",
+    "faculty_id": "FAC-000249",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000241",
+    "section_id": "SEC-2026-000279",
+    "faculty_id": "FAC-000113",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000242",
+    "section_id": "SEC-2026-000280",
+    "faculty_id": "FAC-000370",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000243",
+    "section_id": "SEC-2026-000281",
+    "faculty_id": "FAC-000085",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000244",
+    "section_id": "SEC-2026-000282",
+    "faculty_id": "FAC-000152",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000245",
+    "section_id": "SEC-2026-000283",
+    "faculty_id": "FAC-000272",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000246",
+    "section_id": "SEC-2026-000286",
+    "faculty_id": "FAC-000094",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000247",
+    "section_id": "SEC-2026-000288",
+    "faculty_id": "FAC-000226",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000248",
+    "section_id": "SEC-2026-000290",
+    "faculty_id": "FAC-000035",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000249",
+    "section_id": "SEC-2026-000291",
+    "faculty_id": "FAC-000091",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000250",
+    "section_id": "SEC-2026-000292",
+    "faculty_id": "FAC-000310",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000251",
+    "section_id": "SEC-2026-000293",
+    "faculty_id": "FAC-000162",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000252",
+    "section_id": "SEC-2026-000294",
+    "faculty_id": "FAC-000012",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000253",
+    "section_id": "SEC-2026-000295",
+    "faculty_id": "FAC-000037",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000254",
+    "section_id": "SEC-2026-000296",
+    "faculty_id": "FAC-000296",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000255",
+    "section_id": "SEC-2026-000297",
+    "faculty_id": "FAC-000472",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000256",
+    "section_id": "SEC-2026-000298",
+    "faculty_id": "FAC-000256",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000257",
+    "section_id": "SEC-2026-000301",
+    "faculty_id": "FAC-000278",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000258",
+    "section_id": "SEC-2026-000303",
+    "faculty_id": "FAC-000097",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000259",
+    "section_id": "SEC-2026-000306",
+    "faculty_id": "FAC-000196",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000260",
+    "section_id": "SEC-2026-000307",
+    "faculty_id": "FAC-000214",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000261",
+    "section_id": "SEC-2026-000308",
+    "faculty_id": "FAC-000051",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000262",
+    "section_id": "SEC-2026-000309",
+    "faculty_id": "FAC-000015",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000263",
+    "section_id": "SEC-2026-000310",
+    "faculty_id": "FAC-000389",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000264",
+    "section_id": "SEC-2026-000311",
+    "faculty_id": "FAC-000158",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000265",
+    "section_id": "SEC-2026-000312",
+    "faculty_id": "FAC-000395",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000266",
+    "section_id": "SEC-2026-000314",
+    "faculty_id": "FAC-000251",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000267",
+    "section_id": "SEC-2026-000315",
+    "faculty_id": "FAC-000158",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000268",
+    "section_id": "SEC-2026-000316",
+    "faculty_id": "FAC-000016",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000269",
+    "section_id": "SEC-2026-000317",
+    "faculty_id": "FAC-000033",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000270",
+    "section_id": "SEC-2026-000318",
+    "faculty_id": "FAC-000163",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000271",
+    "section_id": "SEC-2026-000320",
+    "faculty_id": "FAC-000358",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000272",
+    "section_id": "SEC-2026-000321",
+    "faculty_id": "FAC-000258",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000273",
+    "section_id": "SEC-2026-000322",
+    "faculty_id": "FAC-000397",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000274",
+    "section_id": "SEC-2026-000323",
+    "faculty_id": "FAC-000247",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000275",
+    "section_id": "SEC-2026-000324",
+    "faculty_id": "FAC-000056",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000276",
+    "section_id": "SEC-2026-000325",
+    "faculty_id": "FAC-000084",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000277",
+    "section_id": "SEC-2026-000328",
+    "faculty_id": "FAC-000473",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000278",
+    "section_id": "SEC-2026-000329",
+    "faculty_id": "FAC-000290",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000279",
+    "section_id": "SEC-2026-000331",
+    "faculty_id": "FAC-000382",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000280",
+    "section_id": "SEC-2026-000332",
+    "faculty_id": "FAC-000128",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000281",
+    "section_id": "SEC-2026-000333",
+    "faculty_id": "FAC-000385",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000282",
+    "section_id": "SEC-2026-000334",
+    "faculty_id": "FAC-000026",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000283",
+    "section_id": "SEC-2026-000336",
+    "faculty_id": "FAC-000146",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000284",
+    "section_id": "SEC-2026-000337",
+    "faculty_id": "FAC-000275",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000285",
+    "section_id": "SEC-2026-000338",
+    "faculty_id": "FAC-000006",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000286",
+    "section_id": "SEC-2026-000339",
+    "faculty_id": "FAC-000057",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000287",
+    "section_id": "SEC-2026-000340",
+    "faculty_id": "FAC-000457",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000288",
+    "section_id": "SEC-2026-000341",
+    "faculty_id": "FAC-000234",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000289",
+    "section_id": "SEC-2026-000343",
+    "faculty_id": "FAC-000238",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000290",
+    "section_id": "SEC-2026-000344",
+    "faculty_id": "FAC-000456",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000291",
+    "section_id": "SEC-2026-000345",
+    "faculty_id": "FAC-000051",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000292",
+    "section_id": "SEC-2026-000346",
+    "faculty_id": "FAC-000069",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000293",
+    "section_id": "SEC-2026-000347",
+    "faculty_id": "FAC-000342",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000294",
+    "section_id": "SEC-2026-000348",
+    "faculty_id": "FAC-000418",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000295",
+    "section_id": "SEC-2026-000350",
+    "faculty_id": "FAC-000471",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000296",
+    "section_id": "SEC-2026-000351",
+    "faculty_id": "FAC-000384",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000297",
+    "section_id": "SEC-2026-000352",
+    "faculty_id": "FAC-000114",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000298",
+    "section_id": "SEC-2026-000354",
+    "faculty_id": "FAC-000205",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000299",
+    "section_id": "SEC-2026-000356",
+    "faculty_id": "FAC-000401",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000300",
+    "section_id": "SEC-2026-000358",
+    "faculty_id": "FAC-000187",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000301",
+    "section_id": "SEC-2026-000359",
+    "faculty_id": "FAC-000044",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000302",
+    "section_id": "SEC-2026-000360",
+    "faculty_id": "FAC-000182",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000303",
+    "section_id": "SEC-2026-000361",
+    "faculty_id": "FAC-000281",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000304",
+    "section_id": "SEC-2026-000362",
+    "faculty_id": "FAC-000059",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000305",
+    "section_id": "SEC-2026-000364",
+    "faculty_id": "FAC-000254",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000306",
+    "section_id": "SEC-2026-000365",
+    "faculty_id": "FAC-000088",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000307",
+    "section_id": "SEC-2026-000366",
+    "faculty_id": "FAC-000292",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000308",
+    "section_id": "SEC-2026-000367",
+    "faculty_id": "FAC-000177",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000309",
+    "section_id": "SEC-2026-000368",
+    "faculty_id": "FAC-000282",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000310",
+    "section_id": "SEC-2026-000370",
+    "faculty_id": "FAC-000348",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000311",
+    "section_id": "SEC-2026-000371",
+    "faculty_id": "FAC-000133",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000312",
+    "section_id": "SEC-2026-000372",
+    "faculty_id": "FAC-000255",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000313",
+    "section_id": "SEC-2026-000373",
+    "faculty_id": "FAC-000281",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000314",
+    "section_id": "SEC-2026-000374",
+    "faculty_id": "FAC-000385",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000315",
+    "section_id": "SEC-2026-000375",
+    "faculty_id": "FAC-000106",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000316",
+    "section_id": "SEC-2026-000376",
+    "faculty_id": "FAC-000106",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000317",
+    "section_id": "SEC-2026-000377",
+    "faculty_id": "FAC-000323",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000318",
+    "section_id": "SEC-2026-000378",
+    "faculty_id": "FAC-000164",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000319",
+    "section_id": "SEC-2026-000380",
+    "faculty_id": "FAC-000077",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000320",
+    "section_id": "SEC-2026-000381",
+    "faculty_id": "FAC-000127",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000321",
+    "section_id": "SEC-2026-000382",
+    "faculty_id": "FAC-000447",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000322",
+    "section_id": "SEC-2026-000383",
+    "faculty_id": "FAC-000098",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000323",
+    "section_id": "SEC-2026-000384",
+    "faculty_id": "FAC-000010",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000324",
+    "section_id": "SEC-2026-000386",
+    "faculty_id": "FAC-000087",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000325",
+    "section_id": "SEC-2026-000387",
+    "faculty_id": "FAC-000167",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000326",
+    "section_id": "SEC-2026-000388",
+    "faculty_id": "FAC-000265",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000327",
+    "section_id": "SEC-2026-000389",
+    "faculty_id": "FAC-000162",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000328",
+    "section_id": "SEC-2026-000390",
+    "faculty_id": "FAC-000442",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000329",
+    "section_id": "SEC-2026-000392",
+    "faculty_id": "FAC-000197",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000330",
+    "section_id": "SEC-2026-000393",
+    "faculty_id": "FAC-000407",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000331",
+    "section_id": "SEC-2026-000394",
+    "faculty_id": "FAC-000407",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000332",
+    "section_id": "SEC-2026-000396",
+    "faculty_id": "FAC-000467",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000333",
+    "section_id": "SEC-2026-000397",
+    "faculty_id": "FAC-000467",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000334",
+    "section_id": "SEC-2026-000398",
+    "faculty_id": "FAC-000141",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000335",
+    "section_id": "SEC-2026-000399",
+    "faculty_id": "FAC-000429",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000336",
+    "section_id": "SEC-2026-000400",
+    "faculty_id": "FAC-000477",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000337",
+    "section_id": "SEC-2026-000401",
+    "faculty_id": "FAC-000176",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000338",
+    "section_id": "SEC-2026-000402",
+    "faculty_id": "FAC-000336",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000339",
+    "section_id": "SEC-2026-000404",
+    "faculty_id": "FAC-000114",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000340",
+    "section_id": "SEC-2026-000405",
+    "faculty_id": "FAC-000471",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000341",
+    "section_id": "SEC-2026-000406",
+    "faculty_id": "FAC-000471",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000342",
+    "section_id": "SEC-2026-000407",
+    "faculty_id": "FAC-000416",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000343",
+    "section_id": "SEC-2026-000408",
+    "faculty_id": "FAC-000128",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000344",
+    "section_id": "SEC-2026-000409",
+    "faculty_id": "FAC-000067",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000345",
+    "section_id": "SEC-2026-000410",
+    "faculty_id": "FAC-000029",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000346",
+    "section_id": "SEC-2026-000411",
+    "faculty_id": "FAC-000029",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000347",
+    "section_id": "SEC-2026-000412",
+    "faculty_id": "FAC-000070",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000348",
+    "section_id": "SEC-2026-000413",
+    "faculty_id": "FAC-000271",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000349",
+    "section_id": "SEC-2026-000414",
+    "faculty_id": "FAC-000392",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000350",
+    "section_id": "SEC-2026-000415",
+    "faculty_id": "FAC-000408",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000351",
+    "section_id": "SEC-2026-000416",
+    "faculty_id": "FAC-000001",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000352",
+    "section_id": "SEC-2026-000417",
+    "faculty_id": "FAC-000001",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000353",
+    "section_id": "SEC-2026-000418",
+    "faculty_id": "FAC-000250",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000354",
+    "section_id": "SEC-2026-000419",
+    "faculty_id": "FAC-000130",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000355",
+    "section_id": "SEC-2026-000420",
+    "faculty_id": "FAC-000331",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000356",
+    "section_id": "SEC-2026-000421",
+    "faculty_id": "FAC-000331",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000357",
+    "section_id": "SEC-2026-000424",
+    "faculty_id": "FAC-000203",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000358",
+    "section_id": "SEC-2026-000425",
+    "faculty_id": "FAC-000076",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000359",
+    "section_id": "SEC-2026-000426",
+    "faculty_id": "FAC-000308",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000360",
+    "section_id": "SEC-2026-000427",
+    "faculty_id": "FAC-000173",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000361",
+    "section_id": "SEC-2026-000428",
+    "faculty_id": "FAC-000234",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000362",
+    "section_id": "SEC-2026-000429",
+    "faculty_id": "FAC-000170",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000363",
+    "section_id": "SEC-2026-000430",
+    "faculty_id": "FAC-000226",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000364",
+    "section_id": "SEC-2026-000431",
+    "faculty_id": "FAC-000275",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000365",
+    "section_id": "SEC-2026-000432",
+    "faculty_id": "FAC-000396",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000366",
+    "section_id": "SEC-2026-000434",
+    "faculty_id": "FAC-000056",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000367",
+    "section_id": "SEC-2026-000435",
+    "faculty_id": "FAC-000336",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000368",
+    "section_id": "SEC-2026-000436",
+    "faculty_id": "FAC-000370",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000369",
+    "section_id": "SEC-2026-000438",
+    "faculty_id": "FAC-000219",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000370",
+    "section_id": "SEC-2026-000439",
+    "faculty_id": "FAC-000143",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000371",
+    "section_id": "SEC-2026-000440",
+    "faculty_id": "FAC-000265",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000372",
+    "section_id": "SEC-2026-000441",
+    "faculty_id": "FAC-000210",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000373",
+    "section_id": "SEC-2026-000443",
+    "faculty_id": "FAC-000213",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000374",
+    "section_id": "SEC-2026-000444",
+    "faculty_id": "FAC-000095",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000375",
+    "section_id": "SEC-2026-000445",
+    "faculty_id": "FAC-000431",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000376",
+    "section_id": "SEC-2026-000446",
+    "faculty_id": "FAC-000224",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000377",
+    "section_id": "SEC-2026-000448",
+    "faculty_id": "FAC-000419",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000378",
+    "section_id": "SEC-2026-000449",
+    "faculty_id": "FAC-000437",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000379",
+    "section_id": "SEC-2026-000452",
+    "faculty_id": "FAC-000064",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000380",
+    "section_id": "SEC-2026-000453",
+    "faculty_id": "FAC-000475",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000381",
+    "section_id": "SEC-2026-000454",
+    "faculty_id": "FAC-000259",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000382",
+    "section_id": "SEC-2026-000455",
+    "faculty_id": "FAC-000464",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000383",
+    "section_id": "SEC-2026-000456",
+    "faculty_id": "FAC-000057",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000384",
+    "section_id": "SEC-2026-000457",
+    "faculty_id": "FAC-000092",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000385",
+    "section_id": "SEC-2026-000459",
+    "faculty_id": "FAC-000024",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000386",
+    "section_id": "SEC-2026-000460",
+    "faculty_id": "FAC-000229",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000387",
+    "section_id": "SEC-2026-000461",
+    "faculty_id": "FAC-000310",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000388",
+    "section_id": "SEC-2026-000462",
+    "faculty_id": "FAC-000479",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000389",
+    "section_id": "SEC-2026-000463",
+    "faculty_id": "FAC-000136",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000390",
+    "section_id": "SEC-2026-000464",
+    "faculty_id": "FAC-000272",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000391",
+    "section_id": "SEC-2026-000465",
+    "faculty_id": "FAC-000383",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000392",
+    "section_id": "SEC-2026-000466",
+    "faculty_id": "FAC-000152",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000393",
+    "section_id": "SEC-2026-000468",
+    "faculty_id": "FAC-000078",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000394",
+    "section_id": "SEC-2026-000470",
+    "faculty_id": "FAC-000371",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000395",
+    "section_id": "SEC-2026-000472",
+    "faculty_id": "FAC-000365",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000396",
+    "section_id": "SEC-2026-000473",
+    "faculty_id": "FAC-000192",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000397",
+    "section_id": "SEC-2026-000474",
+    "faculty_id": "FAC-000417",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000398",
+    "section_id": "SEC-2026-000475",
+    "faculty_id": "FAC-000137",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000399",
+    "section_id": "SEC-2026-000476",
+    "faculty_id": "FAC-000035",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000400",
+    "section_id": "SEC-2026-000477",
+    "faculty_id": "FAC-000166",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000401",
+    "section_id": "SEC-2026-000478",
+    "faculty_id": "FAC-000312",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000402",
+    "section_id": "SEC-2026-000479",
+    "faculty_id": "FAC-000450",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000403",
+    "section_id": "SEC-2026-000482",
+    "faculty_id": "FAC-000081",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000404",
+    "section_id": "SEC-2026-000483",
+    "faculty_id": "FAC-000410",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000405",
+    "section_id": "SEC-2026-000484",
+    "faculty_id": "FAC-000491",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000406",
+    "section_id": "SEC-2026-000485",
+    "faculty_id": "FAC-000364",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000407",
+    "section_id": "SEC-2026-000486",
+    "faculty_id": "FAC-000317",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000408",
+    "section_id": "SEC-2026-000487",
+    "faculty_id": "FAC-000366",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000409",
+    "section_id": "SEC-2026-000488",
+    "faculty_id": "FAC-000327",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000410",
+    "section_id": "SEC-2026-000489",
+    "faculty_id": "FAC-000362",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000411",
+    "section_id": "SEC-2026-000490",
+    "faculty_id": "FAC-000126",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000412",
+    "section_id": "SEC-2026-000492",
+    "faculty_id": "FAC-000398",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000413",
+    "section_id": "SEC-2026-000493",
+    "faculty_id": "FAC-000202",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000414",
+    "section_id": "SEC-2026-000494",
+    "faculty_id": "FAC-000339",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000415",
+    "section_id": "SEC-2026-000495",
+    "faculty_id": "FAC-000207",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000416",
+    "section_id": "SEC-2026-000496",
+    "faculty_id": "FAC-000306",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000417",
+    "section_id": "SEC-2026-000497",
+    "faculty_id": "FAC-000059",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000418",
+    "section_id": "SEC-2026-000498",
+    "faculty_id": "FAC-000069",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000419",
+    "section_id": "SEC-2026-000499",
+    "faculty_id": "FAC-000264",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000420",
+    "section_id": "SEC-2026-000500",
+    "faculty_id": "FAC-000449",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000421",
+    "section_id": "SEC-2026-000502",
+    "faculty_id": "FAC-000289",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000422",
+    "section_id": "SEC-2026-000503",
+    "faculty_id": "FAC-000322",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000423",
+    "section_id": "SEC-2026-000504",
+    "faculty_id": "FAC-000252",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000424",
+    "section_id": "SEC-2026-000506",
+    "faculty_id": "FAC-000430",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000425",
+    "section_id": "SEC-2026-000507",
+    "faculty_id": "FAC-000032",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000426",
+    "section_id": "SEC-2026-000508",
+    "faculty_id": "FAC-000411",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000427",
+    "section_id": "SEC-2026-000509",
+    "faculty_id": "FAC-000301",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000428",
+    "section_id": "SEC-2026-000510",
+    "faculty_id": "FAC-000119",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000429",
+    "section_id": "SEC-2026-000511",
+    "faculty_id": "FAC-000291",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000430",
+    "section_id": "SEC-2026-000512",
+    "faculty_id": "FAC-000485",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000431",
+    "section_id": "SEC-2026-000514",
+    "faculty_id": "FAC-000048",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000432",
+    "section_id": "SEC-2026-000515",
+    "faculty_id": "FAC-000033",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000433",
+    "section_id": "SEC-2026-000516",
+    "faculty_id": "FAC-000154",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000434",
+    "section_id": "SEC-2026-000518",
+    "faculty_id": "FAC-000078",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000435",
+    "section_id": "SEC-2026-000519",
+    "faculty_id": "FAC-000204",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000436",
+    "section_id": "SEC-2026-000520",
+    "faculty_id": "FAC-000249",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000437",
+    "section_id": "SEC-2026-000522",
+    "faculty_id": "FAC-000328",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000438",
+    "section_id": "SEC-2026-000523",
+    "faculty_id": "FAC-000036",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000439",
+    "section_id": "SEC-2026-000525",
+    "faculty_id": "FAC-000325",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000440",
+    "section_id": "SEC-2026-000526",
+    "faculty_id": "FAC-000069",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000441",
+    "section_id": "SEC-2026-000527",
+    "faculty_id": "FAC-000325",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000442",
+    "section_id": "SEC-2026-000528",
+    "faculty_id": "FAC-000016",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000443",
+    "section_id": "SEC-2026-000529",
+    "faculty_id": "FAC-000465",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000444",
+    "section_id": "SEC-2026-000530",
+    "faculty_id": "FAC-000314",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000445",
+    "section_id": "SEC-2026-000531",
+    "faculty_id": "FAC-000314",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000446",
+    "section_id": "SEC-2026-000532",
+    "faculty_id": "FAC-000404",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000447",
+    "section_id": "SEC-2026-000533",
+    "faculty_id": "FAC-000316",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000448",
+    "section_id": "SEC-2026-000534",
+    "faculty_id": "FAC-000064",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000449",
+    "section_id": "SEC-2026-000535",
+    "faculty_id": "FAC-000072",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000450",
+    "section_id": "SEC-2026-000537",
+    "faculty_id": "FAC-000352",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000451",
+    "section_id": "SEC-2026-000538",
+    "faculty_id": "FAC-000208",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000452",
+    "section_id": "SEC-2026-000539",
+    "faculty_id": "FAC-000352",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000453",
+    "section_id": "SEC-2026-000540",
+    "faculty_id": "FAC-000001",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000454",
+    "section_id": "SEC-2026-000542",
+    "faculty_id": "FAC-000491",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000455",
+    "section_id": "SEC-2026-000544",
+    "faculty_id": "FAC-000084",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000456",
+    "section_id": "SEC-2026-000546",
+    "faculty_id": "FAC-000416",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000457",
+    "section_id": "SEC-2026-000547",
+    "faculty_id": "FAC-000216",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000458",
+    "section_id": "SEC-2026-000548",
+    "faculty_id": "FAC-000376",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000459",
+    "section_id": "SEC-2026-000550",
+    "faculty_id": "FAC-000499",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000460",
+    "section_id": "SEC-2026-000551",
+    "faculty_id": "FAC-000315",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000461",
+    "section_id": "SEC-2026-000552",
+    "faculty_id": "FAC-000156",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000462",
+    "section_id": "SEC-2026-000554",
+    "faculty_id": "FAC-000085",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000463",
+    "section_id": "SEC-2026-000555",
+    "faculty_id": "FAC-000429",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000464",
+    "section_id": "SEC-2026-000556",
+    "faculty_id": "FAC-000231",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000465",
+    "section_id": "SEC-2026-000557",
+    "faculty_id": "FAC-000255",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000466",
+    "section_id": "SEC-2026-000558",
+    "faculty_id": "FAC-000290",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000467",
+    "section_id": "SEC-2026-000559",
+    "faculty_id": "FAC-000052",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000468",
+    "section_id": "SEC-2026-000561",
+    "faculty_id": "FAC-000397",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000469",
+    "section_id": "SEC-2026-000562",
+    "faculty_id": "FAC-000445",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000470",
+    "section_id": "SEC-2026-000563",
+    "faculty_id": "FAC-000351",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000471",
+    "section_id": "SEC-2026-000564",
+    "faculty_id": "FAC-000136",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000472",
+    "section_id": "SEC-2026-000565",
+    "faculty_id": "FAC-000377",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000473",
+    "section_id": "SEC-2026-000566",
+    "faculty_id": "FAC-000043",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000474",
+    "section_id": "SEC-2026-000567",
+    "faculty_id": "FAC-000229",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000475",
+    "section_id": "SEC-2026-000568",
+    "faculty_id": "FAC-000241",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000476",
+    "section_id": "SEC-2026-000569",
+    "faculty_id": "FAC-000147",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000477",
+    "section_id": "SEC-2026-000570",
+    "faculty_id": "FAC-000495",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000478",
+    "section_id": "SEC-2026-000571",
+    "faculty_id": "FAC-000495",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000479",
+    "section_id": "SEC-2026-000572",
+    "faculty_id": "FAC-000009",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000480",
+    "section_id": "SEC-2026-000573",
+    "faculty_id": "FAC-000193",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000481",
+    "section_id": "SEC-2026-000574",
+    "faculty_id": "FAC-000206",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000482",
+    "section_id": "SEC-2026-000575",
+    "faculty_id": "FAC-000199",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000483",
+    "section_id": "SEC-2026-000576",
+    "faculty_id": "FAC-000303",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000484",
+    "section_id": "SEC-2026-000578",
+    "faculty_id": "FAC-000349",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000485",
+    "section_id": "SEC-2026-000581",
+    "faculty_id": "FAC-000092",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000486",
+    "section_id": "SEC-2026-000582",
+    "faculty_id": "FAC-000061",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000487",
+    "section_id": "SEC-2026-000583",
+    "faculty_id": "FAC-000145",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000488",
+    "section_id": "SEC-2026-000584",
+    "faculty_id": "FAC-000034",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000489",
+    "section_id": "SEC-2026-000585",
+    "faculty_id": "FAC-000379",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000490",
+    "section_id": "SEC-2026-000586",
+    "faculty_id": "FAC-000172",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-000491",
+    "section_id": "SEC-2026-000587",
+    "faculty_id": "FAC-000118",
+    "assigned_hours": 3.0,
+    "status": "assigned",
+    "decision_reason_code": "STAFFED_QUALIFIED"
+  },
+  {
+    "assignment_id": "WLA-2026-001491",
+    "section_id": "SEC-2026-000416",
+    "faculty_id": "FAC-000001",
+    "assigned_hours": 11.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  },
+  {
+    "assignment_id": "WLA-2026-001492",
+    "section_id": "SEC-2026-000181",
+    "faculty_id": "FAC-000002",
+    "assigned_hours": 17.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  },
+  {
+    "assignment_id": "WLA-2026-001493",
+    "section_id": "SEC-2026-000130",
+    "faculty_id": "FAC-000004",
+    "assigned_hours": 9.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  },
+  {
+    "assignment_id": "WLA-2026-001494",
+    "section_id": "SEC-2026-000338",
+    "faculty_id": "FAC-000006",
+    "assigned_hours": 16.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  },
+  {
+    "assignment_id": "WLA-2026-001495",
+    "section_id": "SEC-2026-000082",
+    "faculty_id": "FAC-000007",
+    "assigned_hours": 16.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  },
+  {
+    "assignment_id": "WLA-2026-001496",
+    "section_id": "SEC-2026-000065",
+    "faculty_id": "FAC-000008",
+    "assigned_hours": 9.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  },
+  {
+    "assignment_id": "WLA-2026-001497",
+    "section_id": "SEC-2026-000095",
+    "faculty_id": "FAC-000009",
+    "assigned_hours": 9.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  },
+  {
+    "assignment_id": "WLA-2026-001498",
+    "section_id": "SEC-2026-000165",
+    "faculty_id": "FAC-000010",
+    "assigned_hours": 13.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  },
+  {
+    "assignment_id": "WLA-2026-001499",
+    "section_id": "SEC-2026-000028",
+    "faculty_id": "FAC-000011",
+    "assigned_hours": 17.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  },
+  {
+    "assignment_id": "WLA-2026-001500",
+    "section_id": "SEC-2026-000270",
+    "faculty_id": "FAC-000012",
+    "assigned_hours": 9.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  },
+  {
+    "assignment_id": "WLA-2026-001501",
+    "section_id": "SEC-2026-000066",
+    "faculty_id": "FAC-000013",
+    "assigned_hours": 20.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  },
+  {
+    "assignment_id": "WLA-2026-001502",
+    "section_id": "SEC-2026-000315",
+    "faculty_id": "FAC-000014",
+    "assigned_hours": 20.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  },
+  {
+    "assignment_id": "WLA-2026-001503",
+    "section_id": "SEC-2026-000246",
+    "faculty_id": "FAC-000015",
+    "assigned_hours": 17.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  },
+  {
+    "assignment_id": "WLA-2026-001504",
+    "section_id": "SEC-2026-000316",
+    "faculty_id": "FAC-000016",
+    "assigned_hours": 5.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  },
+  {
+    "assignment_id": "WLA-2026-001505",
+    "section_id": "SEC-2026-000118",
+    "faculty_id": "FAC-000017",
+    "assigned_hours": 16.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  },
+  {
+    "assignment_id": "WLA-2026-001506",
+    "section_id": "SEC-2026-000584",
+    "faculty_id": "FAC-000018",
+    "assigned_hours": 20.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  },
+  {
+    "assignment_id": "WLA-2026-001507",
+    "section_id": "SEC-2026-000120",
+    "faculty_id": "FAC-000019",
+    "assigned_hours": 17.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  },
+  {
+    "assignment_id": "WLA-2026-001508",
+    "section_id": "SEC-2026-000108",
+    "faculty_id": "FAC-000021",
+    "assigned_hours": 14.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  },
+  {
+    "assignment_id": "WLA-2026-001509",
+    "section_id": "SEC-2026-000275",
+    "faculty_id": "FAC-000022",
+    "assigned_hours": 20.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  },
+  {
+    "assignment_id": "WLA-2026-001510",
+    "section_id": "SEC-2026-000139",
+    "faculty_id": "FAC-000024",
+    "assigned_hours": 9.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  },
+  {
+    "assignment_id": "WLA-2026-001511",
+    "section_id": "SEC-2026-000206",
+    "faculty_id": "FAC-000025",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  },
+  {
+    "assignment_id": "WLA-2026-001512",
+    "section_id": "SEC-2026-000093",
+    "faculty_id": "FAC-000026",
+    "assigned_hours": 13.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  },
+  {
+    "assignment_id": "WLA-2026-001513",
+    "section_id": "SEC-2026-000028",
+    "faculty_id": "FAC-000027",
+    "assigned_hours": 4.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  },
+  {
+    "assignment_id": "WLA-2026-001514",
+    "section_id": "SEC-2026-000410",
+    "faculty_id": "FAC-000029",
+    "assigned_hours": 12.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  },
+  {
+    "assignment_id": "WLA-2026-001515",
+    "section_id": "SEC-2026-000338",
+    "faculty_id": "FAC-000030",
+    "assigned_hours": 20.0,
+    "status": "assigned",
+    "decision_reason_code": "INJECTED_OVERLOAD"
+  }
+]

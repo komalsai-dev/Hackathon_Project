@@ -1,0 +1,6002 @@
+[
+  {
+    "program_id": "PRG-000001",
+    "course_id": "CRS-000001",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000001",
+    "course_id": "CRS-000457",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000001",
+    "course_id": "CRS-000593",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000001",
+    "course_id": "CRS-000729",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000001",
+    "course_id": "CRS-000945",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000001",
+    "course_id": "CRS-000953",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000002",
+    "course_id": "CRS-000042",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000002",
+    "course_id": "CRS-000130",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000002",
+    "course_id": "CRS-000162",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000002",
+    "course_id": "CRS-000226",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000002",
+    "course_id": "CRS-000458",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000002",
+    "course_id": "CRS-000594",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000002",
+    "course_id": "CRS-000882",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000003",
+    "course_id": "CRS-000075",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000003",
+    "course_id": "CRS-000219",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000003",
+    "course_id": "CRS-000651",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000003",
+    "course_id": "CRS-000667",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000003",
+    "course_id": "CRS-000691",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000003",
+    "course_id": "CRS-000931",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000004",
+    "course_id": "CRS-000060",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000004",
+    "course_id": "CRS-000148",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000004",
+    "course_id": "CRS-000196",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000004",
+    "course_id": "CRS-000244",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000004",
+    "course_id": "CRS-000252",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000004",
+    "course_id": "CRS-000300",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000004",
+    "course_id": "CRS-000332",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000004",
+    "course_id": "CRS-000404",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000004",
+    "course_id": "CRS-000580",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000004",
+    "course_id": "CRS-000652",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000004",
+    "course_id": "CRS-000780",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000004",
+    "course_id": "CRS-000916",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000005",
+    "course_id": "CRS-000061",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000005",
+    "course_id": "CRS-000093",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000005",
+    "course_id": "CRS-000141",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000005",
+    "course_id": "CRS-000181",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000005",
+    "course_id": "CRS-000205",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000005",
+    "course_id": "CRS-000645",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000005",
+    "course_id": "CRS-000717",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000005",
+    "course_id": "CRS-000989",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000006",
+    "course_id": "CRS-000046",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000006",
+    "course_id": "CRS-000054",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000006",
+    "course_id": "CRS-000222",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000006",
+    "course_id": "CRS-000238",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000006",
+    "course_id": "CRS-000462",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000006",
+    "course_id": "CRS-000478",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000006",
+    "course_id": "CRS-000502",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000006",
+    "course_id": "CRS-000806",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000006",
+    "course_id": "CRS-000822",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000006",
+    "course_id": "CRS-000902",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000006",
+    "course_id": "CRS-000918",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000006",
+    "course_id": "CRS-000974",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000006",
+    "course_id": "CRS-000998",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000007",
+    "course_id": "CRS-000111",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000007",
+    "course_id": "CRS-000167",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000007",
+    "course_id": "CRS-000271",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000007",
+    "course_id": "CRS-000375",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000007",
+    "course_id": "CRS-000751",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000007",
+    "course_id": "CRS-000783",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000007",
+    "course_id": "CRS-000903",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000008",
+    "course_id": "CRS-000128",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000008",
+    "course_id": "CRS-000176",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000008",
+    "course_id": "CRS-000208",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000008",
+    "course_id": "CRS-000296",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000008",
+    "course_id": "CRS-000344",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000008",
+    "course_id": "CRS-000536",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000008",
+    "course_id": "CRS-000728",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000008",
+    "course_id": "CRS-000896",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000008",
+    "course_id": "CRS-000928",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000009",
+    "course_id": "CRS-000073",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000009",
+    "course_id": "CRS-000177",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000009",
+    "course_id": "CRS-000201",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000009",
+    "course_id": "CRS-000249",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000009",
+    "course_id": "CRS-000617",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000009",
+    "course_id": "CRS-000633",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000009",
+    "course_id": "CRS-000665",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000010",
+    "course_id": "CRS-000114",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000010",
+    "course_id": "CRS-000122",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000010",
+    "course_id": "CRS-000186",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000010",
+    "course_id": "CRS-000226",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000010",
+    "course_id": "CRS-000322",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000010",
+    "course_id": "CRS-000402",
+    "requirement_type": "core",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000010",
+    "course_id": "CRS-000450",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000010",
+    "course_id": "CRS-000514",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000010",
+    "course_id": "CRS-000634",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000010",
+    "course_id": "CRS-000666",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000010",
+    "course_id": "CRS-000682",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000010",
+    "course_id": "CRS-000690",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000010",
+    "course_id": "CRS-000786",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000010",
+    "course_id": "CRS-000826",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000011",
+    "course_id": "CRS-000035",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000011",
+    "course_id": "CRS-000067",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000011",
+    "course_id": "CRS-000291",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000011",
+    "course_id": "CRS-000355",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000011",
+    "course_id": "CRS-000443",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000011",
+    "course_id": "CRS-000451",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000011",
+    "course_id": "CRS-000491",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000011",
+    "course_id": "CRS-000715",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000011",
+    "course_id": "CRS-000755",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000011",
+    "course_id": "CRS-000939",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000012",
+    "course_id": "CRS-000060",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000012",
+    "course_id": "CRS-000300",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000012",
+    "course_id": "CRS-000380",
+    "requirement_type": "core",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000012",
+    "course_id": "CRS-000452",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000012",
+    "course_id": "CRS-000524",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000012",
+    "course_id": "CRS-000684",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000012",
+    "course_id": "CRS-000732",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000012",
+    "course_id": "CRS-000796",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000012",
+    "course_id": "CRS-000844",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000012",
+    "course_id": "CRS-000884",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000012",
+    "course_id": "CRS-000900",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000012",
+    "course_id": "CRS-000908",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000012",
+    "course_id": "CRS-000940",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000012",
+    "course_id": "CRS-000988",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000012",
+    "course_id": "CRS-000996",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000013",
+    "course_id": "CRS-000077",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000013",
+    "course_id": "CRS-000117",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000013",
+    "course_id": "CRS-000269",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000013",
+    "course_id": "CRS-000437",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000013",
+    "course_id": "CRS-000613",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000013",
+    "course_id": "CRS-000669",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000013",
+    "course_id": "CRS-000837",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000013",
+    "course_id": "CRS-000957",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000014",
+    "course_id": "CRS-000118",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000014",
+    "course_id": "CRS-000182",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000014",
+    "course_id": "CRS-000206",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000014",
+    "course_id": "CRS-000254",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000014",
+    "course_id": "CRS-000446",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000014",
+    "course_id": "CRS-000470",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000014",
+    "course_id": "CRS-000558",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000014",
+    "course_id": "CRS-000686",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000014",
+    "course_id": "CRS-000782",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000014",
+    "course_id": "CRS-000974",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000014",
+    "course_id": "CRS-000990",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000015",
+    "course_id": "CRS-000071",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000015",
+    "course_id": "CRS-000127",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000015",
+    "course_id": "CRS-000199",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000015",
+    "course_id": "CRS-000335",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000015",
+    "course_id": "CRS-000359",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000015",
+    "course_id": "CRS-000439",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000015",
+    "course_id": "CRS-000447",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000015",
+    "course_id": "CRS-000463",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000015",
+    "course_id": "CRS-000503",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000016",
+    "course_id": "CRS-000040",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000016",
+    "course_id": "CRS-000144",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000016",
+    "course_id": "CRS-000280",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000016",
+    "course_id": "CRS-000416",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000016",
+    "course_id": "CRS-000456",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000016",
+    "course_id": "CRS-000488",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000016",
+    "course_id": "CRS-000768",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000016",
+    "course_id": "CRS-000808",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000016",
+    "course_id": "CRS-000832",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000016",
+    "course_id": "CRS-000872",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000016",
+    "course_id": "CRS-000896",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000016",
+    "course_id": "CRS-000936",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000016",
+    "course_id": "CRS-000960",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000017",
+    "course_id": "CRS-000081",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000017",
+    "course_id": "CRS-000097",
+    "requirement_type": "core",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000017",
+    "course_id": "CRS-000241",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000017",
+    "course_id": "CRS-000273",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000017",
+    "course_id": "CRS-000361",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000017",
+    "course_id": "CRS-000401",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000017",
+    "course_id": "CRS-000425",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000017",
+    "course_id": "CRS-000505",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000017",
+    "course_id": "CRS-000553",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000017",
+    "course_id": "CRS-000609",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000017",
+    "course_id": "CRS-000641",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000017",
+    "course_id": "CRS-000681",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000017",
+    "course_id": "CRS-000881",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000017",
+    "course_id": "CRS-000897",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000017",
+    "course_id": "CRS-000961",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000018",
+    "course_id": "CRS-000034",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000018",
+    "course_id": "CRS-000338",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000018",
+    "course_id": "CRS-000370",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000018",
+    "course_id": "CRS-000442",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000018",
+    "course_id": "CRS-000474",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000018",
+    "course_id": "CRS-000514",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000018",
+    "course_id": "CRS-000610",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000018",
+    "course_id": "CRS-000650",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000018",
+    "course_id": "CRS-000690",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000018",
+    "course_id": "CRS-000714",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000019",
+    "course_id": "CRS-000131",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000019",
+    "course_id": "CRS-000211",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000019",
+    "course_id": "CRS-000227",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000019",
+    "course_id": "CRS-000563",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000019",
+    "course_id": "CRS-000659",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000019",
+    "course_id": "CRS-000827",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000019",
+    "course_id": "CRS-000971",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000020",
+    "course_id": "CRS-000084",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000020",
+    "course_id": "CRS-000100",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000020",
+    "course_id": "CRS-000172",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000020",
+    "course_id": "CRS-000204",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000020",
+    "course_id": "CRS-000244",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000020",
+    "course_id": "CRS-000356",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000020",
+    "course_id": "CRS-000460",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000020",
+    "course_id": "CRS-000924",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000020",
+    "course_id": "CRS-000932",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000020",
+    "course_id": "CRS-000972",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000021",
+    "course_id": "CRS-000021",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000021",
+    "course_id": "CRS-000053",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000021",
+    "course_id": "CRS-000101",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000021",
+    "course_id": "CRS-000109",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000021",
+    "course_id": "CRS-000517",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000021",
+    "course_id": "CRS-000677",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000021",
+    "course_id": "CRS-000693",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000022",
+    "course_id": "CRS-000030",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000022",
+    "course_id": "CRS-000310",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000022",
+    "course_id": "CRS-000630",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000022",
+    "course_id": "CRS-000814",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000022",
+    "course_id": "CRS-000854",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000022",
+    "course_id": "CRS-000902",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000023",
+    "course_id": "CRS-000007",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000023",
+    "course_id": "CRS-000279",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000023",
+    "course_id": "CRS-000287",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000023",
+    "course_id": "CRS-000519",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000023",
+    "course_id": "CRS-000623",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000023",
+    "course_id": "CRS-000631",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000023",
+    "course_id": "CRS-000655",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000023",
+    "course_id": "CRS-000823",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000024",
+    "course_id": "CRS-000128",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000024",
+    "course_id": "CRS-000184",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000024",
+    "course_id": "CRS-000320",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000024",
+    "course_id": "CRS-000344",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000024",
+    "course_id": "CRS-000376",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000024",
+    "course_id": "CRS-000392",
+    "requirement_type": "core",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000024",
+    "course_id": "CRS-000432",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000024",
+    "course_id": "CRS-000456",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000024",
+    "course_id": "CRS-000464",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000024",
+    "course_id": "CRS-000584",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000024",
+    "course_id": "CRS-000688",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000024",
+    "course_id": "CRS-000712",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000024",
+    "course_id": "CRS-000752",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000024",
+    "course_id": "CRS-000784",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000025",
+    "course_id": "CRS-000041",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000025",
+    "course_id": "CRS-000393",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000025",
+    "course_id": "CRS-000513",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000025",
+    "course_id": "CRS-000593",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000025",
+    "course_id": "CRS-000641",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000025",
+    "course_id": "CRS-000761",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000025",
+    "course_id": "CRS-000897",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000026",
+    "course_id": "CRS-000082",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000026",
+    "course_id": "CRS-000210",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000026",
+    "course_id": "CRS-000306",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000026",
+    "course_id": "CRS-000330",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000026",
+    "course_id": "CRS-000378",
+    "requirement_type": "core",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000026",
+    "course_id": "CRS-000394",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000026",
+    "course_id": "CRS-000442",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000026",
+    "course_id": "CRS-000498",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000026",
+    "course_id": "CRS-000570",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000026",
+    "course_id": "CRS-000746",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000026",
+    "course_id": "CRS-000770",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000026",
+    "course_id": "CRS-000786",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000026",
+    "course_id": "CRS-000818",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000026",
+    "course_id": "CRS-000866",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000027",
+    "course_id": "CRS-000035",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000027",
+    "course_id": "CRS-000155",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000027",
+    "course_id": "CRS-000219",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000027",
+    "course_id": "CRS-000235",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000027",
+    "course_id": "CRS-000275",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000027",
+    "course_id": "CRS-000355",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000027",
+    "course_id": "CRS-000587",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000027",
+    "course_id": "CRS-000603",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000027",
+    "course_id": "CRS-000643",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000027",
+    "course_id": "CRS-000699",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000027",
+    "course_id": "CRS-000915",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000027",
+    "course_id": "CRS-000955",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000027",
+    "course_id": "CRS-000987",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000028",
+    "course_id": "CRS-000188",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000028",
+    "course_id": "CRS-000228",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000028",
+    "course_id": "CRS-000324",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000028",
+    "course_id": "CRS-000428",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000028",
+    "course_id": "CRS-000476",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000028",
+    "course_id": "CRS-000676",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000028",
+    "course_id": "CRS-000708",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000028",
+    "course_id": "CRS-000716",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000028",
+    "course_id": "CRS-000732",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000028",
+    "course_id": "CRS-000948",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000029",
+    "course_id": "CRS-000029",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000029",
+    "course_id": "CRS-000125",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000029",
+    "course_id": "CRS-000149",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000029",
+    "course_id": "CRS-000213",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000029",
+    "course_id": "CRS-000365",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000029",
+    "course_id": "CRS-000373",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000029",
+    "course_id": "CRS-000429",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000029",
+    "course_id": "CRS-000533",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000029",
+    "course_id": "CRS-000557",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000029",
+    "course_id": "CRS-000645",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000029",
+    "course_id": "CRS-000829",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000029",
+    "course_id": "CRS-000981",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000030",
+    "course_id": "CRS-000038",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000030",
+    "course_id": "CRS-000126",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000030",
+    "course_id": "CRS-000142",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000030",
+    "course_id": "CRS-000262",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000030",
+    "course_id": "CRS-000326",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000030",
+    "course_id": "CRS-000342",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000030",
+    "course_id": "CRS-000398",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000030",
+    "course_id": "CRS-000438",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000030",
+    "course_id": "CRS-000478",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000030",
+    "course_id": "CRS-000782",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000030",
+    "course_id": "CRS-000886",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000031",
+    "course_id": "CRS-000039",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000031",
+    "course_id": "CRS-000063",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000031",
+    "course_id": "CRS-000119",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000031",
+    "course_id": "CRS-000135",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000031",
+    "course_id": "CRS-000143",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000031",
+    "course_id": "CRS-000431",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000031",
+    "course_id": "CRS-000575",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000031",
+    "course_id": "CRS-000583",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000031",
+    "course_id": "CRS-000591",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000031",
+    "course_id": "CRS-000655",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000031",
+    "course_id": "CRS-000663",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000031",
+    "course_id": "CRS-000703",
+    "requirement_type": "core",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000031",
+    "course_id": "CRS-000727",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000031",
+    "course_id": "CRS-000911",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000031",
+    "course_id": "CRS-000983",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000032",
+    "course_id": "CRS-000056",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000032",
+    "course_id": "CRS-000096",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000032",
+    "course_id": "CRS-000208",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000032",
+    "course_id": "CRS-000328",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000032",
+    "course_id": "CRS-000384",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000032",
+    "course_id": "CRS-000456",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000032",
+    "course_id": "CRS-000520",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000032",
+    "course_id": "CRS-000576",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000032",
+    "course_id": "CRS-000728",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000032",
+    "course_id": "CRS-000744",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000032",
+    "course_id": "CRS-000912",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000032",
+    "course_id": "CRS-000976",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000033",
+    "course_id": "CRS-000105",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000033",
+    "course_id": "CRS-000113",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000033",
+    "course_id": "CRS-000233",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000033",
+    "course_id": "CRS-000241",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000033",
+    "course_id": "CRS-000289",
+    "requirement_type": "core",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000033",
+    "course_id": "CRS-000313",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000033",
+    "course_id": "CRS-000401",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000033",
+    "course_id": "CRS-000425",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000033",
+    "course_id": "CRS-000585",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000033",
+    "course_id": "CRS-000705",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000033",
+    "course_id": "CRS-000737",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000033",
+    "course_id": "CRS-000769",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000033",
+    "course_id": "CRS-000777",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000033",
+    "course_id": "CRS-000969",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000034",
+    "course_id": "CRS-000162",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000034",
+    "course_id": "CRS-000194",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000034",
+    "course_id": "CRS-000234",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000034",
+    "course_id": "CRS-000266",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000034",
+    "course_id": "CRS-000322",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000034",
+    "course_id": "CRS-000378",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000034",
+    "course_id": "CRS-000386",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000034",
+    "course_id": "CRS-000522",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000034",
+    "course_id": "CRS-000578",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000034",
+    "course_id": "CRS-000594",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000034",
+    "course_id": "CRS-000794",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000034",
+    "course_id": "CRS-000938",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000035",
+    "course_id": "CRS-000003",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000035",
+    "course_id": "CRS-000259",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000035",
+    "course_id": "CRS-000315",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000035",
+    "course_id": "CRS-000323",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000035",
+    "course_id": "CRS-000395",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000035",
+    "course_id": "CRS-000443",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000035",
+    "course_id": "CRS-000667",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000035",
+    "course_id": "CRS-000795",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000035",
+    "course_id": "CRS-000835",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000035",
+    "course_id": "CRS-000907",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000035",
+    "course_id": "CRS-000971",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000035",
+    "course_id": "CRS-000995",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000036",
+    "course_id": "CRS-000172",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000036",
+    "course_id": "CRS-000188",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000036",
+    "course_id": "CRS-000196",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000036",
+    "course_id": "CRS-000204",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000036",
+    "course_id": "CRS-000236",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000036",
+    "course_id": "CRS-000252",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000036",
+    "course_id": "CRS-000340",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000036",
+    "course_id": "CRS-000380",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000036",
+    "course_id": "CRS-000532",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000036",
+    "course_id": "CRS-000636",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000036",
+    "course_id": "CRS-000732",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000036",
+    "course_id": "CRS-000836",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000037",
+    "course_id": "CRS-000053",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000037",
+    "course_id": "CRS-000125",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000037",
+    "course_id": "CRS-000157",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000037",
+    "course_id": "CRS-000205",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000037",
+    "course_id": "CRS-000221",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000037",
+    "course_id": "CRS-000237",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000037",
+    "course_id": "CRS-000261",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000037",
+    "course_id": "CRS-000317",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000037",
+    "course_id": "CRS-000485",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000037",
+    "course_id": "CRS-000613",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000037",
+    "course_id": "CRS-000629",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000037",
+    "course_id": "CRS-000765",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000037",
+    "course_id": "CRS-000781",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000038",
+    "course_id": "CRS-000022",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000038",
+    "course_id": "CRS-000110",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000038",
+    "course_id": "CRS-000286",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000038",
+    "course_id": "CRS-000566",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000038",
+    "course_id": "CRS-000590",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000038",
+    "course_id": "CRS-000686",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000039",
+    "course_id": "CRS-000023",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000039",
+    "course_id": "CRS-000047",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000039",
+    "course_id": "CRS-000199",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000039",
+    "course_id": "CRS-000231",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000039",
+    "course_id": "CRS-000343",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000039",
+    "course_id": "CRS-000383",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000039",
+    "course_id": "CRS-000607",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000039",
+    "course_id": "CRS-000647",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000039",
+    "course_id": "CRS-000799",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000039",
+    "course_id": "CRS-000895",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000039",
+    "course_id": "CRS-000959",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000039",
+    "course_id": "CRS-000983",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000040",
+    "course_id": "CRS-000032",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000040",
+    "course_id": "CRS-000272",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000040",
+    "course_id": "CRS-000296",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000040",
+    "course_id": "CRS-000376",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000040",
+    "course_id": "CRS-000392",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000040",
+    "course_id": "CRS-000432",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000040",
+    "course_id": "CRS-000456",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000040",
+    "course_id": "CRS-000600",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000040",
+    "course_id": "CRS-000640",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000040",
+    "course_id": "CRS-000648",
+    "requirement_type": "core",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000040",
+    "course_id": "CRS-000712",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000040",
+    "course_id": "CRS-000904",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000040",
+    "course_id": "CRS-000920",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000040",
+    "course_id": "CRS-000928",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000041",
+    "course_id": "CRS-000513",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000041",
+    "course_id": "CRS-000537",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000041",
+    "course_id": "CRS-000561",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000041",
+    "course_id": "CRS-000585",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000041",
+    "course_id": "CRS-000921",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000041",
+    "course_id": "CRS-000969",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000042",
+    "course_id": "CRS-000146",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000042",
+    "course_id": "CRS-000170",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000042",
+    "course_id": "CRS-000186",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000042",
+    "course_id": "CRS-000258",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000042",
+    "course_id": "CRS-000322",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000042",
+    "course_id": "CRS-000338",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000042",
+    "course_id": "CRS-000370",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000042",
+    "course_id": "CRS-000426",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000042",
+    "course_id": "CRS-000434",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000042",
+    "course_id": "CRS-000802",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000042",
+    "course_id": "CRS-000842",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000042",
+    "course_id": "CRS-000946",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000043",
+    "course_id": "CRS-000091",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000043",
+    "course_id": "CRS-000131",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000043",
+    "course_id": "CRS-000203",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000043",
+    "course_id": "CRS-000243",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000043",
+    "course_id": "CRS-000259",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000043",
+    "course_id": "CRS-000435",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000043",
+    "course_id": "CRS-000451",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000043",
+    "course_id": "CRS-000507",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000043",
+    "course_id": "CRS-000595",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000043",
+    "course_id": "CRS-000763",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000043",
+    "course_id": "CRS-000963",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000044",
+    "course_id": "CRS-000252",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000044",
+    "course_id": "CRS-000284",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000044",
+    "course_id": "CRS-000380",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000044",
+    "course_id": "CRS-000412",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000044",
+    "course_id": "CRS-000764",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000044",
+    "course_id": "CRS-000812",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000045",
+    "course_id": "CRS-000013",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000045",
+    "course_id": "CRS-000029",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000045",
+    "course_id": "CRS-000397",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000045",
+    "course_id": "CRS-000573",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000045",
+    "course_id": "CRS-000637",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000045",
+    "course_id": "CRS-000709",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000046",
+    "course_id": "CRS-000254",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000046",
+    "course_id": "CRS-000262",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000046",
+    "course_id": "CRS-000422",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000046",
+    "course_id": "CRS-000638",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000046",
+    "course_id": "CRS-000798",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000046",
+    "course_id": "CRS-000918",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000047",
+    "course_id": "CRS-000079",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000047",
+    "course_id": "CRS-000103",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000047",
+    "course_id": "CRS-000135",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000047",
+    "course_id": "CRS-000159",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000047",
+    "course_id": "CRS-000191",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000047",
+    "course_id": "CRS-000527",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000047",
+    "course_id": "CRS-000711",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000048",
+    "course_id": "CRS-000008",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000048",
+    "course_id": "CRS-000024",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000048",
+    "course_id": "CRS-000040",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000048",
+    "course_id": "CRS-000056",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000048",
+    "course_id": "CRS-000256",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000048",
+    "course_id": "CRS-000272",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000048",
+    "course_id": "CRS-000504",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000048",
+    "course_id": "CRS-000736",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000048",
+    "course_id": "CRS-000744",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000048",
+    "course_id": "CRS-000784",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000048",
+    "course_id": "CRS-000880",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000048",
+    "course_id": "CRS-000936",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000048",
+    "course_id": "CRS-000992",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000049",
+    "course_id": "CRS-000065",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000049",
+    "course_id": "CRS-000273",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000049",
+    "course_id": "CRS-000401",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000049",
+    "course_id": "CRS-000553",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000049",
+    "course_id": "CRS-000641",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000049",
+    "course_id": "CRS-000729",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000049",
+    "course_id": "CRS-000737",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000049",
+    "course_id": "CRS-000833",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000050",
+    "course_id": "CRS-000026",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000050",
+    "course_id": "CRS-000202",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000050",
+    "course_id": "CRS-000442",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000050",
+    "course_id": "CRS-000538",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000050",
+    "course_id": "CRS-000626",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000050",
+    "course_id": "CRS-000682",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000050",
+    "course_id": "CRS-000706",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000050",
+    "course_id": "CRS-000714",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000050",
+    "course_id": "CRS-000786",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000050",
+    "course_id": "CRS-000818",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000050",
+    "course_id": "CRS-000914",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000051",
+    "course_id": "CRS-000083",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000051",
+    "course_id": "CRS-000251",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000051",
+    "course_id": "CRS-000499",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000051",
+    "course_id": "CRS-000611",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000051",
+    "course_id": "CRS-000619",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000051",
+    "course_id": "CRS-000795",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000051",
+    "course_id": "CRS-000835",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000051",
+    "course_id": "CRS-000867",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000051",
+    "course_id": "CRS-000931",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000051",
+    "course_id": "CRS-000947",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000052",
+    "course_id": "CRS-000044",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000052",
+    "course_id": "CRS-000116",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000052",
+    "course_id": "CRS-000308",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000052",
+    "course_id": "CRS-000460",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000052",
+    "course_id": "CRS-000492",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000052",
+    "course_id": "CRS-000604",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000052",
+    "course_id": "CRS-000676",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000052",
+    "course_id": "CRS-000820",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000053",
+    "course_id": "CRS-000037",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000053",
+    "course_id": "CRS-000053",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000053",
+    "course_id": "CRS-000117",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000053",
+    "course_id": "CRS-000149",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000053",
+    "course_id": "CRS-000453",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000053",
+    "course_id": "CRS-000581",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000053",
+    "course_id": "CRS-000605",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000053",
+    "course_id": "CRS-000837",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000054",
+    "course_id": "CRS-000214",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000054",
+    "course_id": "CRS-000342",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000054",
+    "course_id": "CRS-000598",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000054",
+    "course_id": "CRS-000662",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000054",
+    "course_id": "CRS-000702",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000054",
+    "course_id": "CRS-000750",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000054",
+    "course_id": "CRS-000758",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000054",
+    "course_id": "CRS-000862",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000054",
+    "course_id": "CRS-000902",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000055",
+    "course_id": "CRS-000263",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000055",
+    "course_id": "CRS-000279",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000055",
+    "course_id": "CRS-000303",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000055",
+    "course_id": "CRS-000343",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000055",
+    "course_id": "CRS-000591",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000055",
+    "course_id": "CRS-000623",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000055",
+    "course_id": "CRS-000711",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000055",
+    "course_id": "CRS-000727",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000055",
+    "course_id": "CRS-000967",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000056",
+    "course_id": "CRS-000064",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000056",
+    "course_id": "CRS-000096",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000056",
+    "course_id": "CRS-000136",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000056",
+    "course_id": "CRS-000328",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000056",
+    "course_id": "CRS-000616",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000056",
+    "course_id": "CRS-000960",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000057",
+    "course_id": "CRS-000017",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000057",
+    "course_id": "CRS-000409",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000057",
+    "course_id": "CRS-000585",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000057",
+    "course_id": "CRS-000665",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000057",
+    "course_id": "CRS-000913",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000057",
+    "course_id": "CRS-000993",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000058",
+    "course_id": "CRS-000402",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000058",
+    "course_id": "CRS-000410",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000058",
+    "course_id": "CRS-000498",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000058",
+    "course_id": "CRS-000538",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000058",
+    "course_id": "CRS-000546",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000058",
+    "course_id": "CRS-000666",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000058",
+    "course_id": "CRS-000682",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000058",
+    "course_id": "CRS-000730",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000058",
+    "course_id": "CRS-000770",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000058",
+    "course_id": "CRS-000978",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000058",
+    "course_id": "CRS-000994",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000059",
+    "course_id": "CRS-000139",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000059",
+    "course_id": "CRS-000171",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000059",
+    "course_id": "CRS-000395",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000059",
+    "course_id": "CRS-000643",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000059",
+    "course_id": "CRS-000723",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000059",
+    "course_id": "CRS-000779",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000060",
+    "course_id": "CRS-000140",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000060",
+    "course_id": "CRS-000244",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000060",
+    "course_id": "CRS-000300",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000060",
+    "course_id": "CRS-000332",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000060",
+    "course_id": "CRS-000532",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000060",
+    "course_id": "CRS-000540",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000060",
+    "course_id": "CRS-000612",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000060",
+    "course_id": "CRS-000636",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000060",
+    "course_id": "CRS-000676",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000060",
+    "course_id": "CRS-000716",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000060",
+    "course_id": "CRS-000932",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000061",
+    "course_id": "CRS-000021",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000061",
+    "course_id": "CRS-000037",
+    "requirement_type": "core",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000061",
+    "course_id": "CRS-000157",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000061",
+    "course_id": "CRS-000165",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000061",
+    "course_id": "CRS-000373",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000061",
+    "course_id": "CRS-000405",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000061",
+    "course_id": "CRS-000437",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000061",
+    "course_id": "CRS-000565",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000061",
+    "course_id": "CRS-000621",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000061",
+    "course_id": "CRS-000669",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000061",
+    "course_id": "CRS-000709",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000061",
+    "course_id": "CRS-000869",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000061",
+    "course_id": "CRS-000877",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000061",
+    "course_id": "CRS-000909",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000061",
+    "course_id": "CRS-000941",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000062",
+    "course_id": "CRS-000142",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000062",
+    "course_id": "CRS-000166",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000062",
+    "course_id": "CRS-000238",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000062",
+    "course_id": "CRS-000414",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000062",
+    "course_id": "CRS-000502",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000062",
+    "course_id": "CRS-000510",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000062",
+    "course_id": "CRS-000534",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000062",
+    "course_id": "CRS-000742",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000063",
+    "course_id": "CRS-000135",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000063",
+    "course_id": "CRS-000199",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000063",
+    "course_id": "CRS-000255",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000063",
+    "course_id": "CRS-000279",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000063",
+    "course_id": "CRS-000295",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000063",
+    "course_id": "CRS-000415",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000063",
+    "course_id": "CRS-000455",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000063",
+    "course_id": "CRS-000615",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000063",
+    "course_id": "CRS-000775",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000063",
+    "course_id": "CRS-000847",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000063",
+    "course_id": "CRS-000983",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000064",
+    "course_id": "CRS-000216",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000064",
+    "course_id": "CRS-000408",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000064",
+    "course_id": "CRS-000560",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000064",
+    "course_id": "CRS-000688",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000064",
+    "course_id": "CRS-000792",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000064",
+    "course_id": "CRS-000848",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000064",
+    "course_id": "CRS-000864",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000064",
+    "course_id": "CRS-000952",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000065",
+    "course_id": "CRS-000041",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000065",
+    "course_id": "CRS-000305",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000065",
+    "course_id": "CRS-000377",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000065",
+    "course_id": "CRS-000521",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000065",
+    "course_id": "CRS-000609",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000065",
+    "course_id": "CRS-000625",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000066",
+    "course_id": "CRS-000058",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000066",
+    "course_id": "CRS-000178",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000066",
+    "course_id": "CRS-000362",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000066",
+    "course_id": "CRS-000410",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000066",
+    "course_id": "CRS-000434",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000066",
+    "course_id": "CRS-000866",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000067",
+    "course_id": "CRS-000147",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000067",
+    "course_id": "CRS-000219",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000067",
+    "course_id": "CRS-000331",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000067",
+    "course_id": "CRS-000379",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000067",
+    "course_id": "CRS-000435",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000067",
+    "course_id": "CRS-000443",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000067",
+    "course_id": "CRS-000499",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000067",
+    "course_id": "CRS-000611",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000067",
+    "course_id": "CRS-000683",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000067",
+    "course_id": "CRS-000707",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000067",
+    "course_id": "CRS-000731",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000067",
+    "course_id": "CRS-000739",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000067",
+    "course_id": "CRS-000819",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000068",
+    "course_id": "CRS-000044",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000068",
+    "course_id": "CRS-000132",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000068",
+    "course_id": "CRS-000164",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000068",
+    "course_id": "CRS-000316",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000068",
+    "course_id": "CRS-000532",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000068",
+    "course_id": "CRS-000540",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000068",
+    "course_id": "CRS-000604",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000068",
+    "course_id": "CRS-000620",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000068",
+    "course_id": "CRS-000668",
+    "requirement_type": "core",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000068",
+    "course_id": "CRS-000764",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000068",
+    "course_id": "CRS-000804",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000068",
+    "course_id": "CRS-000820",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000068",
+    "course_id": "CRS-000852",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000068",
+    "course_id": "CRS-000916",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000068",
+    "course_id": "CRS-000932",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000069",
+    "course_id": "CRS-000157",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000069",
+    "course_id": "CRS-000341",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000069",
+    "course_id": "CRS-000421",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000069",
+    "course_id": "CRS-000429",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000069",
+    "course_id": "CRS-000685",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000069",
+    "course_id": "CRS-000877",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000069",
+    "course_id": "CRS-000933",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000070",
+    "course_id": "CRS-000046",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000070",
+    "course_id": "CRS-000062",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000070",
+    "course_id": "CRS-000094",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000070",
+    "course_id": "CRS-000190",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000070",
+    "course_id": "CRS-000550",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000070",
+    "course_id": "CRS-000574",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000070",
+    "course_id": "CRS-000598",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000070",
+    "course_id": "CRS-000742",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000070",
+    "course_id": "CRS-000966",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000071",
+    "course_id": "CRS-000063",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000071",
+    "course_id": "CRS-000215",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000071",
+    "course_id": "CRS-000415",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000071",
+    "course_id": "CRS-000615",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000071",
+    "course_id": "CRS-000631",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000071",
+    "course_id": "CRS-000719",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000071",
+    "course_id": "CRS-000847",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000071",
+    "course_id": "CRS-000959",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000072",
+    "course_id": "CRS-000136",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000072",
+    "course_id": "CRS-000256",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000072",
+    "course_id": "CRS-000424",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000072",
+    "course_id": "CRS-000456",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000072",
+    "course_id": "CRS-000560",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000072",
+    "course_id": "CRS-000616",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000072",
+    "course_id": "CRS-000904",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000072",
+    "course_id": "CRS-000928",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000073",
+    "course_id": "CRS-000057",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000073",
+    "course_id": "CRS-000121",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000073",
+    "course_id": "CRS-000129",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000073",
+    "course_id": "CRS-000161",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000073",
+    "course_id": "CRS-000209",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000073",
+    "course_id": "CRS-000217",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000073",
+    "course_id": "CRS-000257",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000073",
+    "course_id": "CRS-000529",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000073",
+    "course_id": "CRS-000553",
+    "requirement_type": "core",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000073",
+    "course_id": "CRS-000617",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000073",
+    "course_id": "CRS-000625",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000073",
+    "course_id": "CRS-000665",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000073",
+    "course_id": "CRS-000897",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000073",
+    "course_id": "CRS-000929",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000074",
+    "course_id": "CRS-000010",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000074",
+    "course_id": "CRS-000074",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000074",
+    "course_id": "CRS-000098",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000074",
+    "course_id": "CRS-000234",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000074",
+    "course_id": "CRS-000266",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000074",
+    "course_id": "CRS-000330",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000074",
+    "course_id": "CRS-000754",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000075",
+    "course_id": "CRS-000051",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000075",
+    "course_id": "CRS-000075",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000075",
+    "course_id": "CRS-000107",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000075",
+    "course_id": "CRS-000163",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000075",
+    "course_id": "CRS-000291",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000075",
+    "course_id": "CRS-000371",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000075",
+    "course_id": "CRS-000411",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000075",
+    "course_id": "CRS-000467",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000075",
+    "course_id": "CRS-000491",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000075",
+    "course_id": "CRS-000547",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000075",
+    "course_id": "CRS-000675",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000075",
+    "course_id": "CRS-000891",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000076",
+    "course_id": "CRS-000004",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000076",
+    "course_id": "CRS-000068",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000076",
+    "course_id": "CRS-000148",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000076",
+    "course_id": "CRS-000180",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000076",
+    "course_id": "CRS-000204",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000076",
+    "course_id": "CRS-000292",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000076",
+    "course_id": "CRS-000356",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000076",
+    "course_id": "CRS-000508",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000076",
+    "course_id": "CRS-000724",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000076",
+    "course_id": "CRS-000756",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000076",
+    "course_id": "CRS-000852",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000076",
+    "course_id": "CRS-000884",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000076",
+    "course_id": "CRS-000892",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000077",
+    "course_id": "CRS-000077",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000077",
+    "course_id": "CRS-000093",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000077",
+    "course_id": "CRS-000205",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000077",
+    "course_id": "CRS-000517",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000077",
+    "course_id": "CRS-000613",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000077",
+    "course_id": "CRS-000645",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000077",
+    "course_id": "CRS-000741",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000078",
+    "course_id": "CRS-000014",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000078",
+    "course_id": "CRS-000254",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000078",
+    "course_id": "CRS-000262",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000078",
+    "course_id": "CRS-000526",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000078",
+    "course_id": "CRS-000638",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000078",
+    "course_id": "CRS-000686",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000079",
+    "course_id": "CRS-000367",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000079",
+    "course_id": "CRS-000479",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000079",
+    "course_id": "CRS-000647",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000079",
+    "course_id": "CRS-000799",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000079",
+    "course_id": "CRS-000879",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000079",
+    "course_id": "CRS-000951",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000080",
+    "course_id": "CRS-000016",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000080",
+    "course_id": "CRS-000144",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000080",
+    "course_id": "CRS-000248",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000080",
+    "course_id": "CRS-000376",
+    "requirement_type": "core",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000080",
+    "course_id": "CRS-000400",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000080",
+    "course_id": "CRS-000456",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000080",
+    "course_id": "CRS-000560",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000080",
+    "course_id": "CRS-000608",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000080",
+    "course_id": "CRS-000648",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000080",
+    "course_id": "CRS-000656",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000080",
+    "course_id": "CRS-000664",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000080",
+    "course_id": "CRS-000672",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000080",
+    "course_id": "CRS-000984",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000080",
+    "course_id": "CRS-000992",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000081",
+    "course_id": "CRS-000089",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000081",
+    "course_id": "CRS-000105",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000081",
+    "course_id": "CRS-000161",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000081",
+    "course_id": "CRS-000241",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000081",
+    "course_id": "CRS-000321",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000081",
+    "course_id": "CRS-000417",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000081",
+    "course_id": "CRS-000777",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000081",
+    "course_id": "CRS-000841",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000082",
+    "course_id": "CRS-000018",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000082",
+    "course_id": "CRS-000226",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000082",
+    "course_id": "CRS-000250",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000082",
+    "course_id": "CRS-000290",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000082",
+    "course_id": "CRS-000306",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000082",
+    "course_id": "CRS-000314",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000082",
+    "course_id": "CRS-000530",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000082",
+    "course_id": "CRS-000626",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000082",
+    "course_id": "CRS-000634",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000082",
+    "course_id": "CRS-000690",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000082",
+    "course_id": "CRS-000810",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000083",
+    "course_id": "CRS-000083",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000083",
+    "course_id": "CRS-000235",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000083",
+    "course_id": "CRS-000339",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000083",
+    "course_id": "CRS-000355",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000083",
+    "course_id": "CRS-000371",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000083",
+    "course_id": "CRS-000443",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000083",
+    "course_id": "CRS-000555",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000083",
+    "course_id": "CRS-000603",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000083",
+    "course_id": "CRS-000827",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000083",
+    "course_id": "CRS-000891",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000084",
+    "course_id": "CRS-000148",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000084",
+    "course_id": "CRS-000180",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000084",
+    "course_id": "CRS-000236",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000084",
+    "course_id": "CRS-000364",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000084",
+    "course_id": "CRS-000380",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000084",
+    "course_id": "CRS-000388",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000084",
+    "course_id": "CRS-000468",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000084",
+    "course_id": "CRS-000548",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000084",
+    "course_id": "CRS-000596",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000084",
+    "course_id": "CRS-000668",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000084",
+    "course_id": "CRS-000900",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000084",
+    "course_id": "CRS-000948",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000084",
+    "course_id": "CRS-000972",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000085",
+    "course_id": "CRS-000085",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000085",
+    "course_id": "CRS-000101",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000085",
+    "course_id": "CRS-000149",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000085",
+    "course_id": "CRS-000333",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000085",
+    "course_id": "CRS-000381",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000085",
+    "course_id": "CRS-000477",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000085",
+    "course_id": "CRS-000509",
+    "requirement_type": "core",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000085",
+    "course_id": "CRS-000517",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000085",
+    "course_id": "CRS-000525",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000085",
+    "course_id": "CRS-000661",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000085",
+    "course_id": "CRS-000797",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000085",
+    "course_id": "CRS-000909",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000085",
+    "course_id": "CRS-000941",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000085",
+    "course_id": "CRS-000949",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000086",
+    "course_id": "CRS-000038",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000086",
+    "course_id": "CRS-000078",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000086",
+    "course_id": "CRS-000094",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000086",
+    "course_id": "CRS-000126",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000086",
+    "course_id": "CRS-000446",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000086",
+    "course_id": "CRS-000694",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000086",
+    "course_id": "CRS-000702",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000086",
+    "course_id": "CRS-000958",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000087",
+    "course_id": "CRS-000023",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000087",
+    "course_id": "CRS-000047",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000087",
+    "course_id": "CRS-000063",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000087",
+    "course_id": "CRS-000239",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000087",
+    "course_id": "CRS-000287",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000087",
+    "course_id": "CRS-000367",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000087",
+    "course_id": "CRS-000383",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000087",
+    "course_id": "CRS-000519",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000087",
+    "course_id": "CRS-000583",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000087",
+    "course_id": "CRS-000639",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000087",
+    "course_id": "CRS-000647",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000087",
+    "course_id": "CRS-000943",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000087",
+    "course_id": "CRS-000975",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000088",
+    "course_id": "CRS-000024",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000088",
+    "course_id": "CRS-000056",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000088",
+    "course_id": "CRS-000168",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000088",
+    "course_id": "CRS-000248",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000088",
+    "course_id": "CRS-000304",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000088",
+    "course_id": "CRS-000504",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000089",
+    "course_id": "CRS-000041",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000089",
+    "course_id": "CRS-000065",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000089",
+    "course_id": "CRS-000201",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000089",
+    "course_id": "CRS-000353",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000089",
+    "course_id": "CRS-000465",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000089",
+    "course_id": "CRS-000521",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000089",
+    "course_id": "CRS-000529",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000089",
+    "course_id": "CRS-000945",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000089",
+    "course_id": "CRS-000969",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000090",
+    "course_id": "CRS-000082",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000090",
+    "course_id": "CRS-000202",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000090",
+    "course_id": "CRS-000378",
+    "requirement_type": "core",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000090",
+    "course_id": "CRS-000434",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000090",
+    "course_id": "CRS-000442",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000090",
+    "course_id": "CRS-000490",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000090",
+    "course_id": "CRS-000506",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000090",
+    "course_id": "CRS-000554",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000090",
+    "course_id": "CRS-000618",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000090",
+    "course_id": "CRS-000666",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000090",
+    "course_id": "CRS-000674",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000090",
+    "course_id": "CRS-000714",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000090",
+    "course_id": "CRS-000786",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000090",
+    "course_id": "CRS-000794",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000091",
+    "course_id": "CRS-000003",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000091",
+    "course_id": "CRS-000123",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000091",
+    "course_id": "CRS-000243",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000091",
+    "course_id": "CRS-000307",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000091",
+    "course_id": "CRS-000403",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000091",
+    "course_id": "CRS-000419",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000091",
+    "course_id": "CRS-000475",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000091",
+    "course_id": "CRS-000531",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000091",
+    "course_id": "CRS-000587",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000091",
+    "course_id": "CRS-000611",
+    "requirement_type": "core",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000091",
+    "course_id": "CRS-000675",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000091",
+    "course_id": "CRS-000763",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000091",
+    "course_id": "CRS-000875",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000091",
+    "course_id": "CRS-000931",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000092",
+    "course_id": "CRS-000124",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000092",
+    "course_id": "CRS-000564",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000092",
+    "course_id": "CRS-000620",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000092",
+    "course_id": "CRS-000636",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000092",
+    "course_id": "CRS-000644",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000092",
+    "course_id": "CRS-000684",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000092",
+    "course_id": "CRS-000964",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000093",
+    "course_id": "CRS-000021",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000093",
+    "course_id": "CRS-000061",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000093",
+    "course_id": "CRS-000237",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000093",
+    "course_id": "CRS-000253",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000093",
+    "course_id": "CRS-000269",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000093",
+    "course_id": "CRS-000357",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000093",
+    "course_id": "CRS-000453",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000093",
+    "course_id": "CRS-000493",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000093",
+    "course_id": "CRS-000525",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000093",
+    "course_id": "CRS-000717",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000093",
+    "course_id": "CRS-000781",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000093",
+    "course_id": "CRS-000949",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000094",
+    "course_id": "CRS-000030",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000094",
+    "course_id": "CRS-000134",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000094",
+    "course_id": "CRS-000190",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000094",
+    "course_id": "CRS-000302",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000094",
+    "course_id": "CRS-000422",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000094",
+    "course_id": "CRS-000486",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000094",
+    "course_id": "CRS-000502",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000094",
+    "course_id": "CRS-000510",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000094",
+    "course_id": "CRS-000574",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000094",
+    "course_id": "CRS-000582",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000094",
+    "course_id": "CRS-000726",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000094",
+    "course_id": "CRS-000822",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000094",
+    "course_id": "CRS-000886",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000095",
+    "course_id": "CRS-000135",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000095",
+    "course_id": "CRS-000167",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000095",
+    "course_id": "CRS-000303",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000095",
+    "course_id": "CRS-000711",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000095",
+    "course_id": "CRS-000743",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000095",
+    "course_id": "CRS-000775",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000095",
+    "course_id": "CRS-000823",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000095",
+    "course_id": "CRS-000871",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000095",
+    "course_id": "CRS-000967",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000095",
+    "course_id": "CRS-000975",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000096",
+    "course_id": "CRS-000032",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000096",
+    "course_id": "CRS-000064",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000096",
+    "course_id": "CRS-000104",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000096",
+    "course_id": "CRS-000192",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000096",
+    "course_id": "CRS-000552",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000096",
+    "course_id": "CRS-000720",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000096",
+    "course_id": "CRS-000744",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000096",
+    "course_id": "CRS-000808",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000097",
+    "course_id": "CRS-000041",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000097",
+    "course_id": "CRS-000057",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000097",
+    "course_id": "CRS-000065",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000097",
+    "course_id": "CRS-000121",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000097",
+    "course_id": "CRS-000209",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000097",
+    "course_id": "CRS-000265",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000097",
+    "course_id": "CRS-000425",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000097",
+    "course_id": "CRS-000529",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000097",
+    "course_id": "CRS-000545",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000097",
+    "course_id": "CRS-000585",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000097",
+    "course_id": "CRS-000713",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000097",
+    "course_id": "CRS-000761",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000097",
+    "course_id": "CRS-000793",
+    "requirement_type": "core",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000097",
+    "course_id": "CRS-000801",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000098",
+    "course_id": "CRS-000058",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000098",
+    "course_id": "CRS-000098",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000098",
+    "course_id": "CRS-000138",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000098",
+    "course_id": "CRS-000218",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000098",
+    "course_id": "CRS-000274",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000098",
+    "course_id": "CRS-000322",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000098",
+    "course_id": "CRS-000378",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000098",
+    "course_id": "CRS-000634",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000098",
+    "course_id": "CRS-000858",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000098",
+    "course_id": "CRS-000914",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000098",
+    "course_id": "CRS-000954",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000099",
+    "course_id": "CRS-000035",
+    "requirement_type": "elective",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000099",
+    "course_id": "CRS-000155",
+    "requirement_type": "elective",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000099",
+    "course_id": "CRS-000219",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000099",
+    "course_id": "CRS-000323",
+    "requirement_type": "core",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000099",
+    "course_id": "CRS-000347",
+    "requirement_type": "elective",
+    "recommended_term": 8
+  },
+  {
+    "program_id": "PRG-000099",
+    "course_id": "CRS-000379",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000099",
+    "course_id": "CRS-000411",
+    "requirement_type": "elective",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000099",
+    "course_id": "CRS-000531",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000099",
+    "course_id": "CRS-000539",
+    "requirement_type": "elective",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000099",
+    "course_id": "CRS-000595",
+    "requirement_type": "core",
+    "recommended_term": 5
+  },
+  {
+    "program_id": "PRG-000099",
+    "course_id": "CRS-000723",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000099",
+    "course_id": "CRS-000755",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000099",
+    "course_id": "CRS-000795",
+    "requirement_type": "core",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000099",
+    "course_id": "CRS-000835",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000099",
+    "course_id": "CRS-000939",
+    "requirement_type": "core",
+    "recommended_term": 7
+  },
+  {
+    "program_id": "PRG-000100",
+    "course_id": "CRS-000060",
+    "requirement_type": "core",
+    "recommended_term": 1
+  },
+  {
+    "program_id": "PRG-000100",
+    "course_id": "CRS-000076",
+    "requirement_type": "core",
+    "recommended_term": 3
+  },
+  {
+    "program_id": "PRG-000100",
+    "course_id": "CRS-000348",
+    "requirement_type": "elective",
+    "recommended_term": 4
+  },
+  {
+    "program_id": "PRG-000100",
+    "course_id": "CRS-000436",
+    "requirement_type": "core",
+    "recommended_term": 2
+  },
+  {
+    "program_id": "PRG-000100",
+    "course_id": "CRS-000588",
+    "requirement_type": "elective",
+    "recommended_term": 6
+  },
+  {
+    "program_id": "PRG-000100",
+    "course_id": "CRS-000940",
+    "requirement_type": "elective",
+    "recommended_term": 5
+  }
+]

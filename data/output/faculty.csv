@@ -1,0 +1,501 @@
+faculty_id,name,department,employment_type,max_weekly_hours,status
+FAC-000001,Dr. Kathleen Evans,Computer Science,full_time,16.0,active
+FAC-000002,Dr. Patricia Anderson,Data Science,full_time,16.0,active
+FAC-000003,Dr. Ronald Davis,Electrical Engineering,full_time,16.0,active
+FAC-000004,Dr. Emily Robinson,Mathematics,adjunct,8.0,active
+FAC-000005,Dr. Ryan Jackson,Business Analytics,full_time,16.0,active
+FAC-000006,Dr. Richard Thomas,Information Systems,full_time,16.0,active
+FAC-000007,Dr. Melissa Phillips,Economics,full_time,16.0,active
+FAC-000008,Dr. Karen Martinez,Mechanical Engineering,adjunct,8.0,active
+FAC-000009,Dr. Jason Jones,Computer Science,full_time,16.0,active
+FAC-000010,Dr. Amy Anderson,Data Science,full_time,16.0,active
+FAC-000011,Dr. Timothy Flores,Electrical Engineering,full_time,16.0,active
+FAC-000012,Dr. Elizabeth Clark,Mathematics,adjunct,8.0,active
+FAC-000013,Dr. Patricia Sanchez,Business Analytics,full_time,16.0,active
+FAC-000014,Dr. Donna Diaz,Information Systems,full_time,16.0,active
+FAC-000015,Dr. Nancy Jones,Economics,full_time,16.0,active
+FAC-000016,Dr. Amy Sanchez,Mechanical Engineering,adjunct,8.0,active
+FAC-000017,Dr. Andrew Hernandez,Computer Science,full_time,16.0,active
+FAC-000018,Dr. Jason Williams,Data Science,full_time,16.0,active
+FAC-000019,Dr. Joshua Parker,Electrical Engineering,full_time,16.0,active
+FAC-000020,Dr. Andrew Nguyen,Mathematics,adjunct,8.0,on_leave
+FAC-000021,Dr. Betty Hernandez,Business Analytics,full_time,16.0,active
+FAC-000022,Dr. Carol Wilson,Information Systems,full_time,16.0,active
+FAC-000023,Dr. Stephanie Parker,Economics,full_time,16.0,active
+FAC-000024,Dr. Elizabeth Nelson,Mechanical Engineering,adjunct,8.0,active
+FAC-000025,Dr. John Perez,Computer Science,full_time,16.0,active
+FAC-000026,Dr. Linda Phillips,Data Science,full_time,16.0,active
+FAC-000027,Dr. Barbara Williams,Electrical Engineering,full_time,16.0,active
+FAC-000028,Dr. David Gonzalez,Mathematics,adjunct,8.0,active
+FAC-000029,Dr. Deborah Mitchell,Business Analytics,full_time,16.0,active
+FAC-000030,Dr. Melissa Moore,Information Systems,full_time,16.0,active
+FAC-000031,Dr. Melissa Sanchez,Economics,full_time,16.0,active
+FAC-000032,Dr. Margaret Gomez,Mechanical Engineering,adjunct,8.0,active
+FAC-000033,Dr. Steven Adams,Computer Science,full_time,16.0,active
+FAC-000034,Dr. Christopher Garcia,Data Science,full_time,16.0,active
+FAC-000035,Dr. Thomas Ramirez,Electrical Engineering,full_time,16.0,active
+FAC-000036,Dr. Brian Rodriguez,Mathematics,adjunct,8.0,active
+FAC-000037,Dr. Jessica Wright,Business Analytics,full_time,16.0,active
+FAC-000038,Dr. John Hill,Information Systems,full_time,16.0,active
+FAC-000039,Dr. Edward Scott,Economics,full_time,16.0,active
+FAC-000040,Dr. Amy Walker,Mechanical Engineering,adjunct,8.0,on_leave
+FAC-000041,Dr. Kevin Wilson,Computer Science,full_time,16.0,active
+FAC-000042,Dr. Linda Rivera,Data Science,full_time,16.0,active
+FAC-000043,Dr. Kevin Green,Electrical Engineering,full_time,16.0,active
+FAC-000044,Dr. Kevin Smith,Mathematics,adjunct,8.0,active
+FAC-000045,Dr. Matthew Thomas,Business Analytics,full_time,16.0,active
+FAC-000046,Dr. Jacob Turner,Information Systems,full_time,16.0,active
+FAC-000047,Dr. John Williams,Economics,full_time,16.0,active
+FAC-000048,Dr. Deborah Jones,Mechanical Engineering,adjunct,8.0,active
+FAC-000049,Dr. Paul Jones,Computer Science,full_time,16.0,active
+FAC-000050,Dr. Anthony Johnson,Data Science,full_time,16.0,active
+FAC-000051,Dr. Sharon Turner,Electrical Engineering,full_time,16.0,active
+FAC-000052,Dr. Donna Allen,Mathematics,adjunct,8.0,active
+FAC-000053,Dr. Margaret Baker,Business Analytics,full_time,16.0,active
+FAC-000054,Dr. Andrew Ramirez,Information Systems,full_time,16.0,active
+FAC-000055,Dr. Kenneth Robinson,Economics,full_time,16.0,active
+FAC-000056,Dr. Timothy Gomez,Mechanical Engineering,adjunct,8.0,active
+FAC-000057,Dr. Kenneth Martin,Computer Science,full_time,16.0,active
+FAC-000058,Dr. Rebecca Lee,Data Science,full_time,16.0,active
+FAC-000059,Dr. Edward Anderson,Electrical Engineering,full_time,16.0,active
+FAC-000060,Dr. Melissa Hernandez,Mathematics,adjunct,8.0,on_leave
+FAC-000061,Dr. Cynthia Roberts,Business Analytics,full_time,16.0,active
+FAC-000062,Dr. Daniel Hall,Information Systems,full_time,16.0,active
+FAC-000063,Dr. Joshua Hall,Economics,full_time,16.0,active
+FAC-000064,Dr. Mark Allen,Mechanical Engineering,adjunct,8.0,active
+FAC-000065,Dr. Charles Sanchez,Computer Science,full_time,16.0,active
+FAC-000066,Dr. Ronald King,Data Science,full_time,16.0,active
+FAC-000067,Dr. Mary Lopez,Electrical Engineering,full_time,16.0,active
+FAC-000068,Dr. Mark Taylor,Mathematics,adjunct,8.0,active
+FAC-000069,Dr. Karen Clark,Business Analytics,full_time,16.0,active
+FAC-000070,Dr. Lisa Nguyen,Information Systems,full_time,16.0,active
+FAC-000071,Dr. Steven Lee,Economics,full_time,16.0,active
+FAC-000072,Dr. Kathleen Carter,Mechanical Engineering,adjunct,8.0,active
+FAC-000073,Dr. Stephanie Adams,Computer Science,full_time,16.0,active
+FAC-000074,Dr. Andrew Moore,Data Science,full_time,16.0,active
+FAC-000075,Dr. Ashley Diaz,Electrical Engineering,full_time,16.0,active
+FAC-000076,Dr. Mary Carter,Mathematics,adjunct,8.0,active
+FAC-000077,Dr. Joshua Gomez,Business Analytics,full_time,16.0,active
+FAC-000078,Dr. Margaret Baker,Information Systems,full_time,16.0,active
+FAC-000079,Dr. Patricia Perez,Economics,full_time,16.0,active
+FAC-000080,Dr. Rebecca Martin,Mechanical Engineering,adjunct,8.0,on_leave
+FAC-000081,Dr. William Lewis,Computer Science,full_time,16.0,active
+FAC-000082,Dr. Linda Gomez,Data Science,full_time,16.0,active
+FAC-000083,Dr. Matthew Brown,Electrical Engineering,full_time,16.0,active
+FAC-000084,Dr. Joseph Allen,Mathematics,adjunct,8.0,active
+FAC-000085,Dr. Daniel Perez,Business Analytics,full_time,16.0,active
+FAC-000086,Dr. Edward Martin,Information Systems,full_time,16.0,active
+FAC-000087,Dr. Lisa Lee,Economics,full_time,16.0,active
+FAC-000088,Dr. Melissa Carter,Mechanical Engineering,adjunct,8.0,active
+FAC-000089,Dr. Ashley Johnson,Computer Science,full_time,16.0,active
+FAC-000090,Dr. Amy Diaz,Data Science,full_time,16.0,active
+FAC-000091,Dr. Kimberly Roberts,Electrical Engineering,full_time,16.0,active
+FAC-000092,Dr. Ronald Hernandez,Mathematics,adjunct,8.0,active
+FAC-000093,Dr. Rebecca Jackson,Business Analytics,full_time,16.0,active
+FAC-000094,Dr. Elizabeth Hernandez,Information Systems,full_time,16.0,active
+FAC-000095,Dr. Margaret Hernandez,Economics,full_time,16.0,active
+FAC-000096,Dr. Michelle Brown,Mechanical Engineering,adjunct,8.0,active
+FAC-000097,Dr. Joshua Williams,Computer Science,full_time,16.0,active
+FAC-000098,Dr. Richard Walker,Data Science,full_time,16.0,active
+FAC-000099,Dr. Edward Parker,Electrical Engineering,full_time,16.0,active
+FAC-000100,Dr. Ashley Gomez,Mathematics,adjunct,8.0,on_leave
+FAC-000101,Dr. Michael Thompson,Business Analytics,full_time,16.0,active
+FAC-000102,Dr. Ryan Allen,Information Systems,full_time,16.0,active
+FAC-000103,Dr. Sharon Hernandez,Economics,full_time,16.0,active
+FAC-000104,Dr. Sandra Johnson,Mechanical Engineering,adjunct,8.0,active
+FAC-000105,Dr. Steven Smith,Computer Science,full_time,16.0,active
+FAC-000106,Dr. Stephanie Smith,Data Science,full_time,16.0,active
+FAC-000107,Dr. Gary Brown,Electrical Engineering,full_time,16.0,active
+FAC-000108,Dr. Brian Smith,Mathematics,adjunct,8.0,active
+FAC-000109,Dr. Timothy Lopez,Business Analytics,full_time,16.0,active
+FAC-000110,Dr. Kathleen Phillips,Information Systems,full_time,16.0,active
+FAC-000111,Dr. Ronald Rivera,Economics,full_time,16.0,active
+FAC-000112,Dr. Christopher Walker,Mechanical Engineering,adjunct,8.0,active
+FAC-000113,Dr. Jason Davis,Computer Science,full_time,16.0,active
+FAC-000114,Dr. Joseph Nguyen,Data Science,full_time,16.0,active
+FAC-000115,Dr. Edward Ramirez,Electrical Engineering,full_time,16.0,active
+FAC-000116,Dr. Patricia Rivera,Mathematics,adjunct,8.0,active
+FAC-000117,Dr. Elizabeth Robinson,Business Analytics,full_time,16.0,active
+FAC-000118,Dr. Carol Johnson,Information Systems,full_time,16.0,active
+FAC-000119,Dr. Donald Johnson,Economics,full_time,16.0,active
+FAC-000120,Dr. Margaret Martin,Mechanical Engineering,adjunct,8.0,on_leave
+FAC-000121,Dr. Edward Davis,Computer Science,full_time,16.0,active
+FAC-000122,Dr. Cynthia Flores,Data Science,full_time,16.0,active
+FAC-000123,Dr. George Evans,Electrical Engineering,full_time,16.0,active
+FAC-000124,Dr. Kevin Lee,Mathematics,adjunct,8.0,active
+FAC-000125,Dr. Ashley Jackson,Business Analytics,full_time,16.0,active
+FAC-000126,Dr. Kenneth Wilson,Information Systems,full_time,16.0,active
+FAC-000127,Dr. Laura Harris,Economics,full_time,16.0,active
+FAC-000128,Dr. Stephanie Anderson,Mechanical Engineering,adjunct,8.0,active
+FAC-000129,Dr. Kenneth Rodriguez,Computer Science,full_time,16.0,active
+FAC-000130,Dr. Jeffrey Martin,Data Science,full_time,16.0,active
+FAC-000131,Dr. Steven Rodriguez,Electrical Engineering,full_time,16.0,active
+FAC-000132,Dr. Christopher Phillips,Mathematics,adjunct,8.0,active
+FAC-000133,Dr. William Walker,Business Analytics,full_time,16.0,active
+FAC-000134,Dr. Linda Campbell,Information Systems,full_time,16.0,active
+FAC-000135,Dr. Elizabeth Rivera,Economics,full_time,16.0,active
+FAC-000136,Dr. Daniel Martinez,Mechanical Engineering,adjunct,8.0,active
+FAC-000137,Dr. Jacob Hill,Computer Science,full_time,16.0,active
+FAC-000138,Dr. Margaret Wilson,Data Science,full_time,16.0,active
+FAC-000139,Dr. Patricia Rivera,Electrical Engineering,full_time,16.0,active
+FAC-000140,Dr. Carol Williams,Mathematics,adjunct,8.0,on_leave
+FAC-000141,Dr. Emily Flores,Business Analytics,full_time,16.0,active
+FAC-000142,Dr. Joshua Moore,Information Systems,full_time,16.0,active
+FAC-000143,Dr. Ryan Lee,Economics,full_time,16.0,active
+FAC-000144,Dr. Christopher Perez,Mechanical Engineering,adjunct,8.0,active
+FAC-000145,Dr. Linda Gonzalez,Computer Science,full_time,16.0,active
+FAC-000146,Dr. David Johnson,Data Science,full_time,16.0,active
+FAC-000147,Dr. Paul Wilson,Electrical Engineering,full_time,16.0,active
+FAC-000148,Dr. Mark White,Mathematics,adjunct,8.0,active
+FAC-000149,Dr. Kimberly White,Business Analytics,full_time,16.0,active
+FAC-000150,Dr. Rebecca Robinson,Information Systems,full_time,16.0,active
+FAC-000151,Dr. Michael Adams,Economics,full_time,16.0,active
+FAC-000152,Dr. Ronald Wilson,Mechanical Engineering,adjunct,8.0,active
+FAC-000153,Dr. Anthony Lee,Computer Science,full_time,16.0,active
+FAC-000154,Dr. Daniel Davis,Data Science,full_time,16.0,active
+FAC-000155,Dr. Karen Ramirez,Electrical Engineering,full_time,16.0,active
+FAC-000156,Dr. Edward Anderson,Mathematics,adjunct,8.0,active
+FAC-000157,Dr. Charles Martin,Business Analytics,full_time,16.0,active
+FAC-000158,Dr. Deborah Lopez,Information Systems,full_time,16.0,active
+FAC-000159,Dr. Andrew Carter,Economics,full_time,16.0,active
+FAC-000160,Dr. Paul Lopez,Mechanical Engineering,adjunct,8.0,on_leave
+FAC-000161,Dr. George Hall,Computer Science,full_time,16.0,active
+FAC-000162,Dr. Jeffrey Harris,Data Science,full_time,16.0,active
+FAC-000163,Dr. Donald Campbell,Electrical Engineering,full_time,16.0,active
+FAC-000164,Dr. Jacob King,Mathematics,adjunct,8.0,active
+FAC-000165,Dr. Donald Turner,Business Analytics,full_time,16.0,active
+FAC-000166,Dr. Betty Garcia,Information Systems,full_time,16.0,active
+FAC-000167,Dr. Ashley Gonzalez,Economics,full_time,16.0,active
+FAC-000168,Dr. John Adams,Mechanical Engineering,adjunct,8.0,active
+FAC-000169,Dr. Kenneth Torres,Computer Science,full_time,16.0,active
+FAC-000170,Dr. Dorothy Lewis,Data Science,full_time,16.0,active
+FAC-000171,Dr. Michael Johnson,Electrical Engineering,full_time,16.0,active
+FAC-000172,Dr. Thomas Lee,Mathematics,adjunct,8.0,active
+FAC-000173,Dr. Brian Nelson,Business Analytics,full_time,16.0,active
+FAC-000174,Dr. Ashley Lee,Information Systems,full_time,16.0,active
+FAC-000175,Dr. Kevin Brown,Economics,full_time,16.0,active
+FAC-000176,Dr. Gary Wilson,Mechanical Engineering,adjunct,8.0,active
+FAC-000177,Dr. Timothy Evans,Computer Science,full_time,16.0,active
+FAC-000178,Dr. Amy Nelson,Data Science,full_time,16.0,active
+FAC-000179,Dr. Brian Clark,Electrical Engineering,full_time,16.0,active
+FAC-000180,Dr. John Hall,Mathematics,adjunct,8.0,on_leave
+FAC-000181,Dr. Jacob Nguyen,Business Analytics,full_time,16.0,active
+FAC-000182,Dr. Charles Parker,Information Systems,full_time,16.0,active
+FAC-000183,Dr. Jennifer Anderson,Economics,full_time,16.0,active
+FAC-000184,Dr. Mary Lopez,Mechanical Engineering,adjunct,8.0,active
+FAC-000185,Dr. Betty Robinson,Computer Science,full_time,16.0,active
+FAC-000186,Dr. Michael Young,Data Science,full_time,16.0,active
+FAC-000187,Dr. Richard Brown,Electrical Engineering,full_time,16.0,active
+FAC-000188,Dr. Edward Thomas,Mathematics,adjunct,8.0,active
+FAC-000189,Dr. Jessica King,Business Analytics,full_time,16.0,active
+FAC-000190,Dr. Michael King,Information Systems,full_time,16.0,active
+FAC-000191,Dr. Jason Thomas,Economics,full_time,16.0,active
+FAC-000192,Dr. Sarah Nguyen,Mechanical Engineering,adjunct,8.0,active
+FAC-000193,Dr. Anthony Moore,Computer Science,full_time,16.0,active
+FAC-000194,Dr. Barbara Sanchez,Data Science,full_time,16.0,active
+FAC-000195,Dr. Jessica Adams,Electrical Engineering,full_time,16.0,active
+FAC-000196,Dr. Carol Gonzalez,Mathematics,adjunct,8.0,active
+FAC-000197,Dr. Gary Brown,Business Analytics,full_time,16.0,active
+FAC-000198,Dr. Ryan Johnson,Information Systems,full_time,16.0,active
+FAC-000199,Dr. Nancy Brown,Economics,full_time,16.0,active
+FAC-000200,Dr. Timothy Moore,Mechanical Engineering,adjunct,8.0,on_leave
+FAC-000201,Dr. Joseph Wright,Computer Science,full_time,16.0,active
+FAC-000202,Dr. Edward Phillips,Data Science,full_time,16.0,active
+FAC-000203,Dr. Patricia Walker,Electrical Engineering,full_time,16.0,active
+FAC-000204,Dr. Amanda Walker,Mathematics,adjunct,8.0,active
+FAC-000205,Dr. Ronald Lewis,Business Analytics,full_time,16.0,active
+FAC-000206,Dr. Michelle Hernandez,Information Systems,full_time,16.0,active
+FAC-000207,Dr. Paul Nelson,Economics,full_time,16.0,active
+FAC-000208,Dr. Carol Torres,Mechanical Engineering,adjunct,8.0,active
+FAC-000209,Dr. Cynthia Hill,Computer Science,full_time,16.0,active
+FAC-000210,Dr. Elizabeth Roberts,Data Science,full_time,16.0,active
+FAC-000211,Dr. Edward Anderson,Electrical Engineering,full_time,16.0,active
+FAC-000212,Dr. Mary Allen,Mathematics,adjunct,8.0,active
+FAC-000213,Dr. Barbara Perez,Business Analytics,full_time,16.0,active
+FAC-000214,Dr. Nancy Lopez,Information Systems,full_time,16.0,active
+FAC-000215,Dr. Daniel Jackson,Economics,full_time,16.0,active
+FAC-000216,Dr. Linda Rodriguez,Mechanical Engineering,adjunct,8.0,active
+FAC-000217,Dr. Jessica Campbell,Computer Science,full_time,16.0,active
+FAC-000218,Dr. Nancy Miller,Data Science,full_time,16.0,active
+FAC-000219,Dr. David Allen,Electrical Engineering,full_time,16.0,active
+FAC-000220,Dr. Kevin Nelson,Mathematics,adjunct,8.0,on_leave
+FAC-000221,Dr. Jason Smith,Business Analytics,full_time,16.0,active
+FAC-000222,Dr. Karen Green,Information Systems,full_time,16.0,active
+FAC-000223,Dr. Amanda Jackson,Economics,full_time,16.0,active
+FAC-000224,Dr. Laura Nguyen,Mechanical Engineering,adjunct,8.0,active
+FAC-000225,Dr. Christopher Scott,Computer Science,full_time,16.0,active
+FAC-000226,Dr. Robert Hernandez,Data Science,full_time,16.0,active
+FAC-000227,Dr. Edward Taylor,Electrical Engineering,full_time,16.0,active
+FAC-000228,Dr. Jason Turner,Mathematics,adjunct,8.0,active
+FAC-000229,Dr. Ronald King,Business Analytics,full_time,16.0,active
+FAC-000230,Dr. Nancy Carter,Information Systems,full_time,16.0,active
+FAC-000231,Dr. Jeffrey Mitchell,Economics,full_time,16.0,active
+FAC-000232,Dr. Sandra Wright,Mechanical Engineering,adjunct,8.0,active
+FAC-000233,Dr. Mark Roberts,Computer Science,full_time,16.0,active
+FAC-000234,Dr. Ryan Jones,Data Science,full_time,16.0,active
+FAC-000235,Dr. Mark Williams,Electrical Engineering,full_time,16.0,active
+FAC-000236,Dr. Melissa King,Mathematics,adjunct,8.0,active
+FAC-000237,Dr. Amy Gomez,Business Analytics,full_time,16.0,active
+FAC-000238,Dr. Laura Taylor,Information Systems,full_time,16.0,active
+FAC-000239,Dr. Mary Robinson,Economics,full_time,16.0,active
+FAC-000240,Dr. Matthew Carter,Mechanical Engineering,adjunct,8.0,on_leave
+FAC-000241,Dr. James Williams,Computer Science,full_time,16.0,active
+FAC-000242,Dr. Deborah Carter,Data Science,full_time,16.0,active
+FAC-000243,Dr. Elizabeth Green,Electrical Engineering,full_time,16.0,active
+FAC-000244,Dr. Laura Ramirez,Mathematics,adjunct,8.0,active
+FAC-000245,Dr. Amy Anderson,Business Analytics,full_time,16.0,active
+FAC-000246,Dr. Michelle Smith,Information Systems,full_time,16.0,active
+FAC-000247,Dr. Jennifer Campbell,Economics,full_time,16.0,active
+FAC-000248,Dr. Timothy Wright,Mechanical Engineering,adjunct,8.0,active
+FAC-000249,Dr. James Lopez,Computer Science,full_time,16.0,active
+FAC-000250,Dr. Steven Thomas,Data Science,full_time,16.0,active
+FAC-000251,Dr. Ashley Perez,Electrical Engineering,full_time,16.0,active
+FAC-000252,Dr. Linda Lee,Mathematics,adjunct,8.0,active
+FAC-000253,Dr. Amy Hernandez,Business Analytics,full_time,16.0,active
+FAC-000254,Dr. Jennifer Walker,Information Systems,full_time,16.0,active
+FAC-000255,Dr. Mary Ramirez,Economics,full_time,16.0,active
+FAC-000256,Dr. Rebecca Torres,Mechanical Engineering,adjunct,8.0,active
+FAC-000257,Dr. Barbara Hernandez,Computer Science,full_time,16.0,active
+FAC-000258,Dr. Daniel Moore,Data Science,full_time,16.0,active
+FAC-000259,Dr. Jessica Torres,Electrical Engineering,full_time,16.0,active
+FAC-000260,Dr. Kimberly Harris,Mathematics,adjunct,8.0,on_leave
+FAC-000261,Dr. Ronald Phillips,Business Analytics,full_time,16.0,active
+FAC-000262,Dr. Anthony Davis,Information Systems,full_time,16.0,active
+FAC-000263,Dr. Thomas Williams,Economics,full_time,16.0,active
+FAC-000264,Dr. Matthew Jackson,Mechanical Engineering,adjunct,8.0,active
+FAC-000265,Dr. Jennifer Lopez,Computer Science,full_time,16.0,active
+FAC-000266,Dr. Linda Turner,Data Science,full_time,16.0,active
+FAC-000267,Dr. Anthony White,Electrical Engineering,full_time,16.0,active
+FAC-000268,Dr. Richard Robinson,Mathematics,adjunct,8.0,active
+FAC-000269,Dr. Ryan Taylor,Business Analytics,full_time,16.0,active
+FAC-000270,Dr. Nancy Thompson,Information Systems,full_time,16.0,active
+FAC-000271,Dr. Michael Gonzalez,Economics,full_time,16.0,active
+FAC-000272,Dr. Sarah Jones,Mechanical Engineering,adjunct,8.0,active
+FAC-000273,Dr. Michelle White,Computer Science,full_time,16.0,active
+FAC-000274,Dr. Robert Clark,Data Science,full_time,16.0,active
+FAC-000275,Dr. Patricia Wilson,Electrical Engineering,full_time,16.0,active
+FAC-000276,Dr. Sarah Taylor,Mathematics,adjunct,8.0,active
+FAC-000277,Dr. Cynthia Lewis,Business Analytics,full_time,16.0,active
+FAC-000278,Dr. Patricia Sanchez,Information Systems,full_time,16.0,active
+FAC-000279,Dr. Amy Garcia,Economics,full_time,16.0,active
+FAC-000280,Dr. Margaret Evans,Mechanical Engineering,adjunct,8.0,on_leave
+FAC-000281,Dr. Betty Johnson,Computer Science,full_time,16.0,active
+FAC-000282,Dr. William Garcia,Data Science,full_time,16.0,active
+FAC-000283,Dr. Jennifer Mitchell,Electrical Engineering,full_time,16.0,active
+FAC-000284,Dr. Laura Parker,Mathematics,adjunct,8.0,active
+FAC-000285,Dr. Sarah Robinson,Business Analytics,full_time,16.0,active
+FAC-000286,Dr. Edward Phillips,Information Systems,full_time,16.0,active
+FAC-000287,Dr. Carol Sanchez,Economics,full_time,16.0,active
+FAC-000288,Dr. Linda Scott,Mechanical Engineering,adjunct,8.0,active
+FAC-000289,Dr. Anthony Rodriguez,Computer Science,full_time,16.0,active
+FAC-000290,Dr. Kimberly Robinson,Data Science,full_time,16.0,active
+FAC-000291,Dr. Ronald Walker,Electrical Engineering,full_time,16.0,active
+FAC-000292,Dr. Mary Rodriguez,Mathematics,adjunct,8.0,active
+FAC-000293,Dr. Donald Hill,Business Analytics,full_time,16.0,active
+FAC-000294,Dr. Laura Ramirez,Information Systems,full_time,16.0,active
+FAC-000295,Dr. Stephanie Jones,Economics,full_time,16.0,active
+FAC-000296,Dr. Jacob Nguyen,Mechanical Engineering,adjunct,8.0,active
+FAC-000297,Dr. John Carter,Computer Science,full_time,16.0,active
+FAC-000298,Dr. Karen Smith,Data Science,full_time,16.0,active
+FAC-000299,Dr. William Scott,Electrical Engineering,full_time,16.0,active
+FAC-000300,Dr. Deborah Scott,Mathematics,adjunct,8.0,on_leave
+FAC-000301,Dr. Donna Lopez,Business Analytics,full_time,16.0,active
+FAC-000302,Dr. Kimberly King,Information Systems,full_time,16.0,active
+FAC-000303,Dr. Karen Anderson,Economics,full_time,16.0,active
+FAC-000304,Dr. David Adams,Mechanical Engineering,adjunct,8.0,active
+FAC-000305,Dr. Brian Scott,Computer Science,full_time,16.0,active
+FAC-000306,Dr. Patricia Thompson,Data Science,full_time,16.0,active
+FAC-000307,Dr. Anthony Harris,Electrical Engineering,full_time,16.0,active
+FAC-000308,Dr. Emily Lee,Mathematics,adjunct,8.0,active
+FAC-000309,Dr. Steven Evans,Business Analytics,full_time,16.0,active
+FAC-000310,Dr. Sharon Sanchez,Information Systems,full_time,16.0,active
+FAC-000311,Dr. Mark Nguyen,Economics,full_time,16.0,active
+FAC-000312,Dr. Jacob Sanchez,Mechanical Engineering,adjunct,8.0,active
+FAC-000313,Dr. Kenneth Mitchell,Computer Science,full_time,16.0,active
+FAC-000314,Dr. Ashley Nguyen,Data Science,full_time,16.0,active
+FAC-000315,Dr. James White,Electrical Engineering,full_time,16.0,active
+FAC-000316,Dr. Patricia Allen,Mathematics,adjunct,8.0,active
+FAC-000317,Dr. Karen Johnson,Business Analytics,full_time,16.0,active
+FAC-000318,Dr. Karen Wilson,Information Systems,full_time,16.0,active
+FAC-000319,Dr. Anthony Gomez,Economics,full_time,16.0,active
+FAC-000320,Dr. Ronald Young,Mechanical Engineering,adjunct,8.0,on_leave
+FAC-000321,Dr. Michelle Miller,Computer Science,full_time,16.0,active
+FAC-000322,Dr. Melissa Ramirez,Data Science,full_time,16.0,active
+FAC-000323,Dr. Jeffrey Diaz,Electrical Engineering,full_time,16.0,active
+FAC-000324,Dr. Emily Jones,Mathematics,adjunct,8.0,active
+FAC-000325,Dr. Donald Martinez,Business Analytics,full_time,16.0,active
+FAC-000326,Dr. Margaret Scott,Information Systems,full_time,16.0,active
+FAC-000327,Dr. Ronald Scott,Economics,full_time,16.0,active
+FAC-000328,Dr. Dorothy Hall,Mechanical Engineering,adjunct,8.0,active
+FAC-000329,Dr. Carol Hall,Computer Science,full_time,16.0,active
+FAC-000330,Dr. Elizabeth Martin,Data Science,full_time,16.0,active
+FAC-000331,Dr. Michael Martinez,Electrical Engineering,full_time,16.0,active
+FAC-000332,Dr. Anthony Taylor,Mathematics,adjunct,8.0,active
+FAC-000333,Dr. Karen Roberts,Business Analytics,full_time,16.0,active
+FAC-000334,Dr. Sandra Harris,Information Systems,full_time,16.0,active
+FAC-000335,Dr. Daniel Torres,Economics,full_time,16.0,active
+FAC-000336,Dr. Amy Davis,Mechanical Engineering,adjunct,8.0,active
+FAC-000337,Dr. Joseph Hall,Computer Science,full_time,16.0,active
+FAC-000338,Dr. Kathleen Anderson,Data Science,full_time,16.0,active
+FAC-000339,Dr. Christopher Torres,Electrical Engineering,full_time,16.0,active
+FAC-000340,Dr. Barbara Perez,Mathematics,adjunct,8.0,on_leave
+FAC-000341,Dr. Cynthia Mitchell,Business Analytics,full_time,16.0,active
+FAC-000342,Dr. Mark Lewis,Information Systems,full_time,16.0,active
+FAC-000343,Dr. Stephanie Nelson,Economics,full_time,16.0,active
+FAC-000344,Dr. Robert Nguyen,Mechanical Engineering,adjunct,8.0,active
+FAC-000345,Dr. Jacob Green,Computer Science,full_time,16.0,active
+FAC-000346,Dr. Robert Mitchell,Data Science,full_time,16.0,active
+FAC-000347,Dr. Kevin Campbell,Electrical Engineering,full_time,16.0,active
+FAC-000348,Dr. James Evans,Mathematics,adjunct,8.0,active
+FAC-000349,Dr. Mary Roberts,Business Analytics,full_time,16.0,active
+FAC-000350,Dr. William Perez,Information Systems,full_time,16.0,active
+FAC-000351,Dr. Laura Clark,Economics,full_time,16.0,active
+FAC-000352,Dr. Timothy Williams,Mechanical Engineering,adjunct,8.0,active
+FAC-000353,Dr. Jason Harris,Computer Science,full_time,16.0,active
+FAC-000354,Dr. Kenneth Campbell,Data Science,full_time,16.0,active
+FAC-000355,Dr. Patricia Lewis,Electrical Engineering,full_time,16.0,active
+FAC-000356,Dr. Charles Martin,Mathematics,adjunct,8.0,active
+FAC-000357,Dr. Steven Robinson,Business Analytics,full_time,16.0,active
+FAC-000358,Dr. Richard Allen,Information Systems,full_time,16.0,active
+FAC-000359,Dr. Barbara Thomas,Economics,full_time,16.0,active
+FAC-000360,Dr. Emily Rodriguez,Mechanical Engineering,adjunct,8.0,on_leave
+FAC-000361,Dr. Amy Turner,Computer Science,full_time,16.0,active
+FAC-000362,Dr. Edward Roberts,Data Science,full_time,16.0,active
+FAC-000363,Dr. John Rodriguez,Electrical Engineering,full_time,16.0,active
+FAC-000364,Dr. Susan Robinson,Mathematics,adjunct,8.0,active
+FAC-000365,Dr. Elizabeth Lewis,Business Analytics,full_time,16.0,active
+FAC-000366,Dr. Donald Young,Information Systems,full_time,16.0,active
+FAC-000367,Dr. Edward Miller,Economics,full_time,16.0,active
+FAC-000368,Dr. Matthew Rodriguez,Mechanical Engineering,adjunct,8.0,active
+FAC-000369,Dr. Brian Hernandez,Computer Science,full_time,16.0,active
+FAC-000370,Dr. Betty Taylor,Data Science,full_time,16.0,active
+FAC-000371,Dr. Mark Moore,Electrical Engineering,full_time,16.0,active
+FAC-000372,Dr. Edward Nguyen,Mathematics,adjunct,8.0,active
+FAC-000373,Dr. Patricia Rivera,Business Analytics,full_time,16.0,active
+FAC-000374,Dr. Emily Robinson,Information Systems,full_time,16.0,active
+FAC-000375,Dr. Robert Moore,Economics,full_time,16.0,active
+FAC-000376,Dr. Donald Jones,Mechanical Engineering,adjunct,8.0,active
+FAC-000377,Dr. Timothy Rodriguez,Computer Science,full_time,16.0,active
+FAC-000378,Dr. Rebecca Hall,Data Science,full_time,16.0,active
+FAC-000379,Dr. Lisa King,Electrical Engineering,full_time,16.0,active
+FAC-000380,Dr. Jennifer Davis,Mathematics,adjunct,8.0,on_leave
+FAC-000381,Dr. John Lewis,Business Analytics,full_time,16.0,active
+FAC-000382,Dr. Sharon Baker,Information Systems,full_time,16.0,active
+FAC-000383,Dr. Laura Smith,Economics,full_time,16.0,active
+FAC-000384,Dr. Michael Green,Mechanical Engineering,adjunct,8.0,active
+FAC-000385,Dr. Betty Parker,Computer Science,full_time,16.0,active
+FAC-000386,Dr. Emily Phillips,Data Science,full_time,16.0,active
+FAC-000387,Dr. Timothy Sanchez,Electrical Engineering,full_time,16.0,active
+FAC-000388,Dr. Ashley Scott,Mathematics,adjunct,8.0,active
+FAC-000389,Dr. Jason Clark,Business Analytics,full_time,16.0,active
+FAC-000390,Dr. Donald Lewis,Information Systems,full_time,16.0,active
+FAC-000391,Dr. Robert Garcia,Economics,full_time,16.0,active
+FAC-000392,Dr. Mark Campbell,Mechanical Engineering,adjunct,8.0,active
+FAC-000393,Dr. Margaret Scott,Computer Science,full_time,16.0,active
+FAC-000394,Dr. Gary Lee,Data Science,full_time,16.0,active
+FAC-000395,Dr. Jennifer Hall,Electrical Engineering,full_time,16.0,active
+FAC-000396,Dr. Elizabeth Sanchez,Mathematics,adjunct,8.0,active
+FAC-000397,Dr. Kathleen Baker,Business Analytics,full_time,16.0,active
+FAC-000398,Dr. Lisa Campbell,Information Systems,full_time,16.0,active
+FAC-000399,Dr. Amanda Nguyen,Economics,full_time,16.0,active
+FAC-000400,Dr. James Gomez,Mechanical Engineering,adjunct,8.0,on_leave
+FAC-000401,Dr. Gary Miller,Computer Science,full_time,16.0,active
+FAC-000402,Dr. Joshua Mitchell,Data Science,full_time,16.0,active
+FAC-000403,Dr. Sharon Parker,Electrical Engineering,full_time,16.0,active
+FAC-000404,Dr. Jennifer Hill,Mathematics,adjunct,8.0,active
+FAC-000405,Dr. Sarah Martinez,Business Analytics,full_time,16.0,active
+FAC-000406,Dr. Thomas Martin,Information Systems,full_time,16.0,active
+FAC-000407,Dr. Joshua Martin,Economics,full_time,16.0,active
+FAC-000408,Dr. Brian Flores,Mechanical Engineering,adjunct,8.0,active
+FAC-000409,Dr. Amy Davis,Computer Science,full_time,16.0,active
+FAC-000410,Dr. Donna Taylor,Data Science,full_time,16.0,active
+FAC-000411,Dr. Melissa Smith,Electrical Engineering,full_time,16.0,active
+FAC-000412,Dr. Brian Davis,Mathematics,adjunct,8.0,active
+FAC-000413,Dr. George Young,Business Analytics,full_time,16.0,active
+FAC-000414,Dr. Steven Clark,Information Systems,full_time,16.0,active
+FAC-000415,Dr. Kathleen Nelson,Economics,full_time,16.0,active
+FAC-000416,Dr. Matthew Phillips,Mechanical Engineering,adjunct,8.0,active
+FAC-000417,Dr. Mary Perez,Computer Science,full_time,16.0,active
+FAC-000418,Dr. Dorothy Torres,Data Science,full_time,16.0,active
+FAC-000419,Dr. George Hall,Electrical Engineering,full_time,16.0,active
+FAC-000420,Dr. Amy Adams,Mathematics,adjunct,8.0,on_leave
+FAC-000421,Dr. Mark Campbell,Business Analytics,full_time,16.0,active
+FAC-000422,Dr. Barbara Young,Information Systems,full_time,16.0,active
+FAC-000423,Dr. Jason Hernandez,Economics,full_time,16.0,active
+FAC-000424,Dr. Nancy Hill,Mechanical Engineering,adjunct,8.0,active
+FAC-000425,Dr. Ryan Williams,Computer Science,full_time,16.0,active
+FAC-000426,Dr. Ryan Lewis,Data Science,full_time,16.0,active
+FAC-000427,Dr. Sandra Davis,Electrical Engineering,full_time,16.0,active
+FAC-000428,Dr. Barbara Brown,Mathematics,adjunct,8.0,active
+FAC-000429,Dr. James Garcia,Business Analytics,full_time,16.0,active
+FAC-000430,Dr. Sarah Smith,Information Systems,full_time,16.0,active
+FAC-000431,Dr. Jason Ramirez,Economics,full_time,16.0,active
+FAC-000432,Dr. Donna Green,Mechanical Engineering,adjunct,8.0,active
+FAC-000433,Dr. Sarah Taylor,Computer Science,full_time,16.0,active
+FAC-000434,Dr. Betty Jones,Data Science,full_time,16.0,active
+FAC-000435,Dr. Linda Campbell,Electrical Engineering,full_time,16.0,active
+FAC-000436,Dr. Patricia Williams,Mathematics,adjunct,8.0,active
+FAC-000437,Dr. Matthew King,Business Analytics,full_time,16.0,active
+FAC-000438,Dr. Andrew Thompson,Information Systems,full_time,16.0,active
+FAC-000439,Dr. Patricia Baker,Economics,full_time,16.0,active
+FAC-000440,Dr. Jessica Martinez,Mechanical Engineering,adjunct,8.0,on_leave
+FAC-000441,Dr. Lisa Clark,Computer Science,full_time,16.0,active
+FAC-000442,Dr. Kathleen Garcia,Data Science,full_time,16.0,active
+FAC-000443,Dr. Betty Phillips,Electrical Engineering,full_time,16.0,active
+FAC-000444,Dr. Amanda Miller,Mathematics,adjunct,8.0,active
+FAC-000445,Dr. Andrew Scott,Business Analytics,full_time,16.0,active
+FAC-000446,Dr. Joseph Ramirez,Information Systems,full_time,16.0,active
+FAC-000447,Dr. Carol Williams,Economics,full_time,16.0,active
+FAC-000448,Dr. Gary Carter,Mechanical Engineering,adjunct,8.0,active
+FAC-000449,Dr. Joshua Campbell,Computer Science,full_time,16.0,active
+FAC-000450,Dr. Dorothy Baker,Data Science,full_time,16.0,active
+FAC-000451,Dr. Donna Harris,Electrical Engineering,full_time,16.0,active
+FAC-000452,Dr. Steven Lopez,Mathematics,adjunct,8.0,active
+FAC-000453,Dr. Thomas Robinson,Business Analytics,full_time,16.0,active
+FAC-000454,Dr. Dorothy Jackson,Information Systems,full_time,16.0,active
+FAC-000455,Dr. Stephanie Jones,Economics,full_time,16.0,active
+FAC-000456,Dr. Rebecca White,Mechanical Engineering,adjunct,8.0,active
+FAC-000457,Dr. Nancy Jones,Computer Science,full_time,16.0,active
+FAC-000458,Dr. Lisa Williams,Data Science,full_time,16.0,active
+FAC-000459,Dr. Margaret Gomez,Electrical Engineering,full_time,16.0,active
+FAC-000460,Dr. Donald Carter,Mathematics,adjunct,8.0,on_leave
+FAC-000461,Dr. Sarah Campbell,Business Analytics,full_time,16.0,active
+FAC-000462,Dr. Stephanie Lewis,Information Systems,full_time,16.0,active
+FAC-000463,Dr. Cynthia Wright,Economics,full_time,16.0,active
+FAC-000464,Dr. Amy Hill,Mechanical Engineering,adjunct,8.0,active
+FAC-000465,Dr. Elizabeth Walker,Computer Science,full_time,16.0,active
+FAC-000466,Dr. Lisa Turner,Data Science,full_time,16.0,active
+FAC-000467,Dr. Jacob Lopez,Electrical Engineering,full_time,16.0,active
+FAC-000468,Dr. Jeffrey Green,Mathematics,adjunct,8.0,active
+FAC-000469,Dr. Jennifer Sanchez,Business Analytics,full_time,16.0,active
+FAC-000470,Dr. Melissa Walker,Information Systems,full_time,16.0,active
+FAC-000471,Dr. Paul Torres,Economics,full_time,16.0,active
+FAC-000472,Dr. Joshua Rodriguez,Mechanical Engineering,adjunct,8.0,active
+FAC-000473,Dr. Nancy Wright,Computer Science,full_time,16.0,active
+FAC-000474,Dr. Thomas Torres,Data Science,full_time,16.0,active
+FAC-000475,Dr. Jeffrey Campbell,Electrical Engineering,full_time,16.0,active
+FAC-000476,Dr. Margaret Evans,Mathematics,adjunct,8.0,active
+FAC-000477,Dr. Sharon Hill,Business Analytics,full_time,16.0,active
+FAC-000478,Dr. Kevin Brown,Information Systems,full_time,16.0,active
+FAC-000479,Dr. Susan Garcia,Economics,full_time,16.0,active
+FAC-000480,Dr. Betty Thomas,Mechanical Engineering,adjunct,8.0,on_leave
+FAC-000481,Dr. Rebecca Williams,Computer Science,full_time,16.0,active
+FAC-000482,Dr. John Nelson,Data Science,full_time,16.0,active
+FAC-000483,Dr. Stephanie Garcia,Electrical Engineering,full_time,16.0,active
+FAC-000484,Dr. Karen Carter,Mathematics,adjunct,8.0,active
+FAC-000485,Dr. Sarah Nguyen,Business Analytics,full_time,16.0,active
+FAC-000486,Dr. Daniel Johnson,Information Systems,full_time,16.0,active
+FAC-000487,Dr. Charles Johnson,Economics,full_time,16.0,active
+FAC-000488,Dr. Jeffrey Young,Mechanical Engineering,adjunct,8.0,active
+FAC-000489,Dr. Daniel Rivera,Computer Science,full_time,16.0,active
+FAC-000490,Dr. Laura Miller,Data Science,full_time,16.0,active
+FAC-000491,Dr. Betty Hernandez,Electrical Engineering,full_time,16.0,active
+FAC-000492,Dr. Linda Wilson,Mathematics,adjunct,8.0,active
+FAC-000493,Dr. Donald Mitchell,Business Analytics,full_time,16.0,active
+FAC-000494,Dr. Christopher Sanchez,Information Systems,full_time,16.0,active
+FAC-000495,Dr. Brian Nelson,Economics,full_time,16.0,active
+FAC-000496,Dr. Jason Evans,Mechanical Engineering,adjunct,8.0,active
+FAC-000497,Dr. Margaret Smith,Computer Science,full_time,16.0,active
+FAC-000498,Dr. Steven Gonzalez,Data Science,full_time,16.0,active
+FAC-000499,Dr. Timothy Clark,Electrical Engineering,full_time,16.0,active
+FAC-000500,Dr. Gary Wright,Mathematics,adjunct,8.0,on_leave

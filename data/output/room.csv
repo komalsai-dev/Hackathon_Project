@@ -1,0 +1,151 @@
+room_id,building,capacity,room_type,available_slots
+ROM-0001,Turing Hall Room 101,20,lecture_hall,10
+ROM-0002,Von Neumann Center Room 102,30,classroom,10
+ROM-0003,Shannon Hall Room 103,40,seminar,10
+ROM-0004,Euler Science Tower Room 104,60,computer_lab,10
+ROM-0005,Curie Labs Room 105,120,lecture_hall,10
+ROM-0006,Turing Hall Room 106,20,classroom,10
+ROM-0007,Von Neumann Center Room 107,30,seminar,10
+ROM-0008,Shannon Hall Room 108,40,computer_lab,10
+ROM-0009,Euler Science Tower Room 109,60,lecture_hall,10
+ROM-0010,Curie Labs Room 110,120,classroom,10
+ROM-0011,Turing Hall Room 111,20,seminar,10
+ROM-0012,Von Neumann Center Room 112,30,computer_lab,10
+ROM-0013,Shannon Hall Room 113,40,lecture_hall,10
+ROM-0014,Euler Science Tower Room 114,60,classroom,10
+ROM-0015,Curie Labs Room 115,120,seminar,10
+ROM-0016,Turing Hall Room 116,20,computer_lab,10
+ROM-0017,Von Neumann Center Room 117,30,lecture_hall,10
+ROM-0018,Shannon Hall Room 118,40,classroom,10
+ROM-0019,Euler Science Tower Room 119,60,seminar,10
+ROM-0020,Curie Labs Room 120,120,computer_lab,10
+ROM-0021,Turing Hall Room 121,20,lecture_hall,10
+ROM-0022,Von Neumann Center Room 122,30,classroom,10
+ROM-0023,Shannon Hall Room 123,40,seminar,10
+ROM-0024,Euler Science Tower Room 124,60,computer_lab,10
+ROM-0025,Curie Labs Room 125,120,lecture_hall,10
+ROM-0026,Turing Hall Room 126,20,classroom,10
+ROM-0027,Von Neumann Center Room 127,30,seminar,10
+ROM-0028,Shannon Hall Room 128,40,computer_lab,10
+ROM-0029,Euler Science Tower Room 129,60,lecture_hall,10
+ROM-0030,Curie Labs Room 130,120,classroom,10
+ROM-0031,Turing Hall Room 131,20,seminar,10
+ROM-0032,Von Neumann Center Room 132,30,computer_lab,10
+ROM-0033,Shannon Hall Room 133,40,lecture_hall,10
+ROM-0034,Euler Science Tower Room 134,60,classroom,10
+ROM-0035,Curie Labs Room 135,120,seminar,10
+ROM-0036,Turing Hall Room 136,20,computer_lab,10
+ROM-0037,Von Neumann Center Room 137,30,lecture_hall,10
+ROM-0038,Shannon Hall Room 138,40,classroom,10
+ROM-0039,Euler Science Tower Room 139,60,seminar,10
+ROM-0040,Curie Labs Room 140,120,computer_lab,10
+ROM-0041,Turing Hall Room 141,20,lecture_hall,10
+ROM-0042,Von Neumann Center Room 142,30,classroom,10
+ROM-0043,Shannon Hall Room 143,40,seminar,10
+ROM-0044,Euler Science Tower Room 144,60,computer_lab,10
+ROM-0045,Curie Labs Room 145,120,lecture_hall,10
+ROM-0046,Turing Hall Room 146,20,classroom,10
+ROM-0047,Von Neumann Center Room 147,30,seminar,10
+ROM-0048,Shannon Hall Room 148,40,computer_lab,10
+ROM-0049,Euler Science Tower Room 149,60,lecture_hall,10
+ROM-0050,Curie Labs Room 150,120,classroom,10
+ROM-0051,Turing Hall Room 151,20,seminar,10
+ROM-0052,Von Neumann Center Room 152,30,computer_lab,10
+ROM-0053,Shannon Hall Room 153,40,lecture_hall,10
+ROM-0054,Euler Science Tower Room 154,60,classroom,10
+ROM-0055,Curie Labs Room 155,120,seminar,10
+ROM-0056,Turing Hall Room 156,20,computer_lab,10
+ROM-0057,Von Neumann Center Room 157,30,lecture_hall,10
+ROM-0058,Shannon Hall Room 158,40,classroom,10
+ROM-0059,Euler Science Tower Room 159,60,seminar,10
+ROM-0060,Curie Labs Room 160,120,computer_lab,10
+ROM-0061,Turing Hall Room 161,20,lecture_hall,10
+ROM-0062,Von Neumann Center Room 162,30,classroom,10
+ROM-0063,Shannon Hall Room 163,40,seminar,10
+ROM-0064,Euler Science Tower Room 164,60,computer_lab,10
+ROM-0065,Curie Labs Room 165,120,lecture_hall,10
+ROM-0066,Turing Hall Room 166,20,classroom,10
+ROM-0067,Von Neumann Center Room 167,30,seminar,10
+ROM-0068,Shannon Hall Room 168,40,computer_lab,10
+ROM-0069,Euler Science Tower Room 169,60,lecture_hall,10
+ROM-0070,Curie Labs Room 170,120,classroom,10
+ROM-0071,Turing Hall Room 171,20,seminar,10
+ROM-0072,Von Neumann Center Room 172,30,computer_lab,10
+ROM-0073,Shannon Hall Room 173,40,lecture_hall,10
+ROM-0074,Euler Science Tower Room 174,60,classroom,10
+ROM-0075,Curie Labs Room 175,120,seminar,10
+ROM-0076,Turing Hall Room 176,20,computer_lab,10
+ROM-0077,Von Neumann Center Room 177,30,lecture_hall,10
+ROM-0078,Shannon Hall Room 178,40,classroom,10
+ROM-0079,Euler Science Tower Room 179,60,seminar,10
+ROM-0080,Curie Labs Room 180,120,computer_lab,10
+ROM-0081,Turing Hall Room 181,20,lecture_hall,10
+ROM-0082,Von Neumann Center Room 182,30,classroom,10
+ROM-0083,Shannon Hall Room 183,40,seminar,10
+ROM-0084,Euler Science Tower Room 184,60,computer_lab,10
+ROM-0085,Curie Labs Room 185,120,lecture_hall,10
+ROM-0086,Turing Hall Room 186,20,classroom,10
+ROM-0087,Von Neumann Center Room 187,30,seminar,10
+ROM-0088,Shannon Hall Room 188,40,computer_lab,10
+ROM-0089,Euler Science Tower Room 189,60,lecture_hall,10
+ROM-0090,Curie Labs Room 190,120,classroom,10
+ROM-0091,Turing Hall Room 191,20,seminar,10
+ROM-0092,Von Neumann Center Room 192,30,computer_lab,10
+ROM-0093,Shannon Hall Room 193,40,lecture_hall,10
+ROM-0094,Euler Science Tower Room 194,60,classroom,10
+ROM-0095,Curie Labs Room 195,120,seminar,10
+ROM-0096,Turing Hall Room 196,20,computer_lab,10
+ROM-0097,Von Neumann Center Room 197,30,lecture_hall,10
+ROM-0098,Shannon Hall Room 198,40,classroom,10
+ROM-0099,Euler Science Tower Room 199,60,seminar,10
+ROM-0100,Curie Labs Room 200,120,computer_lab,10
+ROM-0101,Turing Hall Room 201,20,lecture_hall,10
+ROM-0102,Von Neumann Center Room 202,30,classroom,10
+ROM-0103,Shannon Hall Room 203,40,seminar,10
+ROM-0104,Euler Science Tower Room 204,60,computer_lab,10
+ROM-0105,Curie Labs Room 205,120,lecture_hall,10
+ROM-0106,Turing Hall Room 206,20,classroom,10
+ROM-0107,Von Neumann Center Room 207,30,seminar,10
+ROM-0108,Shannon Hall Room 208,40,computer_lab,10
+ROM-0109,Euler Science Tower Room 209,60,lecture_hall,10
+ROM-0110,Curie Labs Room 210,120,classroom,10
+ROM-0111,Turing Hall Room 211,20,seminar,10
+ROM-0112,Von Neumann Center Room 212,30,computer_lab,10
+ROM-0113,Shannon Hall Room 213,40,lecture_hall,10
+ROM-0114,Euler Science Tower Room 214,60,classroom,10
+ROM-0115,Curie Labs Room 215,120,seminar,10
+ROM-0116,Turing Hall Room 216,20,computer_lab,10
+ROM-0117,Von Neumann Center Room 217,30,lecture_hall,10
+ROM-0118,Shannon Hall Room 218,40,classroom,10
+ROM-0119,Euler Science Tower Room 219,60,seminar,10
+ROM-0120,Curie Labs Room 220,120,computer_lab,10
+ROM-0121,Turing Hall Room 221,20,lecture_hall,10
+ROM-0122,Von Neumann Center Room 222,30,classroom,10
+ROM-0123,Shannon Hall Room 223,40,seminar,10
+ROM-0124,Euler Science Tower Room 224,60,computer_lab,10
+ROM-0125,Curie Labs Room 225,120,lecture_hall,10
+ROM-0126,Turing Hall Room 226,20,classroom,10
+ROM-0127,Von Neumann Center Room 227,30,seminar,10
+ROM-0128,Shannon Hall Room 228,40,computer_lab,10
+ROM-0129,Euler Science Tower Room 229,60,lecture_hall,10
+ROM-0130,Curie Labs Room 230,120,classroom,10
+ROM-0131,Turing Hall Room 231,20,seminar,10
+ROM-0132,Von Neumann Center Room 232,30,computer_lab,10
+ROM-0133,Shannon Hall Room 233,40,lecture_hall,10
+ROM-0134,Euler Science Tower Room 234,60,classroom,10
+ROM-0135,Curie Labs Room 235,120,seminar,10
+ROM-0136,Turing Hall Room 236,20,computer_lab,10
+ROM-0137,Von Neumann Center Room 237,30,lecture_hall,10
+ROM-0138,Shannon Hall Room 238,40,classroom,10
+ROM-0139,Euler Science Tower Room 239,60,seminar,10
+ROM-0140,Curie Labs Room 240,120,computer_lab,10
+ROM-0141,Turing Hall Room 241,20,lecture_hall,10
+ROM-0142,Von Neumann Center Room 242,30,classroom,10
+ROM-0143,Shannon Hall Room 243,40,seminar,10
+ROM-0144,Euler Science Tower Room 244,60,computer_lab,10
+ROM-0145,Curie Labs Room 245,120,lecture_hall,10
+ROM-0146,Turing Hall Room 246,20,classroom,10
+ROM-0147,Von Neumann Center Room 247,30,seminar,10
+ROM-0148,Shannon Hall Room 248,40,computer_lab,10
+ROM-0149,Euler Science Tower Room 249,60,lecture_hall,10
+ROM-0150,Curie Labs Room 250,120,classroom,10

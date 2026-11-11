@@ -1,0 +1,74 @@
+{
+  "kpis": {
+    "total_programs": 100,
+    "total_courses": 1000,
+    "total_faculty": 500,
+    "total_rooms": 150,
+    "total_student_plans": 20000,
+    "total_forecast_demand": 47830,
+    "total_allocated_seats": 19001,
+    "total_unmet_demand": 28829,
+    "fill_rate_pct": 39.7,
+    "unmet_rate_pct": 60.3,
+    "faculty_utilization_pct": 25.6,
+    "room_utilization_pct": 32.7
+  },
+  "department_summary": [
+    {
+      "department": "Business Analytics",
+      "forecast_demand": 8664,
+      "allocated_seats": 2425,
+      "unmet_demand": 6239,
+      "fill_rate_pct": 28.0
+    },
+    {
+      "department": "Computer Science",
+      "forecast_demand": 9561,
+      "allocated_seats": 3256,
+      "unmet_demand": 6305,
+      "fill_rate_pct": 34.1
+    },
+    {
+      "department": "Data Science",
+      "forecast_demand": 9172,
+      "allocated_seats": 3013,
+      "unmet_demand": 6159,
+      "fill_rate_pct": 32.8
+    },
+    {
+      "department": "Economics",
+      "forecast_demand": 1977,
+      "allocated_seats": 1751,
+      "unmet_demand": 226,
+      "fill_rate_pct": 88.6
+    },
+    {
+      "department": "Electrical Engineering",
+      "forecast_demand": 9108,
+      "allocated_seats": 2718,
+      "unmet_demand": 6390,
+      "fill_rate_pct": 29.8
+    },
+    {
+      "department": "Information Systems",
+      "forecast_demand": 1404,
+      "allocated_seats": 1302,
+      "unmet_demand": 102,
+      "fill_rate_pct": 92.7
+    },
+    {
+      "department": "Mathematics",
+      "forecast_demand": 4678,
+      "allocated_seats": 2124,
+      "unmet_demand": 2554,
+      "fill_rate_pct": 45.4
+    },
+    {
+      "department": "Mechanical Engineering",
+      "forecast_demand": 3266,
+      "allocated_seats": 2412,
+      "unmet_demand": 854,
+      "fill_rate_pct": 73.9
+    }
+  ]
+}

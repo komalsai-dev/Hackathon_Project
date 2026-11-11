@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Demand Forecasting & Section Allocation Dashboard</title>
+    <style>
+        :root {
+            --primary: #1e3a8a;
+            --primary-light: #3b82f6;
+            --success: #10b981;
+            --warning: #f59e0b;
+            --danger: #ef4444;
+            --bg: #f8fafc;
+            --card-bg: #ffffff;
+            --text-main: #0f172a;
+            --text-muted: #64748b;
+            --border: #e2e8f0;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg);
+            color: var(--text-main);
+            margin: 0;
+            padding: 24px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        header {
+            margin-bottom: 28px;
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 16px;
+        }
+
+        h1 {
+            margin: 0 0 6px 0;
+            font-size: 26px;
+            color: var(--primary);
+        }
+
+        .subtitle {
+            color: var(--text-muted);
+            font-size: 14px;
+            margin: 0;
+        }
+
+        /* KPI Cards Grid */
+        .kpi-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 16px;
+            margin-bottom: 28px;
+        }
+
+        .kpi-card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .kpi-title {
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            margin-bottom: 8px;
+        }
+
+        .kpi-value {
+            font-size: 28px;
+            font-weight: 700;
+            color: var(--primary);
+        }
+
+        .kpi-subtext {
+            font-size: 12px;
+            color: var(--text-muted);
+            margin-top: 6px;
+        }
+
+        /* Section Layout */
+        .dashboard-section {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 24px;
+            margin-bottom: 28px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        h2 {
+            font-size: 18px;
+            margin: 0 0 16px 0;
+            color: var(--primary);
+        }
+
+        /* Responsive Table */
+        .table-container {
+            overflow-x: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 14px;
+            text-align: left;
+        }
+
+        th {
+            background: #f1f5f9;
+            color: var(--text-muted);
+            font-weight: 600;
+            padding: 10px 14px;
+            border-bottom: 2px solid var(--border);
+        }
+
+        td {
+            padding: 12px 14px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        tr:hover {
+            background-color: #f8fafc;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+
+        .badge-success { background: #d1fae5; color: #065f46; }
+        .badge-warning { background: #fef3c7; color: #92400e; }
+        .badge-danger { background: #fee2e2; color: #991b1b; }
+
+        /* Chart Bar representation */
+        .bar-container {
+            width: 100%;
+            background-color: #e2e8f0;
+            border-radius: 4px;
+            height: 12px;
+            overflow: hidden;
+            display: flex;
+        }
+
+        .bar-allocated {
+            background-color: var(--primary-light);
+            height: 100%;
+        }
+
+        .bar-unmet {
+            background-color: var(--danger);
+            height: 100%;
+        }
+
+        /* Load Notice */
+        #loadNotice {
+            padding: 12px;
+            margin-bottom: 20px;
+            background: #eff6ff;
+            border: 1px solid #bfdbfe;
+            border-radius: 6px;
+            color: #1e40af;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Course Demand Forecasting & Section Allocation</h1>
+            <p class="subtitle">Synthetic Data Engineering Pipeline — Academic Planning & Operational Dashboard (Seed: 20261022)</p>
+        </header>
+
+        <div id="loadNotice">
+            <strong>Data Source:</strong> Loaded from <code>data/output/summary.json</code>. If viewing via local <code>file://</code> URL and blocked by browser CORS, open using a local static server: <code>python -m http.server 8000</code> and visit <code>http://localhost:8000/frontend/</code>.
+        </div>
+
+        <!-- KPI Cards -->
+        <div class="kpi-grid">
+            <div class="kpi-card">
+                <div class="kpi-title">Total Forecast Demand</div>
+                <div class="kpi-value" id="kpiForecast">-</div>
+                <div class="kpi-subtext">3-term weighted moving average</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-title">Allocated Seats</div>
+                <div class="kpi-value" id="kpiAllocated" style="color: var(--success);">-</div>
+                <div class="kpi-subtext" id="kpiFillRate">Fill Rate: -%</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-title">Unmet Demand</div>
+                <div class="kpi-value" id="kpiUnmet" style="color: var(--danger);">-</div>
+                <div class="kpi-subtext" id="kpiUnmetRate">Deficit: -%</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-title">Faculty Utilization</div>
+                <div class="kpi-value" id="kpiFacultyUtil" style="color: var(--primary-light);">-</div>
+                <div class="kpi-subtext">Assigned vs Max Capacity Hours</div>
+            </div>
+        </div>
+
+        <!-- Department Breakdown Chart & Table -->
+        <div class="dashboard-section">
+            <h2>Department Demand Allocation & Fill Rate Breakdown</h2>
+            <div class="table-container">
+                <table id="deptTable">
+                    <thead>
+                        <tr>
+                            <th>Department</th>
+                            <th>Forecast Demand</th>
+                            <th>Allocated Seats</th>
+                            <th>Unmet Demand</th>
+                            <th>Fill Rate (%)</th>
+                            <th style="min-width: 180px;">Allocation Visual (Allocated vs Unmet)</th>
+                        </tr>
+                    </thead>
+                    <tbody id="deptTableBody">
+                        <tr><td colspan="6" style="text-align: center; color: var(--text-muted);">Loading departmental records...</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Sample Decision Log -->
+        <div class="dashboard-section">
+            <h2>Explainable Decision Log (Sample Decisions)</h2>
+            <p style="font-size: 13px; color: var(--text-muted); margin-top: -8px;">
+                Every allocation, room assignment, and faculty rejection is persisted with standardized reason codes and audit snapshots.
+            </p>
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Decision ID</th>
+                            <th>Entity</th>
+                            <th>Outcome</th>
+                            <th>Reason Code</th>
+                            <th>Explanation Rationale</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><code>DCL-2026-000001</code></td>
+                            <td>Section <code>SEC-2026-000001</code></td>
+                            <td><span class="badge badge-success">Allocated</span></td>
+                            <td><code>STAFFED_QUALIFIED</code></td>
+                            <td>Assigned to certified faculty in room with best-fit capacity; zero time collision.</td>
+                        </tr>
+                        <tr>
+                            <td><code>DCL-2026-000002</code></td>
+                            <td>Course <code>CRS-000005</code></td>
+                            <td><span class="badge badge-warning">Shortage Flag</span></td>
+                            <td><code>NO_QUALIFIED_FACULTY</code></td>
+                            <td>Candidate faculty rejected due to max weekly workload limits and leave status.</td>
+                        </tr>
+                        <tr>
+                            <td><code>DCL-2026-000003</code></td>
+                            <td>Course <code>CRS-000012</code></td>
+                            <td><span class="badge badge-danger">Unmet Demand</span></td>
+                            <td><code>CAPACITY_LIMIT</code></td>
+                            <td>Physical facility room availability reached peak capacity in scheduled time slot.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        async function loadSummary() {
+            try {
+                // Fetch summary.json relative to frontend
+                const res = await fetch('../data/output/summary.json');
+                if (!res.ok) throw new Error("Network response was not ok");
+                const data = await res.json();
+                
+                const kpis = data.kpis;
+                document.getElementById('kpiForecast').innerText = kpis.total_forecast_demand.toLocaleString();
+                document.getElementById('kpiAllocated').innerText = kpis.total_allocated_seats.toLocaleString();
+                document.getElementById('kpiFillRate').innerText = `Fill Rate: ${kpis.fill_rate_pct}%`;
+                document.getElementById('kpiUnmet').innerText = kpis.total_unmet_demand.toLocaleString();
+                document.getElementById('kpiUnmetRate').innerText = `Unmet Rate: ${kpis.unmet_rate_pct}%`;
+                document.getElementById('kpiFacultyUtil').innerText = `${kpis.faculty_utilization_pct}%`;
+
+                const tbody = document.getElementById('deptTableBody');
+                tbody.innerHTML = '';
+
+                (data.department_summary || []).forEach(d => {
+                    const total = d.forecast_demand;
+                    const allocPct = total > 0 ? (d.allocated_seats / total * 100).toFixed(1) : 100;
+                    const unmetPct = (100 - allocPct).toFixed(1);
+
+                    const tr = document.createElement('tr');
+                    tr.innerHTML = `
+                        <td><strong>${d.department}</strong></td>
+                        <td>${d.forecast_demand.toLocaleString()}</td>
+                        <td>${d.allocated_seats.toLocaleString()}</td>
+                        <td>${d.unmet_demand.toLocaleString()}</td>
+                        <td><span class="badge ${d.fill_rate_pct >= 60 ? 'badge-success' : 'badge-warning'}">${d.fill_rate_pct}%</span></td>
+                        <td>
+                            <div class="bar-container" title="Allocated: ${allocPct}%, Unmet: ${unmetPct}%">
+                                <div class="bar-allocated" style="width: ${allocPct}%;"></div>
+                                <div class="bar-unmet" style="width: ${unmetPct}%;"></div>
+                            </div>
+                        </td>
+                    `;
+                    tbody.appendChild(tr);
+                });
+            } catch (err) {
+                console.warn("Could not fetch ../data/output/summary.json directly, fallback placeholder loaded.", err);
+            }
+        }
+        window.addEventListener('DOMContentLoaded', loadSummary);
+    </script>
+</body>
+</html>
+

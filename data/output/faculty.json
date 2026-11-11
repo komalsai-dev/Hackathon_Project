@@ -1,0 +1,4002 @@
+[
+  {
+    "faculty_id": "FAC-000001",
+    "name": "Dr. Kathleen Evans",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000002",
+    "name": "Dr. Patricia Anderson",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000003",
+    "name": "Dr. Ronald Davis",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000004",
+    "name": "Dr. Emily Robinson",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000005",
+    "name": "Dr. Ryan Jackson",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000006",
+    "name": "Dr. Richard Thomas",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000007",
+    "name": "Dr. Melissa Phillips",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000008",
+    "name": "Dr. Karen Martinez",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000009",
+    "name": "Dr. Jason Jones",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000010",
+    "name": "Dr. Amy Anderson",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000011",
+    "name": "Dr. Timothy Flores",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000012",
+    "name": "Dr. Elizabeth Clark",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000013",
+    "name": "Dr. Patricia Sanchez",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000014",
+    "name": "Dr. Donna Diaz",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000015",
+    "name": "Dr. Nancy Jones",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000016",
+    "name": "Dr. Amy Sanchez",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000017",
+    "name": "Dr. Andrew Hernandez",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000018",
+    "name": "Dr. Jason Williams",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000019",
+    "name": "Dr. Joshua Parker",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000020",
+    "name": "Dr. Andrew Nguyen",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  },
+  {
+    "faculty_id": "FAC-000021",
+    "name": "Dr. Betty Hernandez",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000022",
+    "name": "Dr. Carol Wilson",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000023",
+    "name": "Dr. Stephanie Parker",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000024",
+    "name": "Dr. Elizabeth Nelson",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000025",
+    "name": "Dr. John Perez",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000026",
+    "name": "Dr. Linda Phillips",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000027",
+    "name": "Dr. Barbara Williams",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000028",
+    "name": "Dr. David Gonzalez",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000029",
+    "name": "Dr. Deborah Mitchell",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000030",
+    "name": "Dr. Melissa Moore",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000031",
+    "name": "Dr. Melissa Sanchez",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000032",
+    "name": "Dr. Margaret Gomez",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000033",
+    "name": "Dr. Steven Adams",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000034",
+    "name": "Dr. Christopher Garcia",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000035",
+    "name": "Dr. Thomas Ramirez",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000036",
+    "name": "Dr. Brian Rodriguez",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000037",
+    "name": "Dr. Jessica Wright",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000038",
+    "name": "Dr. John Hill",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000039",
+    "name": "Dr. Edward Scott",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000040",
+    "name": "Dr. Amy Walker",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  },
+  {
+    "faculty_id": "FAC-000041",
+    "name": "Dr. Kevin Wilson",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000042",
+    "name": "Dr. Linda Rivera",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000043",
+    "name": "Dr. Kevin Green",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000044",
+    "name": "Dr. Kevin Smith",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000045",
+    "name": "Dr. Matthew Thomas",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000046",
+    "name": "Dr. Jacob Turner",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000047",
+    "name": "Dr. John Williams",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000048",
+    "name": "Dr. Deborah Jones",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000049",
+    "name": "Dr. Paul Jones",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000050",
+    "name": "Dr. Anthony Johnson",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000051",
+    "name": "Dr. Sharon Turner",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000052",
+    "name": "Dr. Donna Allen",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000053",
+    "name": "Dr. Margaret Baker",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000054",
+    "name": "Dr. Andrew Ramirez",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000055",
+    "name": "Dr. Kenneth Robinson",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000056",
+    "name": "Dr. Timothy Gomez",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000057",
+    "name": "Dr. Kenneth Martin",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000058",
+    "name": "Dr. Rebecca Lee",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000059",
+    "name": "Dr. Edward Anderson",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000060",
+    "name": "Dr. Melissa Hernandez",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  },
+  {
+    "faculty_id": "FAC-000061",
+    "name": "Dr. Cynthia Roberts",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000062",
+    "name": "Dr. Daniel Hall",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000063",
+    "name": "Dr. Joshua Hall",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000064",
+    "name": "Dr. Mark Allen",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000065",
+    "name": "Dr. Charles Sanchez",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000066",
+    "name": "Dr. Ronald King",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000067",
+    "name": "Dr. Mary Lopez",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000068",
+    "name": "Dr. Mark Taylor",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000069",
+    "name": "Dr. Karen Clark",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000070",
+    "name": "Dr. Lisa Nguyen",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000071",
+    "name": "Dr. Steven Lee",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000072",
+    "name": "Dr. Kathleen Carter",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000073",
+    "name": "Dr. Stephanie Adams",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000074",
+    "name": "Dr. Andrew Moore",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000075",
+    "name": "Dr. Ashley Diaz",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000076",
+    "name": "Dr. Mary Carter",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000077",
+    "name": "Dr. Joshua Gomez",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000078",
+    "name": "Dr. Margaret Baker",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000079",
+    "name": "Dr. Patricia Perez",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000080",
+    "name": "Dr. Rebecca Martin",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  },
+  {
+    "faculty_id": "FAC-000081",
+    "name": "Dr. William Lewis",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000082",
+    "name": "Dr. Linda Gomez",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000083",
+    "name": "Dr. Matthew Brown",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000084",
+    "name": "Dr. Joseph Allen",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000085",
+    "name": "Dr. Daniel Perez",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000086",
+    "name": "Dr. Edward Martin",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000087",
+    "name": "Dr. Lisa Lee",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000088",
+    "name": "Dr. Melissa Carter",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000089",
+    "name": "Dr. Ashley Johnson",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000090",
+    "name": "Dr. Amy Diaz",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000091",
+    "name": "Dr. Kimberly Roberts",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000092",
+    "name": "Dr. Ronald Hernandez",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000093",
+    "name": "Dr. Rebecca Jackson",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000094",
+    "name": "Dr. Elizabeth Hernandez",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000095",
+    "name": "Dr. Margaret Hernandez",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000096",
+    "name": "Dr. Michelle Brown",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000097",
+    "name": "Dr. Joshua Williams",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000098",
+    "name": "Dr. Richard Walker",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000099",
+    "name": "Dr. Edward Parker",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000100",
+    "name": "Dr. Ashley Gomez",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  },
+  {
+    "faculty_id": "FAC-000101",
+    "name": "Dr. Michael Thompson",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000102",
+    "name": "Dr. Ryan Allen",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000103",
+    "name": "Dr. Sharon Hernandez",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000104",
+    "name": "Dr. Sandra Johnson",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000105",
+    "name": "Dr. Steven Smith",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000106",
+    "name": "Dr. Stephanie Smith",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000107",
+    "name": "Dr. Gary Brown",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000108",
+    "name": "Dr. Brian Smith",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000109",
+    "name": "Dr. Timothy Lopez",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000110",
+    "name": "Dr. Kathleen Phillips",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000111",
+    "name": "Dr. Ronald Rivera",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000112",
+    "name": "Dr. Christopher Walker",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000113",
+    "name": "Dr. Jason Davis",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000114",
+    "name": "Dr. Joseph Nguyen",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000115",
+    "name": "Dr. Edward Ramirez",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000116",
+    "name": "Dr. Patricia Rivera",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000117",
+    "name": "Dr. Elizabeth Robinson",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000118",
+    "name": "Dr. Carol Johnson",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000119",
+    "name": "Dr. Donald Johnson",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000120",
+    "name": "Dr. Margaret Martin",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  },
+  {
+    "faculty_id": "FAC-000121",
+    "name": "Dr. Edward Davis",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000122",
+    "name": "Dr. Cynthia Flores",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000123",
+    "name": "Dr. George Evans",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000124",
+    "name": "Dr. Kevin Lee",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000125",
+    "name": "Dr. Ashley Jackson",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000126",
+    "name": "Dr. Kenneth Wilson",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000127",
+    "name": "Dr. Laura Harris",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000128",
+    "name": "Dr. Stephanie Anderson",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000129",
+    "name": "Dr. Kenneth Rodriguez",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000130",
+    "name": "Dr. Jeffrey Martin",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000131",
+    "name": "Dr. Steven Rodriguez",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000132",
+    "name": "Dr. Christopher Phillips",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000133",
+    "name": "Dr. William Walker",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000134",
+    "name": "Dr. Linda Campbell",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000135",
+    "name": "Dr. Elizabeth Rivera",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000136",
+    "name": "Dr. Daniel Martinez",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000137",
+    "name": "Dr. Jacob Hill",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000138",
+    "name": "Dr. Margaret Wilson",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000139",
+    "name": "Dr. Patricia Rivera",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000140",
+    "name": "Dr. Carol Williams",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  },
+  {
+    "faculty_id": "FAC-000141",
+    "name": "Dr. Emily Flores",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000142",
+    "name": "Dr. Joshua Moore",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000143",
+    "name": "Dr. Ryan Lee",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000144",
+    "name": "Dr. Christopher Perez",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000145",
+    "name": "Dr. Linda Gonzalez",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000146",
+    "name": "Dr. David Johnson",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000147",
+    "name": "Dr. Paul Wilson",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000148",
+    "name": "Dr. Mark White",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000149",
+    "name": "Dr. Kimberly White",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000150",
+    "name": "Dr. Rebecca Robinson",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000151",
+    "name": "Dr. Michael Adams",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000152",
+    "name": "Dr. Ronald Wilson",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000153",
+    "name": "Dr. Anthony Lee",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000154",
+    "name": "Dr. Daniel Davis",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000155",
+    "name": "Dr. Karen Ramirez",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000156",
+    "name": "Dr. Edward Anderson",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000157",
+    "name": "Dr. Charles Martin",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000158",
+    "name": "Dr. Deborah Lopez",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000159",
+    "name": "Dr. Andrew Carter",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000160",
+    "name": "Dr. Paul Lopez",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  },
+  {
+    "faculty_id": "FAC-000161",
+    "name": "Dr. George Hall",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000162",
+    "name": "Dr. Jeffrey Harris",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000163",
+    "name": "Dr. Donald Campbell",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000164",
+    "name": "Dr. Jacob King",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000165",
+    "name": "Dr. Donald Turner",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000166",
+    "name": "Dr. Betty Garcia",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000167",
+    "name": "Dr. Ashley Gonzalez",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000168",
+    "name": "Dr. John Adams",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000169",
+    "name": "Dr. Kenneth Torres",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000170",
+    "name": "Dr. Dorothy Lewis",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000171",
+    "name": "Dr. Michael Johnson",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000172",
+    "name": "Dr. Thomas Lee",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000173",
+    "name": "Dr. Brian Nelson",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000174",
+    "name": "Dr. Ashley Lee",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000175",
+    "name": "Dr. Kevin Brown",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000176",
+    "name": "Dr. Gary Wilson",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000177",
+    "name": "Dr. Timothy Evans",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000178",
+    "name": "Dr. Amy Nelson",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000179",
+    "name": "Dr. Brian Clark",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000180",
+    "name": "Dr. John Hall",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  },
+  {
+    "faculty_id": "FAC-000181",
+    "name": "Dr. Jacob Nguyen",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000182",
+    "name": "Dr. Charles Parker",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000183",
+    "name": "Dr. Jennifer Anderson",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000184",
+    "name": "Dr. Mary Lopez",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000185",
+    "name": "Dr. Betty Robinson",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000186",
+    "name": "Dr. Michael Young",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000187",
+    "name": "Dr. Richard Brown",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000188",
+    "name": "Dr. Edward Thomas",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000189",
+    "name": "Dr. Jessica King",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000190",
+    "name": "Dr. Michael King",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000191",
+    "name": "Dr. Jason Thomas",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000192",
+    "name": "Dr. Sarah Nguyen",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000193",
+    "name": "Dr. Anthony Moore",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000194",
+    "name": "Dr. Barbara Sanchez",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000195",
+    "name": "Dr. Jessica Adams",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000196",
+    "name": "Dr. Carol Gonzalez",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000197",
+    "name": "Dr. Gary Brown",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000198",
+    "name": "Dr. Ryan Johnson",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000199",
+    "name": "Dr. Nancy Brown",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000200",
+    "name": "Dr. Timothy Moore",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  },
+  {
+    "faculty_id": "FAC-000201",
+    "name": "Dr. Joseph Wright",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000202",
+    "name": "Dr. Edward Phillips",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000203",
+    "name": "Dr. Patricia Walker",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000204",
+    "name": "Dr. Amanda Walker",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000205",
+    "name": "Dr. Ronald Lewis",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000206",
+    "name": "Dr. Michelle Hernandez",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000207",
+    "name": "Dr. Paul Nelson",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000208",
+    "name": "Dr. Carol Torres",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000209",
+    "name": "Dr. Cynthia Hill",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000210",
+    "name": "Dr. Elizabeth Roberts",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000211",
+    "name": "Dr. Edward Anderson",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000212",
+    "name": "Dr. Mary Allen",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000213",
+    "name": "Dr. Barbara Perez",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000214",
+    "name": "Dr. Nancy Lopez",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000215",
+    "name": "Dr. Daniel Jackson",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000216",
+    "name": "Dr. Linda Rodriguez",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000217",
+    "name": "Dr. Jessica Campbell",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000218",
+    "name": "Dr. Nancy Miller",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000219",
+    "name": "Dr. David Allen",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000220",
+    "name": "Dr. Kevin Nelson",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  },
+  {
+    "faculty_id": "FAC-000221",
+    "name": "Dr. Jason Smith",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000222",
+    "name": "Dr. Karen Green",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000223",
+    "name": "Dr. Amanda Jackson",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000224",
+    "name": "Dr. Laura Nguyen",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000225",
+    "name": "Dr. Christopher Scott",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000226",
+    "name": "Dr. Robert Hernandez",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000227",
+    "name": "Dr. Edward Taylor",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000228",
+    "name": "Dr. Jason Turner",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000229",
+    "name": "Dr. Ronald King",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000230",
+    "name": "Dr. Nancy Carter",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000231",
+    "name": "Dr. Jeffrey Mitchell",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000232",
+    "name": "Dr. Sandra Wright",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000233",
+    "name": "Dr. Mark Roberts",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000234",
+    "name": "Dr. Ryan Jones",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000235",
+    "name": "Dr. Mark Williams",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000236",
+    "name": "Dr. Melissa King",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000237",
+    "name": "Dr. Amy Gomez",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000238",
+    "name": "Dr. Laura Taylor",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000239",
+    "name": "Dr. Mary Robinson",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000240",
+    "name": "Dr. Matthew Carter",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  },
+  {
+    "faculty_id": "FAC-000241",
+    "name": "Dr. James Williams",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000242",
+    "name": "Dr. Deborah Carter",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000243",
+    "name": "Dr. Elizabeth Green",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000244",
+    "name": "Dr. Laura Ramirez",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000245",
+    "name": "Dr. Amy Anderson",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000246",
+    "name": "Dr. Michelle Smith",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000247",
+    "name": "Dr. Jennifer Campbell",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000248",
+    "name": "Dr. Timothy Wright",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000249",
+    "name": "Dr. James Lopez",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000250",
+    "name": "Dr. Steven Thomas",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000251",
+    "name": "Dr. Ashley Perez",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000252",
+    "name": "Dr. Linda Lee",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000253",
+    "name": "Dr. Amy Hernandez",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000254",
+    "name": "Dr. Jennifer Walker",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000255",
+    "name": "Dr. Mary Ramirez",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000256",
+    "name": "Dr. Rebecca Torres",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000257",
+    "name": "Dr. Barbara Hernandez",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000258",
+    "name": "Dr. Daniel Moore",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000259",
+    "name": "Dr. Jessica Torres",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000260",
+    "name": "Dr. Kimberly Harris",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  },
+  {
+    "faculty_id": "FAC-000261",
+    "name": "Dr. Ronald Phillips",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000262",
+    "name": "Dr. Anthony Davis",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000263",
+    "name": "Dr. Thomas Williams",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000264",
+    "name": "Dr. Matthew Jackson",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000265",
+    "name": "Dr. Jennifer Lopez",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000266",
+    "name": "Dr. Linda Turner",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000267",
+    "name": "Dr. Anthony White",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000268",
+    "name": "Dr. Richard Robinson",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000269",
+    "name": "Dr. Ryan Taylor",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000270",
+    "name": "Dr. Nancy Thompson",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000271",
+    "name": "Dr. Michael Gonzalez",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000272",
+    "name": "Dr. Sarah Jones",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000273",
+    "name": "Dr. Michelle White",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000274",
+    "name": "Dr. Robert Clark",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000275",
+    "name": "Dr. Patricia Wilson",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000276",
+    "name": "Dr. Sarah Taylor",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000277",
+    "name": "Dr. Cynthia Lewis",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000278",
+    "name": "Dr. Patricia Sanchez",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000279",
+    "name": "Dr. Amy Garcia",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000280",
+    "name": "Dr. Margaret Evans",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  },
+  {
+    "faculty_id": "FAC-000281",
+    "name": "Dr. Betty Johnson",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000282",
+    "name": "Dr. William Garcia",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000283",
+    "name": "Dr. Jennifer Mitchell",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000284",
+    "name": "Dr. Laura Parker",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000285",
+    "name": "Dr. Sarah Robinson",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000286",
+    "name": "Dr. Edward Phillips",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000287",
+    "name": "Dr. Carol Sanchez",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000288",
+    "name": "Dr. Linda Scott",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000289",
+    "name": "Dr. Anthony Rodriguez",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000290",
+    "name": "Dr. Kimberly Robinson",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000291",
+    "name": "Dr. Ronald Walker",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000292",
+    "name": "Dr. Mary Rodriguez",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000293",
+    "name": "Dr. Donald Hill",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000294",
+    "name": "Dr. Laura Ramirez",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000295",
+    "name": "Dr. Stephanie Jones",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000296",
+    "name": "Dr. Jacob Nguyen",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000297",
+    "name": "Dr. John Carter",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000298",
+    "name": "Dr. Karen Smith",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000299",
+    "name": "Dr. William Scott",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000300",
+    "name": "Dr. Deborah Scott",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  },
+  {
+    "faculty_id": "FAC-000301",
+    "name": "Dr. Donna Lopez",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000302",
+    "name": "Dr. Kimberly King",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000303",
+    "name": "Dr. Karen Anderson",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000304",
+    "name": "Dr. David Adams",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000305",
+    "name": "Dr. Brian Scott",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000306",
+    "name": "Dr. Patricia Thompson",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000307",
+    "name": "Dr. Anthony Harris",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000308",
+    "name": "Dr. Emily Lee",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000309",
+    "name": "Dr. Steven Evans",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000310",
+    "name": "Dr. Sharon Sanchez",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000311",
+    "name": "Dr. Mark Nguyen",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000312",
+    "name": "Dr. Jacob Sanchez",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000313",
+    "name": "Dr. Kenneth Mitchell",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000314",
+    "name": "Dr. Ashley Nguyen",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000315",
+    "name": "Dr. James White",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000316",
+    "name": "Dr. Patricia Allen",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000317",
+    "name": "Dr. Karen Johnson",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000318",
+    "name": "Dr. Karen Wilson",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000319",
+    "name": "Dr. Anthony Gomez",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000320",
+    "name": "Dr. Ronald Young",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  },
+  {
+    "faculty_id": "FAC-000321",
+    "name": "Dr. Michelle Miller",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000322",
+    "name": "Dr. Melissa Ramirez",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000323",
+    "name": "Dr. Jeffrey Diaz",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000324",
+    "name": "Dr. Emily Jones",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000325",
+    "name": "Dr. Donald Martinez",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000326",
+    "name": "Dr. Margaret Scott",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000327",
+    "name": "Dr. Ronald Scott",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000328",
+    "name": "Dr. Dorothy Hall",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000329",
+    "name": "Dr. Carol Hall",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000330",
+    "name": "Dr. Elizabeth Martin",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000331",
+    "name": "Dr. Michael Martinez",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000332",
+    "name": "Dr. Anthony Taylor",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000333",
+    "name": "Dr. Karen Roberts",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000334",
+    "name": "Dr. Sandra Harris",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000335",
+    "name": "Dr. Daniel Torres",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000336",
+    "name": "Dr. Amy Davis",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000337",
+    "name": "Dr. Joseph Hall",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000338",
+    "name": "Dr. Kathleen Anderson",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000339",
+    "name": "Dr. Christopher Torres",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000340",
+    "name": "Dr. Barbara Perez",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  },
+  {
+    "faculty_id": "FAC-000341",
+    "name": "Dr. Cynthia Mitchell",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000342",
+    "name": "Dr. Mark Lewis",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000343",
+    "name": "Dr. Stephanie Nelson",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000344",
+    "name": "Dr. Robert Nguyen",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000345",
+    "name": "Dr. Jacob Green",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000346",
+    "name": "Dr. Robert Mitchell",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000347",
+    "name": "Dr. Kevin Campbell",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000348",
+    "name": "Dr. James Evans",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000349",
+    "name": "Dr. Mary Roberts",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000350",
+    "name": "Dr. William Perez",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000351",
+    "name": "Dr. Laura Clark",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000352",
+    "name": "Dr. Timothy Williams",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000353",
+    "name": "Dr. Jason Harris",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000354",
+    "name": "Dr. Kenneth Campbell",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000355",
+    "name": "Dr. Patricia Lewis",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000356",
+    "name": "Dr. Charles Martin",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000357",
+    "name": "Dr. Steven Robinson",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000358",
+    "name": "Dr. Richard Allen",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000359",
+    "name": "Dr. Barbara Thomas",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000360",
+    "name": "Dr. Emily Rodriguez",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  },
+  {
+    "faculty_id": "FAC-000361",
+    "name": "Dr. Amy Turner",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000362",
+    "name": "Dr. Edward Roberts",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000363",
+    "name": "Dr. John Rodriguez",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000364",
+    "name": "Dr. Susan Robinson",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000365",
+    "name": "Dr. Elizabeth Lewis",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000366",
+    "name": "Dr. Donald Young",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000367",
+    "name": "Dr. Edward Miller",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000368",
+    "name": "Dr. Matthew Rodriguez",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000369",
+    "name": "Dr. Brian Hernandez",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000370",
+    "name": "Dr. Betty Taylor",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000371",
+    "name": "Dr. Mark Moore",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000372",
+    "name": "Dr. Edward Nguyen",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000373",
+    "name": "Dr. Patricia Rivera",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000374",
+    "name": "Dr. Emily Robinson",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000375",
+    "name": "Dr. Robert Moore",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000376",
+    "name": "Dr. Donald Jones",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000377",
+    "name": "Dr. Timothy Rodriguez",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000378",
+    "name": "Dr. Rebecca Hall",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000379",
+    "name": "Dr. Lisa King",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000380",
+    "name": "Dr. Jennifer Davis",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  },
+  {
+    "faculty_id": "FAC-000381",
+    "name": "Dr. John Lewis",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000382",
+    "name": "Dr. Sharon Baker",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000383",
+    "name": "Dr. Laura Smith",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000384",
+    "name": "Dr. Michael Green",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000385",
+    "name": "Dr. Betty Parker",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000386",
+    "name": "Dr. Emily Phillips",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000387",
+    "name": "Dr. Timothy Sanchez",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000388",
+    "name": "Dr. Ashley Scott",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000389",
+    "name": "Dr. Jason Clark",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000390",
+    "name": "Dr. Donald Lewis",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000391",
+    "name": "Dr. Robert Garcia",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000392",
+    "name": "Dr. Mark Campbell",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000393",
+    "name": "Dr. Margaret Scott",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000394",
+    "name": "Dr. Gary Lee",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000395",
+    "name": "Dr. Jennifer Hall",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000396",
+    "name": "Dr. Elizabeth Sanchez",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000397",
+    "name": "Dr. Kathleen Baker",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000398",
+    "name": "Dr. Lisa Campbell",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000399",
+    "name": "Dr. Amanda Nguyen",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000400",
+    "name": "Dr. James Gomez",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  },
+  {
+    "faculty_id": "FAC-000401",
+    "name": "Dr. Gary Miller",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000402",
+    "name": "Dr. Joshua Mitchell",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000403",
+    "name": "Dr. Sharon Parker",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000404",
+    "name": "Dr. Jennifer Hill",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000405",
+    "name": "Dr. Sarah Martinez",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000406",
+    "name": "Dr. Thomas Martin",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000407",
+    "name": "Dr. Joshua Martin",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000408",
+    "name": "Dr. Brian Flores",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000409",
+    "name": "Dr. Amy Davis",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000410",
+    "name": "Dr. Donna Taylor",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000411",
+    "name": "Dr. Melissa Smith",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000412",
+    "name": "Dr. Brian Davis",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000413",
+    "name": "Dr. George Young",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000414",
+    "name": "Dr. Steven Clark",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000415",
+    "name": "Dr. Kathleen Nelson",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000416",
+    "name": "Dr. Matthew Phillips",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000417",
+    "name": "Dr. Mary Perez",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000418",
+    "name": "Dr. Dorothy Torres",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000419",
+    "name": "Dr. George Hall",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000420",
+    "name": "Dr. Amy Adams",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  },
+  {
+    "faculty_id": "FAC-000421",
+    "name": "Dr. Mark Campbell",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000422",
+    "name": "Dr. Barbara Young",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000423",
+    "name": "Dr. Jason Hernandez",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000424",
+    "name": "Dr. Nancy Hill",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000425",
+    "name": "Dr. Ryan Williams",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000426",
+    "name": "Dr. Ryan Lewis",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000427",
+    "name": "Dr. Sandra Davis",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000428",
+    "name": "Dr. Barbara Brown",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000429",
+    "name": "Dr. James Garcia",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000430",
+    "name": "Dr. Sarah Smith",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000431",
+    "name": "Dr. Jason Ramirez",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000432",
+    "name": "Dr. Donna Green",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000433",
+    "name": "Dr. Sarah Taylor",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000434",
+    "name": "Dr. Betty Jones",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000435",
+    "name": "Dr. Linda Campbell",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000436",
+    "name": "Dr. Patricia Williams",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000437",
+    "name": "Dr. Matthew King",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000438",
+    "name": "Dr. Andrew Thompson",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000439",
+    "name": "Dr. Patricia Baker",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000440",
+    "name": "Dr. Jessica Martinez",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  },
+  {
+    "faculty_id": "FAC-000441",
+    "name": "Dr. Lisa Clark",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000442",
+    "name": "Dr. Kathleen Garcia",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000443",
+    "name": "Dr. Betty Phillips",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000444",
+    "name": "Dr. Amanda Miller",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000445",
+    "name": "Dr. Andrew Scott",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000446",
+    "name": "Dr. Joseph Ramirez",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000447",
+    "name": "Dr. Carol Williams",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000448",
+    "name": "Dr. Gary Carter",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000449",
+    "name": "Dr. Joshua Campbell",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000450",
+    "name": "Dr. Dorothy Baker",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000451",
+    "name": "Dr. Donna Harris",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000452",
+    "name": "Dr. Steven Lopez",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000453",
+    "name": "Dr. Thomas Robinson",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000454",
+    "name": "Dr. Dorothy Jackson",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000455",
+    "name": "Dr. Stephanie Jones",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000456",
+    "name": "Dr. Rebecca White",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000457",
+    "name": "Dr. Nancy Jones",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000458",
+    "name": "Dr. Lisa Williams",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000459",
+    "name": "Dr. Margaret Gomez",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000460",
+    "name": "Dr. Donald Carter",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  },
+  {
+    "faculty_id": "FAC-000461",
+    "name": "Dr. Sarah Campbell",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000462",
+    "name": "Dr. Stephanie Lewis",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000463",
+    "name": "Dr. Cynthia Wright",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000464",
+    "name": "Dr. Amy Hill",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000465",
+    "name": "Dr. Elizabeth Walker",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000466",
+    "name": "Dr. Lisa Turner",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000467",
+    "name": "Dr. Jacob Lopez",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000468",
+    "name": "Dr. Jeffrey Green",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000469",
+    "name": "Dr. Jennifer Sanchez",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000470",
+    "name": "Dr. Melissa Walker",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000471",
+    "name": "Dr. Paul Torres",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000472",
+    "name": "Dr. Joshua Rodriguez",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000473",
+    "name": "Dr. Nancy Wright",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000474",
+    "name": "Dr. Thomas Torres",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000475",
+    "name": "Dr. Jeffrey Campbell",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000476",
+    "name": "Dr. Margaret Evans",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000477",
+    "name": "Dr. Sharon Hill",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000478",
+    "name": "Dr. Kevin Brown",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000479",
+    "name": "Dr. Susan Garcia",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000480",
+    "name": "Dr. Betty Thomas",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  },
+  {
+    "faculty_id": "FAC-000481",
+    "name": "Dr. Rebecca Williams",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000482",
+    "name": "Dr. John Nelson",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000483",
+    "name": "Dr. Stephanie Garcia",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000484",
+    "name": "Dr. Karen Carter",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000485",
+    "name": "Dr. Sarah Nguyen",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000486",
+    "name": "Dr. Daniel Johnson",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000487",
+    "name": "Dr. Charles Johnson",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000488",
+    "name": "Dr. Jeffrey Young",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000489",
+    "name": "Dr. Daniel Rivera",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000490",
+    "name": "Dr. Laura Miller",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000491",
+    "name": "Dr. Betty Hernandez",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000492",
+    "name": "Dr. Linda Wilson",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000493",
+    "name": "Dr. Donald Mitchell",
+    "department": "Business Analytics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000494",
+    "name": "Dr. Christopher Sanchez",
+    "department": "Information Systems",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000495",
+    "name": "Dr. Brian Nelson",
+    "department": "Economics",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000496",
+    "name": "Dr. Jason Evans",
+    "department": "Mechanical Engineering",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000497",
+    "name": "Dr. Margaret Smith",
+    "department": "Computer Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000498",
+    "name": "Dr. Steven Gonzalez",
+    "department": "Data Science",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000499",
+    "name": "Dr. Timothy Clark",
+    "department": "Electrical Engineering",
+    "employment_type": "full_time",
+    "max_weekly_hours": 16.0,
+    "status": "active"
+  },
+  {
+    "faculty_id": "FAC-000500",
+    "name": "Dr. Gary Wright",
+    "department": "Mathematics",
+    "employment_type": "adjunct",
+    "max_weekly_hours": 8.0,
+    "status": "on_leave"
+  }
+]
